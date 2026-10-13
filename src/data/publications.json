@@ -1,0 +1,5358 @@
+[
+ {
+  "id": "2610.10706",
+  "title": "Symmetric Mode Ansatz: Theory of Magnon Collective Modes in Chern Insulators",
+  "authors": [
+   "Miguel Gonçalves",
+   "Jonah Herzog-Arbeitman",
+   "Juan Felipe Mendez-Valderrama",
+   "Andreas Feuerpfeil",
+   "B. Andrei Bernevig",
+   "Nicolas Regnault"
+  ],
+  "date": "2026-10-07",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2610.08356",
+  "title": "Incoherent Spectral Weight Emerging from a Van Hove Singularity in a Kagome Metal",
+  "authors": [
+   "C. -y. Lim",
+   "J. Deng",
+   "A. Korshunov",
+   "A. Kar",
+   "D. Subires",
+   "H. Li",
+   "Y. Jiang",
+   "H. Hu",
+   "E. Modin",
+   "P. Törmä",
+   "A. Kumar-Sharma",
+   "C. Shekhar",
+   "A. Louat",
+   "T. K. Kim",
+   "C. Felser",
+   "B. Andrei Bernevig",
+   "S. Blanco-Canosa"
+  ],
+  "date": "2026-10-06",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2608.23675",
+  "title": "Large scale theoretical investigation of the phase diagram of twisted bilayer MoTe$_2$ at fractional fillings: agreements and contradictions with current experiments",
+  "authors": [
+   "Heqiu Li",
+   "Jiabin Yu",
+   "Xiaodong Xu",
+   "B. Andrei Bernevig",
+   "N. Regnault"
+  ],
+  "date": "2026-08-24",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2608.20694",
+  "title": "Distinguishing Mott and strain-induced anisotropic semimetals in magic-angle twisted bilayer graphene using Landau level spectroscopy",
+  "authors": [
+   "Keshav Singh",
+   "Juan Felipe Mendez-Valderrama",
+   "Erez Berg",
+   "B. Andrei Bernevig",
+   "Oskar Vafek"
+  ],
+  "date": "2026-08-21",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2608.12553",
+  "title": "Resonant Far-Infrared Spectroscopy of Flat-Band Fermions in Magic Angle Graphene",
+  "authors": [
+   "Ayelet J. Uzan-Narovlansky",
+   "Ipsita Das",
+   "Juan F. Mendez Valderrama",
+   "Yue Tang",
+   "Jonah Herzog-Arbeitman",
+   "Haoyu Hu",
+   "Pengjie Wang",
+   "Zhaoyi Joy Zheng",
+   "Haosen Guan",
+   "Kenji Watanabe",
+   "Takashi Taniguchi",
+   "B. Andrei Bernevig",
+   "Sanfeng Wu"
+  ],
+  "date": "2026-08-12",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2608.12452",
+  "title": "The \"Moiré Capacitor Effect\" and Stabilization of Fractional Chern Insulators in Rhombohedral Graphene Superlattices",
+  "authors": [
+   "Nicolas Regnault",
+   "Heqiu Li",
+   "Yves H. Kwan",
+   "B. Andrei Bernevig",
+   "Jonah Herzog-Arbeitman"
+  ],
+  "date": "2026-08-12",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2607.27492",
+  "title": "Extended s-wave superconductivity in M-point twisted bilayer SnSe2",
+  "authors": [
+   "Lennart Klebl",
+   "Ammon Fischer",
+   "Salahudin V. Smailagić",
+   "Ming-Rui Li",
+   "Henning Schlömer",
+   "Haoyu Hu",
+   "B. Andrei Bernevig",
+   "Dante M. Kennes",
+   "Ronny Thomale"
+  ],
+  "date": "2026-07-29",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2607.27148",
+  "title": "Momentum Structure of Superconductivity and Sublattice Effects from Quasiparticle Interference in CsV$_3$Sb$_5$",
+  "authors": [
+   "Aaron G. Greenberg",
+   "Xinze Yang",
+   "Junze Deng",
+   "Pranab Kumar Nag",
+   "Kirsty Scott",
+   "Yi Jiang",
+   "Haoyu Hu",
+   "Chandra Shekhar",
+   "Dong Chen",
+   "Claudia Felser",
+   "Santiago Blanco-Canosa",
+   "Päivi Törmä",
+   "B. Andrei Bernevig",
+   "Eduardo H. da Silva Neto"
+  ],
+  "date": "2026-07-29",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2607.24944",
+  "title": "Organizing Principles for Moiré Quantum Matter",
+  "authors": [
+   "Qiaoling Xu",
+   "Yifan Gao",
+   "Tao Zhang",
+   "Ammon Fischer",
+   "Yi Jiang",
+   "Hanqi Pi",
+   "Zike Fan",
+   "Dongdong An",
+   "Kun Zhou",
+   "Yingjian Li",
+   "Yongqing Li",
+   "Yuhao Fu",
+   "Lei Wang",
+   "Lijun Zhang",
+   "B. Andrei Bernevig",
+   "Dante M. Kennes",
+   "Enge Wang",
+   "Angel Rubio",
+   "Lede Xian"
+  ],
+  "date": "2026-07-27",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2607.19458",
+  "title": "Quantum geometry and critical temperature enhancement in MgB$_2$ superconductivity",
+  "authors": [
+   "Yi Jiang",
+   "Haoyu Hu",
+   "Dumitru Călugăru",
+   "Kaja H. Hiorth",
+   "Junze Deng",
+   "Hanqi Pi",
+   "Handong Chen",
+   "Maia G. Vergniory",
+   "Ion Errea",
+   "Emilia Morosan",
+   "Leslie M. Schoop",
+   "Claudia Felser",
+   "Miguel A. L. Marques",
+   "Päivi Törmä",
+   "Daniel Agterberg",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2026-07-21",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2607.05754",
+  "title": "Magnon-Mediated Superconductivity in a 2D Itinerant Ferromagnet with Weak Easy-plane Magnetic Anisotropy",
+  "authors": [
+   "Vladimir Calvera",
+   "Heqiu Li",
+   "Yijie Wang",
+   "B. Andrei Bernevig",
+   "Andrey V. Chubukov"
+  ],
+  "date": "2026-07-07",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2606.12508",
+  "title": "Mixed-dimensional quantum Monte Carlo studies of M-point moiré materials",
+  "authors": [
+   "Dumitru Călugăru",
+   "Konstantinos Vasiliou",
+   "Haoyu Hu",
+   "B. Andrei Bernevig",
+   "Werner Krauth",
+   "S. A. Parameswaran"
+  ],
+  "date": "2026-06-10",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2605.13984",
+  "title": "Engineering topological flat bands in $Γ$-valley moiré systems with Ising-type SOC: twisted 1T-ZrS$_2$ and 1T-SnSe$_2$",
+  "authors": [
+   "Hanqi Pi",
+   "Yves H. Kwan",
+   "Haoyu Hu",
+   "Yi Jiang",
+   "Dumitru Călugăru",
+   "Jie Shan",
+   "Kin Fai Mak",
+   "Miguel M. Ugeda",
+   "Dmitri K. Efetov",
+   "Maia G. Vergniory",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2026-05-13",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2604.14303",
+  "title": "Twisted Bilayer Graphene Lifetimes At Integer Fillings: An Analytic Result",
+  "authors": [
+   "Haoyu Hu",
+   "Yuelin Shao",
+   "Lorenzo Crippa",
+   "Dumitru Călugăru",
+   "Giorgio Sangiovanni",
+   "Tim Wehling",
+   "Leonid I. Glazman",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2026-04-15",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2604.02426",
+  "title": "Transport and Temperature: Exact spectrum and Drude weight for the one-dimensional infinite-$U$ Hubbard model",
+  "authors": [
+   "Shuo Liu",
+   "Yuhao Ma",
+   "Hitesh J. Changlani",
+   "Philip W. Phillips",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2026-04-02",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2603.05613",
+  "title": "New Crystal Structures Hide in Plain Sight: A Stress Test for AI-Guided Materials Discovery",
+  "authors": [
+   "Xin Zhang",
+   "Scott B. Lee",
+   "Sudipta Chatterjee",
+   "Hanqi Pi",
+   "Yi Jiang",
+   "Fatmagül Katmer",
+   "Emily G. Ward",
+   "Daniel E. Widdowson",
+   "Charles C. Tam",
+   "Sarah Schwarz",
+   "Connor J. Pollak",
+   "Jaime M. Moya",
+   "Grigorii Skorupskii",
+   "Vitaliy A. Kurlin",
+   "Stephen D. Wilson",
+   "B. Andrei Bernevig",
+   "Leslie M. Schoop"
+  ],
+  "date": "2026-03-05",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2601.17272",
+  "title": "Topological Protection by Local Support Symmetry and Destructive Interference",
+  "authors": [
+   "Jun-Won Rhim",
+   "Jaeuk Seo",
+   "Seongjun Mo",
+   "Hoonkyung Lee",
+   "Sejoong Kim",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2026-01-24",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2512.16945",
+  "title": "Machine Learning-Guided Discovery of Kagome Superconductors YRu3B2 and LuRu3B2",
+  "authors": [
+   "Rose Albu Mustaf",
+   "Sajilesh K. P.",
+   "Sanu Mishra",
+   "Junze Deng",
+   "Yi Jiang",
+   "Kaja H. Hiorth",
+   "Eeli O. Lamponen",
+   "Martin Gutierrez-Amigo",
+   "Päivi Törmä",
+   "Miguel A. L. Marques",
+   "B. Andrei Bernevig",
+   "Emilia Morosan"
+  ],
+  "date": "2025-12-16",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2510.15309",
+  "title": "Does Moire Matter? Critical Moire Dependence with Quantum Fluctuations in Graphene Based Integer and Fractional Chern Insulators",
+  "authors": [
+   "Zihao Huo",
+   "Wenxuan Wang",
+   "Jian Xie",
+   "Yves H. Kwan",
+   "Jonah Herzog-Arbeitman",
+   "Zaizhe Zhang",
+   "Qiu Yang",
+   "Min Wu",
+   "Kenji Watanabe",
+   "Takashi Taniguchi",
+   "Kaihui Liu",
+   "Nicolas Regnault",
+   "B. Andrei Bernevig",
+   "Xiaobo Lu"
+  ],
+  "date": "2025-10-17",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2510.12127",
+  "title": "Chern-Selective multi-valley Flat Bands in Twisted Mono-Bilayer and Mono-Trilayer MoTe$_2$",
+  "authors": [
+   "Ziyue Qi",
+   "Hanqi Pi",
+   "Yan Zhang",
+   "Jiaxuan Liu",
+   "Nicolas Regnault",
+   "Hongming Weng",
+   "B. Andrei Bernevig",
+   "Jiabin Yu",
+   "Quansheng Wu"
+  ],
+  "date": "2025-10-14",
+  "journal": "Phys. Rev. B 113, 125116 (2026)",
+  "doi": "10.1103/rc4z-qw9q"
+ },
+ {
+  "id": "2509.19436",
+  "title": "Interplay between many-body correlations, strain and lattice relaxation in twisted bilayer graphene",
+  "authors": [
+   "Lorenzo Crippa",
+   "Gautam Rai",
+   "Dumitru Călugăru",
+   "Haoyu Hu",
+   "Jonah Herzog-Arbeitman",
+   "B. Andrei Bernevig",
+   "Roser Valentí",
+   "Giorgio Sangiovanni",
+   "Tim Wehling"
+  ],
+  "date": "2025-09-23",
+  "journal": "",
+  "doi": "10.1103/x2mz-hm8y"
+ },
+ {
+  "id": "2509.18256",
+  "title": "Obtaining the Spectral Function of Moiré Graphene Heavy-Fermions Using Iterative Perturbation Theory",
+  "authors": [
+   "Dumitru Călugăru",
+   "Haoyu Hu",
+   "Lorenzo Crippa",
+   "Gautam Rai",
+   "Nicolas Regnault",
+   "Tim O. Wehling",
+   "Roser Valentí",
+   "Giorgio Sangiovanni",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2025-09-22",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2509.16312",
+  "title": "Berry Trashcan With Short Range Attraction:Exact $p_x+i p_y$ Superconductivity in Rhombohedral Graphene",
+  "authors": [
+   "Ming-Rui Li",
+   "Yves H. Kwan",
+   "Hong Yao",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2025-09-19",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2509.03575",
+  "title": "Ferromagnetism vs. Antiferromagnetism in Narrow-Band Systems: Competition Between Quantum Geometry and Band Dispersion",
+  "authors": [
+   "Haoyu Hu",
+   "Oskar Vafek",
+   "Kristjan Haule",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2025-09-03",
+  "journal": "Phys. Rev. Lett. 136, 256505 (2026)",
+  "doi": "10.1103/zdyq-3m9x"
+ },
+ {
+  "id": "2508.10098",
+  "title": "Emergent Interacting Phases in the Strong Coupling Limit of Twisted M-Valley Moiré Systems: Application to SnSe${}_2$",
+  "authors": [
+   "Ming-Rui Li",
+   "Dumitru Calugaru",
+   "Yi Jiang",
+   "Hanqi Pi",
+   "Ammon Fischer",
+   "Henning Schlömer",
+   "Lennart Klebl",
+   "Maia G. Vergniory",
+   "Dante M. Kennes",
+   "Siddharth A. Parameswaran",
+   "Hong Yao",
+   "B. Andrei Bernevig",
+   "Haoyu Hu"
+  ],
+  "date": "2025-08-13",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2507.06168",
+  "title": "Ideal Topological Flat Bands in Two-dimensional Moiré Heterostructures with Type-II Band Alignment",
+  "authors": [
+   "Yunzhe Liu",
+   "Anoj Aryal",
+   "Kaijie Yang",
+   "Dumitru Calugaru",
+   "Zhenyao Fang",
+   "Haoyu Hu",
+   "Qimin Yan",
+   "B. Andrei Bernevig",
+   "Chao-xing Liu"
+  ],
+  "date": "2025-07-08",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2507.03189",
+  "title": "Revealing electron-electron interactions in graphene at room temperature with the quantum twisting microscope",
+  "authors": [
+   "M. Lee",
+   "I. Das",
+   "J. Herzog-Arbeitman",
+   "J. Papp",
+   "J. Li",
+   "M. Daschner",
+   "Z. Zhou",
+   "M. Bhatt",
+   "M. Currle",
+   "J. Yu",
+   "Yi Jiang",
+   "M. Becherer",
+   "R. Mittermeier",
+   "P. Altpeter",
+   "C. Obermayer",
+   "H. Lorenz",
+   "G. Chavez",
+   "B. T. Le",
+   "J. Williams",
+   "K. Watanabe",
+   "T. Taniguchi",
+   "B. Andrei Bernevig",
+   "D. K. Efetov"
+  ],
+  "date": "2025-07-03",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2507.02047",
+  "title": "Quantum Geometry in the NbSe$_2$ Family I: Obstructed Compact Wannier Function and New Perturbation Theory",
+  "authors": [
+   "Jiabin Yu",
+   "Yi Jiang",
+   "Yuanfeng Xu",
+   "Dumitru Călugăru",
+   "Haoyu Hu",
+   "Haojie Guo",
+   "Sandra Sajan",
+   "Yongsong Wang",
+   "Miguel M. Ugeda",
+   "Fernando De Juan",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2025-07-02",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2506.05330",
+  "title": "Spinless and spinful charge excitations in moiré Fractional Chern Insulators",
+  "authors": [
+   "Miguel Gonçalves",
+   "Juan Felipe Mendez-Valderrama",
+   "Jonah Herzog-Arbeitman",
+   "Jiabin Yu",
+   "Xiaodong Xu",
+   "Di Xiao",
+   "B. Andrei Bernevig",
+   "Nicolas Regnault"
+  ],
+  "date": "2025-06-05",
+  "journal": "",
+  "doi": "10.1103/gmkp-bxf2"
+ },
+ {
+  "id": "2506.01485",
+  "title": "Unconventional Orbital Magnetism in Graphene-based Fractional Chern Insulators",
+  "authors": [
+   "Jian Xie",
+   "Zaizhe Zhang",
+   "Xi Chen",
+   "Yves H. Kwan",
+   "Zihao Huo",
+   "Jonah Herzog-Arbeitman",
+   "Liangliang Guo",
+   "Kenji Watanabe",
+   "Takashi Taniguchi",
+   "Kaihui Liu",
+   "X. C. Xie",
+   "B. Andrei Bernevig",
+   "Zhi-Da Song",
+   "Xiaobo Lu"
+  ],
+  "date": "2025-06-02",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2505.18057",
+  "title": "Dilute Paramagnetism and Non-Trivial Topology in Quasicrystal Approximant Fe$_4$Al$_{13}$",
+  "authors": [
+   "Keenan E. Avers",
+   "Jarryd A. Horn",
+   "Ram Kumar",
+   "Shanta R. Saha",
+   "Yuanfeng Xu",
+   "B. Andrei Bernevig",
+   "Peter Zavalij",
+   "Johnpierre Paglione"
+  ],
+  "date": "2025-05-23",
+  "journal": "Crystals 2025, 15, 485",
+  "doi": "10.3390/cryst15050485"
+ },
+ {
+  "id": "2505.17200",
+  "title": "Resolving Intervalley Gaps and Many-Body Resonances in Moiré Superconductor",
+  "authors": [
+   "Hyunjin Kim",
+   "Gautam Rai",
+   "Lorenzo Crippa",
+   "Dumitru Călugăru",
+   "Haoyu Hu",
+   "Youngjoon Choi",
+   "Lingyuan Kong",
+   "Eli Baum",
+   "Yiran Zhang",
+   "Ludwig Holleis",
+   "Kenji Watanabe",
+   "Takashi Taniguchi",
+   "Andrea F. Young",
+   "B. Andrei Bernevig",
+   "Roser Valentí",
+   "Giorgio Sangiovanni",
+   "Tim Wehling",
+   "Stevan Nadj-Perge"
+  ],
+  "date": "2025-05-22",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2505.09697",
+  "title": "Stable Real-Space Invariants and Topology Beyond Symmetry Indicators",
+  "authors": [
+   "Yoonseok Hwang",
+   "Vaibhav Gupta",
+   "Frank Schindler",
+   "Luis Elcoro",
+   "Zhida Song",
+   "B. Andrei Bernevig",
+   "Barry Bradlyn"
+  ],
+  "date": "2025-05-14",
+  "journal": "",
+  "doi": "10.1038/s41467-026-74844-w"
+ },
+ {
+  "id": "2504.20140",
+  "title": "Multi-Band Exact Diagonalization and an Iteration Approach to Hunt For Fractional Chern Insulators in Rhombohedral Multilayer Graphene",
+  "authors": [
+   "Heqiu Li",
+   "B. Andrei Bernevig",
+   "Nicolas Regnault"
+  ],
+  "date": "2025-04-28",
+  "journal": "Phys. Rev. B 112, 075130 (2025)",
+  "doi": "10.1103/zlqg-sj86"
+ },
+ {
+  "id": "2503.20867",
+  "title": "Theory of Superconductivity in LaRu$_3$Si$_2$ and Predictions of New Kagome Flat Band Superconductors",
+  "authors": [
+   "Junze Deng",
+   "Yi Jiang",
+   "Tiago F. T. Cerqueira",
+   "Haoyu Hu",
+   "Eeli O. Lamponen",
+   "Dumitru Călugăru",
+   "Hanqi Pi",
+   "Zhijun Wang",
+   "Maia G. Vergniory",
+   "Emilia Morosan",
+   "Titus Neupert",
+   "S. Blanco-Canosa",
+   "Claudia Felser",
+   "Kristjan Haule",
+   "Miguel A. L. Marques",
+   "Päivi Törmä",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2025-03-26",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2503.17875",
+  "title": "Heavy fermions, mass renormalization and local moments in magic-angle twisted bilayer graphene via planar tunneling spectroscopy",
+  "authors": [
+   "Zhenyuan Zhang",
+   "Shuang Wu",
+   "Dumitru Călugăru",
+   "Haoyu Hu",
+   "Takashi Taniguchi",
+   "Kenji Wanatabe",
+   "Andrei B. Bernevig",
+   "Eva Y. Andrei"
+  ],
+  "date": "2025-03-22",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2503.10989",
+  "title": "Observation of High-Temperature Dissipationless Fractional Chern Insulator",
+  "authors": [
+   "Heonjoon Park",
+   "Weijie Li",
+   "Chaowei Hu",
+   "Christiano Beach",
+   "Miguel Gonçalves",
+   "Juan Felipe Mendez-Valderrama",
+   "Jonah Herzog-Arbeitman",
+   "Takashi Taniguchi",
+   "Kenji Watanabe",
+   "David Cobden",
+   "Liang Fu",
+   "B. Andrei Bernevig",
+   "Nicolas Regnault",
+   "Jiun-Haw Chu",
+   "Di Xiao",
+   "Xiaodong Xu"
+  ],
+  "date": "2025-03-14",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2503.09692",
+  "title": "\"Berry Trashcan\" Model of Interacting Electrons in Rhombohedral Graphene",
+  "authors": [
+   "B. Andrei Bernevig",
+   "Yves H. Kwan"
+  ],
+  "date": "2025-03-12",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2502.14039",
+  "title": "Projected and Solvable Topological Heavy Fermion Model of Twisted Bilayer Graphene",
+  "authors": [
+   "Haoyu Hu",
+   "Zhi-Da Song",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2025-02-19",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2502.08700",
+  "title": "Kekulé Spiral Order from Strained Topological Heavy Fermions",
+  "authors": [
+   "Jonah Herzog-Arbeitman",
+   "Dumitru Călugăru",
+   "Haoyu Hu",
+   "Jiabin Yu",
+   "Nicolas Regnault",
+   "Jian Kang",
+   "B. Andrei Bernevig",
+   "Oskar Vafek"
+  ],
+  "date": "2025-02-12",
+  "journal": "Phys. Rev. B 112, 125129, 9/15/2025",
+  "doi": ""
+ },
+ {
+  "id": "2502.04221",
+  "title": "Phonon spectra, quantum geometry, and the Goldstone theorem",
+  "authors": [
+   "Guglielmo Pellitteri",
+   "Zenan Dai",
+   "Haoyu Hu",
+   "Yi Jiang",
+   "Guido Menichetti",
+   "Andrea Tomadin",
+   "B. Andrei Bernevig",
+   "Marco Polini"
+  ],
+  "date": "2025-02-06",
+  "journal": "Phys. Rev. B 112, 245128 (2025)",
+  "doi": "10.1103/jg8x-l6h6"
+ },
+ {
+  "id": "2501.09063",
+  "title": "Probing the Quantized Berry Phases in 1H-NbSe$_2$ Using Scanning Tunneling Microscopy",
+  "authors": [
+   "Dumitru Călugăru",
+   "Yi Jiang",
+   "Haojie Guo",
+   "Sandra Sajan",
+   "Yongsong Wang",
+   "Haoyu Hu",
+   "Jiabin Yu",
+   "B. Andrei Bernevig",
+   "Fernando de Juan",
+   "Miguel M. Ugeda"
+  ],
+  "date": "2025-01-15",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2501.00100",
+  "title": "Universal Wilson Loop Bound of Quantum Geometry",
+  "authors": [
+   "Jiabin Yu",
+   "Jonah Herzog-Arbeitman",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2024-12-30",
+  "journal": "Phys. Rev. Lett. 135, 086401 (2025)",
+  "doi": "10.1103/mp2c-zzkt"
+ },
+ {
+  "id": "2501.00098",
+  "title": "Quantum Geometry in Quantum Materials",
+  "authors": [
+   "Jiabin Yu",
+   "B. Andrei Bernevig",
+   "Raquel Queiroz",
+   "Enrico Rossi",
+   "Päivi Törmä",
+   "Bohm-Jung Yang"
+  ],
+  "date": "2024-12-30",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2411.18684",
+  "title": "A New Moiré Platform Based on M-Point Twisting",
+  "authors": [
+   "Dumitru Călugăru",
+   "Yi Jiang",
+   "Haoyu Hu",
+   "Hanqi Pi",
+   "Jiabin Yu",
+   "Maia G. Vergniory",
+   "Jie Shan",
+   "Claudia Felser",
+   "Leslie M. Schoop",
+   "Dmitri K. Efetov",
+   "Kin Fai Mak",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2024-11-27",
+  "journal": "Nature 643, 376-381 (2025)",
+  "doi": "10.1038/s41586-025-09187-5"
+ },
+ {
+  "id": "2411.13898",
+  "title": "Discovery of an Antiferromagnetic Topological Nodal-line Kondo Semimetal",
+  "authors": [
+   "D. F. Liu",
+   "Y. F. Xu",
+   "H. Y. Hu",
+   "J. Y. Liu",
+   "T. P. Ying",
+   "Y. Y. Lv",
+   "Y. Jiang",
+   "C. Chen",
+   "Y. H. Yang",
+   "D. Pei",
+   "D. Prabhakaran",
+   "M. H. Gao",
+   "J. J. Wang",
+   "Q. H. Zhang",
+   "F. Q. Meng",
+   "B. Thiagarajan",
+   "C. Polley",
+   "M. Hashimoto",
+   "D. H. Lu",
+   "N. B. M. Schröter",
+   "V. N. Strocov",
+   "A. Louat",
+   "C. Cacho",
+   "D. Biswas",
+   "T. -L. Lee",
+   "P. Steadman",
+   "P. Bencok",
+   "Y. B. Chen",
+   "L. Gu",
+   "T. Hesjedal",
+   "G. van der Laan",
+   "H. Hosono",
+   "L. X. Yang",
+   "Z. K. Liu",
+   "H. Q. Yuan",
+   "B. A. Bernevig",
+   "Y. L. Chen"
+  ],
+  "date": "2024-11-21",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2411.13647",
+  "title": "CeCo$_2$P$_2$: a unique Co-antiferromagnetic topological heavy-fermion system with $P\\cdot T$-protected Kondo effect and nodal-line excitations",
+  "authors": [
+   "Haoyu Hu",
+   "Yi Jiang",
+   "Defa Liu",
+   "Yulin Chen",
+   "Alexei M. Tsvelik",
+   "Yuanfeng Xu",
+   "Kristjan Haule",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2024-11-20",
+  "journal": "Phys. Rev. B 112, 195107 (2025)",
+  "doi": ""
+ },
+ {
+  "id": "2411.10931",
+  "title": "Competing phases in kagome magnet FeGe from functional renormalization",
+  "authors": [
+   "Pietro M. Bonetti",
+   "Yi Jiang",
+   "Haoyu Hu",
+   "Dumitru Călugăru",
+   "Michael M. Scherer",
+   "B. Andrei Bernevig",
+   "Laura Classen"
+  ],
+  "date": "2024-11-17",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2411.09741",
+  "title": "2D Theoretically Twistable Material Database",
+  "authors": [
+   "Yi Jiang",
+   "Urko Petralanda",
+   "Hanqi Pi",
+   "Grigorii Skorupskii",
+   "Qiaoling Xu",
+   "Dumitru Călugăru",
+   "Haoyu Hu",
+   "Jiaze Xie",
+   "Rose Albu Mustaf",
+   "Peter Höhn",
+   "Vicky Haase",
+   "Abdelmajid Ouahchi",
+   "Soumyajit Samal",
+   "Jiacheng Zhu",
+   "Dongyang Yang",
+   "Zuhan Geng",
+   "Garen Avedissian",
+   "Yongsong Wang",
+   "Maia G. Vergniory",
+   "Martin Claassen",
+   "Luis Elcoro",
+   "Nicolas Regnault",
+   "Miguel M. Ugeda",
+   "Jie Shan",
+   "Kin Fai Mak",
+   "Dmitri K. Efetov",
+   "Emilia Morosan",
+   "Dante M. Kennes",
+   "Angel Rubio",
+   "Lede Xian",
+   "Claudia Felser",
+   "Leslie M. Schoop",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2024-11-14",
+  "journal": "Science 393, eadu1550 (2026)",
+  "doi": "10.1126/science.adu1550"
+ },
+ {
+  "id": "2411.08950",
+  "title": "Two-dimensional Topological Quantum Chemistry and Catalog of Topological Materials",
+  "authors": [
+   "Urko Petralanda",
+   "Yi Jiang",
+   "B. Andrei Bernevig",
+   "Nicolas Regnault",
+   "Luis Elcoro"
+  ],
+  "date": "2024-11-13",
+  "journal": "Science 393, 1317-1321 (2026)",
+  "doi": ""
+ },
+ {
+  "id": "2411.08108",
+  "title": "Universal Moiré-Model-Building Method without Fitting: Application to Twisted MoTe$_2$ and WSe$_2$",
+  "authors": [
+   "Yan Zhang",
+   "Hanqi Pi",
+   "Jiaxuan Liu",
+   "Wangqian Miao",
+   "Ziyue Qi",
+   "Nicolas Regnault",
+   "Hongming Weng",
+   "Xi Dai",
+   "B. Andrei Bernevig",
+   "Quansheng Wu",
+   "Jiabin Yu"
+  ],
+  "date": "2024-11-12",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2409.13078",
+  "title": "Catalogue of Phonon Instabilities in Symmetry Group 191 Kagome MT$_6$Z$_6$ Materials",
+  "authors": [
+   "X. Feng",
+   "Y. Jiang",
+   "H. Hu",
+   "D. Călugăru",
+   "N. Regnault",
+   "M. G. Vergniory",
+   "C. Felser",
+   "S. Blanco-Canosa",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2024-09-17",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2409.04917",
+  "title": "Nodal Nematic Superconductivity in Multiple-Flat-Band Land",
+  "authors": [
+   "Chao-Xing Liu",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2024-09-07",
+  "journal": "Phys. Rev. B 111, L020502, 2025",
+  "doi": "10.1103/PhysRevB.111.L020502"
+ },
+ {
+  "id": "2409.04325",
+  "title": "Cascade of pressure induced competing CDWs in the kagome metal FeGe",
+  "authors": [
+   "A. Korshunov",
+   "A. Kar",
+   "C. -Y. Lim",
+   "D. Subires",
+   "J. Deng",
+   "Y. Jiang",
+   "H. Hu",
+   "D. Călugăru",
+   "C. Yi",
+   "S. Roychowdhury",
+   "C. Shekhar",
+   "G. Garbarino",
+   "P. Törmä",
+   "C. A. Fuller",
+   "C. Felser",
+   "B. Andrei Bernevig",
+   "S. Blanco-Canosa"
+  ],
+  "date": "2024-09-06",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2408.16851",
+  "title": "New magnetic topological materials from high-throughput search",
+  "authors": [
+   "Iñigo Robredo",
+   "Yuanfeng Xu",
+   "Yi Jiang",
+   "Claudia Felser",
+   "B. Andrei Bernevig",
+   "Luis Elcoro",
+   "Nicolas Regnault",
+   "Maia G. Vergniory"
+  ],
+  "date": "2024-08-29",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2408.04452",
+  "title": "Frustrated charge density wave and quasi-long-range bond-orientational order in the magnetic kagome FeGe",
+  "authors": [
+   "D. Subires",
+   "A. Kar",
+   "A. Korshunov",
+   "C. A. Fuller",
+   "Y. Jiang",
+   "H. Hu",
+   "Dumitru Călugăru",
+   "C. McMonagle",
+   "C. Yi",
+   "S. Roychowdhury",
+   "C. Shekhar",
+   "J. Strempfer",
+   "A. Jana",
+   "I. Vobornik",
+   "J. Dai",
+   "M. Tallarida",
+   "D. Chernyshov",
+   "A. Bosak",
+   "C. Felser",
+   "B. Andrei Bernevig",
+   "S. Blanco-Canosa"
+  ],
+  "date": "2024-08-08",
+  "journal": "",
+  "doi": "10.1038/s41467-025-58725-2"
+ },
+ {
+  "id": "2408.01599",
+  "title": "Strongly interacting Hofstadter states in magic-angle twisted bilayer graphene",
+  "authors": [
+   "Minhao He",
+   "Xiaoyu Wang",
+   "Jiaqi Cai",
+   "Jonah Herzog-Arbeitman",
+   "Takashi Taniguchi",
+   "Kenji Watanabe",
+   "Ady Stern",
+   "B. Andrei Bernevig",
+   "Matthew Yankowitz",
+   "Oskar Vafek",
+   "Xiaodong Xu"
+  ],
+  "date": "2024-08-02",
+  "journal": "",
+  "doi": "10.1038/s41567-025-02997-4"
+ },
+ {
+  "id": "2407.13770",
+  "title": "Moiré Fractional Chern Insulators IV: Fluctuation-Driven Collapse of FCIs in Multi-Band Exact Diagonalization Calculations on Rhombohedral Graphene",
+  "authors": [
+   "Jiabin Yu",
+   "Jonah Herzog-Arbeitman",
+   "Yves H. Kwan",
+   "Nicolas Regnault",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2024-07-18",
+  "journal": "Phys. Rev. B 112, 075110 (2025)",
+  "doi": ""
+ },
+ {
+  "id": "2407.02560",
+  "title": "When Could Abelian Fractional Topological Insulators Exist in Twisted MoTe$_2$ (and Other Systems)",
+  "authors": [
+   "Yves H. Kwan",
+   "Glenn Wagner",
+   "Jiabin Yu",
+   "Andrea Kouta Dagnino",
+   "Yi Jiang",
+   "Xiaodong Xu",
+   "B. Andrei Bernevig",
+   "Titus Neupert",
+   "Nicolas Regnault"
+  ],
+  "date": "2024-07-02",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2406.09591",
+  "title": "Ferromagnetism and Topology of the Higher Flat Band in a Fractional Chern Insulator",
+  "authors": [
+   "Heonjoon Park",
+   "Jiaqi Cai",
+   "Eric Anderson",
+   "Xiao-Wei Zhang",
+   "Xiaoyu Liu",
+   "William Holtzmann",
+   "Weijie Li",
+   "Chong Wang",
+   "Chaowei Hu",
+   "Yuzhou Zhao",
+   "Takashi Taniguchi",
+   "Kenji Watanabe",
+   "Jihui Yang",
+   "David Cobden",
+   "Jiun-Haw Chu",
+   "Nicolas Regnault",
+   "B. Andrei Bernevig",
+   "Liang Fu",
+   "Ting Cao",
+   "Di Xiao",
+   "Xiaodong Xu"
+  ],
+  "date": "2024-06-13",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2406.08114",
+  "title": "Massive 1D Dirac Line, Solitons and Reversible Manipulation on the Surface of a Prototype Obstructed Atomic Insulator, Silicon",
+  "authors": [
+   "Zhongkai Liu",
+   "Peng Deng",
+   "Yuanfeng Xu",
+   "Haifeng Yang",
+   "Ding Pei",
+   "Cheng Chen",
+   "Shanmei He",
+   "Defa Liu",
+   "Sung-Kwan Mo",
+   "Timur Kim",
+   "Cephise Cacho",
+   "Hong Yao",
+   "Zhi-Da Song",
+   "Xi Chen",
+   "Zhong Wang",
+   "Binghai Yan",
+   "Lexian Yang",
+   "Bogdan A. Bernevig",
+   "Yulin Chen"
+  ],
+  "date": "2024-06-12",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2406.03529",
+  "title": "Ring states in topological materials",
+  "authors": [
+   "Raquel Queiroz",
+   "Roni Ilan",
+   "Zhida Song",
+   "B. Andrei Bernevig",
+   "Ady Stern"
+  ],
+  "date": "2024-06-05",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2405.13880",
+  "title": "Heavy Fermions as an Efficient Representation of Atomistic Strain and Relaxation in Twisted Bilayer Graphene",
+  "authors": [
+   "Jonah Herzog-Arbeitman",
+   "Jiabin Yu",
+   "Dumitru Călugăru",
+   "Haoyu Hu",
+   "Nicolas Regnault",
+   "Oskar Vafek",
+   "Jian Kang",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2024-05-22",
+  "journal": "Phys. Rev. B 112, 125128 (2025)",
+  "doi": ""
+ },
+ {
+  "id": "2404.07253",
+  "title": "Topological Heavy Fermion Principle For Flat (Narrow) Bands With Concentrated Quantum Geometry",
+  "authors": [
+   "Jonah Herzog-Arbeitman",
+   "Jiabin Yu",
+   "Dumitru Călugăru",
+   "Haoyu Hu",
+   "Nicolas Regnault",
+   "Chaoxing Liu",
+   "Oskar Vafek",
+   "Piers Coleman",
+   "Alexei Tsvelik",
+   "Zhi-da Song",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2024-04-10",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2402.14057",
+  "title": "The Thermoelectric Effect and Its Natural Heavy Fermion Explanation in Twisted Bilayer and Trilayer Graphene",
+  "authors": [
+   "Dumitru Călugăru",
+   "Haoyu Hu",
+   "Rafael Luque Merino",
+   "Nicolas Regnault",
+   "Dmitri K. Efetov",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2024-02-21",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2402.12296",
+  "title": "Cryo-Near-Field Photovoltage Microscopy of Heavy-Fermion Twisted Symmetric Trilayer Graphene",
+  "authors": [
+   "Sergi Batlle-Porro",
+   "Dumitru Calugaru",
+   "Haoyu Hu",
+   "Roshan Krishna Kumar",
+   "Niels C. H. Hesp",
+   "Kenji Watanabe",
+   "Takashi Taniguchi",
+   "B. Andrei Bernevig",
+   "Petr Stepanov",
+   "Frank H. L. Koppens"
+  ],
+  "date": "2024-02-19",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2402.11749",
+  "title": "Evidence of heavy fermion physics in the thermoelectric transport of magic angle twisted bilayer graphene",
+  "authors": [
+   "Rafael Luque Merino",
+   "Dumitru Calugaru",
+   "Haoyu Hu",
+   "Jaime Diez-Merida",
+   "Andres Diez-Carlon",
+   "Takashi Taniguchi",
+   "Kenji Watanabe",
+   "Paul Seifert",
+   "B. Andrei Bernevig",
+   "Dmitri K. Efetov"
+  ],
+  "date": "2024-02-19",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2401.04163",
+  "title": "\"Quantum Geometric Nesting\" and Solvable Model Flat-Band Systems",
+  "authors": [
+   "Zhaoyu Han",
+   "Jonah Herzog-Arbeitman",
+   "B. Andrei Bernevig",
+   "Steven A. Kivelson"
+  ],
+  "date": "2024-01-08",
+  "journal": "Phys. Rev. X 14, 041004 (2024)",
+  "doi": "10.1103/PhysRevX.14.041004"
+ },
+ {
+  "id": "2312.11617",
+  "title": "Moiré Fractional Chern Insulators III: Hartree-Fock Phase Diagram, Magic Angle Regime for Chern Insulator States, the Role of the Moiré Potential and Goldstone Gaps in Rhombohedral Graphene Superlattices",
+  "authors": [
+   "Yves H. Kwan",
+   "Jiabin Yu",
+   "Jonah Herzog-Arbeitman",
+   "Dmitri K. Efetov",
+   "Nicolas Regnault",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2023-12-18",
+  "journal": "Phys. Rev. B 112, 075109 (2025)",
+  "doi": "10.1103/PhysRevB.112.075109"
+ },
+ {
+  "id": "2312.10659",
+  "title": "Flat bands, strange metals, and the Kondo effect",
+  "authors": [
+   "Joseph G. Checkelsky",
+   "B. Andrei Bernevig",
+   "Piers Coleman",
+   "Qimiao Si",
+   "Silke Paschen"
+  ],
+  "date": "2023-12-17",
+  "journal": "Nature Reviews Materials, Published 20 February 2024",
+  "doi": "10.1038/s41578-023-00644-z"
+ },
+ {
+  "id": "2311.12920",
+  "title": "Moiré Fractional Chern Insulators II: First-principles Calculations and Continuum Models of Rhombohedral Graphene Superlattices",
+  "authors": [
+   "Jonah Herzog-Arbeitman",
+   "Yuzhi Wang",
+   "Jiaxuan Liu",
+   "Pok Man Tam",
+   "Ziyue Qi",
+   "Yujin Jia",
+   "Dmitri K. Efetov",
+   "Oskar Vafek",
+   "Nicolas Regnault",
+   "Hongming Weng",
+   "Quansheng Wu",
+   "B. Andrei Bernevig",
+   "Jiabin Yu"
+  ],
+  "date": "2023-11-21",
+  "journal": "Phys. Rev. B 109, 205122 (2024)",
+  "doi": ""
+ },
+ {
+  "id": "2311.09290",
+  "title": "FeGe as a building block for the kagome 1:1, 1:6:6, and 1:3:5 families: hidden d-orbital decoupling of flat band sectors, effective models and interaction Hamiltonians",
+  "authors": [
+   "Yi Jiang",
+   "Haoyu Hu",
+   "Dumitru Călugăru",
+   "Claudia Felser",
+   "Santiago Blanco-Canosa",
+   "Hongming Weng",
+   "Yuanfeng Xu",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2023-11-15",
+  "journal": "Phys. Rev. B 111, 125163, Published 31 March, 2025",
+  "doi": "10.1103/PhysRevB.111.125163"
+ },
+ {
+  "id": "2311.04958",
+  "title": "Moiré Fractional Chern Insulators I: First-principles calculations and Continuum Models of Twisted Bilayer MoTe$_2$",
+  "authors": [
+   "Yujin Jia",
+   "Jiabin Yu",
+   "Jiaxuan Liu",
+   "Jonah Herzog-Arbeitman",
+   "Ziyue Qi",
+   "Nicolas Regnault",
+   "Hongming Weng",
+   "B. Andrei Bernevig",
+   "Quansheng Wu"
+  ],
+  "date": "2023-11-08",
+  "journal": "Phys. Rev. B 109, 205121 (2024)",
+  "doi": ""
+ },
+ {
+  "id": "2311.03735",
+  "title": "Semi-Dirac Fermions in a Topological Metal",
+  "authors": [
+   "Yinming Shao",
+   "Seongphill Moon",
+   "A. N. Rudenko",
+   "Jie Wang",
+   "Jonah Herzog-Arbeitman",
+   "Mykhaylo Ozerov",
+   "David Graf",
+   "Zhiyuan Sun",
+   "Raquel Queiroz",
+   "Seng Huat Lee",
+   "Yanglin Zhu",
+   "Zhiqiang Mao",
+   "M. I. Katsnelson",
+   "B. Andrei Bernevig",
+   "Dmitry Smirnov",
+   "Andrew. J. Millis",
+   "D. N. Basov"
+  ],
+  "date": "2023-11-07",
+  "journal": "Phys. Rev. X 14, 041057 (2024)",
+  "doi": "10.1103/PhysRevX.14.041057"
+ },
+ {
+  "id": "2309.14429",
+  "title": "Fractional Chern Insulators vs. Non-Magnetic States in Twisted Bilayer MoTe$_2$",
+  "authors": [
+   "Jiabin Yu",
+   "Jonah Herzog-Arbeitman",
+   "Minxuan Wang",
+   "Oskar Vafek",
+   "B. Andrei Bernevig",
+   "Nicolas Regnault"
+  ],
+  "date": "2023-09-25",
+  "journal": "Phys. Rev. B 109, 045147 (2024)",
+  "doi": ""
+ },
+ {
+  "id": "2309.08529",
+  "title": "Dynamical correlations and order in magic-angle twisted bilayer graphene",
+  "authors": [
+   "Gautam Rai",
+   "Lorenzo Crippa",
+   "Dumitru Călugăru",
+   "Haoyu Hu",
+   "Francesca Paoletti",
+   "Luca de' Medici",
+   "Antoine Georges",
+   "B. Andrei Bernevig",
+   "Roser Valentí",
+   "Giorgio Sangiovanni",
+   "Tim Wehling"
+  ],
+  "date": "2023-09-15",
+  "journal": "Phys. Rev. X 14, 031045 --- Published 11 September 2024",
+  "doi": "10.1103/PhysRevX.14.031045"
+ },
+ {
+  "id": "2308.12055",
+  "title": "Majorana corner modes in unconventional monolayers of the 1T-PtSe2 family",
+  "authors": [
+   "Haohao Sheng",
+   "Yue Xie",
+   "Quansheng Wu",
+   "Hongming Weng",
+   "Xi Dai",
+   "B. Andrei Bernevig",
+   "Zhong Fang",
+   "Zhijun Wang"
+  ],
+  "date": "2023-08-23",
+  "journal": "Phys. Rev. B 110, 035151 (2024)",
+  "doi": "10.1103/PhysRevB.110.035151"
+ },
+ {
+  "id": "2308.05143",
+  "title": "Pb$_9$Cu(PO4)$_6$(OH)$_2$: Phonon bands, Localized Flat Band Magnetism, Models, and Chemical Analysis",
+  "authors": [
+   "Yi Jiang",
+   "Scott B. Lee",
+   "Jonah Herzog-Arbeitman",
+   "Jiabin Yu",
+   "Xiaolong Feng",
+   "Haoyu Hu",
+   "Dumitru Călugăru",
+   "Parker S. Brodale",
+   "Eoghan L. Gormley",
+   "Maia Garcia Vergniory",
+   "Claudia Felser",
+   "S. Blanco-Canosa",
+   "Christopher H. Hendon",
+   "Leslie M. Schoop",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2023-08-09",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2306.04683",
+  "title": "Anderson Critical Metal Phase in Trivial States Protected by Average Magnetic Crystalline Symmetry",
+  "authors": [
+   "Fa-Jie Wang",
+   "Zhen-Yu Xiao",
+   "Raquel Queiroz",
+   "B. Andrei Bernevig",
+   "Ady Stern",
+   "Zhi-Da Song"
+  ],
+  "date": "2023-06-07",
+  "journal": "Nat. Commun. 15(1), 3069 (2024)",
+  "doi": "10.1038/s41467-024-47467-2"
+ },
+ {
+  "id": "2306.03814",
+  "title": "Reply to \"Comment on 'Nontrivial Quantum Geometry and the Strength of Electron-Phonon Coupling', arXiv:2305.02340, J. Yu, C. J. Ciccarino, R. Bianco, I. Errea, P. Narang, B. A. Bernevig\"",
+  "authors": [
+   "Jiabin Yu",
+   "Christopher J. Ciccarino",
+   "Raffaello Bianco",
+   "Ion Errea",
+   "Prineha Narang",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2023-06-06",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2305.15469",
+  "title": "Kagome Materials I: SG 191, ScV$_6$Sn$_6$. Flat Phonon Soft Modes and Unconventional CDW Formation: Microscopic and Effective Theory",
+  "authors": [
+   "Haoyu Hu",
+   "Yi Jiang",
+   "Dumitru Călugăru",
+   "Xiaolong Feng",
+   "David Subires",
+   "Maia G. Vergniory",
+   "Claudia Felser",
+   "Santiago Blanco-Canosa",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2023-05-24",
+  "journal": "Phys. Rev. B 111, 054113, 20 February, 2025",
+  "doi": "10.1103/PhysRevB.111.054113"
+ },
+ {
+  "id": "2305.08171",
+  "title": "Topological heavy fermions in magnetic field",
+  "authors": [
+   "Keshav Singh",
+   "Aaron Chew",
+   "Jonah Herzog-Arbeitman",
+   "B. Andrei Bernevig",
+   "Oskar Vafek"
+  ],
+  "date": "2023-05-14",
+  "journal": "Nature Communications volume 15, 5257 (2024)",
+  "doi": "10.1038/s41467-024-49531-3"
+ },
+ {
+  "id": "2305.02340",
+  "title": "Nontrivial Quantum Geometry and the Strength of Electron-Phonon Coupling",
+  "authors": [
+   "Jiabin Yu",
+   "Christopher J. Ciccarino",
+   "Raffaello Bianco",
+   "Ion Errea",
+   "Prineha Narang",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2023-05-03",
+  "journal": "Nat. Phys. (2024)",
+  "doi": "10.1038/s41567-024-02486-0"
+ },
+ {
+  "id": "2304.09907",
+  "title": "$\\mathbb Z_2$-Nontrivial Moiré Minibands and Interaction-Driven Quantum Anomalous Hall Insulators in Topological Insulator Based Moiré Heterostructures",
+  "authors": [
+   "Kaijie Yang",
+   "Zian Xu",
+   "Yanjie Feng",
+   "Frank Schindler",
+   "Yuanfeng Xu",
+   "Zhen Bi",
+   "B. Andrei Bernevig",
+   "Peizhe Tang",
+   "Chao-Xing Liu"
+  ],
+  "date": "2023-04-19",
+  "journal": "",
+  "doi": "10.1038/s41467-024-46717-7"
+ },
+ {
+  "id": "2304.09173",
+  "title": "Softening of a flat phonon mode in the kagome ScV$_6$Sn$_6$",
+  "authors": [
+   "A. Korshunov",
+   "H. Hu",
+   "D. Subires",
+   "Y. Jiang",
+   "D. Călugăru",
+   "X. Feng",
+   "A. Rajapitamahuni",
+   "C. Yi",
+   "S. Roychowdhury",
+   "M. G. Vergniory",
+   "J. Strempfer",
+   "C. Shekhar",
+   "E. Vescovo",
+   "D. Chernyshov",
+   "A. H. Said",
+   "A. Bosak",
+   "C. Felser",
+   "B. Andrei Bernevig",
+   "S. Blanco-Canosa"
+  ],
+  "date": "2023-04-18",
+  "journal": "Nat. Commun. 14, 6646 (2023)",
+  "doi": "10.1038/s41467-023-42186-6"
+ },
+ {
+  "id": "2303.15551",
+  "title": "Electron-K-Phonon Interaction In Twisted Bilayer Graphene",
+  "authors": [
+   "Chao-Xing Liu",
+   "Yulin Chen",
+   "Ali Yazdani",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2023-03-27",
+  "journal": "Phys. Rev. B 110, 045133, 2024",
+  "doi": "10.1103/PhysRevB.110.045133"
+ },
+ {
+  "id": "2303.14903",
+  "title": "Strong Inter-valley Electron-Phonon Coupling in Magic-Angle Twisted Bilayer Graphene",
+  "authors": [
+   "Cheng Chen",
+   "Kevin P. Nuckolls",
+   "Shuhan Ding",
+   "Wangqian Miao",
+   "Dillon Wong",
+   "Myungchul Oh",
+   "Ryan L. Lee",
+   "Shanmei He",
+   "Cheng Peng",
+   "Ding Pei",
+   "Yiwei Li",
+   "Chenyue Hao",
+   "Haoran Yan",
+   "Hanbo Xiao",
+   "Han Gao",
+   "Qiao Li",
+   "Shihao Zhang",
+   "Jianpeng Liu",
+   "Lin He",
+   "Kenji Watanabe",
+   "Takashi Taniguchi",
+   "Chris Jozwiak",
+   "Aaron Bostwick",
+   "Eli Rotenberg",
+   "Chu Li",
+   "Xu Han",
+   "Ding Pan",
+   "Zhongkai Liu",
+   "Xi Dai",
+   "Chaoxing Liu",
+   "B. Andrei Bernevig",
+   "Yao Wang",
+   "Ali Yazdani",
+   "Yulin Chen"
+  ],
+  "date": "2023-03-27",
+  "journal": "Nature 636, 342 (2024)",
+  "doi": "10.1038/s41586-024-08227-w"
+ },
+ {
+  "id": "2303.03429",
+  "title": "TBG as Topological Heavy Fermion: II. Analytical approximations of the model parameters",
+  "authors": [
+   "Dumitru Călugăru",
+   "Maksim Borovkov",
+   "Liam L. H. Lau",
+   "Piers Coleman",
+   "Zhi-Da Song",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2023-03-06",
+  "journal": "Fiz. Nizk. Temp. 49, 703-719 (June 2023); Low Temp. Phys. 49, 640-654 (2023);",
+  "doi": "10.1063/10.0019421"
+ },
+ {
+  "id": "2303.00024",
+  "title": "Quantum textures of the many-body wavefunctions in magic-angle graphene",
+  "authors": [
+   "Kevin P. Nuckolls",
+   "Ryan L. Lee",
+   "Myungchul Oh",
+   "Dillon Wong",
+   "Tomohiro Soejima",
+   "Jung Pyo Hong",
+   "Dumitru Călugăru",
+   "Jonah Herzog-Arbeitman",
+   "B. Andrei Bernevig",
+   "Kenji Watanabe",
+   "Takashi Taniguchi",
+   "Nicolas Regnault",
+   "Michael P. Zaletel",
+   "Ali Yazdani"
+  ],
+  "date": "2023-02-28",
+  "journal": "Nature 620, 525-532 (2023)",
+  "doi": "10.1038/s41586-023-06226-x"
+ },
+ {
+  "id": "2301.08821",
+  "title": "Electron Doping of a Double Perovskite Flat-band System",
+  "authors": [
+   "Lun Jin",
+   "Nicodemos Varnava",
+   "Danrui Ni",
+   "Xin Gui",
+   "Xianghan Xu",
+   "Yuanfeng Xu",
+   "B. Andrei Bernevig",
+   "Robert. J. Cava"
+  ],
+  "date": "2023-01-20",
+  "journal": "Proc. Natl. Acad. Sci. U.S.A. 2023, 120 (8), 2218997120",
+  "doi": "10.1073/pnas.2218997120"
+ },
+ {
+  "id": "2301.04673",
+  "title": "Symmetric Kondo Lattice States in Doped Strained Twisted Bilayer Graphene",
+  "authors": [
+   "H. Hu",
+   "G. Rai",
+   "L. Crippa",
+   "J. Herzog-Arbeitman",
+   "D. Călugăru",
+   "T. Wehling",
+   "G. Sangiovanni",
+   "R. Valenti",
+   "A. M. Tsvelik",
+   "B. A. Bernevig"
+  ],
+  "date": "2023-01-11",
+  "journal": "",
+  "doi": "10.1103/PhysRevLett.131.166501"
+ },
+ {
+  "id": "2301.04669",
+  "title": "Kondo Lattice Model of Magic-Angle Twisted-Bilayer Graphene: Hund's Rule, Local-Moment Fluctuations, and Low-Energy Effective Theory",
+  "authors": [
+   "Haoyu Hu",
+   "B. Andrei Bernevig",
+   "Alexei M. Tsvelik"
+  ],
+  "date": "2023-01-11",
+  "journal": "",
+  "doi": "10.1103/PhysRevLett.131.026502"
+ },
+ {
+  "id": "2301.04171",
+  "title": "Magic-Angle Twisted Symmetric Trilayer Graphene as Topological Heavy Fermion Problem",
+  "authors": [
+   "Jiabin Yu",
+   "Ming Xie",
+   "B. Andrei Bernevig",
+   "Sankar Das Sarma"
+  ],
+  "date": "2023-01-10",
+  "journal": "Phys. Rev. B 108, 035129 (2023)",
+  "doi": "10.1103/PhysRevB.108.035129"
+ },
+ {
+  "id": "2212.00030",
+  "title": "Interacting Topological Quantum Chemistry in 2D: Many-body Real Space Invariants",
+  "authors": [
+   "Jonah Herzog-Arbeitman",
+   "B. Andrei Bernevig",
+   "Zhi-Da Song"
+  ],
+  "date": "2022-11-30",
+  "journal": "Interacting topological quantum chemistry in 2D with many-body real space invariants. Nat Commun 15, 1171 (2024)",
+  "doi": "10.1038/s41467-024-45395-9"
+ },
+ {
+  "id": "2211.11776",
+  "title": "Catalogue of topological phonon materials",
+  "authors": [
+   "Yuanfeng Xu",
+   "M. G. Vergniory",
+   "Da-Shuai Ma",
+   "Juan L. Mañes",
+   "Zhi-Da Song",
+   "B. Andrei Bernevig",
+   "Nicolas Regnault",
+   "Luis Elcoro"
+  ],
+  "date": "2022-11-21",
+  "journal": "Science 384, eadf8458 (2024)",
+  "doi": "10.1126/science.adf8458"
+ },
+ {
+  "id": "2210.08019",
+  "title": "Integer characteristic polynomial factorization and Hilbert space fragmentation",
+  "authors": [
+   "Nicolas Regnault",
+   "Shuo Liu",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2022-10-14",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2209.14322",
+  "title": "Phase diagram of twisted bilayer graphene at filling factor $ν=\\pm3$",
+  "authors": [
+   "Fang Xie",
+   "Jian Kang",
+   "B. Andrei Bernevig",
+   "Oskar Vafek",
+   "Nicolas Regnault"
+  ],
+  "date": "2022-09-28",
+  "journal": "Phys. Rev. B 107, 075156 (2023)",
+  "doi": "10.1103/PhysRevB.107.075156"
+ },
+ {
+  "id": "2209.10559",
+  "title": "Hofstadter Topology with Real Space Invariants and Reentrant Projective Symmetries",
+  "authors": [
+   "Jonah Herzog-Arbeitman",
+   "Zhi-Da Song",
+   "Luis Elcoro",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2022-09-21",
+  "journal": "",
+  "doi": "10.1103/PhysRevLett.130.236601"
+ },
+ {
+  "id": "2209.02745",
+  "title": "Hierarchy of quasi-symmetries and degeneracies in chiral crystal materials CoSi",
+  "authors": [
+   "Lun-Hui Hu",
+   "Chunyu Guo",
+   "Yan Sun",
+   "Claudia Felser",
+   "Luis Elcoro",
+   "Philip J. W. Moll",
+   "Chao-Xing Liu",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2022-09-06",
+  "journal": "",
+  "doi": "10.1103/PhysRevB.107.125145"
+ },
+ {
+  "id": "2209.00007",
+  "title": "Many-Body Superconductivity in Topological Flat Bands",
+  "authors": [
+   "Jonah Herzog-Arbeitman",
+   "Aaron Chew",
+   "Kukka-Emilia Huhtinen",
+   "Päivi Törmä",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2022-08-31",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2207.10112",
+  "title": "Topological Zero-Dimensional Defect and Flux States in Three-Dimensional Insulators",
+  "authors": [
+   "Frank Schindler",
+   "Stepan S. Tsirkin",
+   "Titus Neupert",
+   "B. Andrei Bernevig",
+   "Benjamin J. Wieder"
+  ],
+  "date": "2022-07-20",
+  "journal": "Nat. Commun. 13, 5791 (2022)",
+  "doi": "10.1038/s41467-022-33471-x"
+ },
+ {
+  "id": "2206.07717",
+  "title": "Magnetic Bloch Theorem and Reentrant Flat Bands in Twisted Bilayer Graphene at $2π$ Flux",
+  "authors": [
+   "Jonah Herzog-Arbeitman",
+   "Aaron Chew",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2022-06-15",
+  "journal": "Phys. Rev. B 106, 085140, 29 August 2022",
+  "doi": "10.1103/PhysRevB.106.085140"
+ },
+ {
+  "id": "2203.11133",
+  "title": "Revisiting flat band superconductivity: dependence on minimal quantum metric and band touchings",
+  "authors": [
+   "Kukka-Emilia Huhtinen",
+   "Jonah Herzog-Arbeitman",
+   "Aaron Chew",
+   "Bogdan Andrei Bernevig",
+   "Päivi Törmä"
+  ],
+  "date": "2022-03-21",
+  "journal": "",
+  "doi": "10.1103/PhysRevB.106.014518"
+ },
+ {
+  "id": "2203.02890",
+  "title": "Progress and prospects in magnetic topological materials",
+  "authors": [
+   "B. Andrei Bernevig",
+   "Claudia Felser",
+   "Haim Beidenkopf"
+  ],
+  "date": "2022-03-06",
+  "journal": "Nature 603, 41-51 (2022)",
+  "doi": "10.1038/s41586-021-04105-x"
+ },
+ {
+  "id": "2112.12776",
+  "title": "Trions in Twisted Bilayer Graphene",
+  "authors": [
+   "Frank Schindler",
+   "Oskar Vafek",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2021-12-23",
+  "journal": "Phys. Rev. B 105, 155135 (2022)",
+  "doi": "10.1103/PhysRevB.105.155135"
+ },
+ {
+  "id": "2111.11434",
+  "title": "Reentrant Correlated Insulators in Twisted Bilayer Graphene at 25T ($2π$ Flux)",
+  "authors": [
+   "Jonah Herzog-Arbeitman",
+   "Aaron Chew",
+   "Dmitri K. Efetov",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2021-11-22",
+  "journal": "Phys. Rev. Lett. 129, 076401, 9 August 2022",
+  "doi": "10.1103/PhysRevLett.129.076401"
+ },
+ {
+  "id": "2111.11341",
+  "title": "Observation of re-entrant correlated insulators and interaction driven Fermi surface reconstructions at one magnetic flux quantum per moiré unit cell in magic-angle twisted bilayer graphene",
+  "authors": [
+   "Ipsita Das",
+   "Cheng Shen",
+   "Alexandre Jaoui",
+   "Jonah Herzog-Arbeitman",
+   "Aaron Chew",
+   "Chang-Woo Cho",
+   "Kenji Watanabe",
+   "Takashi Taniguchi",
+   "Benjamin A. Piot",
+   "B. Andrei Bernevig",
+   "Dmitri K. Efetov"
+  ],
+  "date": "2021-11-22",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2111.05865",
+  "title": "MATBG as Topological Heavy Fermion: I. Exact Mapping and Correlated Insulators",
+  "authors": [
+   "Zhi-Da Song",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2021-11-10",
+  "journal": "Phys. Rev. Lett. 129, 047601 (2022)",
+  "doi": "10.1103/PhysRevLett.129.047601"
+ },
+ {
+  "id": "2111.02435",
+  "title": "Obstructed surface states as the origin of catalytic activity in inorganic heterogeneous catalysts",
+  "authors": [
+   "Guowei Li",
+   "Yuanfeng Xu",
+   "Zhida Song",
+   "Qun Yang",
+   "Uttam Gupta",
+   "Vicky Sü\\b{eta}",
+   "Yan Sun",
+   "Paolo Sessi",
+   "Stuart S. P. Parkin",
+   "B. Andrei Bernevig",
+   "Claudia Felser"
+  ],
+  "date": "2021-11-03",
+  "journal": "Adv. Mater. 34, 2201328, 2022",
+  "doi": "10.1002/adma.202201328"
+ },
+ {
+  "id": "2111.02433",
+  "title": "Three-Dimensional Real Space Invariants, Obstructed Atomic Insulators and A New Principle for Active Catalytic Sites",
+  "authors": [
+   "Yuanfeng Xu",
+   "Luis Elcoro",
+   "Guowei Li",
+   "Zhi-Da Song",
+   "Nicolas Regnault",
+   "Qun Yang",
+   "Yan Sun",
+   "Stuart Parkin",
+   "Claudia Felser",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2021-11-03",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2111.00807",
+  "title": "Superfluidity and Quantum Geometry in Twisted Multilayer Systems",
+  "authors": [
+   "P. Törmä",
+   "S. Peotta",
+   "B. A. Bernevig"
+  ],
+  "date": "2021-11-01",
+  "journal": "Nature Reviews Physics 4, 528 (2022)",
+  "doi": "10.1038/s42254-022-00466-y"
+ },
+ {
+  "id": "2110.15365",
+  "title": "Exact Quantum Scars in the Chiral Non-Linear Luttinger Liquid",
+  "authors": [
+   "Frank Schindler",
+   "Nicolas Regnault",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2021-10-28",
+  "journal": "Phys. Rev. B 105, 035146 (2022)",
+  "doi": "10.1103/PhysRevB.105.035146"
+ },
+ {
+  "id": "2110.15300",
+  "title": "Spectroscopy of Twisted Bilayer Graphene Correlated Insulators",
+  "authors": [
+   "Dumitru Călugăru",
+   "Nicolas Regnault",
+   "Myungchul Oh",
+   "Kevin P. Nuckolls",
+   "Dillon Wong",
+   "Ryan L. Lee",
+   "Ali Yazdani",
+   "Oskar Vafek",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2021-10-28",
+  "journal": "Phys. Rev. Lett. 129, 117602, 8 September 2022",
+  "doi": "10.1103/PhysRevLett.129.117602"
+ },
+ {
+  "id": "2110.14663",
+  "title": "Superfluid weight bounds from symmetry and quantum geometry in flat bands",
+  "authors": [
+   "Jonah Herzog-Arbeitman",
+   "Valerio Peri",
+   "Frank Schindler",
+   "Sebastian D. Huber",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2021-10-27",
+  "journal": "Phys. Rev. Lett. 128, 087002 (2022)",
+  "doi": "10.1103/PhysRevLett.128.087002"
+ },
+ {
+  "id": "2109.00548",
+  "title": "Quantum Many-Body Scars and Hilbert Space Fragmentation: A Review of Exact Results",
+  "authors": [
+   "Sanjay Moudgalya",
+   "B. Andrei Bernevig",
+   "Nicolas Regnault"
+  ],
+  "date": "2021-09-01",
+  "journal": "Rep. Prog. Phys. 85 086501 (2022)",
+  "doi": "10.1088/1361-6633/ac73a0"
+ },
+ {
+  "id": "2108.05373",
+  "title": "Higher-Order Topological Superconductivity in Twisted Bilayer Graphene",
+  "authors": [
+   "Aaron Chew",
+   "Yijie Wang",
+   "B. Andrei Bernevig",
+   "Zhi-Da Song"
+  ],
+  "date": "2021-08-11",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2108.02279",
+  "title": "Quasi-symmetry protected topology in a semi-metal",
+  "authors": [
+   "Chunyu Guo",
+   "Lunhui Hu",
+   "Carsten Putzke",
+   "Jonas Diaz",
+   "Xiangwei Huang",
+   "Kaustuv Manna",
+   "Feng-Ren Fan",
+   "Chandra Shekhar",
+   "Yan Sun",
+   "Claudia Felser",
+   "Chaoxing Liu",
+   "B. Andrei Bernevig",
+   "Philip J. W. Moll"
+  ],
+  "date": "2021-08-04",
+  "journal": "",
+  "doi": "10.1038/s41567-022-01604-0"
+ },
+ {
+  "id": "2107.13556",
+  "title": "Non-Compact Atomic Insulators",
+  "authors": [
+   "Frank Schindler",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2021-07-28",
+  "journal": "Phys. Rev. B 104, L201114 (2021)",
+  "doi": "10.1103/PhysRevB.104.L201114"
+ },
+ {
+  "id": "2107.00647",
+  "title": "Topology invisible to eigenvalues in obstructed atomic insulators",
+  "authors": [
+   "Jennifer Cano",
+   "L. Elcoro",
+   "M. I. Aroyo",
+   "B. Andrei Bernevig",
+   "Barry Bradlyn"
+  ],
+  "date": "2021-07-01",
+  "journal": "",
+  "doi": "10.1103/PhysRevB.105.125115"
+ },
+ {
+  "id": "2106.14905",
+  "title": "TSTG II: Projected Hartree-Fock Study of Twisted Symmetric Trilayer Graphene",
+  "authors": [
+   "Fang Xie",
+   "Nicolas Regnault",
+   "Dumitru Călugăru",
+   "B. Andrei Bernevig",
+   "Biao Lian"
+  ],
+  "date": "2021-06-28",
+  "journal": "Phys. Rev. B 104, 115167 (2021)",
+  "doi": "10.1103/PhysRevB.104.115167"
+ },
+ {
+  "id": "2106.10276",
+  "title": "Filling-Enforced Obstructed Atomic Insulators",
+  "authors": [
+   "Yuanfeng Xu",
+   "Luis Elcoro",
+   "Zhi-Da Song",
+   "M. G. Vergniory",
+   "Claudia Felser",
+   "Stuart S. P. Parkin",
+   "Nicolas Regnault",
+   "Juan L. Mañes",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2021-06-17",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2106.05287",
+  "title": "Catalogue of Flat-Band Stoichiometric Materials",
+  "authors": [
+   "Nicolas Regnault",
+   "Yuanfeng Xu",
+   "Ming-Rui Li",
+   "Da-Shuai Ma",
+   "Milena Jovanovic",
+   "Ali Yazdani",
+   "Stuart S. P. Parkin",
+   "Claudia Felser",
+   "Leslie M. Schoop",
+   "N. Phuan Ong",
+   "Robert J. Cava",
+   "Luis Elcoro",
+   "Zhi-Da Song",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2021-06-09",
+  "journal": "Nature 603, 824-828 (2022)",
+  "doi": "10.1038/s41586-022-04519-1"
+ },
+ {
+  "id": "2106.05272",
+  "title": "General Construction and Topological Classification of All Magnetic and Non-Magnetic Flat Bands",
+  "authors": [
+   "Dumitru Călugăru",
+   "Aaron Chew",
+   "Luis Elcoro",
+   "Nicolas Regnault",
+   "Zhi-Da Song",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2021-06-09",
+  "journal": "Nature Physics (2021)",
+  "doi": "10.1038/s41567-021-01445-3"
+ },
+ {
+  "id": "2106.00709",
+  "title": "Topological Materials Discovery from Crystal Symmetry",
+  "authors": [
+   "Benjamin J. Wieder",
+   "Barry Bradlyn",
+   "Jennifer Cano",
+   "Zhijun Wang",
+   "Maia G. Vergniory",
+   "Luis Elcoro",
+   "Alexey A. Soluyanov",
+   "Claudia Felser",
+   "Titus Neupert",
+   "Nicolas Regnault",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2021-06-01",
+  "journal": "Nature Reviews Materials 7, 196 (2022)",
+  "doi": "10.1038/s41578-021-00380-2"
+ },
+ {
+  "id": "2105.09954",
+  "title": "All Topological Bands of All Nonmagnetic Stoichiometric Materials",
+  "authors": [
+   "Maia G. Vergniory",
+   "Benjamin J. Wieder",
+   "Luis Elcoro",
+   "Stuart S. P. Parkin",
+   "Claudia Felser",
+   "B. Andrei Bernevig",
+   "Nicolas Regnault"
+  ],
+  "date": "2021-05-20",
+  "journal": "Science 376, 6595 (2022)",
+  "doi": "10.1126/science.abg9094"
+ },
+ {
+  "id": "2104.01145",
+  "title": "Cascades between light and heavy fermions in the normal state of magic angle twisted bilayer graphene",
+  "authors": [
+   "Jian Kang",
+   "B. Andrei Bernevig",
+   "Oskar Vafek"
+  ],
+  "date": "2021-04-02",
+  "journal": "",
+  "doi": "10.1103/PhysRevLett.127.266402"
+ },
+ {
+  "id": "2102.06201",
+  "title": "TSTG I: Single-Particle and Many-Body Hamiltonians and Hidden Non-local Symmetries of Trilayer Moiré Systems with and without Displacement Field",
+  "authors": [
+   "Dumitru Călugăru",
+   "Fang Xie",
+   "Zhi-Da Song",
+   "Biao Lian",
+   "Nicolas Regnault",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2021-02-11",
+  "journal": "Phys. Rev. B 103, 195411 (2021)",
+  "doi": "10.1103/PhysRevB.103.195411"
+ },
+ {
+  "id": "2102.04479",
+  "title": "Open Momentum Space Method for Hofstadter Butterfly and the Quantized Lorentz Susceptibility",
+  "authors": [
+   "Biao Lian",
+   "Fang Xie",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2021-02-08",
+  "journal": "Phys. Rev. B 103, 161405 (2021)",
+  "doi": "10.1103/PhysRevB.103.L161405"
+ },
+ {
+  "id": "2101.04934",
+  "title": "An $O(N)$ $Ab~initio$ Calculation Scheme for Large-Scale Moiré Structures",
+  "authors": [
+   "Tan Zhang",
+   "Nicolas Regnault",
+   "B. Andrei Bernevig",
+   "Xi Dai",
+   "Hongming Weng"
+  ],
+  "date": "2021-01-13",
+  "journal": "",
+  "doi": "10.1103/PhysRevB.105.125127"
+ },
+ {
+  "id": "2101.03621",
+  "title": "Bulk and Edge Properties of Twisted Double-Bilayer Graphene",
+  "authors": [
+   "Yimeng Wang",
+   "Jonah Herzog-Arbeitman",
+   "G. William Burg",
+   "Jihang Zhu",
+   "Kenji Watanabe",
+   "Takashi Taniguchi",
+   "Allan H. MacDonald",
+   "B. Andrei Bernevig",
+   "Emanuel Tutuc"
+  ],
+  "date": "2021-01-10",
+  "journal": "",
+  "doi": "10.1038/s41567-021-01419-5"
+ },
+ {
+  "id": "2012.15126",
+  "title": "Competing zero-field Chern insulators in Superconducting Twisted Bilayer Graphene",
+  "authors": [
+   "Petr Stepanov",
+   "Ming Xie",
+   "Takashi Taniguchi",
+   "Kenji Watanabe",
+   "Xiaobo Lu",
+   "Allan H. MacDonald",
+   "B. Andrei Bernevig",
+   "Dmitri K. Efetov"
+  ],
+  "date": "2020-12-30",
+  "journal": "",
+  "doi": "10.1103/PhysRevLett.127.197701"
+ },
+ {
+  "id": "2010.13796",
+  "title": "Delocalization Transition of Disordered Axion Insulator",
+  "authors": [
+   "Zhi-Da Song",
+   "Biao Lian",
+   "Raquel Queiroz",
+   "Roni Ilan",
+   "B. Andrei Bernevig",
+   "Ady Stern"
+  ],
+  "date": "2020-10-26",
+  "journal": "Phys. Rev. Lett. 127, 016602 (2021)",
+  "doi": "10.1103/PhysRevLett.127.016602"
+ },
+ {
+  "id": "2010.11953",
+  "title": "Fragile topology in line-graph lattices with two, three, or four gapped flat bands",
+  "authors": [
+   "Christie S. Chiu",
+   "Da-Shuai Ma",
+   "Zhi-Da Song",
+   "B. Andrei Bernevig",
+   "Andrew A. Houck"
+  ],
+  "date": "2020-10-22",
+  "journal": "Phys. Rev. Research 2, 043414 (2020)",
+  "doi": "10.1103/PhysRevResearch.2.043414"
+ },
+ {
+  "id": "2010.09728",
+  "title": "Fractional Chiral Hinge Insulator",
+  "authors": [
+   "Anna Hackenbroich",
+   "Ana Hudomal",
+   "Norbert Schuch",
+   "B. Andrei Bernevig",
+   "Nicolas Regnault"
+  ],
+  "date": "2020-10-19",
+  "journal": "Phys. Rev. B 103, 161110 (2021)",
+  "doi": "10.1103/PhysRevB.103.L161110"
+ },
+ {
+  "id": "2010.05390",
+  "title": "Evidence for a Monolayer Excitonic Insulator",
+  "authors": [
+   "Yanyu Jia",
+   "Pengjie Wang",
+   "Cheng-Li Chiu",
+   "Zhida Song",
+   "Guo Yu",
+   "Berthold Jäck",
+   "Shiming Lei",
+   "Sebastian Klemenz",
+   "F. Alexandre Cevallos",
+   "Michael Onyszczak",
+   "Nadezhda Fishchenko",
+   "Xiaomeng Liu",
+   "Gelareh Farahi",
+   "Fang Xie",
+   "Yuanfeng Xu",
+   "Kenji Watanabe",
+   "Takashi Taniguchi",
+   "B. Andrei Bernevig",
+   "Robert J. Cava",
+   "Leslie M. Schoop",
+   "Ali Yazdani",
+   "Sanfeng Wu"
+  ],
+  "date": "2020-10-12",
+  "journal": "",
+  "doi": "10.1038/s41567-021-01422-w"
+ },
+ {
+  "id": "2010.00598",
+  "title": "Magnetic Topological Quantum Chemistry",
+  "authors": [
+   "Luis Elcoro",
+   "Benjamin J. Wieder",
+   "Zhida Song",
+   "Yuanfeng Xu",
+   "Barry Bradlyn",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2020-10-01",
+  "journal": "Nat. Commun. 12, 5965 (2021)",
+  "doi": "10.1038/s41467-021-26241-8"
+ },
+ {
+  "id": "2010.00588",
+  "title": "Twisted bilayer graphene.VI. An Exact Diagonalization Study of Twisted Bilayer Graphene at Non-Zero Integer Fillings",
+  "authors": [
+   "Fang Xie",
+   "Aditya Cowsik",
+   "Zhi-Da Song",
+   "Biao Lian",
+   "B. Andrei Bernevig",
+   "Nicolas Regnault"
+  ],
+  "date": "2020-10-01",
+  "journal": "Phys. Rev. B 103, 205416 (2021)",
+  "doi": "10.1103/PhysRevB.103.205416"
+ },
+ {
+  "id": "2009.14200",
+  "title": "Twisted Bilayer Graphene V: Exact Analytic Many-Body Excitations in Twisted Bilayer Graphene Coulomb Hamiltonians: Charge Gap, Goldstone Modes and Absence of Cooper Pairing",
+  "authors": [
+   "B. Andrei Bernevig",
+   "Biao Lian",
+   "Aditya Cowsik",
+   "Fang Xie",
+   "Nicolas Regnault",
+   "Zhi-Da Song"
+  ],
+  "date": "2020-09-29",
+  "journal": "Phys. Rev. B 103, 205415 (2021)",
+  "doi": "10.1103/PhysRevB.103.205415"
+ },
+ {
+  "id": "2009.13530",
+  "title": "Twisted Bilayer Graphene IV. Exact Insulator Ground States and Phase Diagram",
+  "authors": [
+   "Biao Lian",
+   "Zhi-Da Song",
+   "Nicolas Regnault",
+   "Dmitri K. Efetov",
+   "Ali Yazdani",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2020-09-28",
+  "journal": "Phys. Rev. B 103, 205414 (2021)",
+  "doi": "10.1103/PhysRevB.103.205414"
+ },
+ {
+  "id": "2009.12376",
+  "title": "Twisted bilayer graphene III. Interacting Hamiltonian and exact symmetries",
+  "authors": [
+   "B. Andrei Bernevig",
+   "Zhi-Da Song",
+   "Nicolas Regnault",
+   "Biao Lian"
+  ],
+  "date": "2020-09-25",
+  "journal": "Phys. Rev. B 103, 205413 (2021)",
+  "doi": "10.1103/PhysRevB.103.205413"
+ },
+ {
+  "id": "2009.11872",
+  "title": "Twisted bilayer graphene. II. Stable symmetry anomaly",
+  "authors": [
+   "Zhi-Da Song",
+   "Biao Lian",
+   "Nicolas Regnault",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2020-09-24",
+  "journal": "Phys. Rev. B 103, 205412 (2021)",
+  "doi": "10.1103/PhysRevB.103.205412"
+ },
+ {
+  "id": "2009.11301",
+  "title": "Twisted bilayer graphene I. Matrix elements, approximations, perturbation theory and a $k\\cdot p$ 2-Band model",
+  "authors": [
+   "B. Andrei Bernevig",
+   "Zhi-Da Song",
+   "Nicolas Regnault",
+   "Biao Lian"
+  ],
+  "date": "2020-09-23",
+  "journal": "Phys. Rev. B 103, 205411 (2021)",
+  "doi": "10.1103/PhysRevB.103.205411"
+ },
+ {
+  "id": "2008.08231",
+  "title": "Spin-Orbit-Induced Topological Flat Bands in Line and Split Graphs of Bipartite Lattices",
+  "authors": [
+   "Da-Shuai Ma",
+   "Yuanfeng Xu",
+   "Christie S. Chiu",
+   "Nicolas Regnault",
+   "Andrew A. Houck",
+   "Zhida Song",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2020-08-19",
+  "journal": "Phys. Rev. Lett. 125, 266403 (2020)",
+  "doi": "10.1103/PhysRevLett.125.266403"
+ },
+ {
+  "id": "2008.02288",
+  "title": "Fragile topology and flat-band superconductivity in the strong-coupling regime",
+  "authors": [
+   "Valerio Peri",
+   "Zhida Song",
+   "B. Andrei Bernevig",
+   "Sebastian D. Huber"
+  ],
+  "date": "2020-08-05",
+  "journal": "Phys. Rev. Lett. 126, 027002 (2021)",
+  "doi": "10.1103/PhysRevLett.126.027002"
+ },
+ {
+  "id": "2007.13390",
+  "title": "Symmetry broken Chern insulators and magic series of Rashba-like Landau level crossings in magic angle bilayer graphene",
+  "authors": [
+   "Ipsita Das",
+   "Xiaobo Lu",
+   "Jonah Herzog-Arbeitman",
+   "Zhi-Da Song",
+   "Kenji Watanabe",
+   "Takashi Taniguchi",
+   "B. Andrei Bernevig",
+   "Dmitri K. Efetov"
+  ],
+  "date": "2020-07-27",
+  "journal": "",
+  "doi": "10.1038/s41567-021-01186-3"
+ },
+ {
+  "id": "2007.12571",
+  "title": "Crystalline symmetry-protected non-trivial topology in prototype compound BaAl$_4$",
+  "authors": [
+   "Kefeng Wang",
+   "Ryo Mori",
+   "Zhijun Wang",
+   "Limin Wang",
+   "Jonathan Han Son Ma",
+   "Drew W. Latzke",
+   "David E. Graf",
+   "Jonathan D. Denlinger",
+   "Daniel Campbell",
+   "B. Andrei Bernevig",
+   "Alessandra Lanzara",
+   "Johnpierre Paglione"
+  ],
+  "date": "2020-07-24",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2007.06556",
+  "title": "Colossal magnetoresistance in a nonsymmorphic antiferromagnetic insulator",
+  "authors": [
+   "P. F. S. Rosa",
+   "Yuanfeng Xu",
+   "S. K. Kushwaha",
+   "J. C. Souza",
+   "M. C. Rahn",
+   "L. S. I. Veiga",
+   "A. Bombardi",
+   "S. M. Thomas",
+   "M. Janoschek",
+   "E. D. Bauer",
+   "M. K. Chan",
+   "Zhijun Wang",
+   "J. D. Thompson",
+   "P. G. Pagliuso",
+   "N. Harrison",
+   "B. A. Bernevig",
+   "F. Ronning"
+  ],
+  "date": "2020-07-13",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "2007.04353",
+  "title": "Observation of backscattering induced by magnetism in a topological edge state",
+  "authors": [
+   "Berthold Jäck",
+   "Yonglong Xie",
+   "B. Andrei Bernevig",
+   "Ali Yazdani"
+  ],
+  "date": "2020-07-08",
+  "journal": "Proceedings of the National Academy of Sciences, 202005071 (2020)",
+  "doi": "10.1073/pnas.2005071117"
+ },
+ {
+  "id": "2007.03810",
+  "title": "Strongly Correlated Chern Insulators in Magic-Angle Twisted Bilayer Graphene",
+  "authors": [
+   "Kevin P. Nuckolls",
+   "Myungchul Oh",
+   "Dillon Wong",
+   "Biao Lian",
+   "Kenji Watanabe",
+   "Takashi Taniguchi",
+   "B. Andrei Bernevig",
+   "Ali Yazdani"
+  ],
+  "date": "2020-07-07",
+  "journal": "Nature 588, 610-615 (2020)",
+  "doi": "10.1038/s41586-020-3028-8"
+ },
+ {
+  "id": "2006.14000",
+  "title": "Emergent Symmetry and Valley Chern Insulator in Twisted Double-Bilayer Graphene",
+  "authors": [
+   "Yimeng Wang",
+   "G. William Burg",
+   "Biao Lian",
+   "Kenji Watanabe",
+   "Takashi Taniguchi",
+   "B. Andrei Bernevig",
+   "Emanuel Tutuc"
+  ],
+  "date": "2020-06-24",
+  "journal": "Phys. Rev. Lett. 133, 246401 (2024)",
+  "doi": "10.1103/PhysRevLett.133.246401"
+ },
+ {
+  "id": "2006.13963",
+  "title": "Multiple Flat Bands and Topological Hofstadter Butterfly in Twisted Bilayer Graphene Close to the Second Magic Angle",
+  "authors": [
+   "Xiaobo Lu",
+   "Biao Lian",
+   "Gaurav Chaudhary",
+   "Benjamin A. Piot",
+   "Giulio Romagnoli",
+   "Kenji Watanabe",
+   "Takashi Taniguchi",
+   "Martino Poggio",
+   "Allan H. MacDonald",
+   "B. Andrei Bernevig",
+   "Dmitri K. Efetov"
+  ],
+  "date": "2020-06-24",
+  "journal": "",
+  "doi": "10.1073/pnas.2100006118"
+ },
+ {
+  "id": "2006.13938",
+  "title": "Hofstadter Topology: Non-crystalline Topological Materials at High Flux",
+  "authors": [
+   "Jonah Herzog-Arbeitman",
+   "Zhi-Da Song",
+   "Nicolas Regnault",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2020-06-24",
+  "journal": "Phys. Rev. Lett. 125, 236804 (2020)",
+  "doi": "10.1103/PhysRevLett.125.236804"
+ },
+ {
+  "id": "2006.12502",
+  "title": "Six-fold Excitations in Electrides",
+  "authors": [
+   "Simin Nie",
+   "B. Andrei Bernevig",
+   "Zhijun Wang"
+  ],
+  "date": "2020-06-22",
+  "journal": "Phys. Rev. Research 3, 012028 (2021)",
+  "doi": "10.1103/PhysRevResearch.3.L012028"
+ },
+ {
+  "id": "2004.13727",
+  "title": "Eta-Pairing in Hubbard Models: From Spectrum Generating Algebras to Quantum Many-Body Scars",
+  "authors": [
+   "Sanjay Moudgalya",
+   "Nicolas Regnault",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2020-04-28",
+  "journal": "Phys. Rev. B 102, 085140 (2020)",
+  "doi": "10.1103/PhysRevB.102.085140"
+ },
+ {
+  "id": "2003.00994",
+  "title": "Machine learning spectral indicators of topology",
+  "authors": [
+   "Nina Andrejevic",
+   "Jovana Andrejevic",
+   "B. Andrei Bernevig",
+   "Nicolas Regnault",
+   "Fei Han",
+   "Gilberto Fabbris",
+   "Thanh Nguyen",
+   "Nathan C. Drucker",
+   "Chris H. Rycroft",
+   "Mingda Li"
+  ],
+  "date": "2020-03-02",
+  "journal": "",
+  "doi": "10.1002/adma.202204113"
+ },
+ {
+  "id": "2003.00012",
+  "title": "High-throughput calculations of magnetic topological materials",
+  "authors": [
+   "Yuanfeng Xu",
+   "Luis Elcoro",
+   "Zhida Song",
+   "Benjamin J. Wieder",
+   "M. G. Vergniory",
+   "Nicolas Regnault",
+   "Yulin Chen",
+   "Claudia Felser",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2020-02-28",
+  "journal": "Nature 586 (2020) 702-707",
+  "doi": "10.1038/s41586-020-2837-0"
+ },
+ {
+  "id": "2002.11725",
+  "title": "Large Classes of Quantum Scarred Hamiltonians from Matrix Product States",
+  "authors": [
+   "Sanjay Moudgalya",
+   "Edward O'Brien",
+   "B. Andrei Bernevig",
+   "Paul Fendley",
+   "Nicolas Regnault"
+  ],
+  "date": "2020-02-26",
+  "journal": "Phys. Rev. B 102, 085120 (2020)",
+  "doi": "10.1103/PhysRevB.102.085120"
+ },
+ {
+  "id": "2002.03836",
+  "title": "Application of the induction procedure and the Smith Decomposition in the calculation and topological classification of electronic band structures in the 230 space groups",
+  "authors": [
+   "Luis Elcoro",
+   "Zhida Song",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2020-02-07",
+  "journal": "Phys. Rev. B 102, 035110 (2020)",
+  "doi": "10.1103/PhysRevB.102.035110"
+ },
+ {
+  "id": "1912.08219",
+  "title": "Fermionic tensor networks for higher order topological insulators from charge pumping",
+  "authors": [
+   "Anna Hackenbroich",
+   "B. Andrei Bernevig",
+   "Norbert Schuch",
+   "Nicolas Regnault"
+  ],
+  "date": "2019-12-17",
+  "journal": "Phys. Rev. B 101, 115134 (2020)",
+  "doi": "10.1103/PhysRevB.101.115134"
+ },
+ {
+  "id": "1912.06145",
+  "title": "Cascade of electronic transitions in magic-angle twisted bilayer graphene",
+  "authors": [
+   "Dillon Wong",
+   "Kevin P. Nuckolls",
+   "Myungchul Oh",
+   "Biao Lian",
+   "Yonglong Xie",
+   "Sangjun Jeon",
+   "Kenji Watanabe",
+   "Takashi Taniguchi",
+   "B. Andrei Bernevig",
+   "Ali Yazdani"
+  ],
+  "date": "2019-12-12",
+  "journal": "Nature 582, 198-202 (2020)",
+  "doi": "10.1038/s41586-020-2339-0"
+ },
+ {
+  "id": "1910.14048",
+  "title": "Thermalization and its absence within Krylov subspaces of a constrained Hamiltonian",
+  "authors": [
+   "Sanjay Moudgalya",
+   "Abhinav Prem",
+   "Rahul Nandkishore",
+   "Nicolas Regnault",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2019-10-30",
+  "journal": "Memorial Volume for Shoucheng Zhang. September 2021, 147-209",
+  "doi": "10.1142/9789811231711_0009"
+ },
+ {
+  "id": "1910.13454",
+  "title": "Multi-Layer Restricted Boltzmann Machine Representation of 1D Quantum Many-Body Wave Functions",
+  "authors": [
+   "Huan He",
+   "Yunqin Zheng",
+   "B. Andrei Bernevig",
+   "German Sierra"
+  ],
+  "date": "2019-10-29",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "1910.10161",
+  "title": "Detection of Topological Materials with Machine Learning",
+  "authors": [
+   "Nikolas Claussen",
+   "B. Andrei Bernevig",
+   "Nicolas Regnault"
+  ],
+  "date": "2019-10-22",
+  "journal": "Phys. Rev. B 101, 245117 (2020)",
+  "doi": "10.1103/PhysRevB.101.245117"
+ },
+ {
+  "id": "1910.06869",
+  "title": "Real Space Invariants: Twisted Bulk-Boundary Correspondence of Fragile Topology",
+  "authors": [
+   "Zhi-Da Song",
+   "Luis Elcoro",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2019-10-15",
+  "journal": "",
+  "doi": "10.1126/science.aaz7650"
+ },
+ {
+  "id": "1910.06868",
+  "title": "Experimental characterization of fragile topology in an acoustic metamaterial",
+  "authors": [
+   "Valerio Peri",
+   "Zhi-Da Song",
+   "Marc Serra-Garcia",
+   "Pascal Engeler",
+   "Raquel Queiroz",
+   "Xueqin Huang",
+   "Weiyin Deng",
+   "Zhengyou Liu",
+   "B. Andrei Bernevig",
+   "Sebastian D. Huber"
+  ],
+  "date": "2019-10-15",
+  "journal": "Science 367, 797 (2020)",
+  "doi": "10.1126/science.aaz7654"
+ },
+ {
+  "id": "1909.04037",
+  "title": "A Charge-Density-Wave Topological Semimetal",
+  "authors": [
+   "Wujun Shi",
+   "Benjamin J. Wieder",
+   "H. L. Meyerheim",
+   "Yan Sun",
+   "Yang Zhang",
+   "Yiwei Li",
+   "Lei Shen",
+   "Yanpeng Qi",
+   "Lexian Yang",
+   "Jagannath Jena",
+   "Peter Werner",
+   "Klaus Koepernik",
+   "Stuart Parkin",
+   "Yulin Chen",
+   "Claudia Felser",
+   "B. Andrei Bernevig",
+   "Zhijun Wang"
+  ],
+  "date": "2019-09-09",
+  "journal": "Nat. Phys. 17, 381-387 (2021)",
+  "doi": "10.1038/s41567-020-01104-z"
+ },
+ {
+  "id": "1908.01155",
+  "title": "Topological Lifshitz Transitions and Fermi Arc Manipulation in Weyl Semimetal NbAs",
+  "authors": [
+   "H. F. Yang",
+   "L. X. Yang",
+   "Z. K. Liu",
+   "Y. Sun",
+   "C. Chen",
+   "H. Peng",
+   "M. Schmidt",
+   "D. Prabhakaran",
+   "B. A. Bernevig",
+   "C. Felser",
+   "B. H. Yan",
+   "Y. L. Chen"
+  ],
+  "date": "2019-08-03",
+  "journal": "Nature Communications 10, 3478 (2019). Link: https://www.nature.com/articles/s41467-019-11491-4",
+  "doi": "10.1038/s41467-019-11491-4"
+ },
+ {
+  "id": "1908.00016",
+  "title": "Strong and Fragile Topological Dirac Semimetals with Higher-Order Fermi Arcs",
+  "authors": [
+   "Benjamin J. Wieder",
+   "Zhijun Wang",
+   "Jennifer Cano",
+   "Xi Dai",
+   "Leslie M. Schoop",
+   "Barry Bradlyn",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2019-07-31",
+  "journal": "Nat. Commun. 11, 627 (2020)",
+  "doi": "10.1038/s41467-020-14443-5"
+ },
+ {
+  "id": "1906.10133",
+  "title": "Observation of a Majorana zero mode in a topologically protected edge channel",
+  "authors": [
+   "Berthold Jäck",
+   "Yonglong Xie",
+   "Jian Li",
+   "Sangjun Jeon",
+   "B. Andrei Bernevig",
+   "Ali Yazdani"
+  ],
+  "date": "2019-06-24",
+  "journal": "Science, 13 Jun 2019, (10.1126/science.aax1444)",
+  "doi": "10.1126/science.aax1444"
+ },
+ {
+  "id": "1906.09274",
+  "title": "Spectroscopic signatures of many-body correlations in magic angle twisted bilayer graphene",
+  "authors": [
+   "Yonglong Xie",
+   "Biao Lian",
+   "Berthold Jäck",
+   "Xiaomeng Liu",
+   "Cheng-Li Chiu",
+   "Kenji Watanabe",
+   "Takashi Taniguchi",
+   "B. Andrei Bernevig",
+   "Ali Yazdani"
+  ],
+  "date": "2019-06-21",
+  "journal": "Nature 572, 101 (2019)",
+  "doi": "10.1038/s41586-019-1422-x"
+ },
+ {
+  "id": "1906.05292",
+  "title": "Quantum Many-body Scars in a Landau Level on a Thin Torus",
+  "authors": [
+   "Sanjay Moudgalya",
+   "B. Andrei Bernevig",
+   "Nicolas Regnault"
+  ],
+  "date": "2019-06-12",
+  "journal": "Phys. Rev. B 102, 195150 (2020)",
+  "doi": "10.1103/PhysRevB.102.195150"
+ },
+ {
+  "id": "1906.04510",
+  "title": "Evidence for an axionic charge density wave in the Weyl semimetal (TaSe4)2I",
+  "authors": [
+   "Johannes Gooth",
+   "Barry Bradlyn",
+   "Shashank Honnali",
+   "Clemens Schindler",
+   "Nitesh Kumar",
+   "Jonathan Noky",
+   "Yangpeng Qi",
+   "Chandra Shekhar",
+   "Yan Sun",
+   "Zhijun Wang",
+   "Bogdan Andrei Bernevig",
+   "Claudia Felser"
+  ],
+  "date": "2019-06-11",
+  "journal": "Nature 575, 315--319 (2019)",
+  "doi": "10.1038/s41586-019-1630-4"
+ },
+ {
+  "id": "1906.02213",
+  "title": "Topology-Bounded Superfluid Weight In Twisted Bilayer Graphene",
+  "authors": [
+   "Fang Xie",
+   "Zhida Song",
+   "Biao Lian",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2019-06-05",
+  "journal": "Phys. Rev. Lett. 124, 167002 (2020)",
+  "doi": "10.1103/PhysRevLett.124.167002"
+ },
+ {
+  "id": "1905.11421",
+  "title": "`Unhinging' the surfaces of higher-order topological insulators and superconductors",
+  "authors": [
+   "Apoorv Tiwari",
+   "Ming-Hao Li",
+   "B. A. Bernevig",
+   "Titus Neupert",
+   "S. A. Parameswaran"
+  ],
+  "date": "2019-05-27",
+  "journal": "Phys. Rev. Lett. 124, 046801 (2020)",
+  "doi": "10.1103/PhysRevLett.124.046801"
+ },
+ {
+  "id": "1905.03262",
+  "title": "Fragile Phases As Affine Monoids: Classification and Material Examples",
+  "authors": [
+   "Zhida Song",
+   "L. Elcoro",
+   "Nicolas Regnault",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2019-05-08",
+  "journal": "Phys. Rev. X 10, 031001 (2020)",
+  "doi": "10.1103/PhysRevX.10.031001"
+ },
+ {
+  "id": "1902.10722",
+  "title": "Glide-resolved photoemission spectroscopy: Measuring topological invariants in nonsymmorphic space groups",
+  "authors": [
+   "A. Alexandradinata",
+   "Zhijun Wang",
+   "B. Andrei Bernevig",
+   "Michael Zaletel"
+  ],
+  "date": "2019-02-27",
+  "journal": "Phys. Rev. B 101, 235166 (2020)",
+  "doi": "10.1103/PhysRevB.101.235166"
+ },
+ {
+  "id": "1901.05469",
+  "title": "Flat bands and perfect metal in trilayer moiré graphene",
+  "authors": [
+   "Christophe Mora",
+   "Nicolas Regnault",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2019-01-16",
+  "journal": "Phys. Rev. Lett. 123, 026402 (2019)",
+  "doi": "10.1103/PhysRevLett.123.026402"
+ },
+ {
+  "id": "1812.11912",
+  "title": "A gap-protected zero-Hall effect state in the quantum limit of the nonsymmorphic metal KHgSb",
+  "authors": [
+   "Sihang Liang",
+   "Satya Kushwaha",
+   "Tong Gao",
+   "Max Hirschberger",
+   "Jian Li",
+   "Zhijun Wang",
+   "Karoline Stolze",
+   "Brian Skinner",
+   "B. A. Bernevig",
+   "R. J. Cava",
+   "and N. P. Ong"
+  ],
+  "date": "2018-12-31",
+  "journal": "Nature Materials (2019)",
+  "doi": "10.1038/s41563-019-0303-x"
+ },
+ {
+  "id": "1812.08171",
+  "title": "Restricted Boltzmann Machines and Matrix Product States of 1D Translational Invariant Stabilizer Codes",
+  "authors": [
+   "Yunqin Zheng",
+   "Huan He",
+   "Nicolas Regnault",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2018-12-19",
+  "journal": "Phys. Rev. B 99, 155129 (2019)",
+  "doi": "10.1103/PhysRevB.99.155129"
+ },
+ {
+  "id": "1811.11786",
+  "title": "The Landau Level of Fragile Topology",
+  "authors": [
+   "Biao Lian",
+   "Fang Xie",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2018-11-28",
+  "journal": "Phys. Rev. B 102, 041402 (2020)",
+  "doi": "10.1103/PhysRevB.102.041402"
+ },
+ {
+  "id": "1810.12963",
+  "title": "Three-dimensional superconductors with hybrid higher order topology",
+  "authors": [
+   "Nick Bultinck",
+   "B. Andrei Bernevig",
+   "Michael P. Zaletel"
+  ],
+  "date": "2018-10-30",
+  "journal": "Phys. Rev. B 99, 125149 (2019)",
+  "doi": "10.1103/PhysRevB.99.125149"
+ },
+ {
+  "id": "1810.02373",
+  "title": "The Axion Insulator as a Pump of Fragile Topology",
+  "authors": [
+   "Benjamin J. Wieder",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2018-10-04",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "1807.10676",
+  "title": "All \"Magic Angles\" Are \"Stable\" Topological",
+  "authors": [
+   "Zhida Song",
+   "Zhijun Wang",
+   "Wujun Shi",
+   "Gang Li",
+   "Chen Fang",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2018-07-27",
+  "journal": "Phys. Rev. Lett. 123, 036401 (2019)",
+  "doi": "10.1103/PhysRevLett.123.036401"
+ },
+ {
+  "id": "1807.10271",
+  "title": "The (High Quality) Topological Materials In The World",
+  "authors": [
+   "M. G. Vergniory",
+   "L. Elcoro",
+   "C. Felser",
+   "N. Regnault",
+   "B. A. Bernevig",
+   "Z. Wang"
+  ],
+  "date": "2018-07-26",
+  "journal": "Nature 566, 480-485 (2019)",
+  "doi": "10.1038/s41586-019-0954-4"
+ },
+ {
+  "id": "1807.09729",
+  "title": "Disconnected Elementary Band Representations, Fragile Topology, and Wilson Loops as Topological Indices: An Example on the Triangular Lattice",
+  "authors": [
+   "Barry Bradlyn",
+   "Zhijun Wang",
+   "Jennifer Cano",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2018-07-25",
+  "journal": "Phys. Rev. B 99, 045140 (2019)",
+  "doi": "10.1103/PhysRevB.99.045140"
+ },
+ {
+  "id": "1807.04382",
+  "title": "Twisted Bilayer Graphene: A Phonon Driven Superconductor",
+  "authors": [
+   "Biao Lian",
+   "Zhijun Wang",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2018-07-12",
+  "journal": "Phys. Rev. Lett. 122, 257002 (2019)",
+  "doi": "10.1103/PhysRevLett.122.257002"
+ },
+ {
+  "id": "1806.11116",
+  "title": "Higher-Order Topology, Monopole Nodal Lines, and the Origin of Large Fermi Arcs in Transition Metal Dichalcogenides XTe$_2$ (X=Mo,W)",
+  "authors": [
+   "Zhijun Wang",
+   "Benjamin J. Wieder",
+   "Jian Li",
+   "Binghai Yan",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2018-06-28",
+  "journal": "Phys. Rev. Lett. 123, 186401 (2019)",
+  "doi": "10.1103/PhysRevLett.123.186401"
+ },
+ {
+  "id": "1806.09624",
+  "title": "Entanglement of Exact Excited States of AKLT Models: Exact Results, Many-Body Scars and the Violation of Strong ETH",
+  "authors": [
+   "Sanjay Moudgalya",
+   "Nicolas Regnault",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2018-06-25",
+  "journal": "Phys. Rev. B 98, 235156 (2018)",
+  "doi": "10.1103/PhysRevB.98.235156"
+ },
+ {
+  "id": "1802.05278",
+  "title": "Matrix Product State description of the Halperin States",
+  "authors": [
+   "Valentin Crepel",
+   "Benoit Estienne",
+   "B. Andrei Bernevig",
+   "Philippe Lecheminant",
+   "Nicolas Regnault"
+  ],
+  "date": "2018-02-14",
+  "journal": "Phys. Rev. B 97, 165136 (2018)",
+  "doi": "10.1103/PhysRevB.97.165136"
+ },
+ {
+  "id": "1802.02585",
+  "title": "Higher-Order Topology in Bismuth",
+  "authors": [
+   "Frank Schindler",
+   "Zhijun Wang",
+   "Maia G. Vergniory",
+   "Ashley M. Cook",
+   "Anil Murani",
+   "Shamashis Sengupta",
+   "Alik Yu. Kasumov",
+   "Richard Deblock",
+   "Sangjun Jeon",
+   "Ilya Drozdov",
+   "Hélène Bouchiat",
+   "Sophie Guéron",
+   "Ali Yazdani",
+   "B. Andrei Bernevig",
+   "Titus Neupert"
+  ],
+  "date": "2018-02-07",
+  "journal": "Nature Physics 14, 918-924 (2018)",
+  "doi": "10.1038/s41567-018-0224-7"
+ },
+ {
+  "id": "1712.06712",
+  "title": "Temperature-Driven Topological Transition in 1T'-MoTe2",
+  "authors": [
+   "Ayelet Notis Berger",
+   "Erick Andrade",
+   "Alex Kerelsky",
+   "Drew Edelberg",
+   "Jian Li",
+   "Zhijun Wang",
+   "Lunyong Zhang",
+   "Jaewook Kim",
+   "Nader Zaki",
+   "Jose Avila",
+   "Chaoyu Chen",
+   "Maria C Asensio",
+   "Sang-Wook Cheong",
+   "Bogdan A. Bernevig",
+   "Abhay N. Pasupathy"
+  ],
+  "date": "2017-12-18",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "1711.11045",
+  "title": "Topology of Disconnected Elementary Band Representations",
+  "authors": [
+   "Jennifer Cano",
+   "Barry Bradlyn",
+   "Zhijun Wang",
+   "L. Elcoro",
+   "M. G. Vergniory",
+   "C. Felser",
+   "M. I. Aroyo",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2017-11-29",
+  "journal": "Phys. Rev. Lett. 120, 266401 (2018)",
+  "doi": "10.1103/PhysRevLett.120.266401"
+ },
+ {
+  "id": "1710.04662",
+  "title": "Distinguishing a Majorana zero mode using spin resolved measurements",
+  "authors": [
+   "Sangjun Jeon",
+   "Yonglong Xie",
+   "Jian Li",
+   "Zhijun Wang",
+   "B. Andrei Bernevig",
+   "Ali Yazdani"
+  ],
+  "date": "2017-10-12",
+  "journal": "Science, 12 October 2017 (10.1126/science.aan3670)",
+  "doi": "10.1126/science.aan3670"
+ },
+ {
+  "id": "1710.04220",
+  "title": "Entanglement Entropy From Tensor Network States for Stabilizer Codes",
+  "authors": [
+   "Huan He",
+   "Yunqin Zheng",
+   "B. Andrei Bernevig",
+   "Nicolas Regnault"
+  ],
+  "date": "2017-10-11",
+  "journal": "Phys. Rev. B 97, 125102 (2018)",
+  "doi": "10.1103/PhysRevB.97.125102"
+ },
+ {
+  "id": "1710.01747",
+  "title": "Structure of the Entanglement Entropy of (3+1)D Gapped Phases of Matter",
+  "authors": [
+   "Yunqin Zheng",
+   "Huan He",
+   "Barry Bradlyn",
+   "Jennifer Cano",
+   "Titus Neupert",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2017-10-04",
+  "journal": "Phys. Rev. B 97, 195118 (2018)",
+  "doi": "10.1103/PhysRevB.97.195118"
+ },
+ {
+  "id": "1709.05967",
+  "title": "The Majorana spin in magnetic atomic chain systems",
+  "authors": [
+   "Jian Li",
+   "Sangjun Jeon",
+   "Yonglong Xie",
+   "Ali Yazdani",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2017-09-18",
+  "journal": "Phys. Rev. B 97, 125119 (2018)",
+  "doi": "10.1103/PhysRevB.97.125119"
+ },
+ {
+  "id": "1709.01937",
+  "title": "Band Connectivity for Topological Quantum Chemistry: Band Structures As A Graph Theory Problem",
+  "authors": [
+   "Barry Bradlyn",
+   "L. Elcoro",
+   "M. G. Vergniory",
+   "Jennifer Cano",
+   "Zhijun Wang",
+   "C. Felser",
+   "M. I. Aroyo",
+   "B. A. Bernevig"
+  ],
+  "date": "2017-09-06",
+  "journal": "Phys. Rev. B 97, 035138 (2018)",
+  "doi": "10.1103/PhysRevB.97.035138"
+ },
+ {
+  "id": "1709.01935",
+  "title": "Building Blocks of Topological Quantum Chemistry: Elementary Band Representations",
+  "authors": [
+   "Jennifer Cano",
+   "Barry Bradlyn",
+   "Zhijun Wang",
+   "L. Elcoro",
+   "M. G. Vergniory",
+   "C. Felser",
+   "M. I. Aroyo",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2017-09-06",
+  "journal": "Phys. Rev. B 97, 035139 (2018)",
+  "doi": "10.1103/PhysRevB.97.035139"
+ },
+ {
+  "id": "1708.05021",
+  "title": "Exact Excited States of Non-Integrable Models",
+  "authors": [
+   "Sanjay Moudgalya",
+   "Stephan Rachel",
+   "B. Andrei Bernevig",
+   "Nicolas Regnault"
+  ],
+  "date": "2017-08-16",
+  "journal": "Phys. Rev. B 98, 235155 (2018)",
+  "doi": "10.1103/PhysRevB.98.235155"
+ },
+ {
+  "id": "1708.04230",
+  "title": "Electric Multipole Moments, Topological Multipole Moment Pumping, and Chiral Hinge States in Crystalline Insulators",
+  "authors": [
+   "Wladimir A. Benalcazar",
+   "B. Andrei Bernevig",
+   "Taylor L. Hughes"
+  ],
+  "date": "2017-08-14",
+  "journal": "Phys. Rev. B 96, 245115 (2017)",
+  "doi": "10.1103/PhysRevB.96.245115"
+ },
+ {
+  "id": "1708.03636",
+  "title": "Higher-Order Topological Insulators",
+  "authors": [
+   "Frank Schindler",
+   "Ashley M. Cook",
+   "Maia G. Vergniory",
+   "Zhijun Wang",
+   "Stuart S. P. Parkin",
+   "B. Andrei Bernevig",
+   "Titus Neupert"
+  ],
+  "date": "2017-08-11",
+  "journal": "Science Advances 01 Jun 2018: Vol. 4, no. 6, eaat0346",
+  "doi": "10.1126/sciadv.aat0346"
+ },
+ {
+  "id": "1706.08529",
+  "title": "Graph Theory Data for Topological Quantum Chemistry",
+  "authors": [
+   "M. G. Vergniory",
+   "L. Elcoro",
+   "Zhijun Wang",
+   "Jennifer Cano",
+   "C. Felser",
+   "M. I. Aroyo",
+   "B. Andrei Bernevig",
+   "Barry Bradlyn"
+  ],
+  "date": "2017-06-26",
+  "journal": "Phys. Rev. E 96, 023310 (2017)",
+  "doi": "10.1103/PhysRevE.96.023310"
+ },
+ {
+  "id": "1706.09272",
+  "title": "Double crystallographic groups and their representations on the Bilbao Crystallographic Server",
+  "authors": [
+   "Luis Elcoro",
+   "Barry Bradlyn",
+   "Zhijun Wang",
+   "Maia G. Vergniory",
+   "Jennifer Cano",
+   "Claudia Felser",
+   "B. Andrei Bernevig",
+   "Danel Orobengoa",
+   "Gemma de la Flor",
+   "Mois I. Aroyo"
+  ],
+  "date": "2017-06-26",
+  "journal": "J. Appl. Cryst. (2017). 50, 1457-1477",
+  "doi": "10.1107/S1600576717011712"
+ },
+ {
+  "id": "1705.01617",
+  "title": "Wallpaper Fermions and the Nonsymmorphic Dirac Insulator",
+  "authors": [
+   "Benjamin J. Wieder",
+   "Barry Bradlyn",
+   "Zhijun Wang",
+   "Jennifer Cano",
+   "Youngkuk Kim",
+   "Hyeong-Seok D. Kim",
+   "A. M. Rappe",
+   "C. L. Kane",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2017-05-03",
+  "journal": "Science, Vol. 361, Issue 6399, pp. 246-251 (2018)",
+  "doi": "10.1126/science.aan2802"
+ },
+ {
+  "id": "1703.02050",
+  "title": "Topological quantum chemistry",
+  "authors": [
+   "Barry Bradlyn",
+   "L. Elcoro",
+   "Jennifer Cano",
+   "M. G. Vergniory",
+   "Zhijun Wang",
+   "C. Felser",
+   "M. I. Aroyo",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2017-03-06",
+  "journal": "Nature 547, 298--305 (2017)",
+  "doi": "10.1038/nature23268"
+ },
+ {
+  "id": "1701.01944",
+  "title": "Topological crystalline superconductors with linearly and projectively represented $C_{n}$ symmetry",
+  "authors": [
+   "Chen Fang",
+   "B. Andrei Bernevig",
+   "Matthew J. Gilbert"
+  ],
+  "date": "2017-01-08",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "1611.07987",
+  "title": "Quantized Electric Multipole Insulators",
+  "authors": [
+   "Wladimir A. Benalcazar",
+   "B. Andrei Bernevig",
+   "Taylor L. Hughes"
+  ],
+  "date": "2016-11-23",
+  "journal": "Science, vol 357, no. 6346, pp 61-66, 2017",
+  "doi": "10.1126/science.aah6442"
+ },
+ {
+  "id": "1611.02707",
+  "title": "High-resolution studies of the Majorana atomic chain platform",
+  "authors": [
+   "Benjamin E. Feldman",
+   "Mallika T. Randeria",
+   "Jian Li",
+   "Sangjun Jeon",
+   "Yonglong Xie",
+   "Zhijun Wang",
+   "Ilya K. Drozdov",
+   "B. Andrei Bernevig",
+   "Ali Yazdani"
+  ],
+  "date": "2016-11-08",
+  "journal": "",
+  "doi": "10.1038/nphys3947"
+ },
+ {
+  "id": "1610.08983",
+  "title": "Z2Pack: Numerical Implementation of Hybrid Wannier Centers for Identifying Topological Materials",
+  "authors": [
+   "Dominik Gresch",
+   "Gabriel Autès",
+   "Oleg V. Yazyev",
+   "Matthias Troyer",
+   "David Vanderbilt",
+   "B. Andrei Bernevig",
+   "Alexey A. Soluyanov"
+  ],
+  "date": "2016-10-27",
+  "journal": "Phys. Rev. B 95, 075146 (2017)",
+  "doi": "10.1103/PhysRevB.95.075146"
+ },
+ {
+  "id": "1610.07197",
+  "title": "Imaging electronic states on topological semimetals using scanning tunneling microscopy",
+  "authors": [
+   "Andras Gyenis",
+   "Hiroyuki Inoue",
+   "Sangjun Jeon",
+   "Brian B. Zhou",
+   "Benjamin E. Feldman",
+   "Zhijun Wang",
+   "Jian Li",
+   "Shan Jiang",
+   "Quinn D. Gibson",
+   "Satya K. Kushwaha",
+   "Jason W. Krizan",
+   "Ni Ni",
+   "Robert J. Cava",
+   "B. Andrei Bernevig",
+   "Ali Yazdani"
+  ],
+  "date": "2016-10-23",
+  "journal": "New J. Phys. 18, 105003 (2016)",
+  "doi": "10.1088/1367-2630/18/10/105003"
+ },
+ {
+  "id": "1608.06639",
+  "title": "Entanglement of Exact Excited Eigenstates of the Hubbard Model in Arbitrary Dimension",
+  "authors": [
+   "Oskar Vafek",
+   "Nicolas Regnault",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2016-08-23",
+  "journal": "SciPost Phys. 3, 043 (2017)",
+  "doi": "10.21468/SciPostPhys.3.6.043"
+ },
+ {
+  "id": "1607.06457",
+  "title": "No-Go Theorem for Boson Condensation in Topologically Ordered Quantum Liquids",
+  "authors": [
+   "Titus Neupert",
+   "Huan He",
+   "Curt von Keyserlingk",
+   "German Sierra",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2016-07-21",
+  "journal": "",
+  "doi": "10.1088/1367-2630/18/12/123009"
+ },
+ {
+  "id": "1605.06824",
+  "title": "Experimental Discovery of the First Nonsymmorphic Topological Insulator KHgSb",
+  "authors": [
+   "J. -Z. Ma",
+   "C. -J. Yi",
+   "B. Q. Lv",
+   "Z. J. Wang",
+   "S. -M. Nie",
+   "L. Wang",
+   "L. -Y. Kong",
+   "Y. -B. Huang",
+   "P. Richard",
+   "H. -M. Weng",
+   "B. A. Bernevig",
+   "Y. -G. Shi",
+   "T. Qian",
+   "H. Ding"
+  ],
+  "date": "2016-05-22",
+  "journal": "Science Advances 3, e1602415 (2017)",
+  "doi": "10.1126/sciadv.1602415"
+ },
+ {
+  "id": "1604.08601",
+  "title": "The chiral anomaly factory: Creating Weyl fermions with a magnetic field",
+  "authors": [
+   "Jennifer Cano",
+   "Barry Bradlyn",
+   "Zhijun Wang",
+   "Max Hirschberger",
+   "N. P. Ong",
+   "B. A. Bernevig"
+  ],
+  "date": "2016-04-28",
+  "journal": "Phys. Rev. B 95, 161306 (2017)",
+  "doi": "10.1103/PhysRevB.95.161306"
+ },
+ {
+  "id": "1604.03952",
+  "title": "Topological Insulators from Group Cohomology",
+  "authors": [
+   "A. Alexandradinata",
+   "Zhijun Wang",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2016-04-13",
+  "journal": "Phys. Rev. X 6, 021008 (2016)",
+  "doi": "10.1103/PhysRevX.6.021008"
+ },
+ {
+  "id": "1604.00407",
+  "title": "Modular Anomalies in (2+1) and (3+1)-D Edge Theories",
+  "authors": [
+   "Moon Jip Park",
+   "Chen Fang",
+   "B. Andrei Bernevig",
+   "Matthew J. Gilbert"
+  ],
+  "date": "2016-04-01",
+  "journal": "Phys. Rev. B 95, 235130 (2017)",
+  "doi": "10.1103/PhysRevB.95.235130"
+ },
+ {
+  "id": "1603.03093",
+  "title": "Beyond Dirac and Weyl fermions: Unconventional quasiparticles in conventional crystals",
+  "authors": [
+   "Barry Bradlyn",
+   "Jennifer Cano",
+   "Zhijun Wang",
+   "M. G. Vergniory",
+   "C. Felser",
+   "R. J. Cava",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2016-03-09",
+  "journal": "Science 10.1126/science.aaf5037 (2016)",
+  "doi": "10.1126/science.aaf5037"
+ },
+ {
+  "id": "1603.03045",
+  "title": "Quasiparticle interference of the Fermi arcs and surface-bulk connectivity of a Weyl semimetal",
+  "authors": [
+   "Hiroyuki Inoue",
+   "Andras Gyenis",
+   "Zhijun Wang",
+   "Jian Li",
+   "Seong Woo Oh",
+   "Shan Jiang",
+   "Ni Ni",
+   "B. Andrei Bernevig",
+   "Ali Yazdani"
+  ],
+  "date": "2016-03-09",
+  "journal": "Science Vol. 351, Issue 6278, pp. 1184 (2016)",
+  "doi": "10.1126/science.aad8766"
+ },
+ {
+  "id": "1603.00479",
+  "title": "Time-Reversal-Breaking Weyl Fermions in Magnetic Heusler Alloys",
+  "authors": [
+   "Zhijun Wang",
+   "M. G. Vergniory",
+   "S. Kushwaha",
+   "Max Hirschberger",
+   "E. V. Chulkov",
+   "A. Ernst",
+   "N. P. Ong",
+   "Robert J. Cava",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2016-03-01",
+  "journal": "Phys. Rev. Lett. 117, 236401 (2016)",
+  "doi": "10.1103/PhysRevLett.117.236401"
+ },
+ {
+  "id": "1602.07219",
+  "title": "The chiral anomaly and thermopower of Weyl fermions in the half-Heusler GdPtBi",
+  "authors": [
+   "Max Hirschberger",
+   "Satya Kushwaha",
+   "Zhijun Wang",
+   "Quinn Gibson",
+   "Carina A. Belvin",
+   "B. A. Bernevig",
+   "R. J. Cava",
+   "N. P. Ong"
+  ],
+  "date": "2016-02-23",
+  "journal": "Nat. Mat. 15, 1161 (2016)",
+  "doi": "10.1038/nmat4684"
+ },
+ {
+  "id": "1602.05585",
+  "title": "Hourglass Fermions",
+  "authors": [
+   "Zhijun Wang",
+   "A. Alexandradinata",
+   "R. J. Cava",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2016-02-17",
+  "journal": "Nature 532, 189-194 (14 April 2016)",
+  "doi": "10.1038/nature17410"
+ },
+ {
+  "id": "1601.01320",
+  "title": "Boson Condensation in Topologically Ordered Quantum Liquids",
+  "authors": [
+   "Titus Neupert",
+   "Huan He",
+   "Curt von Keyserlingk",
+   "Germán Sierra",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2016-01-06",
+  "journal": "Phys. Rev. B 93, 115103 (2016)",
+  "doi": "10.1103/PhysRevB.93.115103"
+ },
+ {
+  "id": "1512.09143",
+  "title": "Shiba chains of scalar impurities on unconventional superconductors",
+  "authors": [
+   "Titus Neupert",
+   "Ali Yazdani",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2015-12-30",
+  "journal": "Phys. Rev. B 93, 094508 (2016)",
+  "doi": "10.1103/PhysRevB.93.094508"
+ },
+ {
+  "id": "1512.02646",
+  "title": "Universal signatures of Fermi arcs in quasiparticle interference on the surface of Weyl semimetals",
+  "authors": [
+   "Stefanos Kourtis",
+   "Jian Li",
+   "Zhijun Wang",
+   "Ali Yazdani",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2015-12-08",
+  "journal": "Phys. Rev. B 93, 041109 (2016)",
+  "doi": "10.1103/PhysRevB.93.041109"
+ },
+ {
+  "id": "1511.07440",
+  "title": "MoTe2: A Type-II Weyl Topological Metal",
+  "authors": [
+   "Zhijun Wang",
+   "Dominik Gresch",
+   "Alexey A. Soluyanov",
+   "Weiwei Xie",
+   "S. Kushwaha",
+   "Xi Dai",
+   "Matthias Troyer",
+   "Robert J. Cava",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2015-11-23",
+  "journal": "Phys. Rev. Lett. 117, 056805 (2016)",
+  "doi": "10.1103/PhysRevLett.117.056805"
+ },
+ {
+  "id": "1511.00703",
+  "title": "Detection of Majorana Kramers pairs using a quantum point contact",
+  "authors": [
+   "Jian Li",
+   "Wei Pan",
+   "B. Andrei Bernevig",
+   "Roman M. Lutchyn"
+  ],
+  "date": "2015-11-02",
+  "journal": "Phys. Rev. Lett. 117, 046804 (2016)",
+  "doi": "10.1103/PhysRevLett.117.046804"
+ },
+ {
+  "id": "1508.04170",
+  "title": "It has been a Weyl coming",
+  "authors": [
+   "B. Andrei Bernevig"
+  ],
+  "date": "2015-08-17",
+  "journal": "",
+  "doi": "10.1038/nphys3454"
+ },
+ {
+  "id": "1507.01603",
+  "title": "Type-II Weyl Semimetals",
+  "authors": [
+   "Alexey A. Soluyanov",
+   "Dominik Gresch",
+   "Zhijun Wang",
+   "QuanSheng Wu",
+   "Matthias Troyer",
+   "Xi Dai",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2015-07-06",
+  "journal": "Nature 527, 495-498 (2015)",
+  "doi": "10.1038/nature15768"
+ },
+ {
+  "id": "1506.05805",
+  "title": "Topological Superconductors and Category Theory",
+  "authors": [
+   "Andrei Bernevig",
+   "Titus Neupert"
+  ],
+  "date": "2015-06-18",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "1506.03455",
+  "title": "Parafermionic phases with symmetry-breaking and topological order",
+  "authors": [
+   "A. Alexandradinata",
+   "N. Regnault",
+   "Chen Fang",
+   "Matthew J. Gilbert",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2015-06-10",
+  "journal": "Phys. Rev. B 94, 125103 (2016)",
+  "doi": "10.1103/PhysRevB.94.125103"
+ },
+ {
+  "id": "1504.06620",
+  "title": "Matrix product state representation of non-Abelian quasiholes",
+  "authors": [
+   "Yang-Le Wu",
+   "B. Estienne",
+   "N. Regnault",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2015-04-24",
+  "journal": "Phys. Rev. B 92, 045109 (2015)",
+  "doi": "10.1103/PhysRevB.92.045109"
+ },
+ {
+  "id": "1504.00367",
+  "title": "Projective construction of the $\\mathbb{Z}_k$ Read-Rezayi fractional quantum Hall states and their excitations on the torus geometry",
+  "authors": [
+   "Cécile Repellin",
+   "Titus Neupert",
+   "B. Andrei Bernevig",
+   "Nicolas Regnault"
+  ],
+  "date": "2015-04-01",
+  "journal": "Phys. Rev. B 92, 115128 (2015)",
+  "doi": "10.1103/PhysRevB.92.115128"
+ },
+ {
+  "id": "1502.06386",
+  "title": "Entanglement analysis of isotropic spin-1 chains",
+  "authors": [
+   "Ronny Thomale",
+   "Stephan Rachel",
+   "B. Andrei Bernevig",
+   "Daniel P. Arovas"
+  ],
+  "date": "2015-02-23",
+  "journal": "Journal Stat. Mech.: Theory and Experiment, P07017 (2015)",
+  "doi": "10.1088/1742-5468/2015/07/P07017"
+ },
+ {
+  "id": "1501.00999",
+  "title": "A novel platform for two-dimensional chiral topological superconductivity",
+  "authors": [
+   "Jian Li",
+   "Titus Neupert",
+   "Zhi Jun Wang",
+   "A. H. MacDonald",
+   "A. Yazdani",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2015-01-05",
+  "journal": "Nature Communications 7, 12297 (2016)",
+  "doi": "10.1038/ncomms12297"
+ },
+ {
+  "id": "1501.00060",
+  "title": "Weyl semimetal phase in non-centrosymmetric transition metal monophosphides",
+  "authors": [
+   "Hongming Weng",
+   "Chen Fang",
+   "Zhong Fang",
+   "Andrei Bernevig",
+   "Xi Dai"
+  ],
+  "date": "2014-12-31",
+  "journal": "Phys. Rev. X 5, 011029 (2015)",
+  "doi": "10.1103/PhysRevX.5.011029"
+ },
+ {
+  "id": "1411.3338",
+  "title": "Spin-Orbit-Free Topological Insulators",
+  "authors": [
+   "A. Alexandradinata",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2014-11-12",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "1410.7342",
+  "title": "Giant supercurrent states in a superconductor-InAs/GaSb-superconductor junction",
+  "authors": [
+   "Xiaoyan Shi",
+   "Wenlong Yu",
+   "Zhigang Jiang",
+   "B. Andrei Bernevig",
+   "W. Pan",
+   "S. D. Hawkins",
+   "J. F. Klem"
+  ],
+  "date": "2014-10-27",
+  "journal": "",
+  "doi": "10.1063/1.4932644"
+ },
+ {
+  "id": "1410.3453",
+  "title": "Topological Superconductivity induced by Ferromagnetic Metal Chains",
+  "authors": [
+   "Jian Li",
+   "Hua Chen",
+   "Ilya K. Drozdov",
+   "A. Yazdani",
+   "B. Andrei Bernevig",
+   "A. H. MacDonald"
+  ],
+  "date": "2014-10-13",
+  "journal": "Phys. Rev. B 90, 235433 (2014)",
+  "doi": "10.1103/PhysRevB.90.235433"
+ },
+ {
+  "id": "1410.0682",
+  "title": "Observation of Majorana Fermions in Ferromagnetic Atomic Chains on a Superconductor",
+  "authors": [
+   "Stevan Nadj-Perge",
+   "Ilya K. Drozdov",
+   "Jian Li",
+   "Hua Chen",
+   "Sangjun Jeon",
+   "Jungpil Seo",
+   "Allan H. MacDonald",
+   "B. Andrei Bernevig",
+   "Ali Yazdani"
+  ],
+  "date": "2014-10-02",
+  "journal": "",
+  "doi": "10.1126/science.1259327"
+ },
+ {
+  "id": "1410.0357",
+  "title": "Interacting bosons in topological optical flux lattices",
+  "authors": [
+   "A. Sterdyniak",
+   "B. Andrei Bernevig",
+   "Nigel R. Cooper",
+   "N. Regnault"
+  ],
+  "date": "2014-10-01",
+  "journal": "Phys. Rev. B 91, 035115 (2015)",
+  "doi": "10.1103/PhysRevB.91.035115"
+ },
+ {
+  "id": "1409.3236",
+  "title": "Berry-phase description of Topological Crystalline Insulators",
+  "authors": [
+   "A. Alexandradinata",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2014-09-10",
+  "journal": "Phys. Rev. B 93, 205104 (2016)",
+  "doi": "10.1103/PhysRevB.93.205104"
+ },
+ {
+  "id": "1406.6262",
+  "title": "Correlation Lengths and Topological Entanglement Entropies of Unitary and Non-Unitary Fractional Quantum Hall Wavefunctions",
+  "authors": [
+   "B. Estienne",
+   "N. Regnault",
+   "B. A. Bernevig"
+  ],
+  "date": "2014-06-24",
+  "journal": "Phys. Rev. Lett. 114, 186801 (2015)",
+  "doi": "10.1103/PhysRevLett.114.186801"
+ },
+ {
+  "id": "1405.1720",
+  "title": "Braiding non-Abelian quasiholes in fractional quantum Hall states",
+  "authors": [
+   "Yang-Le Wu",
+   "B. Estienne",
+   "N. Regnault",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2014-05-07",
+  "journal": "Phys. Rev. Lett. 113, 116801 (2014)",
+  "doi": "10.1103/PhysRevLett.113.116801"
+ },
+ {
+  "id": "1404.4058",
+  "title": "Majorana zero modes on a necklace",
+  "authors": [
+   "Jian Li",
+   "Titus Neupert",
+   "B. Andrei Bernevig",
+   "Ali Yazdani"
+  ],
+  "date": "2014-04-15",
+  "journal": "Nature Communications 7, 10395 (2016)",
+  "doi": "10.1038/ncomms10395"
+ },
+ {
+  "id": "1404.2598",
+  "title": "One-dimensional Topological Edge States of Bismuth Bilayers",
+  "authors": [
+   "Ilya K. Drozdov",
+   "A. Alexandradinata",
+   "Sangjun Jeon",
+   "Stevan Nadj-Perge",
+   "Huiwen Ji",
+   "R. J. Cava",
+   "B. A. Bernevig",
+   "Ali Yazdani"
+  ],
+  "date": "2014-04-09",
+  "journal": "Nature Physics 10, 664-669 (2014)",
+  "doi": "10.1038/nphys3048"
+ },
+ {
+  "id": "1402.6323",
+  "title": "Spinless Topological Insulators without Time-Reversal Symmetry",
+  "authors": [
+   "A. Alexandradinata",
+   "Chen Fang",
+   "Matthew J. Gilbert",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2014-02-25",
+  "journal": "Phys. Rev. Lett. 113, 116403 (2014)",
+  "doi": "10.1103/PhysRevLett.113.116403"
+ },
+ {
+  "id": "1402.2652",
+  "title": "$\\mathbb Z_2$ fractional topological insulators in two dimensions",
+  "authors": [
+   "C. Repellin",
+   "B. Andrei Bernevig",
+   "N. Regnault"
+  ],
+  "date": "2014-02-11",
+  "journal": "Phys. Rev. B 90, 245401 (2014)",
+  "doi": "10.1103/PhysRevB.90.245401"
+ },
+ {
+  "id": "1401.1823",
+  "title": "Tri-Dirac Surface Modes in Topological Superconductors",
+  "authors": [
+   "Chen Fang",
+   "B. Andrei Bernevig",
+   "Matthew J. Gilbert"
+  ],
+  "date": "2014-01-08",
+  "journal": "Phys. Rev. B 91, 165421 (2015)",
+  "doi": "10.1103/PhysRevB.91.165421"
+ },
+ {
+  "id": "1311.2936",
+  "title": "Fractional Quantum Hall Matrix Product States For Interacting Conformal Field Theories",
+  "authors": [
+   "B. Estienne",
+   "N. Regnault",
+   "B. A. Bernevig"
+  ],
+  "date": "2013-11-12",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "1310.6354",
+  "title": "Haldane Statistics for Fractional Chern Insulators with an Arbitrary Chern number",
+  "authors": [
+   "Yang-Le Wu",
+   "N. Regnault",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2013-10-23",
+  "journal": "Phys. Rev. B 89, 155113 (2014)",
+  "doi": "10.1103/PhysRevB.89.155113"
+ },
+ {
+  "id": "1308.4248",
+  "title": "Hole Spin Helix: Anomalous Spin Diffusion in Anisotropic Strained Hole Quantum Wells",
+  "authors": [
+   "Vincent E. Sacksteder",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2013-08-20",
+  "journal": "Phys. Rev. B 89, 161307(R), 2014",
+  "doi": "10.1103/PhysRevB.89.161307"
+ },
+ {
+  "id": "1308.2424",
+  "title": "New class of topological superconductors protected by magnetic group symmetries",
+  "authors": [
+   "Chen Fang",
+   "Matthew J. Gilbert",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2013-08-11",
+  "journal": "Phys. Rev. Lett. 112, 106401 (2014)",
+  "doi": "10.1103/PhysRevLett.112.106401"
+ },
+ {
+  "id": "1306.0888",
+  "title": "Large Chern Number Quantum Anomalous Hall Effect In Thin-film Topological Crystalline Insulators",
+  "authors": [
+   "Chen Fang",
+   "Matthew J. Gilbert",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2013-06-04",
+  "journal": "Phys. Rev. Lett. 112, 046801 (2014)",
+  "doi": "10.1103/PhysRevLett.112.046801"
+ },
+ {
+  "id": "1304.6081",
+  "title": "Topological Insulators with Commensurate Antiferromagnetism",
+  "authors": [
+   "Chen Fang",
+   "Matthew J. Gilbert",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2013-04-22",
+  "journal": "Phys. Rev. B 88, 085406 (2013)",
+  "doi": "10.1103/PhysRevB.88.085406"
+ },
+ {
+  "id": "1303.6363",
+  "title": "Majorana fermions in chains of magnetic atoms on a superconductor",
+  "authors": [
+   "S. Nadj-Perge",
+   "I. K. Drozdov",
+   "B. A. Bernevig",
+   "Ali Yazdani"
+  ],
+  "date": "2013-03-26",
+  "journal": "Phys. Rev. B 88, 020407(R) (2013)",
+  "doi": "10.1103/PhysRevB.88.020407"
+ },
+ {
+  "id": "1212.3285",
+  "title": "Theory of quasiparticle interference in mirror symmetric 2D systems and its application to surface states of topological crystalline insulators",
+  "authors": [
+   "Chen Fang",
+   "Matthew J. Gilbert",
+   "Su-Yang Xu",
+   "B. Andrei Bernevig",
+   "M. Zahid Hasan"
+  ],
+  "date": "2012-12-13",
+  "journal": "Phys. Rev. B 88, 125141 (2013)",
+  "doi": "10.1103/PhysRevB.88.125141"
+ },
+ {
+  "id": "1211.3353",
+  "title": "Matrix Product States for Trial Quantum Hall States",
+  "authors": [
+   "B. Estienne",
+   "Z. Papic",
+   "N. Regnault",
+   "B. A. Bernevig"
+  ],
+  "date": "2012-11-14",
+  "journal": "Phys. Rev. B 87, 161112(R) (2013)",
+  "doi": "10.1103/PhysRevB.87.161112"
+ },
+ {
+  "id": "1210.6356",
+  "title": "Bloch Model Wavefunctions and Pseudopotentials for All Fractional Chern Insulators",
+  "authors": [
+   "Yang-Le Wu",
+   "N. Regnault",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2012-10-23",
+  "journal": "Phys. Rev. Lett. 110, 106802 (2013)",
+  "doi": "10.1103/PhysRevLett.110.106802"
+ },
+ {
+  "id": "1208.4603",
+  "title": "Entanglement Spectrum Classification of $C_n$-invariant Noninteracting Topological Insulators in Two Dimensions",
+  "authors": [
+   "Chen Fang",
+   "Matthew J. Gilbert",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2012-08-22",
+  "journal": "Physical Review B 87, 035119 (2013) Editors' Suggestions",
+  "doi": "10.1103/PhysRevB.87.035119"
+ },
+ {
+  "id": "1208.4234",
+  "title": "Wilson-Loop Characterization of Inversion-Symmetric Topological Insulators",
+  "authors": [
+   "A. Alexandradinata",
+   "Xi Dai",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2012-08-21",
+  "journal": "Phys. Rev. B 89, 155114 (2014)",
+  "doi": ""
+ },
+ {
+  "id": "1207.6385",
+  "title": "Series of Abelian and Non-Abelian States in C>1 Fractional Chern Insulators",
+  "authors": [
+   "A. Sterdyniak",
+   "C. Repellin",
+   "B. Andrei Bernevig",
+   "N. Regnault"
+  ],
+  "date": "2012-07-26",
+  "journal": "Phys. Rev. B 87, 205137 (2013)",
+  "doi": "10.1103/PhysRevB.87.205137"
+ },
+ {
+  "id": "1207.5767",
+  "title": "Bulk Topological Invariants in Noninteracting Point Group Symmetric Insulators",
+  "authors": [
+   "Chen Fang",
+   "Matthew J. Gilbert",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2012-07-24",
+  "journal": "Phys. Rev. B 86, 115112 (2012)",
+  "doi": "10.1103/PhysRevB.86.115112"
+ },
+ {
+  "id": "1207.3305",
+  "title": "Screening Behavior and Scaling Exponents from Quantum Hall Wavefunctions",
+  "authors": [
+   "B. Andrei Bernevig",
+   "Parsa Bonderson",
+   "Nicolas Regnault"
+  ],
+  "date": "2012-07-13",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "1206.5773",
+  "title": "Gauge-Fixed Wannier Wave-Functions for Fractional Topological Insulators",
+  "authors": [
+   "Yang-Le Wu",
+   "N. Regnault",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2012-06-25",
+  "journal": "Phys. Rev. B 86, 085129 (2012)",
+  "doi": "10.1103/PhysRevB.86.085129"
+ },
+ {
+  "id": "1206.2626",
+  "title": "Fractional Chern Insulators beyond Laughlin states",
+  "authors": [
+   "Tianhan Liu",
+   "C. Repellin",
+   "B. Andrei Bernevig",
+   "N. Regnault"
+  ],
+  "date": "2012-06-12",
+  "journal": "Phys. Rev. B 87, 205136 (2013)",
+  "doi": "10.1103/PhysRevB.87.205136"
+ },
+ {
+  "id": "1205.5071",
+  "title": "Signature of Phase Transitions in the Disordered Quantum Spin Hall State From the Entanglement Spectrum",
+  "authors": [
+   "Matthew J. Gilbert",
+   "B. Andrei Bernevig",
+   "Taylor L. Hughes"
+  ],
+  "date": "2012-05-22",
+  "journal": "",
+  "doi": "10.1103/PhysRevB.86.041401"
+ },
+ {
+  "id": "1204.5682",
+  "title": "Thin-Torus Limit of Fractional Topological Insulators",
+  "authors": [
+   "B. Andrei Bernevig",
+   "N. Regnault"
+  ],
+  "date": "2012-04-25",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "1202.5543",
+  "title": "D-Algebra Structure of Topological Insulators",
+  "authors": [
+   "B. Estienne",
+   "N. Regnault",
+   "B. A. Bernevig"
+  ],
+  "date": "2012-02-24",
+  "journal": "Phys. Rev. B 86, 241104(R) (2012)",
+  "doi": "10.1103/PhysRevB.86.241104"
+ },
+ {
+  "id": "1111.7309",
+  "title": "Multi-Weyl Topological Semimetals Stabilized by Point Group Symmetry",
+  "authors": [
+   "Chen Fang",
+   "Matthew J. Gilbert",
+   "Xi Dai",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2011-11-30",
+  "journal": "PRL 108, 266802 (2012)",
+  "doi": "10.1103/PhysRevLett.108.266802"
+ },
+ {
+  "id": "1111.2810",
+  "title": "Real-Space Entanglement Spectrum of Quantum Hall States",
+  "authors": [
+   "A. Sterdyniak",
+   "A. Chandran",
+   "N. Regnault",
+   "B. A. Bernevig",
+   "Parsa Bonderson"
+  ],
+  "date": "2011-11-11",
+  "journal": "Phys. Rev. B 85, 125308 (2012)",
+  "doi": "10.1103/PhysRevB.85.125308"
+ },
+ {
+  "id": "1111.1172",
+  "title": "Zoology of Fractional Chern Insulators",
+  "authors": [
+   "Yang-Le Wu",
+   "B. Andrei Bernevig",
+   "N. Regnault"
+  ],
+  "date": "2011-11-04",
+  "journal": "Phys. Rev. B 85, 075116 (2012)",
+  "doi": "10.1103/PhysRevB.85.075116"
+ },
+ {
+  "id": "1110.4488",
+  "title": "Emergent Many-Body Translational Symmetries of Abelian and Non-Abelian Fractionally Filled Topological Insulators",
+  "authors": [
+   "B. Andrei Bernevig",
+   "N. Regnault"
+  ],
+  "date": "2011-10-20",
+  "journal": "Phys. Rev. B 85, 075128 (2012)",
+  "doi": "10.1103/PhysRevB.85.075128"
+ },
+ {
+  "id": "1108.2907",
+  "title": "Trace Index and Spectral Flow in the Entanglement Spectrum",
+  "authors": [
+   "A. Alexandradinata",
+   "Taylor L. Hughes",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2011-08-14",
+  "journal": "Phys. Rev. B 84, 195103 (2011) (Editor's suggestion)",
+  "doi": "10.1103/PhysRevB.84.195103"
+ },
+ {
+  "id": "1107.2534",
+  "title": "Spin-Singlet Quantum Hall States and Jack Polynomials with a Prescribed Symmetry",
+  "authors": [
+   "Benoit Estienne",
+   "Bogdan A. Bernevig"
+  ],
+  "date": "2011-07-13",
+  "journal": "",
+  "doi": "10.1016/j.nuclphysb.2011.12.007"
+ },
+ {
+  "id": "1105.5907",
+  "title": "Hierarchical structure in the orbital entanglement spectrum in Fractional Quantum Hall systems",
+  "authors": [
+   "A. Sterdyniak",
+   "B. A. Bernevig",
+   "N. Regnault",
+   "F. D. M. Haldane"
+  ],
+  "date": "2011-05-30",
+  "journal": "",
+  "doi": "10.1088/1367-2630/13/10/105001"
+ },
+ {
+  "id": "1105.4867",
+  "title": "Fractional Chern Insulator",
+  "authors": [
+   "N. Regnault",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2011-05-24",
+  "journal": "Phys. Rev. X 1, 021014 (2011)",
+  "doi": "10.1103/PhysRevX.1.021014"
+ },
+ {
+  "id": "1105.1135",
+  "title": "Robustness of s-wave Pairing in Electron-Overdoped $\\text{A}_{1-y}\\text{Fe}_{2-x}\\text{Se}_2$",
+  "authors": [
+   "Chen Fang",
+   "Yang-Le Wu",
+   "Ronny Thomale",
+   "B. Andrei Bernevig",
+   "Jiangping Hu"
+  ],
+  "date": "2011-05-05",
+  "journal": "Physical Review X 1, 011009 (2011)",
+  "doi": "10.1103/PhysRevX.1.011009"
+ },
+ {
+  "id": "1103.2946",
+  "title": "Dirac cone in iron-based high Tc superconductors",
+  "authors": [
+   "M. Zahid Hasan",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2011-03-15",
+  "journal": "PHYSICS 3, 27 (2010)",
+  "doi": "10.1103/Physics.3.27"
+ },
+ {
+  "id": "1102.2218",
+  "title": "Bulk-Edge Correspondence in the Entanglement Spectra",
+  "authors": [
+   "A. Chandran",
+   "M. Hermanns",
+   "N. Regnault",
+   "B. A. Bernevig"
+  ],
+  "date": "2011-02-10",
+  "journal": "Phys. Rev. B 84, 205136 (2011)",
+  "doi": "10.1103/PhysRevB.84.205136"
+ },
+ {
+  "id": "1101.4978",
+  "title": "From Irrational to Non-Unitary: on the Haffnian and Haldane-Rezayi wave functions",
+  "authors": [
+   "Maria Hermanns",
+   "Nicolas Regnault",
+   "B. Andrei Bernevig",
+   "Eddy Ardonne"
+  ],
+  "date": "2011-01-26",
+  "journal": "Phys. Rev. B 83, 241302 (2011)",
+  "doi": "10.1103/PhysRevB.83.241302"
+ },
+ {
+  "id": "1101.3593",
+  "title": "Exotic d-wave superconductivity in strongly hole doped K(x)Ba(1-x)Fe2As2",
+  "authors": [
+   "Ronny Thomale",
+   "Christian Platt",
+   "Werner Hanke",
+   "Jiangping Hu",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2011-01-19",
+  "journal": "Phys. Rev. Lett. 107, 117001 (2011)",
+  "doi": "10.1103/PhysRevLett.107.117001"
+ },
+ {
+  "id": "1101.2011",
+  "title": "An equivalent expression of Z2 Topological Invariant for band insulators using Non-Abelian Berry's connection",
+  "authors": [
+   "Rui Yu",
+   "Xiao Liang Qi",
+   "Andrei Bernevig",
+   "Zhong Fang",
+   "Xi Dai"
+  ],
+  "date": "2011-01-11",
+  "journal": "Phys. Rev. B 84, 075119 (2011)",
+  "doi": "10.1103/PhysRevB.84.075119"
+ },
+ {
+  "id": "1010.4837",
+  "title": "Decomposition of fractional quantum Hall states: New symmetries and approximations",
+  "authors": [
+   "Ronny Thomale",
+   "Benoit Estienne",
+   "Nicolas Regnault",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2010-10-23",
+  "journal": "Phys. Rev. B 84, 045127 (2011)",
+  "doi": "10.1103/PhysRevB.84.045127"
+ },
+ {
+  "id": "1010.4508",
+  "title": "Inversion Symmetric Topological Insulators",
+  "authors": [
+   "Taylor L. Hughes",
+   "Emil Prodan",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2010-10-21",
+  "journal": "",
+  "doi": "10.1103/PhysRevB.83.245132"
+ },
+ {
+  "id": "1009.4199",
+  "title": "Haldane Statistics in the Finite Size Entanglement Spectra of Laughlin States",
+  "authors": [
+   "M. Hermanns",
+   "A. Chandran",
+   "N. Regnault",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2010-09-21",
+  "journal": "Phys. Rev. B 84, 121309(R) (2011)",
+  "doi": "10.1103/PhysRevB.84.121309"
+ },
+ {
+  "id": "1008.5087",
+  "title": "Topological Entanglement in Abelian and non-Abelian Excitation Eigenstates",
+  "authors": [
+   "Z. Papic",
+   "B. A. Bernevig",
+   "N. Regnault"
+  ],
+  "date": "2010-08-30",
+  "journal": "Phys. Rev. Lett. 106, 056801 (2011)",
+  "doi": "10.1103/PhysRevLett.106.056801"
+ },
+ {
+  "id": "1006.5435",
+  "title": "Extracting Excitations From Model State Entanglement",
+  "authors": [
+   "A. Sterdyniak",
+   "N. Regnault",
+   "B. A. Bernevig"
+  ],
+  "date": "2010-06-28",
+  "journal": "",
+  "doi": "10.1103/PhysRevLett.106.100405"
+ },
+ {
+  "id": "1005.5148",
+  "title": "Entanglement Spectrum of a Disordered Topological Chern Insulator",
+  "authors": [
+   "Emil Prodan",
+   "Taylor L. Hughes",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2010-05-27",
+  "journal": "Phys. Rev. Lett 105, 115501 (2010)",
+  "doi": "10.1103/PhysRevLett.105.115501"
+ },
+ {
+  "id": "1005.3475",
+  "title": "Electron-Quasihole Duality and Second Order Differential Equation for Read-Rezayi and Jacks Wavefunctions",
+  "authors": [
+   "Benoit Estienne",
+   "B. Andrei Bernevig",
+   "Raoul Santachiara"
+  ],
+  "date": "2010-05-19",
+  "journal": "",
+  "doi": "10.1103/PhysRevB.82.205307"
+ },
+ {
+  "id": "1004.3576",
+  "title": "Leggett mode in a strong-coupling model of iron arsenide superconductors",
+  "authors": [
+   "F. J. Burnell",
+   "Jiangping Hu",
+   "Meera M. Parish",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2010-04-20",
+  "journal": "Phys. Rev. B 82, 144506, 2010",
+  "doi": "10.1103/PhysRevB.82.144506"
+ },
+ {
+  "id": "1002.3599",
+  "title": "Why some Iron-based superconductors are nodal while others are nodeless",
+  "authors": [
+   "Ronny Thomale",
+   "Christian Platt",
+   "Werner Hanke",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2010-02-18",
+  "journal": "Phys. Rev. Lett. 106, 187003 (2011)",
+  "doi": ""
+ },
+ {
+  "id": "0912.0523",
+  "title": "The entanglement gap and a new principle of adiabatic continuity",
+  "authors": [
+   "R. Thomale",
+   "A. Sterdyniak",
+   "N. Regnault",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2009-12-02",
+  "journal": "Phys. Rev. Lett. 104, 180502 (2010)",
+  "doi": "10.1103/PhysRevLett.104.180502"
+ },
+ {
+  "id": "0912.0028",
+  "title": "Non-local order in gapless systems: Entanglement Spectrum in Spin Chains",
+  "authors": [
+   "Ronny Thomale",
+   "D. P. Arovas",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2009-12-01",
+  "journal": "Phys. Rev. Lett. 105, 116805 (2010)",
+  "doi": "10.1103/PhysRevLett.105.116805"
+ },
+ {
+  "id": "0906.4475",
+  "title": "Doping-dependent pairing symmetry in the Iron-Pnictides",
+  "authors": [
+   "Ronny Thomale",
+   "Christian Platt",
+   "Jiangping Hu",
+   "Carsten Honerkamp",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2009-06-24",
+  "journal": "Phys. Rev. B 80, 180505(R) (2009).",
+  "doi": ""
+ },
+ {
+  "id": "0903.4709",
+  "title": "Emergence of the persistent spin helix in semiconductor quantum wells",
+  "authors": [
+   "Jake D. Koralek",
+   "Chris Weber",
+   "Joe Orenstein",
+   "Andrei Bernevig",
+   "Shou-Cheng Zhang",
+   "Shawn Mack",
+   "David Awschalom"
+  ],
+  "date": "2009-03-26",
+  "journal": "Nature 458, 610-613 (2009)",
+  "doi": "10.1038/nature07871"
+ },
+ {
+  "id": "0903.2025",
+  "title": "Magnetic Properties of the Superconducting State of Iron-Based Superconductors",
+  "authors": [
+   "Kangjun Seo",
+   "Chen Fang",
+   "B. Andrei Bernevig",
+   "Jiangping Hu"
+  ],
+  "date": "2009-03-11",
+  "journal": "PhysRevB.79.235207 2009",
+  "doi": "10.1103/PhysRevB.79.235207"
+ },
+ {
+  "id": "0903.1694",
+  "title": "Quasiparticle Scattering Interference in Superconducting Iron-pnictides",
+  "authors": [
+   "Yan-Yang Zhang",
+   "Chen Fang",
+   "Xiaoting Zhou",
+   "Kangjun Seo",
+   "Wei-Feng Tsai",
+   "B. Andrei Bernevig",
+   "Jiangping Hu"
+  ],
+  "date": "2009-03-10",
+  "journal": "Phys. Rev. B 80 094528 (2009)",
+  "doi": "10.1103/PhysRevB.80.094528"
+ },
+ {
+  "id": "0903.0635",
+  "title": "Central Charge and Quasihole Scaling Dimensions From Model Wavefunctions: Towards Relating Jack Wavefunctions to W-algebras",
+  "authors": [
+   "B. Andrei Bernevig",
+   "Victor Gurarie",
+   "Steven H. Simon"
+  ],
+  "date": "2009-03-03",
+  "journal": "J. Phys. A: Math. Theor. 42, 245206 (2009)",
+  "doi": "10.1088/1751-8113/42/24/245206"
+ },
+ {
+  "id": "0902.4320",
+  "title": "The Anatomy of Abelian and Non-Abelian Fractional Quantum Hall States",
+  "authors": [
+   "B. Andrei Bernevig",
+   "N. Regnault"
+  ],
+  "date": "2009-02-25",
+  "journal": "",
+  "doi": "10.1103/PhysRevLett.103.206801"
+ },
+ {
+  "id": "0901.2121",
+  "title": "Topological Entanglement and Clustering of Jain Hierarchy States",
+  "authors": [
+   "N. Regnault",
+   "B. Andrei Bernevig",
+   "F. D. M. Haldane"
+  ],
+  "date": "2009-01-14",
+  "journal": "",
+  "doi": "10.1103/PhysRevLett.103.016801"
+ },
+ {
+  "id": "0812.0661",
+  "title": "Novel properties in Josephson junctions involving the cos(kx)cos(ky)-pairing state in iron-pnictides",
+  "authors": [
+   "Wei-Feng Tsai",
+   "Dao-Xin Yao",
+   "B. Andrei Bernevig",
+   "JiangPing Hu"
+  ],
+  "date": "2008-12-03",
+  "journal": "Phys. Rev. B 80, 012511 (2009)",
+  "doi": "10.1103/PhysRevB.80.012511"
+ },
+ {
+  "id": "0811.1294",
+  "title": "Theory of Magnetic Order in $ Fe_{1+y}Te_{1-x}Se_x$",
+  "authors": [
+   "Chen Fang",
+   "B. Andrei Bernevig",
+   "Jiangping Hu"
+  ],
+  "date": "2008-11-08",
+  "journal": "EPL 86 (2009) 67005",
+  "doi": "10.1209/0295-5075/86/67005"
+ },
+ {
+  "id": "0810.2366",
+  "title": "Clustering Properties and Model Wavefunctions for Non-Abelian Fractional Quantum Hall Quasielectrons",
+  "authors": [
+   "B. Andrei Bernevig",
+   "F. D. M. Haldane"
+  ],
+  "date": "2008-10-14",
+  "journal": "Phys. Rev. Lett. 102, 066802 (2009)",
+  "doi": "10.1103/PhysRevLett.102.066802"
+ },
+ {
+  "id": "0810.1996",
+  "title": "Localization and Kosterlitz-Thouless Transition in Disordered Graphene",
+  "authors": [
+   "Yan-Yang Zhang",
+   "Jiangping Hu",
+   "B. A. Bernevig",
+   "X. R. Wang",
+   "X. C Xie",
+   "W. M Liu"
+  ],
+  "date": "2008-10-11",
+  "journal": "Phys. Rev. Lett 102, 106401 (2009)",
+  "doi": "10.1103/PhysRevLett.102.106401"
+ },
+ {
+  "id": "0810.1757",
+  "title": "Scenario for Fractional Quantum Hall Effect in Bulk Isotropic Materials",
+  "authors": [
+   "F. J. Burnell",
+   "B. Andrei Bernevig",
+   "D. P. Arovas"
+  ],
+  "date": "2008-10-10",
+  "journal": "Phys. Rev. B 79, 155310 (2009)",
+  "doi": "10.1103/PhysRevB.79.155310"
+ },
+ {
+  "id": "0807.4572",
+  "title": "Experimental Consequences of the S-wave $\\cos(k_x) \\cdot \\cos(k_y)$ Superconductivity in the Iron-Pnictides",
+  "authors": [
+   "Meera M. Parish",
+   "Jiangping Hu",
+   "B. Andrei Bernevig"
+  ],
+  "date": "2008-07-29",
+  "journal": "Phys. Rev. B 78, 144514 (2008)",
+  "doi": "10.1103/PhysRevB.78.144514"
+ },
+ {
+  "id": "0805.2958",
+  "title": "Pairing Symmetry in a Two-Orbital Exchange Coupling Model of Oxypnictides",
+  "authors": [
+   "Kangjun Seo",
+   "B. Andrei Bernevig",
+   "Jiangping Hu"
+  ],
+  "date": "2008-05-19",
+  "journal": "Physical Review Letters 101, 206404 (2008)",
+  "doi": "10.1103/PhysRevLett.101.206404"
+ },
+ {
+  "id": "0803.2882",
+  "title": "Properties of Non-Abelian Fractional Quantum Hall States at Filling $ν=\\frac{k}{r}$",
+  "authors": [
+   "B. Andrei Bernevig",
+   "F. D. M. Haldane"
+  ],
+  "date": "2008-03-19",
+  "journal": "Phys. Rev. Lett. 101, 246806 (2008)",
+  "doi": "10.1103/PhysRevLett.101.246806"
+ },
+ {
+  "id": "0711.3062",
+  "title": "Generalized Clustering Conditions of Jack Polynomials at Negative Jack Parameter $α$",
+  "authors": [
+   "B. Andrei Bernevig",
+   "F. D. M. Haldane"
+  ],
+  "date": "2007-11-20",
+  "journal": "Phys. Rev. B 77, 184502 (2008)",
+  "doi": "10.1103/PhysRevB.77.184502"
+ },
+ {
+  "id": "0711.2918",
+  "title": "Quantum Blockades and Loop Currents in Graphene with Topological Defects",
+  "authors": [
+   "Yan-Yang Zhang",
+   "Jiang-Ping Hu",
+   "B. A. Bernevig",
+   "X. R. Wang",
+   "X. C. Xie",
+   "W. M. Liu"
+  ],
+  "date": "2007-11-19",
+  "journal": "Phys. Rev. B 78, 155413 (2008)",
+  "doi": "10.1103/PhysRevB.78.155413"
+ },
+ {
+  "id": "0708.3618",
+  "title": "Diffusive-Ballistic Crossover and the Persistent Spin Helix",
+  "authors": [
+   "B. Andrei Bernevig",
+   "Jiangping Hu"
+  ],
+  "date": "2007-08-27",
+  "journal": "",
+  "doi": "10.1103/PhysRevB.78.245123"
+ },
+ {
+  "id": "0707.3637",
+  "title": "Fractional Quantum Hall States and Jack Polynomials",
+  "authors": [
+   "B. Andrei Bernevig",
+   "F. D. M. Haldane"
+  ],
+  "date": "2007-07-24",
+  "journal": "Phys. Rev. Lett. 100, 246802 (2008)",
+  "doi": "10.1103/PhysRevLett.100.246802"
+ },
+ {
+  "id": "cond-mat/0701436",
+  "title": "Theory of the Three Dimensional Quantum Hall Effect in Graphite",
+  "authors": [
+   "B. Andrei Bernevig",
+   "Taylor L. Hughes",
+   "Srinivas Raghu",
+   "Daniel P. Arovas"
+  ],
+  "date": "2007-01-18",
+  "journal": "Phys. Rev. Lett. 99 146804 (2007)",
+  "doi": "10.1103/PhysRevLett.99.146804"
+ },
+ {
+  "id": "cond-mat/0611766",
+  "title": "Topological Dirac Band Insulators in Three Dimensions and Novel Transport Laws",
+  "authors": [
+   "B. Andrei Bernevig",
+   "Han-Dong Chen"
+  ],
+  "date": "2006-11-30",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "cond-mat/0611399",
+  "title": "Quantum Spin Hall Effect and Topological Phase Transition in HgTe Quantum Wells",
+  "authors": [
+   "B. Andrei Bernevig",
+   "Taylor L. Hughes",
+   "Shou-Cheng Zhang"
+  ],
+  "date": "2006-11-15",
+  "journal": "Science, 314, 1757 (2006)",
+  "doi": "10.1126/science.1133734"
+ },
+ {
+  "id": "cond-mat/0610054",
+  "title": "Non-diffusive spin dynamics in a two-dimensional electron gas",
+  "authors": [
+   "C. P. Weber",
+   "J. Orenstein",
+   "B. Andrei Bernevig",
+   "Shou-Cheng Zhang",
+   "Jason Stephens",
+   "D. D. Awschalom"
+  ],
+  "date": "2006-10-03",
+  "journal": "Phys. Rev. Lett. 98, 076604 (2007)",
+  "doi": "10.1103/PhysRevLett.98.076604"
+ },
+ {
+  "id": "cond-mat/0607774",
+  "title": "Band Collapse and the Quantum Hall Effect in Graphene",
+  "authors": [
+   "B. Andrei Bernevig",
+   "Taylor L. Hughes",
+   "Han-Dong Chen",
+   "Congjun Wu",
+   "Shou-Cheng Zhang"
+  ],
+  "date": "2006-07-28",
+  "journal": "International Journal of Modern Physics B Vol. 20, No. 22 (2006) 3257-3278",
+  "doi": "10.1142/S0217979206035448"
+ },
+ {
+  "id": "cond-mat/0606196",
+  "title": "An Exact SU(2) Symmetry and Persistent Spin Helix in a Spin-Orbit Coupled System",
+  "authors": [
+   "B. Andrei Bernevig",
+   "J. Orenstein",
+   "Shou-Cheng Zhang"
+  ],
+  "date": "2006-06-07",
+  "journal": "Phys. Rev. Lett. 97, 236601 (2006)",
+  "doi": "10.1103/PhysRevLett.97.236601"
+ },
+ {
+  "id": "cond-mat/0601353",
+  "title": "Transport Equations and Spin-Charge Propagating Mode in the Two Dimensional Hole Gas",
+  "authors": [
+   "Taylor L. Hughes",
+   "B. Andrei Bernevig",
+   "Yaroslaw B. Bazaliy"
+  ],
+  "date": "2006-01-16",
+  "journal": "",
+  "doi": "10.1103/PhysRevB.74.193316"
+ },
+ {
+  "id": "cond-mat/0601003",
+  "title": "Reply to the comment to Phy. Rev. Lett. 86, 3392 (2001) (cond-mat/0511607)",
+  "authors": [
+   "B. A. Bernevig",
+   "D. Giuliano",
+   "R. B. Laughlin"
+  ],
+  "date": "2005-12-31",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "cond-mat/0508273",
+  "title": "The Helical Liquid and the Edge of Quantum Spin Hall Systems",
+  "authors": [
+   "Congjun Wu",
+   "B. Andrei Bernevig",
+   "Shou-Cheng Zhang"
+  ],
+  "date": "2005-08-10",
+  "journal": "Phys. Rev. Lett. 96, 106401 (2006)",
+  "doi": "10.1103/PhysRevLett.96.106401"
+ },
+ {
+  "id": "cond-mat/0504147",
+  "title": "Quantum Spin Hall Effect",
+  "authors": [
+   "B. Andrei Bernevig",
+   "Shou-Cheng Zhang"
+  ],
+  "date": "2005-04-07",
+  "journal": "Phys. Rev. Lett. 96, 106802 (2006)",
+  "doi": "10.1103/PhysRevLett.96.106802"
+ },
+ {
+  "id": "cond-mat/0502345",
+  "title": "Orbitronics: the Intrinsic Orbital Hall Effect in p-Doped Silicon",
+  "authors": [
+   "B. Andrei Bernevig",
+   "Taylor L. Hughes",
+   "Shou-Cheng Zhang"
+  ],
+  "date": "2005-02-14",
+  "journal": "Phys. Rev. Lett. 95, 066601 (2005)",
+  "doi": "10.1103/PhysRevLett.95.066601"
+ },
+ {
+  "id": "cond-mat/0412550",
+  "title": "Intrinsic Spin-Hall Effect in n-Doped Bulk GaAs",
+  "authors": [
+   "B. Andrei Bernevig",
+   "Shou-Cheng Zhang"
+  ],
+  "date": "2004-12-20",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "cond-mat/0411457",
+  "title": "Intrinsic Spin Hall Effect in the Two Dimensional Hole Gas",
+  "authors": [
+   "B. Andrei Bernevig",
+   "Shou-Cheng Zhang"
+  ],
+  "date": "2004-11-18",
+  "journal": "Phys. Rev. Lett. 95, 016801 (2005)",
+  "doi": "10.1103/PhysRevLett.95.016801"
+ },
+ {
+  "id": "cond-mat/0411276",
+  "title": "Maxwell Equation for the Coupled Spin-Charge Wave Propagation",
+  "authors": [
+   "B. Andrei Bernevig",
+   "Xiaowei Yu",
+   "Shou-Cheng Zhang"
+  ],
+  "date": "2004-11-10",
+  "journal": "Phys. Rev. Lett. 95, 076602 (2005)",
+  "doi": "10.1103/PhysRevLett.95.076602"
+ },
+ {
+  "id": "cond-mat/0410147",
+  "title": "On attraction between particles with fractionalized quantum numbers in one-dimensional devices",
+  "authors": [
+   "Bogdan A. Bernevig",
+   "Domenico Giuliano",
+   "Robert B. Laughlin"
+  ],
+  "date": "2004-10-06",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "cond-mat/0408476",
+  "title": "Piezo-Magneto-Electric Effects in p-Doped Semiconductors",
+  "authors": [
+   "B. Andrei Bernevig",
+   "Oskar Vafek"
+  ],
+  "date": "2004-08-22",
+  "journal": "Phys. Rev. B 72, 033203 (2005)",
+  "doi": "10.1103/PhysRevB.72.033203"
+ },
+ {
+  "id": "cond-mat/0408442",
+  "title": "Spin Splitting and Spin Current in Strained Bulk Semiconductors",
+  "authors": [
+   "B. Andrei Bernevig",
+   "Shou-Cheng Zhang"
+  ],
+  "date": "2004-08-20",
+  "journal": "Phys. Rev. B 72, 115204 (2005)",
+  "doi": "10.1103/PhysRevB.72.115204"
+ },
+ {
+  "id": "cond-mat/0406153",
+  "title": "On the Nature of Spin Currents",
+  "authors": [
+   "B. A. Bernevig"
+  ],
+  "date": "2004-06-07",
+  "journal": "Phys. Rev. B 71, 073201 (2005)",
+  "doi": "10.1103/PhysRevB.71.073201"
+ },
+ {
+  "id": "quant-ph/0402165",
+  "title": "Holonomic Quantum Computing Based on the Stark Effect",
+  "authors": [
+   "B. A. Bernevig",
+   "S. C. Zhang"
+  ],
+  "date": "2004-02-23",
+  "journal": "Phys. Rev. B 71, 035303 (2005)",
+  "doi": "10.1103/PhysRevB.71.035303"
+ },
+ {
+  "id": "cond-mat/0312573",
+  "title": "Nearly Insulating Strongly Correlated Systems: Gossamer Superconductors and Metals",
+  "authors": [
+   "Bogdan A. Bernevig",
+   "George Chapline",
+   "Robert B. Laughlin",
+   "Zaira Nazario",
+   "David I. Santiago"
+  ],
+  "date": "2003-12-22",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "cond-mat/0311024",
+  "title": "Dissipationless Spin Current in Anisotropic p-Doped Semiconductors",
+  "authors": [
+   "Bogdan A. Bernevig",
+   "JiangPing Hu",
+   "Eran Mukamel",
+   "Shou-Cheng Zhang"
+  ],
+  "date": "2003-11-03",
+  "journal": "Phys. Rev. B 70, 113301 (2004)",
+  "doi": "10.1103/PhysRevB.70.113301"
+ },
+ {
+  "id": "cond-mat/0310093",
+  "title": "Spin Current in Spin-Orbit Coupling Systems",
+  "authors": [
+   "Jiangping Hu",
+   "Bogdan A. Bernevig",
+   "Congjun Wu"
+  ],
+  "date": "2003-10-06",
+  "journal": "Int. J. Mod. Phys. B 17, 5991 (2003)",
+  "doi": "10.1142/S0217979203023537"
+ },
+ {
+  "id": "cond-mat/0306045",
+  "title": "The Eight Dimensional Quantum Hall Effect and the Octonions",
+  "authors": [
+   "B. A. Bernevig",
+   "J. P. Hu",
+   "N. Toumbas",
+   "S. C. Zhang"
+  ],
+  "date": "2003-06-02",
+  "journal": "Phys.Rev.Lett. 91 (2003) 236803",
+  "doi": "10.1103/PhysRevLett.91.236803"
+ },
+ {
+  "id": "cond-mat/0304419",
+  "title": "On Vortices and Phase Coherence in High Tc Superconductors",
+  "authors": [
+   "Bogdan A. Bernevig",
+   "Zaira Nazario",
+   "David I. Santiago"
+  ],
+  "date": "2003-04-17",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "cond-mat/0303045",
+  "title": "Magnetic Instability in Strongly Correlated Superconductors",
+  "authors": [
+   "Bogdan A. Bernevig",
+   "Robert B. Laughlin",
+   "David I. Santiago"
+  ],
+  "date": "2003-03-03",
+  "journal": "",
+  "doi": "10.1103/PhysRevLett.91.147003"
+ },
+ {
+  "id": "quant-ph/0302081",
+  "title": "Geometry of the 3-Qubit State, Entanglement and Division Algebras",
+  "authors": [
+   "Bogdan A. Bernevig",
+   "Han-Dong Chen"
+  ],
+  "date": "2003-02-11",
+  "journal": "J. Phys. A: Math. Gen., 36, 8325 (2003)",
+  "doi": "10.1088/0305-4470/36/30/309"
+ },
+ {
+  "id": "cond-mat/0301593",
+  "title": "Interaction among particles with fractionalized quantum numbers in one dimensional samples",
+  "authors": [
+   "Bogdan A. Bernevig",
+   "Domenico Giuliano",
+   "Robert B. Laughlin"
+  ],
+  "date": "2003-01-30",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "cond-mat/0206498",
+  "title": "Interaction between particles in a 1/$λ$-statistics anyon gas",
+  "authors": [
+   "B. A. Bernevig",
+   "D. Giuliano",
+   "D. I. Santiago"
+  ],
+  "date": "2002-06-26",
+  "journal": "",
+  "doi": ""
+ },
+ {
+  "id": "cond-mat/0206164",
+  "title": "Effective field theory description of the higher dimensional quantum Hall liquid",
+  "authors": [
+   "B. Andrei Bernevig",
+   "Chyh-Hong Chern",
+   "Jiang-Ping Hu",
+   "Nicolaos Toumbas",
+   "Shou-Cheng Zhang"
+  ],
+  "date": "2002-06-11",
+  "journal": "Ann. Phys. 300, 185 (2002)",
+  "doi": "10.1006/aphy.2002.6292"
+ },
+ {
+  "id": "cond-mat/0110233",
+  "title": "Coordinate Representation of the One-Spinon One-Holon Wavefunction and Spinon-Holon Interaction",
+  "authors": [
+   "Bogdan A. Bernevig",
+   "Domenico Giuliano",
+   "Robert B. Laughlin"
+  ],
+  "date": "2001-10-11",
+  "journal": "",
+  "doi": "10.1103/PhysRevB.65.195112"
+ },
+ {
+  "id": "cond-mat/0105523",
+  "title": "Spinon-Holon Attraction in the Supersymmetric t-J Model with 1/r^2-Interaction",
+  "authors": [
+   "B. A. Bernevig",
+   "D. Giuliano",
+   "R. B. Laughlin"
+  ],
+  "date": "2001-05-28",
+  "journal": "",
+  "doi": "10.1103/PhysRevLett.87.177206"
+ },
+ {
+  "id": "cond-mat/0011270",
+  "title": "Coordinate Representation of the Two-Spinon wavefunction and Spinon Interaction",
+  "authors": [
+   "B. A. Bernevig",
+   "D. Giuliano",
+   "R. B. Laughlin"
+  ],
+  "date": "2000-11-16",
+  "journal": "",
+  "doi": "10.1103/PhysRevB.64.024425"
+ },
+ {
+  "id": "cond-mat/0011069",
+  "title": "Spinon Attraction in Spin-1/2 Antiferromagnetic Chains",
+  "authors": [
+   "B. A. Bernevig",
+   "D. Giuliano",
+   "R. B. Laughlin"
+  ],
+  "date": "2000-11-03",
+  "journal": "",
+  "doi": "10.1103/PhysRevLett.86.3392"
+ },
+ {
+  "id": "hep-th/0010105",
+  "title": "How Bob Laughlin Tamed the Giant Graviton from Taub-NUT space",
+  "authors": [
+   "B. A. Bernevig",
+   "J. Brodie",
+   "L. Susskind",
+   "N. Toumbas"
+  ],
+  "date": "2000-10-12",
+  "journal": "JHEP 0102:003,2001",
+  "doi": "10.1088/1126-6708/2001/02/003"
+ },
+ {
+  "id": "cond-mat/0004291",
+  "title": "Spectroscopy of Matter Near Criticality",
+  "authors": [
+   "B. A. Bernevig",
+   "D. Giuliano",
+   "R. B. Laughlin"
+  ],
+  "date": "2000-04-18",
+  "journal": "",
+  "doi": ""
+ }
+]

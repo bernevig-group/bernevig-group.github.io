@@ -1,0 +1,58 @@
+---
+import Base from "../layouts/Base.astro";
+import { pi, members, collaborators, alumni } from "../data/people";
+import { site } from "../data/site";
+import { u } from "../lib/url";
+
+const groups = Object.entries(members).filter(([, list]) => list.length > 0);
+---
+<Base title="People">
+  <h1>People</h1>
+
+  <div class={pi.photo ? "pi" : "pi nophoto"}>
+    {pi.photo && <img src={u(pi.photo)} alt={pi.name} width="200" height="250" />}
+    <div>
+      <h2 style="margin-top:0">{pi.name}</h2>
+      <p class="role">{pi.title}</p>
+      {pi.bio.map((b) => <p>{b}</p>)}
+      <p>
+        <a href={`mailto:${site.email}`}>{site.email}</a> · <a href={site.scholar}>Google Scholar</a>
+      </p>
+    </div>
+  </div>
+
+  {groups.map(([heading, list]) => (
+    <section>
+      <h2>{heading}</h2>
+      <div class="grid-people">
+        {list.map((m) => (
+          <div class="person">
+            {m.photo && <img src={u(m.photo)} alt={m.name} loading="lazy" />}
+            <div class="n">{m.url ? <a href={m.url}>{m.name}</a> : m.name}</div>
+            <div class="r">{m.role}</div>
+            {m.note && <div class="r">{m.note}</div>}
+          </div>
+        ))}
+      </div>
+    </section>
+  ))}
+
+  <h2>Frequent collaborators</h2>
+  <ul class="refs">
+    {collaborators.map((c) => (
+      <li><strong>{c.name}</strong>, {c.role}. {c.note}</li>
+    ))}
+  </ul>
+
+  <h2>Former members</h2>
+  <table class="alumni">
+    <thead>
+      <tr><th>Name</th><th>Years</th><th>Position in the group</th><th>Later at</th></tr>
+    </thead>
+    <tbody>
+      {alumni.map((a) => (
+        <tr><td>{a.name}</td><td>{a.years}</td><td>{a.role}</td><td>{a.later}</td></tr>
+      ))}
+    </tbody>
+  </table>
+</Base>

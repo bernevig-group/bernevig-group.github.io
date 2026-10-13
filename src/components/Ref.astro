@@ -1,0 +1,20 @@
+---
+// One publication entry. Takes a paper from publications.json (optionally resolved with overrides).
+import { authorLine, titleHtml, type Paper } from "../lib/papers";
+
+interface Props {
+  paper: Paper & { url?: string };
+}
+const { paper } = Astro.props;
+const abs = `https://arxiv.org/abs/${paper.id}`;
+const main = paper.url ?? (paper.doi ? `https://doi.org/${paper.doi}` : abs);
+---
+<li>
+  <a class="t" href={main} set:html={titleHtml(paper.title)} /><br />
+  <span class="au">{authorLine(paper.authors)}</span><br />
+  {paper.journal ? <span class="j">{paper.journal}</span> : <span class="j">arXiv:{paper.id}</span>}
+  <span class="links">
+    {paper.journal && <> · <a href={abs}>arXiv</a></>}
+    {paper.doi && main !== `https://doi.org/${paper.doi}` && <> · <a href={`https://doi.org/${paper.doi}`}>DOI</a></>}
+  </span>
+</li>

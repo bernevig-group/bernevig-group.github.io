@@ -1,0 +1,79 @@
+---
+import "../styles/global.css";
+import { site, affiliations, nav } from "../data/site";
+import { papers } from "../lib/papers";
+import { u } from "../lib/url";
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+const { title, description = "The Bernevig group studies topological and strongly correlated quantum matter at Princeton University and the Donostia International Physics Center." } = Astro.props;
+const pageTitle = title ? `${title} | ${site.name}` : `${site.name} | ${site.tagline}`;
+const here = Astro.url.pathname.replace(/\/$/, "") || "/";
+const isCurrent = (href: string) => (u(href).replace(/\/$/, "") || "/") === here;
+const latest = papers[0]?.date;
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{pageTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="icon" href={u("favicon.svg")} type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,600;1,400&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="topbar">
+      <div class="wrap">
+        {affiliations.map((a) => <a href={a.url}>{a.name}</a>)}
+      </div>
+    </div>
+    <header class="masthead">
+      <div class="wrap">
+        <a class="name" href={u("/")}>{site.name}</a>
+        <div class="tag">{site.tagline}</div>
+      </div>
+    </header>
+    <nav class="main" aria-label="Main">
+      <div class="wrap">
+        <ul>
+          {nav.map((n) => (
+            <li><a href={u(n.href)} aria-current={isCurrent(n.href) ? "page" : undefined}>{n.label}</a></li>
+          ))}
+        </ul>
+      </div>
+    </nav>
+    <main>
+      <div class="wrap">
+        <slot />
+      </div>
+    </main>
+    <footer class="site">
+      <div class="wrap">
+        <div class="cols">
+          {affiliations.map((a) => (
+            <div>
+              <strong>{a.name}</strong>
+              {a.lines.map((l) => <>{l}<br /></>)}
+            </div>
+          ))}
+          <div>
+            <strong>Contact</strong>
+            <a href={`mailto:${site.email}`}>{site.email}</a><br />
+            {site.phone}
+          </div>
+        </div>
+        <div class="small">
+          © {new Date().getFullYear()} {site.name}. The publication list is updated automatically from arXiv{latest ? ` (latest entry ${latest})` : ""}.
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

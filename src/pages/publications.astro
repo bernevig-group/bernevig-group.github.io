@@ -1,0 +1,43 @@
+---
+import Base from "../layouts/Base.astro";
+import Ref from "../components/Ref.astro";
+import { selected } from "../data/selected";
+import { papers, resolve, byYear } from "../lib/papers";
+import { site } from "../data/site";
+
+const years = byYear(papers);
+---
+<Base title="Publications">
+  <h1>Publications</h1>
+  <p class="note">
+    The full list below contains all {papers.length} papers on arXiv with B. A. Bernevig as an author, newest first.
+    It is refreshed from arXiv every week. Citation counts are on <a href={site.scholar}>Google Scholar</a>,
+    and the same list can be searched on <a href={site.arxivSearch}>arXiv</a>.
+  </p>
+
+  <h2>Selected publications</h2>
+  <ol class="refs">
+    {selected.map((r) => <Ref paper={resolve(r)} />)}
+  </ol>
+  <h3>Book</h3>
+  <ul class="refs">
+    <li>
+      <a class="t" href="https://doi.org/10.1515/9781400846733">Topological Insulators and Topological Superconductors</a><br />
+      <span class="au">B. A. Bernevig with T. L. Hughes</span><br />
+      <span class="j">Princeton University Press (2013)</span>
+    </li>
+  </ul>
+
+  <h2>All papers</h2>
+  <p class="years">
+    {years.map(([y]) => <a href={`#y${y}`}>{y}</a>)}
+  </p>
+  {years.map(([y, list]) => (
+    <section>
+      <h3 id={`y${y}`}>{y}</h3>
+      <ul class="refs">
+        {list.map((p) => <Ref paper={p} />)}
+      </ul>
+    </section>
+  ))}
+</Base>

@@ -1,0 +1,28 @@
+---
+import Base from "../layouts/Base.astro";
+import { site, affiliations } from "../data/site";
+---
+<Base title="Contact">
+  <h1>Contact</h1>
+  <p>
+    Prof. B. Andrei Bernevig<br />
+    <a href={`mailto:${site.email}`}>{site.email}</a><br />
+    {site.phone}
+  </p>
+
+  <div class="two">
+    {affiliations.map((a) => (
+      <div>
+        <h2 style="margin-top:1em"><a href={a.url}>{a.name}</a></h2>
+        <address>{a.lines.map((l) => <>{l}<br /></>)}</address>
+      </div>
+    ))}
+  </div>
+
+  <h2>Joining the group</h2>
+  <p>
+    Prospective graduate students apply through the
+    <a href="https://phy.princeton.edu/">Princeton Department of Physics</a> PhD program.
+    Prospective postdoctoral researchers are welcome to write to Prof. Bernevig by email.
+  </p>
+</Base>

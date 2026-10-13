@@ -1,0 +1,63 @@
+---
+import Base from "../layouts/Base.astro";
+import { areas } from "../data/research";
+import { papers, authorLine, titleHtml } from "../lib/papers";
+import { u } from "../lib/url";
+
+const recent = papers.slice(0, 5);
+const fmt = (d: string) =>
+  new Date(d + "T12:00:00Z").toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric", timeZone: "UTC" });
+---
+<Base>
+  <figure class="banner">
+    <img src={u("figures/moire_banner.png")} alt="Moiré interference pattern of two twisted triangular lattices" width="1800" height="440" />
+    <figcaption>Moiré pattern of two triangular lattices twisted by 3°, the geometry behind magic-angle graphene.</figcaption>
+  </figure>
+
+  <div class="intro">
+    <div>
+      <h1>Discovering the nature of quantum matter</h1>
+      <p class="lead">
+        We are a theoretical condensed matter group at Princeton University and the Donostia International
+        Physics Center. We aim to predict fundamental quantum effects and the materials in which experiments
+        can observe them.
+      </p>
+      <p>
+        Our current work covers topological phases and topological quantum chemistry, twisted moiré materials,
+        flat-band systems, quantum geometry and superconductivity, many-body dynamics, and machine learning for
+        materials. Much of it is done together with experimental groups, and the materials we classify are
+        collected in the <a href="https://topologicalquantumchemistry.com/">Topological Materials Database</a>.
+      </p>
+      <blockquote>
+        One thing that drew me to condensed matter theory is the fact that we can confirm or refute our theories
+        via experimentation. Nature tells us whether we are on the right path.
+        <footer>B. Andrei Bernevig</footer>
+      </blockquote>
+    </div>
+    <aside class="recent">
+      <h2>Recent papers</h2>
+      <ul>
+        {recent.map((p) => (
+          <li>
+            <span class="when">{fmt(p.date)}</span>
+            <a href={`https://arxiv.org/abs/${p.id}`} set:html={titleHtml(p.title)} />
+            <br /><span class="note">{authorLine(p.authors, 5)}</span>
+          </li>
+        ))}
+      </ul>
+      <a href={u("/publications")}>All publications</a>
+    </aside>
+  </div>
+
+  <h2>Research</h2>
+  <div class="cards">
+    {areas.map((a) => (
+      <a class="card" href={u(`/research#${a.id}`)}>
+        <div class={a.id === "moire" ? "frame fill" : "frame"}>
+          <img src={u(a.figure)} alt="" loading="lazy" />
+        </div>
+        <h3>{a.title}</h3>
+      </a>
+    ))}
+  </div>
+</Base>

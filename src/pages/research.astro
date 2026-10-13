@@ -1,0 +1,34 @@
+---
+import Base from "../layouts/Base.astro";
+import Ref from "../components/Ref.astro";
+import { areas } from "../data/research";
+import { resolve } from "../lib/papers";
+import { u } from "../lib/url";
+---
+<Base title="Research">
+  <h1>Research</h1>
+  <p class="note">
+    The figures on this page are small calculations of the kind that appear in our papers. Each section lists a
+    few representative publications. The <a href={u("/publications")}>publications page</a> has the full list.
+  </p>
+  {areas.map((a) => (
+    <section class="area" id={a.id}>
+      <figure>
+        <img src={u(a.figure)} alt="" loading="lazy" />
+        <figcaption>{a.caption}</figcaption>
+      </figure>
+      <div>
+        <h2>{a.title}</h2>
+        {a.text.map((t) => <p>{t}</p>)}
+        {a.papers.length > 0 && (
+          <>
+            <h3>Representative papers</h3>
+            <ul class="refs compact">
+              {a.papers.map((r) => <Ref paper={resolve(r)} />)}
+            </ul>
+          </>
+        )}
+      </div>
+    </section>
+  ))}
+</Base>

@@ -1,0 +1,35 @@
+---
+import Base from "../layouts/Base.astro";
+import { talks, series } from "../data/talks";
+
+const yt = (v: string) => `https://www.youtube.com/watch?v=${v}`;
+const thumb = (v: string) => `https://i.ytimg.com/vi/${v}/mqdefault.jpg`;
+---
+<Base title="Talks & Lectures">
+  <h1>Talks &amp; Lectures</h1>
+
+  {talks.map((g) => (
+    <section>
+      <h2>{g.heading}</h2>
+      <div class="videos">
+        {g.items.map((t) => (
+          <a class="video" href={yt(t.v)}>
+            <img src={thumb(t.v)} alt="" loading="lazy" width="320" height="180" />
+            <span>{t.title}{t.year && ` (${t.year})`}</span>
+          </a>
+        ))}
+      </div>
+    </section>
+  ))}
+
+  <h2>Lecture series</h2>
+  <ul class="refs series">
+    {series.map((s) => (
+      <li>
+        <strong>{s.title}</strong><br />
+        <span class="meta">{s.venue}, {s.year}</span><br />
+        {s.parts.map((p, i) => <>{i > 0 && " · "}<a href={yt(p.v)}>{p.label}</a></>)}
+      </li>
+    ))}
+  </ul>
+</Base>
