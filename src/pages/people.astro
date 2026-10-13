@@ -49,7 +49,7 @@ const initials = (name: string) => {
   <h2>Frequent collaborators</h2>
   <ul class="refs">
     {collaborators.map((c) => (
-      <li><strong>{c.name}</strong>, {c.role}. {c.note}</li>
+      <li><strong>{c.name}</strong>{c.role && `, ${c.role}.`}{c.note && ` ${c.note}`}</li>
     ))}
   </ul>
 

@@ -21,15 +21,11 @@ export const pi = {
 };
 
 // Current members, grouped by the heading they appear under (alphabetical by surname).
-// Roles and photos to be collected from each member.
+// Photos to be collected from each member.
 export const members: Record<string, Member[]> = {
-  "Group members": [
-    { name: "Awwab A. Azam", role: "" },
-    { name: "Handong Chen", role: "" },
-    { name: "Zenan Dai", role: "" },
+  "Postdoctoral researchers": [
     { name: "Eli Gerber", role: "" },
     { name: "Yi Jiang", role: "" },
-    { name: "Abhishek Karna", role: "" },
     { name: "Heqiu Li", role: "" },
     { name: "Ming-Rui Li", role: "" },
     { name: "Shuo Liu", role: "" },
@@ -41,9 +37,17 @@ export const members: Record<string, Member[]> = {
     { name: "Yijie Wang", role: "" },
     { name: "Ruihan Zhang", role: "" },
   ],
+  "Graduate students": [
+    { name: "Zenan Dai", role: "" },
+    { name: "Abhishek Karna", role: "" },
+  ],
+  "Undergraduate researchers": [
+    { name: "Awwab A. Azam", role: "" },
+  ],
 };
 
 export const collaborators: Member[] = [
+  { name: "Handong Chen", role: "" },
   { name: "Nicolas Regnault", role: "École Normale Supérieure, Paris", note: "Long-term collaborator on numerical methods for many-body systems." },
 ];
 
