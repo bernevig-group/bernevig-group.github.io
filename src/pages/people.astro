@@ -1,10 +1,11 @@
 ---
 import Base from "../layouts/Base.astro";
-import { pi, members, collaborators, alumni } from "../data/people";
+import { pi, sections, membersOf, collaborators, alumni } from "../data/people";
 import { site } from "../data/site";
 import { u } from "../lib/url";
 
-const groups = Object.entries(members).filter(([, list]) => list.length > 0);
+const groups = sections.map((s) => ({ ...s, list: membersOf(s.group) })).filter((s) => s.list.length > 0);
+const sinceYear = (since?: string) => (since ? ` since ${since.slice(0, 4)}` : "");
 // Until a photo is added, show a plain frame with the person's initials.
 const initials = (name: string) => {
   const words = name.split(/\s+/).filter((w) => !/^[A-Z]\.$/.test(w)); // skip lone initials like "B."
@@ -28,7 +29,7 @@ const initials = (name: string) => {
     </div>
   </div>
 
-  {groups.map(([heading, list]) => (
+  {groups.map(({ group, heading, list }) => (
     <section>
       <h2>{heading}</h2>
       <div class="grid-people">
@@ -38,7 +39,8 @@ const initials = (name: string) => {
               ? <img src={u(m.photo)} alt={m.name} loading="lazy" />
               : <div class="ph" aria-hidden="true">{initials(m.name)}</div>}
             <div class="n">{m.name}</div>
-            {m.affiliation && <div class="r">{m.affiliation}</div>}
+            <div class="r">{m.role}{sinceYear(m.since)}</div>
+            {m.affiliation && m.affiliation !== group && <div class="r">{m.affiliation}</div>}
             {m.tagline && <div class="tagline">{m.tagline}</div>}
             {(m.scholar || m.linkedin || m.website) && (
               <div class="plinks">
@@ -58,7 +60,7 @@ const initials = (name: string) => {
   <h2>Frequent collaborators</h2>
   <ul class="refs">
     {collaborators.map((c) => (
-      <li><strong>{c.name}</strong>{c.role && `, ${c.role}.`}{c.note && ` ${c.note}`}</li>
+      <li><strong>{c.name}</strong>{c.institution && `, ${c.institution}.`}{c.note && ` ${c.note}`}</li>
     ))}
   </ul>
 

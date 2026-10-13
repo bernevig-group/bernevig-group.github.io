@@ -1,23 +1,35 @@
-// People page. To add someone, copy a line and edit it. Every field except `name` is optional and
-// only shows up once filled in. A complete entry looks like:
+// People page. To add someone, copy a line and edit it. Only `name`, `group` and `role` are required;
+// every other field shows up once filled in. A complete entry looks like:
 //
-//   { name: "Jane Doe", affiliation: "Princeton and DIPC", tagline: "Moiré materials, superconductivity",
-//     photo: "people/jane-doe.jpg", scholar: "https://scholar.google.com/citations?user=...",
-//     linkedin: "https://www.linkedin.com/in/...", website: "https://..." },
+//   { name: "Jane Doe", group: "Princeton", role: "Postdoc", since: "2024-09",
+//     tagline: "Moiré materials, superconductivity", photo: "people/jane-doe.jpg",
+//     scholar: "https://scholar.google.com/citations?user=...", linkedin: "https://www.linkedin.com/in/...",
+//     website: "https://..." },
 //
+// The page lists members in three sections (Princeton, DIPC, other institutions), each sorted by the
+// date they joined (`since`, "YYYY-MM"); people without a date follow, alphabetically.
 // Photos go in public/people/ (square crop works best); without one the card shows initials.
+
+export type Group = "Princeton" | "DIPC" | "Other";
 
 export interface Member {
   name: string;
-  affiliation?: string; // "Princeton", "DIPC" or "Princeton and DIPC"
+  group: Group;
+  role: "Postdoc" | "Graduate student" | "Undergraduate researcher" | "Visiting researcher";
+  since?: string; // month joined, "YYYY-MM"
+  affiliation?: string; // shown when it adds to the section, e.g. "Princeton and DIPC" or another university
   tagline?: string; // research interests, one short line
   photo?: string;
   scholar?: string; // Google Scholar profile
   linkedin?: string;
   website?: string; // personal website
-  role?: string; // used for collaborators (their institution)
-  note?: string;
 }
+
+export const sections: { group: Group; heading: string }[] = [
+  { group: "Princeton", heading: "Princeton University" },
+  { group: "DIPC", heading: "Donostia International Physics Center" },
+  { group: "Other", heading: "Other institutions" },
+];
 
 export const pi = {
   name: "B. Andrei Bernevig",
@@ -29,48 +41,67 @@ export const pi = {
   ],
 };
 
-// Current members, grouped by the heading they appear under (alphabetical by surname).
-// Photos to be collected from each member.
-export const members: Record<string, Member[]> = {
-  "Postdoctoral researchers": [
-    { name: "Eli Gerber" },
-    { name: "Yi Jiang", affiliation: "Princeton and DIPC", tagline: "Flat-band materials, electron-phonon superconductivity, quantum geometry",
-      website: "https://phy.princeton.edu/people/yi-jiang" },
-    { name: "Heqiu Li", affiliation: "DIPC", tagline: "Fractional Chern insulators, moiré materials, exact diagonalization",
-      website: "https://dipc.ehu.eus/en/dipc/people/post-doctoral-researchers/heqiu-li" },
-    { name: "Ming-Rui Li", affiliation: "Princeton", tagline: "Moiré flat bands, unconventional superconductivity" },
-    { name: "Shuo Liu", affiliation: "Princeton", tagline: "Quantum many-body dynamics, quantum circuits, Hubbard models",
-      website: "https://phy.princeton.edu/people/shuo-liu" },
-    { name: "Juan Felipe Mendez", affiliation: "Princeton", tagline: "Correlated moiré materials, fractional Chern insulators, quantum geometry",
-      scholar: "https://scholar.google.com/citations?user=u138FgQAAAAJ",
-      linkedin: "https://www.linkedin.com/in/juan-felipe-m%C3%A9ndez-valderrama-299817134/",
-      website: "https://pccm.princeton.edu/people/juan-felipe-mendez-valderrama" },
-    { name: "Hanqi Pi", affiliation: "DIPC", tagline: "Moiré materials, first-principles calculations, topological flat bands",
-      scholar: "https://scholar.google.com/citations?user=Udl5W14AAAAJ",
-      website: "https://dipc.ehu.eus/en/dipc/people/post-doctoral-researchers/hanqi-pi" },
-    { name: "Yuelin Shao", affiliation: "DIPC", tagline: "Excitonic insulators, moiré graphene, nonlinear transport",
-      scholar: "https://scholar.google.com/citations?user=ZKORHmcAAAAJ",
-      website: "https://dipc.ehu.eus/en/dipc/people/post-doctoral-researchers/yuelin-shao" },
-    { name: "Hao Shi", affiliation: "DIPC" },
-    { name: "Yijie Wang", tagline: "Twisted bilayer graphene, heavy fermions, Kondo physics, superconductivity" },
-    { name: "Ruihan Zhang" },
-  ],
-  "Graduate students": [
-    { name: "Zenan Dai", affiliation: "Princeton", tagline: "Quantum geometry, phonons, quantum Monte Carlo methods" },
-    { name: "Abhishek Karna", affiliation: "Princeton", photo: "people/abhishek-karna.jpg", scholar: "https://scholar.google.com/citations?user=fF3vhcEAAAAJ",
-      linkedin: "https://www.linkedin.com/in/abhishekkarna/", website: "https://karna-abhishek.github.io" },
-    { name: "Levi Rauchwerger", affiliation: "Princeton", tagline: "Graph neural networks, machine learning theory",
-      scholar: "https://scholar.google.com/citations?user=yxCJK3sAAAAJ",
-      linkedin: "https://www.linkedin.com/in/levi-rauchwerger/" },
-  ],
-  "Undergraduate researchers": [
-    { name: "Awwab A. Azam", affiliation: "University of Florida", tagline: "Quantum geometry, ideal bands, machine learning methods" },
-  ],
-};
+// Current members. Locations and start dates for people marked "Other" without an affiliation are
+// still to be confirmed through the member form.
+export const members: Member[] = [
+  // Princeton
+  { name: "Ming-Rui Li", group: "Princeton", role: "Postdoc", tagline: "Moiré flat bands, unconventional superconductivity" },
+  { name: "Shuo Liu", group: "Princeton", role: "Postdoc", tagline: "Quantum many-body dynamics, quantum circuits, Hubbard models",
+    website: "https://phy.princeton.edu/people/shuo-liu" },
+  { name: "Juan Felipe Mendez", group: "Princeton", role: "Postdoc",
+    tagline: "Correlated moiré materials, fractional Chern insulators, quantum geometry",
+    scholar: "https://scholar.google.com/citations?user=u138FgQAAAAJ",
+    linkedin: "https://www.linkedin.com/in/juan-felipe-m%C3%A9ndez-valderrama-299817134/",
+    website: "https://pccm.princeton.edu/people/juan-felipe-mendez-valderrama" },
+  { name: "Zenan Dai", group: "Princeton", role: "Graduate student", tagline: "Quantum geometry, phonons, quantum Monte Carlo methods" },
+  { name: "Abhishek Karna", group: "Princeton", role: "Graduate student", photo: "people/abhishek-karna.jpg",
+    scholar: "https://scholar.google.com/citations?user=fF3vhcEAAAAJ",
+    linkedin: "https://www.linkedin.com/in/abhishekkarna/", website: "https://karna-abhishek.github.io" },
+  { name: "Levi Rauchwerger", group: "Princeton", role: "Graduate student", tagline: "Graph neural networks, machine learning theory",
+    scholar: "https://scholar.google.com/citations?user=yxCJK3sAAAAJ",
+    linkedin: "https://www.linkedin.com/in/levi-rauchwerger/" },
 
-export const collaborators: Member[] = [
-  { name: "Handong Chen", role: "Princeton University" },
-  { name: "Nicolas Regnault", role: "École Normale Supérieure, Paris", note: "Long-term collaborator on numerical methods for many-body systems." },
+  // DIPC
+  { name: "Yi Jiang", group: "DIPC", role: "Postdoc", since: "2023-07", affiliation: "Princeton and DIPC",
+    tagline: "Flat-band materials, electron-phonon superconductivity, quantum geometry",
+    website: "https://phy.princeton.edu/people/yi-jiang" },
+  { name: "Heqiu Li", group: "DIPC", role: "Postdoc", since: "2024-09",
+    tagline: "Fractional Chern insulators, moiré materials, exact diagonalization",
+    website: "https://dipc.ehu.eus/en/dipc/people/post-doctoral-researchers/heqiu-li" },
+  { name: "Hanqi Pi", group: "DIPC", role: "Postdoc", tagline: "Moiré materials, first-principles calculations, topological flat bands",
+    scholar: "https://scholar.google.com/citations?user=Udl5W14AAAAJ",
+    website: "https://dipc.ehu.eus/en/dipc/people/post-doctoral-researchers/hanqi-pi" },
+  { name: "Yuelin Shao", group: "DIPC", role: "Postdoc", tagline: "Excitonic insulators, moiré graphene, nonlinear transport",
+    scholar: "https://scholar.google.com/citations?user=ZKORHmcAAAAJ",
+    website: "https://dipc.ehu.eus/en/dipc/people/post-doctoral-researchers/yuelin-shao" },
+  { name: "Hao Shi", group: "DIPC", role: "Postdoc" },
+
+  // Other institutions, or location not yet confirmed
+  { name: "Awwab A. Azam", group: "Other", role: "Undergraduate researcher", affiliation: "University of Florida",
+    tagline: "Quantum geometry, ideal bands, machine learning methods" },
+  { name: "Eli Gerber", group: "Other", role: "Postdoc" },
+  { name: "Yijie Wang", group: "Other", role: "Postdoc", tagline: "Twisted bilayer graphene, heavy fermions, Kondo physics, superconductivity" },
+  { name: "Ruihan Zhang", group: "Other", role: "Postdoc" },
+];
+
+// Sort key: join date first (undated last), then surname.
+const surname = (name: string) => name.trim().split(/\s+/).pop()!.toLowerCase();
+export function membersOf(group: Group): Member[] {
+  return members
+    .filter((m) => m.group === group)
+    .sort((a, b) => (a.since ?? "9999").localeCompare(b.since ?? "9999") || surname(a.name).localeCompare(surname(b.name)));
+}
+
+export interface Collaborator {
+  name: string;
+  institution?: string;
+  note?: string;
+}
+
+export const collaborators: Collaborator[] = [
+  { name: "Handong Chen", institution: "Princeton University" },
+  { name: "Oskar Vafek", institution: "Florida State University and National High Magnetic Field Laboratory", note: "Long-term collaborator on twisted bilayer graphene and moiré materials." },
+  { name: "Nicolas Regnault", institution: "École Normale Supérieure, Paris", note: "Long-term collaborator on numerical methods for many-body systems." },
 ];
 
 export interface Alum {
