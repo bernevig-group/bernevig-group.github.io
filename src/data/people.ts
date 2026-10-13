@@ -38,6 +38,14 @@ export interface Alum {
 }
 
 export const alumni: Alum[] = [
+  // Listed as current members on the old site (circa 2021); years and later positions not recorded there.
+  { name: "Aaron Chew", role: "Postdoc", years: "", later: "" },
+  { name: "Frank Schindler", role: "PCTS fellow", years: "", later: "" },
+  { name: "Zhida Song", role: "Postdoc", years: "", later: "Peking University (faculty)" },
+  { name: "Yuanfeng Xu", role: "Postdoc", years: "", later: "" },
+  { name: "Dumitru Călugăru", role: "Graduate student", years: "", later: "" },
+  { name: "Jonah Herzog-Arbeitman", role: "Graduate student", years: "", later: "" },
+  { name: "Fang Xie", role: "Graduate student", years: "", later: "" },
   { name: "Benjamin Wieder", role: "Postdoc", years: "2017–2020", later: "MIT" },
   { name: "Sanjay Moudgalya", role: "Graduate student", years: "2017–2020", later: "Caltech" },
   { name: "Biao Lian", role: "PCTS fellow", years: "2017–2020", later: "Princeton University (faculty)" },
