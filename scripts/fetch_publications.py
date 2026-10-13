@@ -1,12 +1,14 @@
 """Pull every arXiv paper with Bernevig as an author into src/data/publications.json.
 
-The GitHub Action runs this weekly before building, so the publication list never
-goes stale. If arXiv is unreachable the committed JSON is left untouched.
+Each paper also gets an OpenAlex citation count ("cites"), used only to pick the
+selected papers of each year. The GitHub Action runs this weekly before building,
+so the list never goes stale. If arXiv is unreachable the committed JSON is kept.
 
 Usage: python scripts/fetch_publications.py
 """
 import json
 import pathlib
+import re
 import sys
 import time
 import urllib.parse
@@ -53,6 +55,51 @@ def fetch_all():
         time.sleep(3)  # arXiv asks for a pause between calls
 
 
+OPENALEX_AUTHOR = "A5024948946"  # B. Andrei Bernevig
+
+
+def norm(title):
+    return re.sub(r"[^a-z0-9]", "", title.lower())
+
+
+def citation_counts():
+    """Citation counts from OpenAlex, keyed by DOI, arXiv id and normalized title."""
+    by_key, cursor = {}, "*"
+    while cursor:
+        q = urllib.parse.urlencode({"filter": f"author.id:{OPENALEX_AUTHOR}", "per-page": 200, "cursor": cursor,
+                                    "select": "doi,title,cited_by_count,locations"})
+        req = urllib.request.Request("https://api.openalex.org/works?" + q,
+                                     headers={"User-Agent": "bernevig-group-site (mailto:bernevig@princeton.edu)"})
+        with urllib.request.urlopen(req, timeout=60) as r:
+            page = json.load(r)
+        for w in page["results"]:
+            n = w.get("cited_by_count") or 0
+            keys = [norm(w.get("title") or "")]
+            if w.get("doi"):
+                keys.append(w["doi"].lower().removeprefix("https://doi.org/"))
+            for loc in w.get("locations") or []:
+                m = re.search(r"arxiv\.org/abs/([^v\s]+)", (loc.get("landing_page_url") or ""))
+                if m:
+                    keys.append(m.group(1))
+            for k in keys:
+                if k:
+                    by_key[k] = max(by_key.get(k, 0), n)
+        cursor = page["meta"].get("next_cursor")
+    return by_key
+
+
+def add_citations(papers):
+    try:
+        counts = citation_counts()
+    except Exception as exc:
+        print(f"OpenAlex fetch failed ({exc}); reusing old citation counts")
+        old = json.loads(OUT.read_text(encoding="utf-8")) if OUT.exists() else []
+        counts = {p["id"]: p.get("cites", 0) for p in old}
+    for p in papers:
+        p["cites"] = max(counts.get(p["id"], 0), counts.get(p["doi"].lower(), 0) if p["doi"] else 0,
+                         counts.get(norm(p["title"]), 0))
+
+
 def main():
     try:
         papers = fetch_all()
@@ -62,6 +109,8 @@ def main():
     if len(papers) < 50:
         print(f"only {len(papers)} papers returned, which looks wrong; not overwriting")
         return 0
+    add_citations(papers)
+    print(f"citation counts found for {sum(1 for p in papers if p['cites'])} of {len(papers)} papers")
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(papers, indent=1, ensure_ascii=False), encoding="utf-8")
     print(f"wrote {len(papers)} papers to {OUT}")
