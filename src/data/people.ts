@@ -22,7 +22,7 @@ export interface Member {
 export const pi = {
   name: "B. Andrei Bernevig",
   title: "Professor of Physics, Princeton University. Ikerbasque Professor, Donostia International Physics Center.",
-  photo: "", // e.g. "people/bernevig.jpg"
+  photo: "people/bernevig.jpg", // from DIPC's 2023 Europhysics Prize news item
   bio: [
     "B. Andrei Bernevig is a professor of physics at Princeton University and holds an Ikerbasque professorship at the Donostia International Physics Center in San Sebastián, Spain. He received his PhD from Stanford University and was a postdoctoral fellow at the Princeton Center for Theoretical Physics.",
     "His awards include the Sackler Prize (2014), the New Horizons in Physics Prize (2016), a Guggenheim Fellowship (2017), the James C. McGroddy Prize for New Materials (2019) and the EPS Europhysics Prize (2023).",
