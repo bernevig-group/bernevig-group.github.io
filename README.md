@@ -25,6 +25,10 @@ npm run dev        # http://localhost:4321
 
 ## Deploy
 
-Push to `main` on GitHub with Pages enabled (Settings → Pages → Source: GitHub Actions). The workflow in
-`.github/workflows/deploy.yml` builds and publishes the site. For a custom domain, add it under
-Settings → Pages and point a CNAME record at `<user>.github.io`.
+The site is meant to live at `bernevig.princeton.edu`. Two ways to get it there:
+
+- GitHub Pages: push to `main` with Pages enabled (Settings → Pages → Source: GitHub Actions), set the
+  custom domain to `bernevig.princeton.edu`, and ask Princeton OIT for a DNS CNAME record pointing
+  that name at `<github-user-or-org>.github.io`. The workflow in `.github/workflows/deploy.yml` then
+  rebuilds the site on every push and every Monday.
+- Princeton hosting: `npm run build` writes plain HTML to `dist/`, which any web server can serve as is.
