@@ -37,9 +37,18 @@ const initials = (name: string) => {
             {m.photo
               ? <img src={u(m.photo)} alt={m.name} loading="lazy" />
               : <div class="ph" aria-hidden="true">{initials(m.name)}</div>}
-            <div class="n">{m.url ? <a href={m.url}>{m.name}</a> : m.name}</div>
-            {m.role && <div class="r">{m.role}</div>}
-            {m.note && <div class="r">{m.note}</div>}
+            <div class="n">{m.name}</div>
+            {m.affiliation && <div class="r">{m.affiliation}</div>}
+            {m.tagline && <div class="tagline">{m.tagline}</div>}
+            {(m.scholar || m.linkedin || m.website) && (
+              <div class="plinks">
+                {[
+                  m.scholar && { href: m.scholar, label: "Scholar" },
+                  m.linkedin && { href: m.linkedin, label: "LinkedIn" },
+                  m.website && { href: m.website, label: "Website" },
+                ].filter(Boolean).map((l, i) => <>{i > 0 && " · "}<a href={l.href}>{l.label}</a></>)}
+              </div>
+            )}
           </div>
         ))}
       </div>

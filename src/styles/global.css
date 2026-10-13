@@ -123,6 +123,9 @@ ul.refs { list-style: none; padding-left: 0; }
 .pi .role { color: var(--muted); margin-top: -0.4em; }
 .grid-people { display: grid; grid-template-columns: repeat(6, 1fr); gap: 22px 18px; }
 .person .n { font-size: 0.95rem; }
+.person .r { font-size: 0.84rem; }
+.person .tagline { font-size: 0.84rem; color: #3d3d3d; line-height: 1.35; margin-top: 0.2em; }
+.person .plinks { font-size: 0.82rem; margin-top: 0.3em; }
 .person img { aspect-ratio: 1; object-fit: cover; width: 100%; border: 1px solid var(--rule); }
 .ph {
   aspect-ratio: 1; width: 100%; border: 1px solid var(--rule); background: var(--wash);
