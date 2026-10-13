@@ -101,7 +101,7 @@ export interface Collaborator {
 }
 
 export const collaborators: Collaborator[] = [
-  { name: "Handong Chen", institution: "Princeton University" },
+  { name: "Handong Chen", institution: "Princeton University", note: "Collaborator on machine learning for materials science." },
   { name: "Oskar Vafek", institution: "Florida State University and National High Magnetic Field Laboratory", note: "Long-term collaborator on twisted bilayer graphene and moiré materials." },
   { name: "Nicolas Regnault", institution: "École Normale Supérieure, Paris", note: "Long-term collaborator on numerical methods for many-body systems." },
 ];
