@@ -18,4 +18,7 @@ export const overrides: Record<string, { title?: string; journal?: string }> = {
   "2111.05865": { title: "Magic-angle twisted bilayer graphene as a topological heavy fermion problem" },
   "2411.08950": { journal: "Science 393, 1317 (2026)" },
   "2312.10659": { journal: "Nature Reviews Materials (2024)" },
+  "2007.13390": { title: "Symmetry-broken Chern insulators and Rashba-like Landau-level crossings in magic-angle bilayer graphene", journal: "Nature Physics 17, 710 (2021)" },
+  "2010.05390": { title: "Evidence for a monolayer excitonic insulator", journal: "Nature Physics 18, 87 (2022)" },
+  "2012.15126": { title: "Competing zero-field Chern insulators in superconducting twisted bilayer graphene", journal: "Phys. Rev. Lett. 127, 197701 (2021)" },
 };

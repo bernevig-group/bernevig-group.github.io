@@ -1,33 +1,19 @@
 ---
 import Base from "../layouts/Base.astro";
 import Ref from "../components/Ref.astro";
-import { papers, mostCitedRecent, byYear } from "../lib/papers";
+import { selectedPapers } from "../lib/papers";
 import { site } from "../data/site";
 
-const top = mostCitedRecent(10, 5);
-const years = byYear(papers);
+const selected = selectedPapers(10, 5);
 ---
 <Base title="Publications">
   <h1>Publications</h1>
   <p class="note">
-    Papers by B. A. Bernevig are also listed on <a href={site.arxivSearch}>arXiv</a> and <a href={site.scholar}>Google Scholar</a>.
+    The full list of papers by B. A. Bernevig is on <a href={site.arxivSearch}>arXiv</a> and <a href={site.scholar}>Google Scholar</a>.
   </p>
 
   <h2>Selected publications</h2>
   <ol class="refs">
-    {top.map((p) => <Ref paper={p} />)}
+    {selected.map((p) => <Ref paper={p} />)}
   </ol>
-
-  <h2>All papers</h2>
-  <p class="years">
-    {years.map(([y]) => <a href={`#y${y}`}>{y}</a>)}
-  </p>
-  {years.map(([y, list]) => (
-    <section>
-      <h3 id={`y${y}`}>{y}</h3>
-      <ul class="refs">
-        {list.map((p) => <Ref paper={p} />)}
-      </ul>
-    </section>
-  ))}
 </Base>

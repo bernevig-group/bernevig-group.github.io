@@ -1,0 +1,4482 @@
+[
+ {
+  "title": "Quantum spin Hall effect and topological phase transition in HgTe quantum wells",
+  "venue": "science 314 (5806), 1757-1761, 2006",
+  "cites": 9386,
+  "year": 2006,
+  "arxiv": "cond-mat/0611399",
+  "review": false
+ },
+ {
+  "title": "Type-ii weyl semimetals",
+  "venue": "Nature 527 (7579), 495-498, 2015",
+  "cites": 3073,
+  "year": 2015,
+  "arxiv": "1507.01603",
+  "review": false
+ },
+ {
+  "title": "Quantum spin Hall effect",
+  "venue": "Physical review letters 96 (10), 106802, 2006",
+  "cites": 2975,
+  "year": 2006,
+  "arxiv": "cond-mat/0504147",
+  "review": false
+ },
+ {
+  "title": "Topological insulators and topological superconductors",
+  "venue": "Princeton university press, 2013",
+  "cites": 2861,
+  "year": 2013,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Weyl semimetal phase in noncentrosymmetric transition-metal monophosphides",
+  "venue": "Physical Review X 5 (1), 011029, 2015",
+  "cites": 2802,
+  "year": 2015,
+  "arxiv": "1501.00060",
+  "review": false
+ },
+ {
+  "title": "Observation of Majorana fermions in ferromagnetic atomic chains on a superconductor",
+  "venue": "Science 346 (6209), 602-607, 2014",
+  "cites": 2650,
+  "year": 2014,
+  "arxiv": "1410.0682",
+  "review": false
+ },
+ {
+  "title": "Quantized electric multipole insulators",
+  "venue": "Science 357 (6346), 61-66, 2017",
+  "cites": 2470,
+  "year": 2017,
+  "arxiv": "1611.07987",
+  "review": false
+ },
+ {
+  "title": "Topological quantum chemistry",
+  "venue": "Nature 547 (7663), 298-305, 2017",
+  "cites": 2004,
+  "year": 2017,
+  "arxiv": "1703.02050",
+  "review": false
+ },
+ {
+  "title": "Higher-order topological insulators",
+  "venue": "Science advances 4 (6), eaat0346, 2018",
+  "cites": 1925,
+  "year": 2018,
+  "arxiv": "1708.03636",
+  "review": false
+ },
+ {
+  "title": "Electric multipole moments, topological multipole moment pumping, and chiral hinge states in crystalline insulators",
+  "venue": "Physical Review B 96 (24), 245115, 2017",
+  "cites": 1643,
+  "year": 2017,
+  "arxiv": "1708.04230",
+  "review": false
+ },
+ {
+  "title": "Beyond Dirac and Weyl fermions: Unconventional quasiparticles in conventional crystals",
+  "venue": "Science 353 (6299), aaf5037, 2016",
+  "cites": 1448,
+  "year": 2016,
+  "arxiv": "1603.03093",
+  "review": false
+ },
+ {
+  "title": "A complete catalogue of high-quality topological materials",
+  "venue": "Nature 566 (7745), 480-485, 2019",
+  "cites": 1383,
+  "year": 2019,
+  "arxiv": "1807.10271",
+  "review": false
+ },
+ {
+  "title": "Higher-order topology in bismuth",
+  "venue": "Nature physics 14 (9), 918-924, 2018",
+  "cites": 1040,
+  "year": 2018,
+  "arxiv": "1802.02585",
+  "review": false
+ },
+ {
+  "title": "Helical liquid and the edge of quantum spin Hall systems",
+  "venue": "Physical review letters 96 (10), 106401, 2006",
+  "cites": 1032,
+  "year": 2006,
+  "arxiv": "cond-mat/0508273",
+  "review": false
+ },
+ {
+  "title": "Fractional chern insulator",
+  "venue": "Physical Review X 1 (2), 021014, 2011",
+  "cites": 1021,
+  "year": 2011,
+  "arxiv": "1105.4867",
+  "review": false
+ },
+ {
+  "title": "Proposal for realizing Majorana fermions in chains of magnetic atoms on a superconductor",
+  "venue": "Physical Review B—Condensed Matter and Materials Physics 88 (2), 020407, 2013",
+  "cites": 915,
+  "year": 2013,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Multi-Weyl topological semimetals stabilized by point group symmetry",
+  "venue": "Physical review letters 108 (26), 266802, 2012",
+  "cites": 872,
+  "year": 2012,
+  "arxiv": "1111.7309",
+  "review": false
+ },
+ {
+  "title": "Spectroscopic signatures of many-body correlations in magic-angle twisted bilayer graphene",
+  "venue": "Nature 572 (7767), 101-105, 2019",
+  "cites": 854,
+  "year": 2019,
+  "arxiv": "1906.09274",
+  "review": false
+ },
+ {
+  "title": "Emergence of the persistent spin helix in semiconductor quantum wells",
+  "venue": "Nature 458 (7238), 610-613, 2009",
+  "cites": 785,
+  "year": 2009,
+  "arxiv": "0903.4709",
+  "review": false
+ },
+ {
+  "title": "Exact SU (2) symmetry and persistent spin helix in a spin-orbit coupled system",
+  "venue": "Physical review letters 97 (23), 236601, 2006",
+  "cites": 782,
+  "year": 2006,
+  "arxiv": "cond-mat/0606196",
+  "review": false
+ },
+ {
+  "title": "Inversion-symmetric topological insulators",
+  "venue": "Physical Review B—Condensed Matter and Materials Physics 83 (24), 245132, 2011",
+  "cites": 747,
+  "year": 2011,
+  "arxiv": "1010.4508",
+  "review": false
+ },
+ {
+  "title": "Quantum many-body scars and Hilbert space fragmentation: A review of exact results",
+  "venue": "Reports on Progress in Physics 85 (8), 086501, 2022",
+  "cites": 713,
+  "year": 2022,
+  "arxiv": "2109.00548",
+  "review": true
+ },
+ {
+  "title": "The chiral anomaly and thermopower of Weyl fermions in the half-Heusler GdPtBi",
+  "venue": "Nature materials 15 (11), 1161-1165, 2016",
+  "cites": 701,
+  "year": 2016,
+  "arxiv": "1602.07219",
+  "review": false
+ },
+ {
+  "title": "Strongly correlated Chern insulators in magic-angle twisted bilayer graphene",
+  "venue": "Nature 588 (7839), 610-615, 2020",
+  "cites": 655,
+  "year": 2020,
+  "arxiv": "2007.03810",
+  "review": false
+ },
+ {
+  "title": "Progress and prospects in magnetic topological materials",
+  "venue": "Nature 603 (7899), 41-51, 2022",
+  "cites": 651,
+  "year": 2022,
+  "arxiv": "2203.02890",
+  "review": true
+ },
+ {
+  "title": "Bulk topological invariants in noninteracting point group symmetric insulators",
+  "venue": "Physical Review B—Condensed Matter and Materials Physics 86 (11), 115112, 2012",
+  "cites": 640,
+  "year": 2012,
+  "arxiv": "1207.5767",
+  "review": false
+ },
+ {
+  "title": "All magic angles in twisted bilayer graphene are topological",
+  "venue": "Physical review letters 123 (3), 036401, 2019",
+  "cites": 630,
+  "year": 2019,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Cascade of electronic transitions in magic-angle twisted bilayer graphene",
+  "venue": "Nature 582 (7811), 198-202, 2020",
+  "cites": 621,
+  "year": 2020,
+  "arxiv": "1912.06145",
+  "review": false
+ },
+ {
+  "title": ": A Type-II Weyl Topological Metal",
+  "venue": "Physical review letters 117 (5), 056805, 2016",
+  "cites": 596,
+  "year": 2016,
+  "arxiv": "1511.07440",
+  "review": false
+ },
+ {
+  "title": "High-throughput calculations of magnetic topological materials",
+  "venue": "Nature 586 (7831), 702-707, 2020",
+  "cites": 551,
+  "year": 2020,
+  "arxiv": "2003.00012",
+  "review": false
+ },
+ {
+  "title": "Hourglass fermions",
+  "venue": "Nature 532 (7598), 189-194, 2016",
+  "cites": 530,
+  "year": 2016,
+  "arxiv": "1602.05585",
+  "review": false
+ },
+ {
+  "title": "One-dimensional topological edge states of bismuth bilayers",
+  "venue": "Nature Physics 10 (9), 664-669, 2014",
+  "cites": 523,
+  "year": 2014,
+  "arxiv": "1404.2598",
+  "review": false
+ },
+ {
+  "title": "Superconductivity, superfluidity and quantum geometry in twisted multilayer systems",
+  "venue": "Nature Reviews Physics 4 (8), 528-542, 2022",
+  "cites": 516,
+  "year": 2022,
+  "arxiv": "",
+  "review": true
+ },
+ {
+  "title": "Pairing symmetry in a two-orbital exchange coupling model of oxypnictides",
+  "venue": "Physical review letters 101 (20), 206404, 2008",
+  "cites": 511,
+  "year": 2008,
+  "arxiv": "0805.2958",
+  "review": false
+ },
+ {
+  "title": "Higher-Order Topology, Monopole Nodal Lines, and the Origin of Large Fermi Arcs in Transition Metal Dichalcogenides  ()",
+  "venue": "Physical review letters 123 (18), 186401, 2019",
+  "cites": 490,
+  "year": 2019,
+  "arxiv": "1806.11116",
+  "review": false
+ },
+ {
+  "title": "Twisted bilayer graphene: A phonon-driven superconductor",
+  "venue": "Physical review letters 122 (25), 257002, 2019",
+  "cites": 487,
+  "year": 2019,
+  "arxiv": "1807.04382",
+  "review": false
+ },
+ {
+  "title": "Z2Pack: Numerical implementation of hybrid Wannier centers for identifying topological materials",
+  "venue": "Physical Review B 95 (7), 075146, 2017",
+  "cites": 487,
+  "year": 2017,
+  "arxiv": "1610.08983",
+  "review": false
+ },
+ {
+  "title": "Orbitronics: The Intrinsic Orbital Current in -Doped Silicon",
+  "venue": "Physical review letters 95 (6), 066601, 2005",
+  "cites": 476,
+  "year": 2005,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Entanglement of exact excited states of Affleck-Kennedy-Lieb-Tasaki models: Exact results, many-body scars, and violation of the strong eigenstate thermalization hypothesis",
+  "venue": "Physical Review B 98 (23), 235156, 2018",
+  "cites": 453,
+  "year": 2018,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Time-reversal-breaking Weyl fermions in magnetic Heusler alloys",
+  "venue": "Physical review letters 117 (23), 236401, 2016",
+  "cites": 437,
+  "year": 2016,
+  "arxiv": "1603.00479",
+  "review": false
+ },
+ {
+  "title": "Model fractional quantum Hall states and Jack polynomials",
+  "venue": "Physical review letters 100 (24), 246802, 2008",
+  "cites": 437,
+  "year": 2008,
+  "arxiv": "0707.3637",
+  "review": false
+ },
+ {
+  "title": "Wilson-loop characterization of inversion-symmetric topological insulators",
+  "venue": "Physical Review B 89 (15), 155114, 2014",
+  "cites": 427,
+  "year": 2014,
+  "arxiv": "1208.4234",
+  "review": false
+ },
+ {
+  "title": "Exact excited states of nonintegrable models",
+  "venue": "Physical Review B 98 (23), 235155, 2018",
+  "cites": 392,
+  "year": 2018,
+  "arxiv": "1708.05021",
+  "review": false
+ },
+ {
+  "title": "Topology-bounded superfluid weight in twisted bilayer graphene",
+  "venue": "arXiv preprint arXiv:1906.02213, 2019",
+  "cites": 390,
+  "year": 2019,
+  "arxiv": "1906.02213",
+  "review": false
+ },
+ {
+  "title": "Magnetic topological quantum chemistry",
+  "venue": "Nature communications 12 (1), 5965, 2021",
+  "cites": 381,
+  "year": 2021,
+  "arxiv": "2010.00598",
+  "review": false
+ },
+ {
+  "title": "Magic-angle twisted bilayer graphene as a topological heavy fermion problem",
+  "venue": "Physical review letters 129 (4), 047601, 2022",
+  "cites": 379,
+  "year": 2022,
+  "arxiv": "2111.05865",
+  "review": false
+ },
+ {
+  "title": "Double crystallographic groups and their representations on the Bilbao Crystallographic Server",
+  "venue": "Applied Crystallography 50 (5), 1457-1477, 2017",
+  "cites": 368,
+  "year": 2017,
+  "arxiv": "1706.09272",
+  "review": false
+ },
+ {
+  "title": "Building blocks of topological quantum chemistry: Elementary band representations",
+  "venue": "Physical Review B 97 (3), 035139, 2018",
+  "cites": 355,
+  "year": 2018,
+  "arxiv": "1709.01935",
+  "review": false
+ },
+ {
+  "title": "Axionic charge-density wave in the Weyl semimetal (TaSe4)2I",
+  "venue": "Nature 575 (7782), 315-319, 2019",
+  "cites": 347,
+  "year": 2019,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Distinguishing a Majorana zero mode using spin-resolved measurements",
+  "venue": "Science 358 (6364), 772-776, 2017",
+  "cites": 336,
+  "year": 2017,
+  "arxiv": "1710.04662",
+  "review": false
+ },
+ {
+  "title": "Entanglement spectrum of a disordered topological Chern insulator",
+  "venue": "Physical review letters 105 (11), 115501, 2010",
+  "cites": 332,
+  "year": 2010,
+  "arxiv": "1005.5148",
+  "review": false
+ },
+ {
+  "title": "Catalogue of flat-band stoichiometric materials",
+  "venue": "Nature 603 (7903), 824-828, 2022",
+  "cites": 307,
+  "year": 2022,
+  "arxiv": "2106.05287",
+  "review": false
+ },
+ {
+  "title": "Large-Chern-number quantum anomalous Hall effect in thin-film topological crystalline insulators",
+  "venue": "Physical review letters 112 (4), 046801, 2014",
+  "cites": 306,
+  "year": 2014,
+  "arxiv": "1306.0888",
+  "review": false
+ },
+ {
+  "title": "All topological bands of all nonmagnetic stoichiometric materials",
+  "venue": "Science 376 (6595), eabg9094, 2022",
+  "cites": 297,
+  "year": 2022,
+  "arxiv": "2105.09954",
+  "review": false
+ },
+ {
+  "title": "High-resolution studies of the Majorana atomic chain platform",
+  "venue": "Nature Physics 13 (3), 286-291, 2017",
+  "cites": 293,
+  "year": 2017,
+  "arxiv": "1611.02707",
+  "review": false
+ },
+ {
+  "title": "Strong and fragile topological Dirac semimetals with higher-order Fermi arcs",
+  "venue": "Nature communications 11 (1), 627, 2020",
+  "cites": 291,
+  "year": 2020,
+  "arxiv": "1908.00016",
+  "review": false
+ },
+ {
+  "title": "Twisted bilayer graphene. IV. Exact insulator ground states and phase diagram",
+  "venue": "Physical Review B 103 (20), 205414, 2021",
+  "cites": 286,
+  "year": 2021,
+  "arxiv": "2009.13530",
+  "review": false
+ },
+ {
+  "title": "Symmetry-broken Chern insulators and Rashba-like Landau-level crossings in magic-angle bilayer graphene",
+  "venue": "Nature Physics 17 (6), 710-714, 2021",
+  "cites": 281,
+  "year": 2021,
+  "arxiv": "2007.13390",
+  "review": false
+ },
+ {
+  "title": "Topological materials discovery from crystal symmetry",
+  "venue": "Nature Reviews Materials 7 (3), 196-216, 2022",
+  "cites": 271,
+  "year": 2022,
+  "arxiv": "2106.00709",
+  "review": true
+ },
+ {
+  "title": "-pairing in Hubbard models: From spectrum generating algebras to quantum many-body scars",
+  "venue": "Physical Review B 102 (8), 085140, 2020",
+  "cites": 270,
+  "year": 2020,
+  "arxiv": "2004.13727",
+  "review": false
+ },
+ {
+  "title": "Zoology of fractional Chern insulators",
+  "venue": "Physical Review B—Condensed Matter and Materials Physics 85 (7), 075116, 2012",
+  "cites": 263,
+  "year": 2012,
+  "arxiv": "1111.1172",
+  "review": false
+ },
+ {
+  "title": "Evidence for a monolayer excitonic insulator",
+  "venue": "Nature Physics 18 (1), 87-93, 2022",
+  "cites": 250,
+  "year": 2022,
+  "arxiv": "2010.05390",
+  "review": false
+ },
+ {
+  "title": "Twisted bilayer graphene. III. Interacting Hamiltonian and exact symmetries",
+  "venue": "Physical Review B 103 (20), 205413, 2021",
+  "cites": 246,
+  "year": 2021,
+  "arxiv": "2009.12376",
+  "review": false
+ },
+ {
+  "title": "Observation of a Majorana zero mode in a topologically protected edge channel",
+  "venue": "Science 364 (6447), 1255-1259, 2019",
+  "cites": 245,
+  "year": 2019,
+  "arxiv": "1906.10133",
+  "review": false
+ },
+ {
+  "title": "Competing zero-field Chern insulators in superconducting twisted bilayer graphene",
+  "venue": "Physical review letters 127 (19), 197701, 2021",
+  "cites": 244,
+  "year": 2021,
+  "arxiv": "2012.15126",
+  "review": false
+ },
+ {
+  "title": "Quasiparticle interference of the Fermi arcs and surface-bulk connectivity of a Weyl semimetal",
+  "venue": "Science 351 (6278), 1184-1187, 2016",
+  "cites": 238,
+  "year": 2016,
+  "arxiv": "1603.03045",
+  "review": false
+ },
+ {
+  "title": "Topological superconductivity induced by ferromagnetic metal chains",
+  "venue": "Physical Review B 90 (23), 235433, 2014",
+  "cites": 238,
+  "year": 2014,
+  "arxiv": "1410.3453",
+  "review": false
+ },
+ {
+  "title": "Flat bands, strange metals and the Kondo effect",
+  "venue": "Nature Reviews Materials 9 (7), 509-526, 2024",
+  "cites": 235,
+  "year": 2024,
+  "arxiv": "2312.10659",
+  "review": true
+ },
+ {
+  "title": "Quantum textures of the many-body wavefunctions in magic-angle graphene",
+  "venue": "Nature 620 (7974), 525-532, 2023",
+  "cites": 229,
+  "year": 2023,
+  "arxiv": "2303.00024",
+  "review": false
+ },
+ {
+  "title": "Emergent many-body translational symmetries of Abelian and non-Abelian fractionally filled topological insulators",
+  "venue": "Physical Review B—Condensed Matter and Materials Physics 85 (7), 075128, 2012",
+  "cites": 229,
+  "year": 2012,
+  "arxiv": "1110.4488",
+  "review": false
+ },
+ {
+  "title": "Thermalization and its absence within Krylov subspaces of a constrained Hamiltonian",
+  "venue": "Memorial Volume for Shoucheng Zhang, 147-209, 2022",
+  "cites": 228,
+  "year": 2022,
+  "arxiv": "1910.14048",
+  "review": false
+ },
+ {
+  "title": "Revisiting flat band superconductivity: Dependence on minimal quantum metric and band touchings",
+  "venue": "Physical Review B 106 (1), 014518, 2022",
+  "cites": 226,
+  "year": 2022,
+  "arxiv": "2203.11133",
+  "review": false
+ },
+ {
+  "title": "Exotic -Wave Superconducting State of Strongly Hole-Doped",
+  "venue": "Physical review letters 107 (11), 117001, 2011",
+  "cites": 219,
+  "year": 2011,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Entanglement gap and a new principle of adiabatic continuity",
+  "venue": "Physical review letters 104 (18), 180502, 2010",
+  "cites": 217,
+  "year": 2010,
+  "arxiv": "0912.0523",
+  "review": false
+ },
+ {
+  "title": "Twisted bulk-boundary correspondence of fragile topology",
+  "venue": "Science 367 (6479), 794-797, 2020",
+  "cites": 216,
+  "year": 2020,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Bulk-edge correspondence in entanglement spectra",
+  "venue": "Physical Review B—Condensed Matter and Materials Physics 84 (20), 205136, 2011",
+  "cites": 216,
+  "year": 2011,
+  "arxiv": "1102.2218",
+  "review": false
+ },
+ {
+  "title": "Intrinsic spin Hall effect in the two-dimensional hole gas",
+  "venue": "Physical review letters 95 (1), 016801, 2005",
+  "cites": 206,
+  "year": 2005,
+  "arxiv": "cond-mat/0411457",
+  "review": false
+ },
+ {
+  "title": "Superfluid weight bounds from symmetry and quantum geometry in flat bands",
+  "venue": "Physical review letters 128 (8), 087002, 2022",
+  "cites": 200,
+  "year": 2022,
+  "arxiv": "2110.14663",
+  "review": false
+ },
+ {
+  "title": "Twisted bilayer graphene. II. Stable symmetry anomaly",
+  "venue": "Physical Review B 103 (20), 205412, 2021",
+  "cites": 200,
+  "year": 2021,
+  "arxiv": "2009.11872",
+  "review": false
+ },
+ {
+  "title": "Topological insulators from group cohomology",
+  "venue": "Physical Review X 6 (2), 021008, 2016",
+  "cites": 199,
+  "year": 2016,
+  "arxiv": "1604.03952",
+  "review": false
+ },
+ {
+  "title": "Wallpaper fermions and the nonsymmorphic Dirac insulator",
+  "venue": "Science 361 (6399), 246-251, 2018",
+  "cites": 197,
+  "year": 2018,
+  "arxiv": "1705.01617",
+  "review": false
+ },
+ {
+  "title": "Two-dimensional chiral topological superconductivity in Shiba lattices",
+  "venue": "Nature Communications 7 (1), 12297, 2016",
+  "cites": 196,
+  "year": 2016,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Topology of disconnected elementary band representations",
+  "venue": "Physical review letters 120 (26), 266401, 2018",
+  "cites": 191,
+  "year": 2018,
+  "arxiv": "1711.11045",
+  "review": false
+ },
+ {
+  "title": "Localization and the Kosterlitz-Thouless transition in disordered graphene",
+  "venue": "Physical review letters 102 (10), 106401, 2009",
+  "cites": 189,
+  "year": 2009,
+  "arxiv": "0810.1996",
+  "review": false
+ },
+ {
+  "title": "Experimental evidence of hourglass fermion in the candidate nonsymmorphic topological insulator KHgSb",
+  "venue": "Science advances 3 (5), e1602415, 2017",
+  "cites": 188,
+  "year": 2017,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Extracting excitations from model state entanglement",
+  "venue": "Physical review letters 106 (10), 100405, 2011",
+  "cites": 188,
+  "year": 2011,
+  "arxiv": "1006.5435",
+  "review": false
+ },
+ {
+  "title": "General construction and topological classification of crystalline flat bands",
+  "venue": "Nature Physics 18 (2), 185-189, 2022",
+  "cites": 187,
+  "year": 2022,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "A charge-density-wave topological semimetal",
+  "venue": "Nature Physics 17 (3), 381-387, 2021",
+  "cites": 187,
+  "year": 2021,
+  "arxiv": "1909.04037",
+  "review": false
+ },
+ {
+  "title": "Mechanism for explaining differences in the order parameters of FeAs-based and FeP-based pnictide superconductors",
+  "venue": "Physical review letters 106 (18), 187003, 2011",
+  "cites": 183,
+  "year": 2011,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Disconnected elementary band representations, fragile topology, and Wilson loops as topological indices: An example on the triangular lattice",
+  "venue": "Physical Review B 99 (4), 045140, 2019",
+  "cites": 182,
+  "year": 2019,
+  "arxiv": "1807.09729",
+  "review": false
+ },
+ {
+  "title": "Quantum geometry in quantum materials",
+  "venue": "npj Quantum Materials 10 (1), 101, 2025",
+  "cites": 180,
+  "year": 2025,
+  "arxiv": "2501.00098",
+  "review": true
+ },
+ {
+  "title": "Twisted bilayer graphene. V. Exact analytic many-body excitations in Coulomb Hamiltonians: Charge gap, Goldstone modes, and absence of Cooper pairing",
+  "venue": "Physical Review B 103 (20), 205415, 2021",
+  "cites": 179,
+  "year": 2021,
+  "arxiv": "2009.14200",
+  "review": false
+ },
+ {
+  "title": "Eight-dimensional quantum Hall effect and “octonions”",
+  "venue": "Physical review letters 91 (23), 236803, 2003",
+  "cites": 177,
+  "year": 2003,
+  "arxiv": "cond-mat/0306045",
+  "review": false
+ },
+ {
+  "title": "Experimental characterization of fragile topology in an acoustic metamaterial",
+  "venue": "Science 367 (6479), 797-800, 2020",
+  "cites": 175,
+  "year": 2020,
+  "arxiv": "1910.06868",
+  "review": false
+ },
+ {
+  "title": "Fragile topology and flat-band superconductivity in the strong-coupling regime",
+  "venue": "Physical review letters 126 (2), 027002, 2021",
+  "cites": 173,
+  "year": 2021,
+  "arxiv": "2008.02288",
+  "review": false
+ },
+ {
+  "title": "Nonlocal order in gapless systems: Entanglement spectrum in spin chains",
+  "venue": "Physical review letters 105 (11), 116805, 2010",
+  "cites": 173,
+  "year": 2010,
+  "arxiv": "0912.0028",
+  "review": false
+ },
+ {
+  "title": "Spin-orbit-free topological insulators without time-reversal symmetry",
+  "venue": "Physical review letters 113 (11), 116403, 2014",
+  "cites": 172,
+  "year": 2014,
+  "arxiv": "1402.6323",
+  "review": false
+ },
+ {
+  "title": "Graph theory data for topological quantum chemistry",
+  "venue": "Physical Review E 96 (2), 023310, 2017",
+  "cites": 167,
+  "year": 2017,
+  "arxiv": "1706.08529",
+  "review": false
+ },
+ {
+  "title": "Moiré fractional Chern insulators. I. First-principles calculations and continuum models of twisted bilayer",
+  "venue": "Physical Review B 109 (20), 205121, 2024",
+  "cites": 166,
+  "year": 2024,
+  "arxiv": "2311.04958",
+  "review": false
+ },
+ {
+  "title": "Chiral anomaly factory: Creating Weyl fermions with a magnetic field",
+  "venue": "Physical Review B 95 (16), 161306, 2017",
+  "cites": 166,
+  "year": 2017,
+  "arxiv": "1604.08601",
+  "review": false
+ },
+ {
+  "title": "Fractional Chern insulators versus nonmagnetic states in twisted bilayer",
+  "venue": "Physical Review B 109 (4), 045147, 2024",
+  "cites": 159,
+  "year": 2024,
+  "arxiv": "2309.14429",
+  "review": false
+ },
+ {
+  "title": "Series of Abelian and non-Abelian states in  fractional Chern insulators",
+  "venue": "Physical Review B—Condensed Matter and Materials Physics 87 (20), 205137, 2013",
+  "cites": 159,
+  "year": 2013,
+  "arxiv": "1207.6385",
+  "review": false
+ },
+ {
+  "title": "Bloch model wave functions and pseudopotentials for all fractional Chern insulators",
+  "venue": "Physical review letters 110 (10), 106802, 2013",
+  "cites": 155,
+  "year": 2013,
+  "arxiv": "1210.6356",
+  "review": false
+ },
+ {
+  "title": "Functional renormalization-group study of the doping dependence of pairing symmetry in the iron pnictide superconductors",
+  "venue": "Physical Review B—Condensed Matter and Materials Physics 80 (18), 180505, 2009",
+  "cites": 154,
+  "year": 2009,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Twisted bilayer graphene. I. Matrix elements, approximations, perturbation theory, and a  two-band model",
+  "venue": "Physical Review B 103 (20), 205411, 2021",
+  "cites": 147,
+  "year": 2021,
+  "arxiv": "2009.11301",
+  "review": false
+ },
+ {
+  "title": "Topological entanglement and clustering of jain hierarchy states",
+  "venue": "Physical review letters 103 (1), 016801, 2009",
+  "cites": 147,
+  "year": 2009,
+  "arxiv": "0901.2121",
+  "review": false
+ },
+ {
+  "title": "Generalized clustering conditions of Jack polynomials at negative Jack parameter",
+  "venue": "Physical Review B—Condensed Matter and Materials Physics 77 (18), 184502, 2008",
+  "cites": 144,
+  "year": 2008,
+  "arxiv": "0711.3062",
+  "review": false
+ },
+ {
+  "title": "Flatbands and perfect metal in trilayer moiré graphene",
+  "venue": "Physical review letters 123 (2), 026402, 2019",
+  "cites": 143,
+  "year": 2019,
+  "arxiv": "1901.05469",
+  "review": false
+ },
+ {
+  "title": "Experimental consequences of the -wave  superconductivity in the iron pnictides",
+  "venue": "Physical Review B—Condensed Matter and Materials Physics 78 (14), 144514, 2008",
+  "cites": 143,
+  "year": 2008,
+  "arxiv": "0807.4572",
+  "review": false
+ },
+ {
+  "title": "Twisted bilayer graphene. VI. An exact diagonalization study at nonzero integer filling",
+  "venue": "Physical Review B 103 (20), 205416, 2021",
+  "cites": 141,
+  "year": 2021,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Topological insulators with commensurate antiferromagnetism",
+  "venue": "Physical Review B—Condensed Matter and Materials Physics 88 (8), 085406, 2013",
+  "cites": 141,
+  "year": 2013,
+  "arxiv": "1304.6081",
+  "review": false
+ },
+ {
+  "title": "Gauge-fixed Wannier wave functions for fractional topological insulators",
+  "venue": "Physical Review B—Condensed Matter and Materials Physics 86 (8), 085129, 2012",
+  "cites": 135,
+  "year": 2012,
+  "arxiv": "1206.5773",
+  "review": false
+ },
+ {
+  "title": "Real-space entanglement spectrum of quantum Hall states",
+  "venue": "Physical Review B—Condensed Matter and Materials Physics 85 (12), 125308, 2012",
+  "cites": 134,
+  "year": 2012,
+  "arxiv": "1111.2810",
+  "review": false
+ },
+ {
+  "title": "Large classes of quantum scarred Hamiltonians from matrix product states",
+  "venue": "Physical Review B 102 (8), 085120, 2020",
+  "cites": 130,
+  "year": 2020,
+  "arxiv": "2002.11725",
+  "review": false
+ },
+ {
+  "title": "Spin-orbit-induced topological flat bands in line and split graphs of bipartite lattices",
+  "venue": "Physical review letters 125 (26), 266403, 2020",
+  "cites": 128,
+  "year": 2020,
+  "arxiv": "2008.08231",
+  "review": false
+ },
+ {
+  "title": "Properties of Non-Abelian Fractional Quantum Hall States at Filling",
+  "venue": "Physical review letters 101 (24), 246806, 2008",
+  "cites": 127,
+  "year": 2008,
+  "arxiv": "0803.2882",
+  "review": false
+ },
+ {
+  "title": "Landau level of fragile topology",
+  "venue": "Physical Review B 102 (4), 041402, 2020",
+  "cites": 124,
+  "year": 2020,
+  "arxiv": "1811.11786",
+  "review": false
+ },
+ {
+  "title": "Robustness of s-Wave Pairing in Electron-Overdoped A 1-y Fe 2-x Se 2 (A= K,​ Cs)",
+  "venue": "Physical Review X 1 (1), 011009, 2011",
+  "cites": 124,
+  "year": 2011,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Trace index and spectral flow in the entanglement spectrum of topological insulators",
+  "venue": "Physical Review B—Condensed Matter and Materials Physics 84 (19), 195103, 2011",
+  "cites": 123,
+  "year": 2011,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Effective field theory description of the higher dimensional quantum Hall liquid",
+  "venue": "Annals of Physics 300 (2), 185-207, 2002",
+  "cites": 123,
+  "year": 2002,
+  "arxiv": "cond-mat/0206164",
+  "review": false
+ },
+ {
+  "title": "Cascades between light and heavy fermions in the normal state of magic-angle twisted bilayer graphene",
+  "venue": "Physical review letters 127 (26), 266402, 2021",
+  "cites": 122,
+  "year": 2021,
+  "arxiv": "2104.01145",
+  "review": false
+ },
+ {
+  "title": "Entanglement of exact excited eigenstates of the Hubbard model in arbitrary dimension",
+  "venue": "arXiv preprint arXiv:1608.06639, 2016",
+  "cites": 122,
+  "year": 2016,
+  "arxiv": "1608.06639",
+  "review": false
+ },
+ {
+  "title": "Quantum many-body scars in a Landau level on a thin torus",
+  "venue": "Physical Review B 102 (19), 195150, 2020",
+  "cites": 120,
+  "year": 2020,
+  "arxiv": "1906.05292",
+  "review": false
+ },
+ {
+  "title": "How Bob Laughlin tamed the giant graviton from Taub-NUT space",
+  "venue": "Journal of High Energy Physics 2001 (02), 003-003, 2001",
+  "cites": 120,
+  "year": 2001,
+  "arxiv": "hep-th/0010105",
+  "review": false
+ },
+ {
+  "title": "Moiré fractional Chern insulators. III. Hartree-Fock phase diagram, magic angle regime for Chern insulator states, role of moiré potential, and Goldstone gaps in rhombohedral …",
+  "venue": "Physical Review B 112 (7), 075109, 2025",
+  "cites": 119,
+  "year": 2025,
+  "arxiv": "2312.11617",
+  "review": false
+ },
+ {
+  "title": "Theory of the three-dimensional quantum Hall effect in graphite",
+  "venue": "Physical review letters 99 (14), 146804, 2007",
+  "cites": 119,
+  "year": 2007,
+  "arxiv": "cond-mat/0701436",
+  "review": false
+ },
+ {
+  "title": "Nondiffusive spin dynamics in a two-dimensional electron gas",
+  "venue": "Physical review letters 98 (7), 076604, 2007",
+  "cites": 119,
+  "year": 2007,
+  "arxiv": "cond-mat/0610054",
+  "review": false
+ },
+ {
+  "title": "Berry-phase description of topological crystalline insulators",
+  "venue": "Physical Review B 93 (20), 205104, 2016",
+  "cites": 117,
+  "year": 2016,
+  "arxiv": "1409.3236",
+  "review": false
+ },
+ {
+  "title": "Softening of a flat phonon mode in the kagome ScV6Sn6",
+  "venue": "Nature communications 14 (1), 6646, 2023",
+  "cites": 116,
+  "year": 2023,
+  "arxiv": "2304.09173",
+  "review": false
+ },
+ {
+  "title": "Fragile phases as affine monoids: classification and material examples",
+  "venue": "Physical Review X 10 (3), 031001, 2020",
+  "cites": 116,
+  "year": 2020,
+  "arxiv": "1905.03262",
+  "review": false
+ },
+ {
+  "title": "Band connectivity for topological quantum chemistry: Band structures as a graph theory problem",
+  "venue": "Physical Review B 97 (3), 035138, 2018",
+  "cites": 111,
+  "year": 2018,
+  "arxiv": "1709.01937",
+  "review": false
+ },
+ {
+  "title": "The axion insulator as a pump of fragile topology",
+  "venue": "arXiv preprint arXiv:1810.02373, 2018",
+  "cites": 110,
+  "year": 2018,
+  "arxiv": "1810.02373",
+  "review": false
+ },
+ {
+  "title": "Kondo lattice model of magic-angle twisted-bilayer graphene: Hund’s rule, local-moment fluctuations, and low-energy effective theory",
+  "venue": "Physical review letters 131 (2), 026502, 2023",
+  "cites": 109,
+  "year": 2023,
+  "arxiv": "2301.04669",
+  "review": false
+ },
+ {
+  "title": "Hofstadter topology: noncrystalline topological materials at high flux",
+  "venue": "Physical review letters 125 (23), 236804, 2020",
+  "cites": 107,
+  "year": 2020,
+  "arxiv": "2006.13938",
+  "review": false
+ },
+ {
+  "title": "Non-trivial quantum geometry and the strength of electron–phonon coupling",
+  "venue": "Nature Physics 20 (8), 1262-1268, 2024",
+  "cites": 106,
+  "year": 2024,
+  "arxiv": "2305.02340",
+  "review": false
+ },
+ {
+  "title": "New class of topological superconductors protected by magnetic group symmetries",
+  "venue": "Physical review letters 112 (10), 106401, 2014",
+  "cites": 106,
+  "year": 2014,
+  "arxiv": "1308.2424",
+  "review": false
+ },
+ {
+  "title": "Strong electron–phonon coupling in magic-angle twisted bilayer graphene",
+  "venue": "Nature 636 (8042), 342-347, 2024",
+  "cites": 105,
+  "year": 2024,
+  "arxiv": "2303.14903",
+  "review": false
+ },
+ {
+  "title": "Anatomy of abelian and non-abelian fractional quantum Hall states",
+  "venue": "Physical review letters 103 (20), 206801, 2009",
+  "cites": 105,
+  "year": 2009,
+  "arxiv": "0902.4320",
+  "review": false
+ },
+ {
+  "title": "Entanglement spectrum classification of -invariant noninteracting topological insulators in two dimensions",
+  "venue": "Physical Review B—Condensed Matter and Materials Physics 87 (3), 035119, 2013",
+  "cites": 104,
+  "year": 2013,
+  "arxiv": "1208.4603",
+  "review": false
+ },
+ {
+  "title": "Manipulating Majorana zero modes on atomic rings with an external magnetic field",
+  "venue": "Nature communications 7 (1), 10395, 2016",
+  "cites": 103,
+  "year": 2016,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Clustering properties and model wave functions for non-abelian fractional quantum hall quasielectrons",
+  "venue": "Physical review letters 102 (6), 066802, 2009",
+  "cites": 102,
+  "year": 2009,
+  "arxiv": "0810.2366",
+  "review": false
+ },
+ {
+  "title": "Geometry of the three-qubit state, entanglement and division algebras",
+  "venue": "Journal of Physics A: Mathematical and General 36 (30), 8325-8339, 2003",
+  "cites": 95,
+  "year": 2003,
+  "arxiv": "quant-ph/0302081",
+  "review": false
+ },
+ {
+  "title": "Catalog of topological phonon materials",
+  "venue": "Science 384 (6696), eadf8458, 2024",
+  "cites": 94,
+  "year": 2024,
+  "arxiv": "2211.11776",
+  "review": false
+ },
+ {
+  "title": "Theory of magnetic order in Fe1+yTe1- xSex",
+  "venue": "EPL (Europhysics Letters) 86 (6), 67005, 2009",
+  "cites": 94,
+  "year": 2009,
+  "arxiv": "0811.1294",
+  "review": false
+ },
+ {
+  "title": "Spin splitting and spin current in strained bulk semiconductors",
+  "venue": "Physical Review B—Condensed Matter and Materials Physics 72 (11), 115204, 2005",
+  "cites": 94,
+  "year": 2005,
+  "arxiv": "cond-mat/0408442",
+  "review": false
+ },
+ {
+  "title": "Entanglement entropy from tensor network states for stabilizer codes",
+  "venue": "Physical Review B 97 (12), 125102, 2018",
+  "cites": 93,
+  "year": 2018,
+  "arxiv": "1710.04220",
+  "review": false
+ },
+ {
+  "title": "Ferromagnetism and topology of the higher flat band in a fractional Chern insulator",
+  "venue": "Nature Physics 21 (4), 549-555, 2025",
+  "cites": 92,
+  "year": 2025,
+  "arxiv": "2406.09591",
+  "review": false
+ },
+ {
+  "title": "Moiré fractional Chern insulators. II. First-principles calculations and continuum models of rhombohedral graphene superlattices",
+  "venue": "Physical Review B 109 (20), 205122, 2024",
+  "cites": 92,
+  "year": 2024,
+  "arxiv": "2311.12920",
+  "review": false
+ },
+ {
+  "title": "Multiple flat bands and topological Hofstadter butterfly in twisted bilayer graphene close to the second magic angle",
+  "venue": "Proceedings of the National Academy of Sciences 118 (30), e2100006118, 2021",
+  "cites": 92,
+  "year": 2021,
+  "arxiv": "2006.13963",
+  "review": false
+ },
+ {
+  "title": "Dynamical correlations and order in magic-angle twisted bilayer graphene",
+  "venue": "Physical Review X 14 (3), 031045, 2024",
+  "cites": 91,
+  "year": 2024,
+  "arxiv": "2309.08529",
+  "review": false
+ },
+ {
+  "title": "Filling-enforced obstructed atomic insulators",
+  "venue": "Physical Review B 109 (16), 165139, 2024",
+  "cites": 88,
+  "year": 2024,
+  "arxiv": "2106.10276",
+  "review": false
+ },
+ {
+  "title": "Boson condensation in topologically ordered quantum liquids",
+  "venue": "Physical Review B 93 (11), 115103, 2016",
+  "cites": 88,
+  "year": 2016,
+  "arxiv": "1601.01320",
+  "review": false
+ },
+ {
+  "title": "Colossal magnetoresistance in a nonsymmorphic antiferromagnetic insulator",
+  "venue": "npj Quantum Materials 5 (1), 52, 2020",
+  "cites": 87,
+  "year": 2020,
+  "arxiv": "2007.06556",
+  "review": false
+ },
+ {
+  "title": "It's been a Weyl coming",
+  "venue": "Nature Physics 11 (9), 698-699, 2015",
+  "cites": 86,
+  "year": 2015,
+  "arxiv": "1508.04170",
+  "review": false
+ },
+ {
+  "title": "Universal signatures of Fermi arcs in quasiparticle interference on the surface of Weyl semimetals",
+  "venue": "Physical Review B 93 (4), 041109, 2016",
+  "cites": 83,
+  "year": 2016,
+  "arxiv": "1512.02646",
+  "review": false
+ },
+ {
+  "title": "Matrix product states for trial quantum Hall states",
+  "venue": "Physical Review B—Condensed Matter and Materials Physics 87 (16), 161112, 2013",
+  "cites": 83,
+  "year": 2013,
+  "arxiv": "1211.3353",
+  "review": false
+ },
+ {
+  "title": "Many-body superconductivity in topological flat bands",
+  "venue": "Communications Physics, 2026",
+  "cites": 82,
+  "year": 2026,
+  "arxiv": "2209.00007",
+  "review": false
+ },
+ {
+  "title": "Quantum blockade and loop currents in graphene with topological defects",
+  "venue": "Physical Review B—Condensed Matter and Materials Physics 78 (15), 155413, 2008",
+  "cites": 82,
+  "year": 2008,
+  "arxiv": "0711.2918",
+  "review": false
+ },
+ {
+  "title": "Piezo-magnetoelectric effects in -doped semiconductors",
+  "venue": "Physical Review B—Condensed Matter and Materials Physics 72 (3), 033203, 2005",
+  "cites": 82,
+  "year": 2005,
+  "arxiv": "cond-mat/0408476",
+  "review": false
+ },
+ {
+  "title": "Detection of topological materials with machine learning",
+  "venue": "Physical Review B 101 (24), 245117, 2020",
+  "cites": 81,
+  "year": 2020,
+  "arxiv": "1910.10161",
+  "review": false
+ },
+ {
+  "title": "Fractional Chern insulators beyond Laughlin states",
+  "venue": "Physical Review B—Condensed Matter and Materials Physics 87 (20), 205136, 2013",
+  "cites": 81,
+  "year": 2013,
+  "arxiv": "1206.2626",
+  "review": false
+ },
+ {
+  "title": "Memorial Volume for Shoucheng Zhang",
+  "venue": "World Scientific, 2021",
+  "cites": 79,
+  "year": 2021,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Symmetric Kondo lattice states in doped strained twisted bilayer graphene",
+  "venue": "Physical review letters 131 (16), 166501, 2023",
+  "cites": 77,
+  "year": 2023,
+  "arxiv": "2301.04673",
+  "review": false
+ },
+ {
+  "title": "Decomposition of fractional quantum Hall model states: Product rule symmetries and approximations",
+  "venue": "Physical Review B—Condensed Matter and Materials Physics 84 (4), 045127, 2011",
+  "cites": 77,
+  "year": 2011,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Topological Lifshitz transitions and Fermi arc manipulation in Weyl semimetal NbAs",
+  "venue": "Nature communications 10 (1), 3478, 2019",
+  "cites": 75,
+  "year": 2019,
+  "arxiv": "1908.01155",
+  "review": false
+ },
+ {
+  "title": "Quantum Spin Hall Effect Phys. Rev. Lett. 96, 106802-106805 (2006) BA Bernevig, TL Hughes, SC Zhang, Quantum Spin Hall Effect and Topological Phase Transition in HgTE Quantum Wells",
+  "venue": "Science 314, 1757-1761, 2006",
+  "cites": 73,
+  "year": 2006,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Spectroscopy of twisted bilayer graphene correlated insulators",
+  "venue": "Physical review letters 129 (11), 117602, 2022",
+  "cites": 71,
+  "year": 2022,
+  "arxiv": "2110.15300",
+  "review": false
+ },
+ {
+  "title": "Quasiparticle scattering interference in superconducting iron pnictides",
+  "venue": "Physical Review B—Condensed Matter and Materials Physics 80 (9), 094528, 2009",
+  "cites": 70,
+  "year": 2009,
+  "arxiv": "0903.1694",
+  "review": false
+ },
+ {
+  "title": "Moiré fractional Chern insulators. IV. Fluctuation-driven collapse in multiband exact diagonalization calculations on rhombohedral graphene",
+  "venue": "Physical Review B 112 (7), 075110, 2025",
+  "cites": 68,
+  "year": 2025,
+  "arxiv": "2407.13770",
+  "review": false
+ },
+ {
+  "title": "Three-dimensional superconductors with hybrid higher-order topology",
+  "venue": "Physical Review B 99 (12), 125149, 2019",
+  "cites": 68,
+  "year": 2019,
+  "arxiv": "1810.12963",
+  "review": false
+ },
+ {
+  "title": "Obstructed surface states as the descriptor for predicting catalytic active sites in inorganic crystalline materials",
+  "venue": "Advanced Materials 34 (26), 2201328, 2022",
+  "cites": 67,
+  "year": 2022,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Magic-angle twisted symmetric trilayer graphene as a topological heavy-fermion problem",
+  "venue": "Physical Review B 108 (3), 035129, 2023",
+  "cites": 66,
+  "year": 2023,
+  "arxiv": "2301.04171",
+  "review": false
+ },
+ {
+  "title": "Quasi-symmetry-protected topology in a semi-metal",
+  "venue": "Nature physics 18 (7), 813-818, 2022",
+  "cites": 66,
+  "year": 2022,
+  "arxiv": "2108.02279",
+  "review": false
+ },
+ {
+  "title": "Detection of Majorana Kramers pairs using a quantum point contact",
+  "venue": "Physical review letters 117 (4), 046804, 2016",
+  "cites": 66,
+  "year": 2016,
+  "arxiv": "1511.00703",
+  "review": false
+ },
+ {
+  "title": "Braiding non-Abelian quasiholes in fractional quantum Hall states",
+  "venue": "Physical review letters 113 (11), 116801, 2014",
+  "cites": 65,
+  "year": 2014,
+  "arxiv": "1405.1720",
+  "review": false
+ },
+ {
+  "title": "Semi-Dirac fermions in a topological metal",
+  "venue": "Physical Review X 14 (4), 041057, 2024",
+  "cites": 62,
+  "year": 2024,
+  "arxiv": "2311.03735",
+  "review": false
+ },
+ {
+  "title": "Twisted bilayer graphene as topological heavy fermion: II. Analytical approximations of the model parameters",
+  "venue": "Low Temperature Physics 49 (6), 640-654, 2023",
+  "cites": 61,
+  "year": 2023,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "fractional topological insulators in two dimensions",
+  "venue": "Physical Review B 90 (24), 245401, 2014",
+  "cites": 60,
+  "year": 2014,
+  "arxiv": "1402.2652",
+  "review": false
+ },
+ {
+  "title": "Properties of Josephson junctions involving the  pairing state in iron pnictides",
+  "venue": "Physical Review B—Condensed Matter and Materials Physics 80 (1), 012511, 2009",
+  "cites": 60,
+  "year": 2009,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "“Quantum geometric nesting” and solvable model flat-band systems",
+  "venue": "Physical Review X 14 (4), 041004, 2024",
+  "cites": 59,
+  "year": 2024,
+  "arxiv": "2401.04163",
+  "review": false
+ },
+ {
+  "title": "Reentrant Correlated Insulators in Twisted Bilayer Graphene at 25 T ( Flux)",
+  "venue": "Physical review letters 129 (7), 076401, 2022",
+  "cites": 59,
+  "year": 2022,
+  "arxiv": "2111.11434",
+  "review": false
+ },
+ {
+  "title": "Observation of reentrant correlated insulators and interaction-driven Fermi-surface reconstructions at one magnetic flux quantum per moiré unit cell in magic-angle twisted …",
+  "venue": "Physical review letters 128 (21), 217701, 2022",
+  "cites": 59,
+  "year": 2022,
+  "arxiv": "2111.11341",
+  "review": false
+ },
+ {
+  "title": "Twisted symmetric trilayer graphene: Single-particle and many-body Hamiltonians and hidden nonlocal symmetries of trilayer moiré systems with and without displacement field",
+  "venue": "Physical Review B 103 (19), 195411, 2021",
+  "cites": 59,
+  "year": 2021,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Three-dimensional real space invariants, obstructed atomic insulators and a new principle for active catalytic sites",
+  "venue": "arXiv preprint arXiv:2111.02433, 2021",
+  "cites": 58,
+  "year": 2021,
+  "arxiv": "2111.02433",
+  "review": false
+ },
+ {
+  "title": "Sixfold excitations in electrides",
+  "venue": "Physical Review Research 3 (1), L012028, 2021",
+  "cites": 58,
+  "year": 2021,
+  "arxiv": "2006.12502",
+  "review": false
+ },
+ {
+  "title": "Signatures of Sixfold Degenerate Exotic Fermions in a Superconducting Metal PdSb2",
+  "venue": "Advanced Materials 32 (11), 1906046, 2020",
+  "cites": 58,
+  "year": 2020,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Theory of quasiparticle interference in mirror-symmetric two-dimensional systems and its application to surface states of topological crystalline insulators",
+  "venue": "Physical Review B—Condensed Matter and Materials Physics 88 (12), 125141, 2013",
+  "cites": 58,
+  "year": 2013,
+  "arxiv": "1212.3285",
+  "review": false
+ },
+ {
+  "title": ": Phonon bands, localized flat-band magnetism, models, and chemical analysis",
+  "venue": "Physical Review B 108 (23), 235127, 2023",
+  "cites": 57,
+  "year": 2023,
+  "arxiv": "2308.05143",
+  "review": false
+ },
+ {
+  "title": "Topological zero-dimensional defect and flux states in three-dimensional insulators",
+  "venue": "Nature communications 13 (1), 5791, 2022",
+  "cites": 57,
+  "year": 2022,
+  "arxiv": "2207.10112",
+  "review": false
+ },
+ {
+  "title": "Majorana spin in magnetic atomic chain systems",
+  "venue": "Physical Review B 97 (12), 125119, 2018",
+  "cites": 56,
+  "year": 2018,
+  "arxiv": "1709.05967",
+  "review": false
+ },
+ {
+  "title": "Topological entanglement in abelian and non-abelian excitation eigenstates",
+  "venue": "Physical review letters 106 (5), 056801, 2011",
+  "cites": 56,
+  "year": 2011,
+  "arxiv": "1008.5087",
+  "review": false
+ },
+ {
+  "title": "Quantum geometry in quantum materials, npj Quantum Mater",
+  "venue": "",
+  "cites": 54,
+  "year": 2025,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Machine‐learning spectral indicators of topology",
+  "venue": "Advanced Materials 34 (49), 2204113, 2022",
+  "cites": 54,
+  "year": 2022,
+  "arxiv": "2003.00994",
+  "review": false
+ },
+ {
+  "title": "Temperature-driven topological transition in 1T'-MoTe2",
+  "venue": "npj Quantum Materials 3 (1), 2, 2018",
+  "cites": 54,
+  "year": 2018,
+  "arxiv": "1712.06712",
+  "review": false
+ },
+ {
+  "title": "Moiré materials based on M-point twisting",
+  "venue": "Nature 643 (8071), 376-381, 2025",
+  "cites": 53,
+  "year": 2025,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Parafermionic phases with symmetry breaking and topological order",
+  "venue": "Physical Review B 94 (12), 125103, 2016",
+  "cites": 52,
+  "year": 2016,
+  "arxiv": "1506.03455",
+  "review": false
+ },
+ {
+  "title": "Twisted symmetric trilayer graphene. II. Projected Hartree-Fock study",
+  "venue": "Physical Review B 104 (11), 115167, 2021",
+  "cites": 51,
+  "year": 2021,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Fragile topology in line-graph lattices with two, three, or four gapped flat bands",
+  "venue": "Physical Review Research 2 (4), 043414, 2020",
+  "cites": 51,
+  "year": 2020,
+  "arxiv": "2010.11953",
+  "review": false
+ },
+ {
+  "title": "Higher-order topological insulators Sci",
+  "venue": "Adv 4 (6), 2018",
+  "cites": 51,
+  "year": 2018,
+  "arxiv": "1708.03636",
+  "review": false
+ },
+ {
+  "title": "Haldane statistics in the finite-size entanglement spectra of 1/ fractional quantum Hall states",
+  "venue": "Physical Review B—Condensed Matter and Materials Physics 84 (12), 121309, 2011",
+  "cites": 51,
+  "year": 2011,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Phase diagram of twisted bilayer graphene at filling factor",
+  "venue": "Physical Review B 107 (7), 075156, 2023",
+  "cites": 49,
+  "year": 2023,
+  "arxiv": "2209.14322",
+  "review": false
+ },
+ {
+  "title": "Correlation lengths and topological entanglement entropies of unitary and nonunitary fractional quantum hall wave functions",
+  "venue": "Physical review letters 114 (18), 186801, 2015",
+  "cites": 48,
+  "year": 2015,
+  "arxiv": "1406.6262",
+  "review": false
+ },
+ {
+  "title": "Magnetic instability in strongly correlated superconductors",
+  "venue": "Physical review letters 91 (14), 147003, 2003",
+  "cites": 48,
+  "year": 2003,
+  "arxiv": "cond-mat/0303045",
+  "review": false
+ },
+ {
+  "title": "Haldane statistics for fractional Chern insulators with an arbitrary Chern number",
+  "venue": "Physical Review B 89 (15), 155113, 2014",
+  "cites": 47,
+  "year": 2014,
+  "arxiv": "1310.6354",
+  "review": false
+ },
+ {
+  "title": "Unhinging the surfaces of higher-order topological insulators and superconductors",
+  "venue": "Physical review letters 124 (4), 046801, 2020",
+  "cites": 43,
+  "year": 2020,
+  "arxiv": "1905.11421",
+  "review": false
+ },
+ {
+  "title": "Central charge and quasihole scaling dimensions from model wavefunctions: toward relating Jack wavefunctions to-algebras",
+  "venue": "Journal of Physics A: Mathematical and Theoretical 42 (24), 245206, 2009",
+  "cites": 43,
+  "year": 2009,
+  "arxiv": "0903.0635",
+  "review": false
+ },
+ {
+  "title": "Application of induction procedure and Smith decomposition in calculation and topological classification of electronic band structures in the 230 space groups",
+  "venue": "Physical Review B 102 (3), 035110, 2020",
+  "cites": 42,
+  "year": 2020,
+  "arxiv": "2002.03836",
+  "review": false
+ },
+ {
+  "title": "Electron–-phonon interaction in twisted bilayer graphene",
+  "venue": "Physical Review B 110 (4), 045133, 2024",
+  "cites": 41,
+  "year": 2024,
+  "arxiv": "2303.15551",
+  "review": false
+ },
+ {
+  "title": "Interacting topological quantum chemistry in 2D with many-body real space invariants",
+  "venue": "nature communications 15 (1), 1171, 2024",
+  "cites": 41,
+  "year": 2024,
+  "arxiv": "2212.00030",
+  "review": false
+ },
+ {
+  "title": "Delocalization transition of a disordered axion insulator",
+  "venue": "Physical review letters 127 (1), 016602, 2021",
+  "cites": 41,
+  "year": 2021,
+  "arxiv": "2010.13796",
+  "review": false
+ },
+ {
+  "title": "Magnetic properties of the superconducting state of iron-based superconductors",
+  "venue": "Physical Review B—Condensed Matter and Materials Physics 79 (23), 235207, 2009",
+  "cites": 41,
+  "year": 2009,
+  "arxiv": "0903.2025",
+  "review": false
+ },
+ {
+  "title": "Fractional quantization in insulators from Hall to Chern",
+  "venue": "Nature Physics 21 (11), 1702-1713, 2025",
+  "cites": 39,
+  "year": 2025,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Hofstadter topology with real space invariants and reentrant projective symmetries",
+  "venue": "Physical review letters 130 (23), 236601, 2023",
+  "cites": 38,
+  "year": 2023,
+  "arxiv": "2209.10559",
+  "review": false
+ },
+ {
+  "title": "Bulk and edge properties of twisted double bilayer graphene",
+  "venue": "Nature Physics 18 (1), 48-53, 2022",
+  "cites": 38,
+  "year": 2022,
+  "arxiv": "2101.03621",
+  "review": false
+ },
+ {
+  "title": "-algebra structure of topological insulators",
+  "venue": "Physical Review B—Condensed Matter and Materials Physics 86 (24), 241104, 2012",
+  "cites": 38,
+  "year": 2012,
+  "arxiv": "1202.5543",
+  "review": false
+ },
+ {
+  "title": "The hierarchical structure in the orbital entanglement spectrum of fractional quantum Hall systems",
+  "venue": "New Journal of Physics 13 (10), 105001, 2011",
+  "cites": 38,
+  "year": 2011,
+  "arxiv": "1105.5907",
+  "review": false
+ },
+ {
+  "title": "Higher-order topological superconductivity in twisted bilayer graphene",
+  "venue": "Physical Review B 107 (9), 094512, 2023",
+  "cites": 37,
+  "year": 2023,
+  "arxiv": "2108.05373",
+  "review": false
+ },
+ {
+  "title": "Toward dissipationless spin transport in semiconductors",
+  "venue": "IBM journal of research and development 50 (1), 141-148, 2006",
+  "cites": 37,
+  "year": 2006,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "SPIN CURRENT IN SPIN–ORBIT COUPLING SYSTEMS",
+  "venue": "International Journal of Modern Physics B 17 (31n32), 5991-6000, 2003",
+  "cites": 37,
+  "year": 2003,
+  "arxiv": "cond-mat/0310093",
+  "review": false
+ },
+ {
+  "title": "Exact quantum scars in the chiral nonlinear Luttinger liquid",
+  "venue": "Physical Review B 105 (3), 035146, 2022",
+  "cites": 36,
+  "year": 2022,
+  "arxiv": "2110.15365",
+  "review": false
+ },
+ {
+  "title": "Topology invisible to eigenvalues in obstructed atomic insulators",
+  "venue": "Physical Review B 105 (12), 125115, 2022",
+  "cites": 35,
+  "year": 2022,
+  "arxiv": "2107.00647",
+  "review": false
+ },
+ {
+  "title": "Spin-singlet quantum Hall states and Jack polynomials with a prescribed symmetry",
+  "venue": "Nuclear Physics B 857 (2), 185-206, 2012",
+  "cites": 35,
+  "year": 2012,
+  "arxiv": "1107.2534",
+  "review": false
+ },
+ {
+  "title": "Leggett mode in a strong-coupling model of iron arsenide superconductors",
+  "venue": "Physical Review B—Condensed Matter and Materials Physics 82 (14), 144506, 2010",
+  "cites": 35,
+  "year": 2010,
+  "arxiv": "1004.3576",
+  "review": false
+ },
+ {
+  "title": "Band collapse and the quantum Hall effect in graphene",
+  "venue": "International Journal of Modern Physics B 20 (22), 3257-3278, 2006",
+  "cites": 35,
+  "year": 2006,
+  "arxiv": "cond-mat/0607774",
+  "review": false
+ },
+ {
+  "title": "Coordinate representation of the two-spinon wave function and spinon interaction in the Haldane-Shastry model",
+  "venue": "Physical Review B 64 (2), 024425, 2001",
+  "cites": 35,
+  "year": 2001,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Magnetic Bloch theorem and reentrant flat bands in twisted bilayer graphene at  flux",
+  "venue": "Physical Review B 106 (8), 085140, 2022",
+  "cites": 34,
+  "year": 2022,
+  "arxiv": "2206.07717",
+  "review": false
+ },
+ {
+  "title": "Imaging electronic states on topological semimetals using scanning tunneling microscopy",
+  "venue": "New Journal of Physics 18 (10), 105003, 2016",
+  "cites": 34,
+  "year": 2016,
+  "arxiv": "1610.07197",
+  "review": false
+ },
+ {
+  "title": "Interplay between light and heavy electron bands in magic-angle twisted bilayer graphene",
+  "venue": "Nature Physics 21 (7), 1078-1084, 2025",
+  "cites": 33,
+  "year": 2025,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Interacting bosons in topological optical flux lattices",
+  "venue": "Physical Review B 91 (3), 035115, 2015",
+  "cites": 33,
+  "year": 2015,
+  "arxiv": "1410.0357",
+  "review": false
+ },
+ {
+  "title": "\" Berry Trashcan\" Model of Interacting Electrons in Rhombohedral Graphene",
+  "venue": "arXiv preprint arXiv:2503.09692, 2025",
+  "cites": 32,
+  "year": 2025,
+  "arxiv": "2503.09692",
+  "review": false
+ },
+ {
+  "title": "Trions in twisted bilayer graphene",
+  "venue": "Physical Review B 105 (15), 155135, 2022",
+  "cites": 32,
+  "year": 2022,
+  "arxiv": "2112.12776",
+  "review": false
+ },
+ {
+  "title": "Holonomic quantum computing based on the Stark effect",
+  "venue": "Physical Review B—Condensed Matter and Materials Physics 71 (3), 035303, 2005",
+  "cites": 32,
+  "year": 2005,
+  "arxiv": "quant-ph/0402165",
+  "review": false
+ },
+ {
+  "title": "Spinon Attraction in Spin-  Antiferromagnetic Chains",
+  "venue": "Physical review letters 86 (15), 3392, 2001",
+  "cites": 32,
+  "year": 2001,
+  "arxiv": "cond-mat/0011069",
+  "review": false
+ },
+ {
+  "title": "Noncompact atomic insulators",
+  "venue": "Physical Review B 104 (20), L201114, 2021",
+  "cites": 31,
+  "year": 2021,
+  "arxiv": "2107.13556",
+  "review": false
+ },
+ {
+  "title": "Crystalline symmetry-protected non-trivial topology in prototype compound BaAl4",
+  "venue": "npj Quantum Materials 6 (1), 28, 2021",
+  "cites": 30,
+  "year": 2021,
+  "arxiv": "2007.12571",
+  "review": false
+ },
+ {
+  "title": "Observation of dissipationless fractional Chern insulator",
+  "venue": "Nature Physics 22 (3), 389-395, 2026",
+  "cites": 29,
+  "year": 2026,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Observation of backscattering induced by magnetism in a topological edge state",
+  "venue": "Proceedings of the National Academy of Sciences 117 (28), 16214-16218, 2020",
+  "cites": 29,
+  "year": 2020,
+  "arxiv": "2007.04353",
+  "review": false
+ },
+ {
+  "title": "TBG IV: Exact insulator ground states and phase diagram of twisted bilayer graphene",
+  "venue": "arXiv e-prints, arXiv: 2009.13530, 2020",
+  "cites": 28,
+  "year": 2020,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Restricted Boltzmann machines and matrix product states of one-dimensional translationally invariant stabilizer codes",
+  "venue": "Physical Review B 99 (15), 155129, 2019",
+  "cites": 28,
+  "year": 2019,
+  "arxiv": "1812.08171",
+  "review": false
+ },
+ {
+  "title": "Shiba chains of scalar impurities on unconventional superconductors",
+  "venue": "Physical Review B 93 (9), 094508, 2016",
+  "cites": 28,
+  "year": 2016,
+  "arxiv": "1512.09143",
+  "review": false
+ },
+ {
+  "title": "From irrational to nonunitary: Haffnian and Haldane-Rezayi wave functions",
+  "venue": "Physical Review B—Condensed Matter and Materials Physics 83 (24), 241302, 2011",
+  "cites": 28,
+  "year": 2011,
+  "arxiv": "1101.4978",
+  "review": false
+ },
+ {
+  "title": "Matrix product state description of Halperin states",
+  "venue": "Physical Review B 97 (16), 165136, 2018",
+  "cites": 27,
+  "year": 2018,
+  "arxiv": "1802.05278",
+  "review": false
+ },
+ {
+  "title": "Tri-Dirac surface modes in topological superconductors",
+  "venue": "Physical Review B 91 (16), 165421, 2015",
+  "cites": 27,
+  "year": 2015,
+  "arxiv": "1401.1823",
+  "review": false
+ },
+ {
+  "title": "Maxwell equation for coupled spin-charge wave propagation",
+  "venue": "Physical review letters 95 (7), 076602, 2005",
+  "cites": 27,
+  "year": 2005,
+  "arxiv": "cond-mat/0411276",
+  "review": false
+ },
+ {
+  "title": "Twisted bilayer graphene’s gallery of phases",
+  "venue": "Physics Today 77 (4), 38-44, 2024",
+  "cites": 26,
+  "year": 2024,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Topological minibands and interaction driven quantum anomalous Hall state in topological insulator based moiré heterostructures",
+  "venue": "Nature communications 15 (1), 2670, 2024",
+  "cites": 26,
+  "year": 2024,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "TBG V: Exact analytic many-body excitations in twisted bilayer graphene coulomb hamiltonians: Charge gap, goldstone modes and absence of cooper pairing",
+  "venue": "arXiv e-prints, arXiv: 2009.14200, 2020",
+  "cites": 26,
+  "year": 2020,
+  "arxiv": "2009.14200",
+  "review": false
+ },
+ {
+  "title": "Giant supercurrent states in a superconductor-InAs/GaSb-superconductor junction",
+  "venue": "Journal of Applied Physics 118 (13), 2015",
+  "cites": 26,
+  "year": 2015,
+  "arxiv": "1410.7342",
+  "review": false
+ },
+ {
+  "title": "Frustrated charge density wave and quasi-long-range bond-orientational order in the magnetic kagome FeGe",
+  "venue": "Nature communications 16 (1), 4091, 2025",
+  "cites": 25,
+  "year": 2025,
+  "arxiv": "2408.04452",
+  "review": false
+ },
+ {
+  "title": "The thermoelectric effect and its natural heavy fermion explanation in twisted bilayer and trilayer graphene",
+  "venue": "arXiv preprint arXiv:2402.14057, 2024",
+  "cites": 25,
+  "year": 2024,
+  "arxiv": "2402.14057",
+  "review": false
+ },
+ {
+  "title": "Projective construction of the  Read-Rezayi fractional quantum Hall states and their excitations on the torus geometry",
+  "venue": "Physical Review B 92 (11), 115128, 2015",
+  "cites": 25,
+  "year": 2015,
+  "arxiv": "1504.00367",
+  "review": false
+ },
+ {
+  "title": "Matrix product state representation of non-Abelian quasiholes",
+  "venue": "Physical Review B 92 (4), 045109, 2015",
+  "cites": 25,
+  "year": 2015,
+  "arxiv": "1504.06620",
+  "review": false
+ },
+ {
+  "title": "Fractional quantum Hall matrix product states for interacting conformal field theories",
+  "venue": "arXiv preprint arXiv:1311.2936, 2013",
+  "cites": 25,
+  "year": 2013,
+  "arxiv": "1311.2936",
+  "review": false
+ },
+ {
+  "title": "Thin-torus limit of fractional topological insulators",
+  "venue": "arXiv preprint arXiv:1204.5682, 2012",
+  "cites": 25,
+  "year": 2012,
+  "arxiv": "1204.5682",
+  "review": false
+ },
+ {
+  "title": "Electron-quasihole duality and second-order differential equation for Read-Rezayi and Jack wave functions",
+  "venue": "Physical Review B—Condensed Matter and Materials Physics 82 (20), 205307, 2010",
+  "cites": 25,
+  "year": 2010,
+  "arxiv": "1005.3475",
+  "review": false
+ },
+ {
+  "title": "FeGe as a building block for the kagome 1:1, 1:6:6, and 1:3:5 families: Hidden -orbital decoupling of flat band sectors, effective models, and interaction Hamiltonians",
+  "venue": "Physical Review B 111 (12), 125163, 2025",
+  "cites": 24,
+  "year": 2025,
+  "arxiv": "2311.09290",
+  "review": false
+ },
+ {
+  "title": "Topological heavy fermion principle for flat (narrow) bands with concentrated quantum geometry",
+  "venue": "arXiv preprint arXiv:2404.07253, 2024",
+  "cites": 24,
+  "year": 2024,
+  "arxiv": "2404.07253",
+  "review": false
+ },
+ {
+  "title": "Dissipationless spin current in anisotropic -doped semiconductors",
+  "venue": "Physical Review B—Condensed Matter and Materials Physics 70 (11), 113301, 2004",
+  "cites": 24,
+  "year": 2004,
+  "arxiv": "cond-mat/0311024",
+  "review": false
+ },
+ {
+  "title": "Universal Wilson loop bound of quantum geometry",
+  "venue": "Physical review letters 135 (8), 086401, 2025",
+  "cites": 23,
+  "year": 2025,
+  "arxiv": "2501.00100",
+  "review": false
+ },
+ {
+  "title": "Flat phonon soft modes and unconventional charge density wave formation in : Microscopic and effective theory",
+  "venue": "Physical Review B 111 (5), 054113, 2025",
+  "cites": 23,
+  "year": 2025,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Kagome Materials I: SG 191, ScVSn. Flat Phonon Soft Modes and Unconventional CDW Formation: Microscopic and Effective Theory",
+  "venue": "arXiv preprint arXiv:2305.15469, 2023",
+  "cites": 23,
+  "year": 2023,
+  "arxiv": "2305.15469",
+  "review": false
+ },
+ {
+  "title": "Evidence of emergent symmetry and valley Chern number in twisted double-bilayer graphene",
+  "venue": "arXiv e-prints, arXiv: 2006.14000, 2020",
+  "cites": 23,
+  "year": 2020,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "A gap-protected zero-Hall effect state in the quantum limit of the non-symmorphic metal KHgSb",
+  "venue": "Nature materials 18 (5), 443-447, 2019",
+  "cites": 23,
+  "year": 2019,
+  "arxiv": "1812.11912",
+  "review": false
+ },
+ {
+  "title": "The (high quality) topological materials in the world",
+  "venue": "arXiv preprint arXiv:1807.10271, 2018",
+  "cites": 23,
+  "year": 2018,
+  "arxiv": "1807.10271",
+  "review": false
+ },
+ {
+  "title": "Entanglement analysis of isotropic spin-1 chains",
+  "venue": "Journal of Statistical Mechanics: Theory and Experiment 2015 (7), P07017, 2015",
+  "cites": 23,
+  "year": 2015,
+  "arxiv": "1502.06386",
+  "review": false
+ },
+ {
+  "title": "2D theoretically twistable material database",
+  "venue": "Science 393 (6818), eadu1550, 2026",
+  "cites": 22,
+  "year": 2026,
+  "arxiv": "2411.09741",
+  "review": false
+ },
+ {
+  "title": "Resolving intervalley gaps and many-body resonances in moiré superconductors",
+  "venue": "Nature 650 (8102), 592-598, 2026",
+  "cites": 22,
+  "year": 2026,
+  "arxiv": "2505.17200",
+  "review": false
+ },
+ {
+  "title": "Topological heavy fermion model as an efficient representation of atomistic strain and relaxation in twisted bilayer graphene",
+  "venue": "Physical Review B 112 (12), 125128, 2025",
+  "cites": 22,
+  "year": 2025,
+  "arxiv": "2405.13880",
+  "review": false
+ },
+ {
+  "title": "Observation of high-temperature dissipationless fractional Chern insulator",
+  "venue": "arXiv preprint arXiv:2503.10989, 2025",
+  "cites": 22,
+  "year": 2025,
+  "arxiv": "2503.10989",
+  "review": false
+ },
+ {
+  "title": "Moir\\'e Fractional Chern Insulators IV: Fluctuation-Driven Collapse of FCIs in Multi-Band Exact Diagonalization Calculations on Rhombohedral Graphene",
+  "venue": "arXiv preprint arXiv:2407.13770, 2024",
+  "cites": 22,
+  "year": 2024,
+  "arxiv": "2407.13770",
+  "review": false
+ },
+ {
+  "title": "Fractional chiral hinge insulator",
+  "venue": "Physical Review B 103 (16), L161110, 2021",
+  "cites": 22,
+  "year": 2021,
+  "arxiv": "2010.09728",
+  "review": false
+ },
+ {
+  "title": "Signature of phase transitions in the disordered quantum spin Hall state from the entanglement spectrum",
+  "venue": "Physical Review B—Condensed Matter and Materials Physics 86 (4), 041401, 2012",
+  "cites": 22,
+  "year": 2012,
+  "arxiv": "1205.5071",
+  "review": false
+ },
+ {
+  "title": "Spectroscopy of matter near criticality",
+  "venue": "Annals of Physics 311 (1), 182-190, 2004",
+  "cites": 22,
+  "year": 2004,
+  "arxiv": "cond-mat/0004291",
+  "review": false
+ },
+ {
+  "title": "Spinon-Holon Attraction in the Supersymmetric  Model with  Interaction",
+  "venue": "Physical review letters 87 (17), 177206, 2001",
+  "cites": 22,
+  "year": 2001,
+  "arxiv": "cond-mat/0105523",
+  "review": false
+ },
+ {
+  "title": "Spinless and spinful charge excitations in moiré fractional Chern insulators",
+  "venue": "Physical review letters 136 (19), 196503, 2026",
+  "cites": 21,
+  "year": 2026,
+  "arxiv": "2506.05330",
+  "review": false
+ },
+ {
+  "title": "Multiband exact diagonalization and an iteration approach to search for fractional Chern insulators in rhombohedral multilayer graphene",
+  "venue": "Physical Review B 112 (7), 075130, 2025",
+  "cites": 21,
+  "year": 2025,
+  "arxiv": "2504.20140",
+  "review": false
+ },
+ {
+  "title": "When Could Abelian Fractional Topological Insulators Exist in Twisted MoTe (and Other Systems)",
+  "venue": "arXiv preprint arXiv:2407.02560, 2024",
+  "cites": 21,
+  "year": 2024,
+  "arxiv": "2407.02560",
+  "review": false
+ },
+ {
+  "title": "Hierarchy of quasisymmetries and degeneracies in the CoSi family of chiral crystal materials",
+  "venue": "Physical Review B 107 (12), 125145, 2023",
+  "cites": 21,
+  "year": 2023,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Open momentum space method for the Hofstadter butterfly and the quantized Lorentz susceptibility",
+  "venue": "Physical Review B 103 (16), L161405, 2021",
+  "cites": 21,
+  "year": 2021,
+  "arxiv": "2102.04479",
+  "review": false
+ },
+ {
+  "title": "Symmetry broken Chern insulators and magic series of Rashba-like Landau level crossings in magic angle bilayer graphene",
+  "venue": "arXiv preprint arXiv:2007.13390, 2020",
+  "cites": 21,
+  "year": 2020,
+  "arxiv": "2007.13390",
+  "review": false
+ },
+ {
+  "title": "All Magic Angles Are “Stable” Topological",
+  "venue": "ArXiv e-prints, 2018",
+  "cites": 21,
+  "year": 2018,
+  "arxiv": "1807.10676",
+  "review": false
+ },
+ {
+  "title": "Hole spin helix: Anomalous spin diffusion in anisotropic strained hole quantum wells",
+  "venue": "Physical Review B 89 (16), 161307, 2014",
+  "cites": 21,
+  "year": 2014,
+  "arxiv": "1308.4248",
+  "review": false
+ },
+ {
+  "title": "Kekulé spiral order from strained topological heavy fermions",
+  "venue": "Physical Review B 112 (12), 125129, 2025",
+  "cites": 20,
+  "year": 2025,
+  "arxiv": "2502.08700",
+  "review": false
+ },
+ {
+  "title": "Topological heavy fermions in magnetic field",
+  "venue": "Nature communications 15 (1), 5257, 2024",
+  "cites": 20,
+  "year": 2024,
+  "arxiv": "2305.08171",
+  "review": false
+ },
+ {
+  "title": "TBG III: Interacting hamiltonian and exact symmetries of twisted bilayer graphene",
+  "venue": "arXiv e-prints, arXiv: 2009.12376, 2020",
+  "cites": 20,
+  "year": 2020,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Fingerprints of fragile topology in the Hofstadter spectrum of twisted bilayer graphene close to the second magic angle",
+  "venue": "arXiv preprint arXiv:2006.13963, 2020",
+  "cites": 20,
+  "year": 2020,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "No-go theorem for boson condensation in topologically ordered quantum liquids",
+  "venue": "New Journal of Physics 18 (12), 123009, 2016",
+  "cites": 20,
+  "year": 2016,
+  "arxiv": "1607.06457",
+  "review": false
+ },
+ {
+  "title": "Two-dimensional topological quantum chemistry and catalog of topological materials",
+  "venue": "Science 393 (6818), 1317-1321, 2026",
+  "cites": 19,
+  "year": 2026,
+  "arxiv": "2411.08950",
+  "review": false
+ },
+ {
+  "title": "Revealing electron–electron interactions in graphene at room temperature with a quantum twisting microscope",
+  "venue": "Nano Letters 26 (12), 4046-4052, 2026",
+  "cites": 18,
+  "year": 2026,
+  "arxiv": "2507.03189",
+  "review": false
+ },
+ {
+  "title": "Projected and solvable topological heavy fermion model of twisted bilayer graphene",
+  "venue": "arXiv preprint arXiv:2502.14039, 2025",
+  "cites": 18,
+  "year": 2025,
+  "arxiv": "2502.14039",
+  "review": false
+ },
+ {
+  "title": "Universal Moir\\'e-Model-Building Method without Fitting: Application to Twisted MoTe and WSe",
+  "venue": "arXiv preprint arXiv:2411.08108, 2024",
+  "cites": 18,
+  "year": 2024,
+  "arxiv": "2411.08108",
+  "review": false
+ },
+ {
+  "title": "TBG VI: An exact diagonalization study of twisted bilayer graphene at non-zero integer fillings",
+  "venue": "arXiv e-prints, arXiv: 2010.00588, 2020",
+  "cites": 18,
+  "year": 2020,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "All Magic Angles Are  \"Stable\" Topological",
+  "venue": "arXiv preprint arXiv:1807.10676, 2018",
+  "cites": 0,
+  "year": 2018,
+  "arxiv": "1807.10676",
+  "review": false
+ },
+ {
+  "title": "Scenario for fractional quantum Hall effect in bulk isotropic materials",
+  "venue": "Physical Review B—Condensed Matter and Materials Physics 79 (15), 155310, 2009",
+  "cites": 18,
+  "year": 2009,
+  "arxiv": "0810.1757",
+  "review": false
+ },
+ {
+  "title": "On the nature of spin currents in Rashba and Luttinger-type systems",
+  "venue": "Physical Review B—Condensed Matter and Materials Physics 71 (7), 073201, 2005",
+  "cites": 18,
+  "year": 2005,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Unconventional orbital magnetism in graphene-based fractional Chern insulators",
+  "venue": "arXiv preprint arXiv:2506.01485, 2025",
+  "cites": 17,
+  "year": 2025,
+  "arxiv": "2506.01485",
+  "review": false
+ },
+ {
+  "title": "Evidence of heavy fermion physics in the thermoelectric transport of magic angle twisted bilayer graphene",
+  "venue": "arXiv preprint arXiv:2402.11749, 2024",
+  "cites": 17,
+  "year": 2024,
+  "arxiv": "2402.11749",
+  "review": false
+ },
+ {
+  "title": ") ab initio calculation scheme for large-scale moiré structures",
+  "venue": "Physical Review B 105 (12), 125127, 2022",
+  "cites": 17,
+  "year": 2022,
+  "arxiv": "2101.04934",
+  "review": false
+ },
+ {
+  "title": "Ferromagnetism versus Antiferromagnetism in Narrow-Band Systems: Competition between Quantum Geometry and Band Dispersion",
+  "venue": "Physical review letters 136 (25), 256505, 2026",
+  "cites": 16,
+  "year": 2026,
+  "arxiv": "2509.03575",
+  "review": false
+ },
+ {
+  "title": "Berry Trashcan With Short Range Attraction:Exact  Superconductivity in Rhombohedral Graphene",
+  "venue": "arXiv preprint arXiv:2509.16312, 2025",
+  "cites": 16,
+  "year": 2025,
+  "arxiv": "2509.16312",
+  "review": false
+ },
+ {
+  "title": "Ring states in topological materials",
+  "venue": "arXiv preprint arXiv:2406.03529, 2024",
+  "cites": 16,
+  "year": 2024,
+  "arxiv": "2406.03529",
+  "review": false
+ },
+ {
+  "title": "Heavy fermions as an efficient representation of atomistic strain and relaxation in twisted bilayer graphene",
+  "venue": "arXiv preprint arXiv:2405.13880, 2024",
+  "cites": 16,
+  "year": 2024,
+  "arxiv": "2405.13880",
+  "review": false
+ },
+ {
+  "title": "Kagome materials II: SG 191: FeGe as a LEGO building block for the entire 1: 6: 6 series: hidden d-orbital decoupling of flat band sectors, effective models and interaction …",
+  "venue": "APS March Meeting Abstracts 2024, T02. 006, 2024",
+  "cites": 16,
+  "year": 2024,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Fractional Chern Insulators vs. Non-Magnetic States in Twisted Bilayer MoTe",
+  "venue": "arXiv preprint arXiv:2309.14429, 2023",
+  "cites": 16,
+  "year": 2023,
+  "arxiv": "2309.14429",
+  "review": false
+ },
+ {
+  "title": "Structure of the entanglement entropy of (3+ 1)-dimensional gapped phases of matter",
+  "venue": "Physical Review B 97 (19), 195118, 2018",
+  "cites": 16,
+  "year": 2018,
+  "arxiv": "1710.01747",
+  "review": false
+ },
+ {
+  "title": "Topological crystalline superconductors with linearly and projectively represented  symmetry",
+  "venue": "arXiv preprint arXiv:1701.01944, 2017",
+  "cites": 16,
+  "year": 2017,
+  "arxiv": "1701.01944",
+  "review": false
+ },
+ {
+  "title": "The quantum Hall effect in graphene from a lattice perspective",
+  "venue": "Solid state communications 143 (1-2), 20-26, 2007",
+  "cites": 16,
+  "year": 2007,
+  "arxiv": "",
+  "review": true
+ },
+ {
+  "title": "New magnetic topological materials from high-throughput search",
+  "venue": "Science Advances 11 (44), eadv8780, 2025",
+  "cites": 15,
+  "year": 2025,
+  "arxiv": "2408.16851",
+  "review": false
+ },
+ {
+  "title": "Cryo-near-field photovoltage microscopy of heavy-fermion twisted symmetric trilayer graphene",
+  "venue": "arXiv preprint arXiv:2402.12296, 2024",
+  "cites": 15,
+  "year": 2024,
+  "arxiv": "2402.12296",
+  "review": false
+ },
+ {
+  "title": "Semiclassical theory of diffusive-ballistic crossover and the persistent spin helix",
+  "venue": "Physical Review B—Condensed Matter and Materials Physics 78 (24), 245123, 2008",
+  "cites": 15,
+  "year": 2008,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Transport equations and spin-charge propagating mode in a strongly confined two-dimensional hole gas",
+  "venue": "Physical Review B—Condensed Matter and Materials Physics 74 (19), 193316, 2006",
+  "cites": 14,
+  "year": 2006,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Superfluidity and quantum geometry in twisted multilayer systems",
+  "venue": "arXiv preprint arXiv:2111.00807, 0",
+  "cites": 14,
+  "year": 0,
+  "arxiv": "2111.00807",
+  "review": true
+ },
+ {
+  "title": "Does moire matter? critical moire dependence with quantum fluctuations in graphene based integer and fractional Chern insulators",
+  "venue": "arXiv preprint arXiv:2510.15309, 2025",
+  "cites": 13,
+  "year": 2025,
+  "arxiv": "2510.15309",
+  "review": false
+ },
+ {
+  "title": "Strongly interacting Hofstadter states in magic-angle twisted bilayer graphene",
+  "venue": "Nature Physics 21 (9), 1380-1386, 2025",
+  "cites": 13,
+  "year": 2025,
+  "arxiv": "2408.01599",
+  "review": false
+ },
+ {
+  "title": "Anderson critical metal phase in trivial states protected by average magnetic crystalline symmetry",
+  "venue": "Nature communications 15 (1), 3069, 2024",
+  "cites": 13,
+  "year": 2024,
+  "arxiv": "2306.04683",
+  "review": false
+ },
+ {
+  "title": "Coordinate representation of the one-spinon one-holon wave function and spinon-holon interaction",
+  "venue": "Physical Review B 65 (19), 195112, 2002",
+  "cites": 13,
+  "year": 2002,
+  "arxiv": "cond-mat/0110233",
+  "review": false
+ },
+ {
+  "title": "Regarding the existence of abelian fractional topological insulators in twisted MoTe2 and related systems",
+  "venue": "Communications Physics 9 (1), 52, 2026",
+  "cites": 12,
+  "year": 2026,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "TBG II: Stable symmetry anomaly in twisted bilayer graphene",
+  "venue": "arXiv e-prints, arXiv: 2009.11872, 2020",
+  "cites": 12,
+  "year": 2020,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Crystal growth and stoichiometry-dependent properties of the ferromagnetic Weyl semimetal ZrCo2−xSn",
+  "venue": "Journal of Physics: Condensed Matter 29 (22), 225702, 2017",
+  "cites": 12,
+  "year": 2017,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Dirac cone in iron-based superconductors",
+  "venue": "Physics 3, 27, 2010",
+  "cites": 12,
+  "year": 2010,
+  "arxiv": "1103.2946",
+  "review": false
+ },
+ {
+  "title": "MATBG as topological heavy fermion: I. Exact mapping and correlated insulators",
+  "venue": "arXiv preprint arXiv:2111.05865, 2021",
+  "cites": 11,
+  "year": 2021,
+  "arxiv": "2111.05865",
+  "review": false
+ },
+ {
+  "title": "Multi-layer restricted Boltzmann machine representation of 1D quantum many-body wave functions",
+  "venue": "arXiv preprint arXiv:1910.13454, 2019",
+  "cites": 11,
+  "year": 2019,
+  "arxiv": "1910.13454",
+  "review": false
+ },
+ {
+  "title": "Theory of Superconductivity in LaRuSi and Predictions of New Kagome Flat Band Superconductors",
+  "venue": "arXiv preprint arXiv:2503.20867, 2025",
+  "cites": 10,
+  "year": 2025,
+  "arxiv": "2503.20867",
+  "review": false
+ },
+ {
+  "title": "Nodal nematic superconductivity in multiple flat-band systems",
+  "venue": "Physical Review B 111 (2), L020502, 2025",
+  "cites": 10,
+  "year": 2025,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Emergent symmetry and valley chern insulator in twisted double-bilayer graphene",
+  "venue": "Physical review letters 133 (24), 246401, 2024",
+  "cites": 9,
+  "year": 2024,
+  "arxiv": "2006.14000",
+  "review": false
+ },
+ {
+  "title": "Majorana corner modes in unconventional monolayers of the  family",
+  "venue": "Physical Review B 110 (3), 035151, 2024",
+  "cites": 9,
+  "year": 2024,
+  "arxiv": "2308.12055",
+  "review": false
+ },
+ {
+  "title": "Electron doping of a double-perovskite flat-band system",
+  "venue": "Proceedings of the National Academy of Sciences 120 (8), e2218997120, 2023",
+  "cites": 9,
+  "year": 2023,
+  "arxiv": "2301.08821",
+  "review": false
+ },
+ {
+  "title": "Impurities in graphene",
+  "venue": "physica status solidi (a) 207 (12), 2726-2738, 2010",
+  "cites": 9,
+  "year": 2010,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Dynamical correlation effects in twisted bilayer graphene under strain and lattice relaxation",
+  "venue": "arXiv e-prints, arXiv: 2509.19436, 2025",
+  "cites": 8,
+  "year": 2025,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Cascade of pressure-induced competing charge density waves in the kagome metal FeGe",
+  "venue": "Physical Review B 111 (15), 155101, 2025",
+  "cites": 8,
+  "year": 2025,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Catalogue of Phonon Instabilities in Symmetry Group 191 Kagome MTZ Materials",
+  "venue": "arXiv preprint arXiv:2409.13078, 2024",
+  "cites": 8,
+  "year": 2024,
+  "arxiv": "2409.13078",
+  "review": false
+ },
+ {
+  "title": "Fermionic tensor networks for higher-order topological insulators from charge pumping",
+  "venue": "Physical Review B 101 (11), 115134, 2020",
+  "cites": 8,
+  "year": 2020,
+  "arxiv": "1912.08219",
+  "review": false
+ },
+ {
+  "title": "A Cross-Section of the Current Research on High-Temperature Superconductivity",
+  "venue": "Phys. Rev 10 (1), 011009, 2011",
+  "cites": 8,
+  "year": 2011,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Stable real-space invariants and topology beyond symmetry indicators",
+  "venue": "Nature communications, 2026",
+  "cites": 7,
+  "year": 2026,
+  "arxiv": "2505.09697",
+  "review": false
+ },
+ {
+  "title": "Observation of an obstructed atomic band in a transition metal dichalcogenide",
+  "venue": "Nature Physics, 1-6, 2026",
+  "cites": 7,
+  "year": 2026,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Competing phases in the kagome magnet FeGe from functional renormalization",
+  "venue": "Physical Review B 112 (22), L220405, 2025",
+  "cites": 7,
+  "year": 2025,
+  "arxiv": "2411.10931",
+  "review": false
+ },
+ {
+  "title": "Accessing bands with extended quantum metric in kagome Cs2Ni3S4 through soft chemical processing",
+  "venue": "Science Advances 10 (38), eadl1103, 2024",
+  "cites": 7,
+  "year": 2024,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Massive 1D Dirac line, solitons and reversible manipulation on the surface of a prototype obstructed atomic insulator, silicon",
+  "venue": "arXiv preprint arXiv:2406.08114, 2024",
+  "cites": 7,
+  "year": 2024,
+  "arxiv": "2406.08114",
+  "review": false
+ },
+ {
+  "title": "Integer characteristic polynomial factorization and Hilbert space fragmentation",
+  "venue": "arXiv preprint arXiv:2210.08019, 2022",
+  "cites": 7,
+  "year": 2022,
+  "arxiv": "2210.08019",
+  "review": false
+ },
+ {
+  "title": "Wallpaper fermions and the topological dirac insulator",
+  "venue": "Preprint at https://arxiv. org/abs/1705.01617, 2017",
+  "cites": 7,
+  "year": 2017,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Screening behavior and scaling exponents from quantum hall wavefunctions",
+  "venue": "arXiv preprint arXiv:1207.3305, 2012",
+  "cites": 7,
+  "year": 2012,
+  "arxiv": "1207.3305",
+  "review": false
+ },
+ {
+  "title": "Cascade of transitions between the correlated electronic states of magic-angle twisted bilayer graphene",
+  "venue": "arXiv preprint arXiv:1912.06145, 1912",
+  "cites": 7,
+  "year": 1912,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Chern-selective multivalley flat bands in twisted mono-bilayer and mono-trilayer",
+  "venue": "Physical Review B 113 (12), 125116, 2026",
+  "cites": 6,
+  "year": 2026,
+  "arxiv": "2510.12127",
+  "review": false
+ },
+ {
+  "title": "Photovoltage microscopy of symmetrically twisted trilayer graphene",
+  "venue": "Nature Physics 21 (12), 1934-1941, 2025",
+  "cites": 6,
+  "year": 2025,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Obtaining the Spectral Function of Moir\\'e Graphene Heavy-Fermions Using Iterative Perturbation Theory",
+  "venue": "arXiv preprint arXiv:2509.18256, 2025",
+  "cites": 6,
+  "year": 2025,
+  "arxiv": "2509.18256",
+  "review": false
+ },
+ {
+  "title": "Obstructed surface states as the origin of catalytic activity in inorganic heterogeneous catalysts",
+  "venue": "arXiv preprint arXiv:2111.02435, 2021",
+  "cites": 6,
+  "year": 2021,
+  "arxiv": "2111.02435",
+  "review": false
+ },
+ {
+  "title": "Intrinsic spin-Hall effect in n-doped bulk GaAs",
+  "venue": "arXiv preprint cond-mat/0412550, 2004",
+  "cites": 6,
+  "year": 2004,
+  "arxiv": "cond-mat/0412550",
+  "review": false
+ },
+ {
+  "title": "Emergent interacting phases in the strong-coupling limit of twisted -valley moiré systems: Application to",
+  "venue": "Physical Review B 114 (5), L051113, 2026",
+  "cites": 5,
+  "year": 2026,
+  "arxiv": "2508.10098",
+  "review": false
+ },
+ {
+  "title": "Glide-resolved photoemission spectroscopy: Measuring topological invariants in nonsymmorphic space groups",
+  "venue": "Physical Review B 101 (23), 235166, 2020",
+  "cites": 5,
+  "year": 2020,
+  "arxiv": "1902.10722",
+  "review": false
+ },
+ {
+  "title": "The chiral anomaly factory: Creating Weyls with a magnetic field",
+  "venue": "arXiv preprint arXiv:1604.08601, 2016",
+  "cites": 5,
+  "year": 2016,
+  "arxiv": "1604.08601",
+  "review": false
+ },
+ {
+  "title": "with Taylor L. Hughes",
+  "venue": "Topological insulators and topological superconductors, 2013",
+  "cites": 5,
+  "year": 2013,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Quantum geometry in the  family: Obstructed compact Wannier function and perturbation theory",
+  "venue": "Physical Review B 114 (12), 125104, 2026",
+  "cites": 4,
+  "year": 2026,
+  "arxiv": "2507.02047",
+  "review": false
+ },
+ {
+  "title": "Twisted bilayer graphene lifetimes at integer fillings: An analytic result",
+  "venue": "arXiv preprint arXiv:2604.14303, 2026",
+  "cites": 4,
+  "year": 2026,
+  "arxiv": "2604.14303",
+  "review": false
+ },
+ {
+  "title": "Phonon spectra, quantum geometry, and the Goldstone theorem",
+  "venue": "Physical Review B 112 (24), 245128, 2025",
+  "cites": 4,
+  "year": 2025,
+  "arxiv": "2502.04221",
+  "review": false
+ },
+ {
+  "title": ": An antiferromagnetic topological heavy-fermion system with a -protected Kondo effect and nodal-line excitations",
+  "venue": "Physical Review B 112 (19), 195107, 2025",
+  "cites": 4,
+  "year": 2025,
+  "arxiv": "2411.13647",
+  "review": false
+ },
+ {
+  "title": "\" Ideal\" Topological Heavy Fermion Model in Two-dimensional Moiré Heterostructures with Type-II Band Alignment",
+  "venue": "arXiv e-prints, arXiv: 2507.06168, 2025",
+  "cites": 4,
+  "year": 2025,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Modular Anomalies in (2+ 1) and (3+ 1)-D Edge Theories",
+  "venue": "arXiv preprint arXiv:1604.00407, 2016",
+  "cites": 4,
+  "year": 2016,
+  "arxiv": "1604.00407",
+  "review": false
+ },
+ {
+  "title": "Spin-orbit-free topological insulators",
+  "venue": "Physica Scripta 164 (1), 014013, 2015",
+  "cites": 4,
+  "year": 2015,
+  "arxiv": "1411.3338",
+  "review": true
+ },
+ {
+  "title": "A novel platform for two-dimensional chiral topological superconductivity",
+  "venue": "arXiv preprint arXiv:1501.00999, 2015",
+  "cites": 4,
+  "year": 2015,
+  "arxiv": "1501.00999",
+  "review": false
+ },
+ {
+  "title": "Why some Iron-based superconductors are nodal while others are nodeless",
+  "venue": "arXiv preprint arXiv:1002.3599, 2010",
+  "cites": 4,
+  "year": 2010,
+  "arxiv": "1002.3599",
+  "review": false
+ },
+ {
+  "title": "On vortices and phase coherence in high-T c superconductors",
+  "venue": "Philosophical Magazine 84 (22), 2331-2339, 2004",
+  "cites": 4,
+  "year": 2004,
+  "arxiv": "cond-mat/0304419",
+  "review": false
+ },
+ {
+  "title": "The\" Moir\\'e Capacitor Effect\" and Stabilization of Fractional Chern Insulators in Rhombohedral Graphene Superlattices",
+  "venue": "arXiv preprint arXiv:2608.12452, 2026",
+  "cites": 3,
+  "year": 2026,
+  "arxiv": "2608.12452",
+  "review": false
+ },
+ {
+  "title": "Discovery of an antiferromagnetic topological nodal-line Kondo semimetal",
+  "venue": "arXiv preprint arXiv:2411.13898, 2024",
+  "cites": 3,
+  "year": 2024,
+  "arxiv": "2411.13898",
+  "review": false
+ },
+ {
+  "title": "Hofstadter Topology: Non-crystalline Topological Materials in the Moir\\’e Era",
+  "venue": "arXiv preprint arXiv:2006.13938, 2020",
+  "cites": 3,
+  "year": 2020,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Disconnected elementary band representations, fragile topology, and wilson loops as topological indices",
+  "venue": "arXiv preprint arXiv:1807.09729, 2018",
+  "cites": 3,
+  "year": 2018,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Analysis of Influenza and RSV dynamics in the community using a ‘Local Transmission Zone’approach",
+  "venue": "Scientific reports 7 (1), 42012, 2017",
+  "cites": 3,
+  "year": 2017,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Entanglement of exact excited states of AKLT models: Exact results, manybody scars and the violation of strong ETH",
+  "venue": "arXiv preprint arXiv:1806.09624, 0",
+  "cites": 3,
+  "year": 0,
+  "arxiv": "1806.09624",
+  "review": false
+ },
+ {
+  "title": "Time-reversal breaking Weyl fermions in magnetic Heuslers",
+  "venue": "arXiv preprint arXiv:1603.00479, 0",
+  "cites": 3,
+  "year": 0,
+  "arxiv": "1603.00479",
+  "review": false
+ },
+ {
+  "title": "Interplay between many-body correlations, strain, and lattice relaxation in twisted bilayer graphene",
+  "venue": "Physical Review B 113 (24), L241112, 2026",
+  "cites": 2,
+  "year": 2026,
+  "arxiv": "2509.19436",
+  "review": false
+ },
+ {
+  "title": "Mixed-dimensional quantum Monte Carlo studies of M-point moir\\'e materials",
+  "venue": "arXiv preprint arXiv:2606.12508, 2026",
+  "cites": 2,
+  "year": 2026,
+  "arxiv": "2606.12508",
+  "review": false
+ },
+ {
+  "title": "Engineering topological flat bands in -valley moir\\'e systems with Ising-type SOC: twisted 1T-ZrS and 1T-SnSe",
+  "venue": "arXiv preprint arXiv:2605.13984, 2026",
+  "cites": 2,
+  "year": 2026,
+  "arxiv": "2605.13984",
+  "review": false
+ },
+ {
+  "title": "A New Moir\\'e Platform Based on M-Point Twisting",
+  "venue": "arXiv preprint arXiv:2411.18684, 2024",
+  "cites": 2,
+  "year": 2024,
+  "arxiv": "2411.18684",
+  "review": false
+ },
+ {
+  "title": "Topological edge transport in twisted double-bilayer graphene",
+  "venue": "arXiv e-prints, arXiv: 2101.03621, 2021",
+  "cites": 2,
+  "year": 2021,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Experimental characterization of spectral flow between fragile bands",
+  "venue": "Science 367 (6479), 797-800, 2020",
+  "cites": 2,
+  "year": 2020,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Band theory without any Hamiltonians or “the way band theory should be taught”",
+  "venue": "Topological Matter: Lectures from the Topological Matter School 2017, 1-30, 2018",
+  "cites": 2,
+  "year": 2018,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Modular anomalies in - and -dimensional edge theories",
+  "venue": "Physical Review B 95 (23), 235130, 2017",
+  "cites": 2,
+  "year": 2017,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Majorana zero modes on a necklace",
+  "venue": "arXiv preprint arXiv:1404.4058, 2014",
+  "cites": 2,
+  "year": 2014,
+  "arxiv": "1404.4058",
+  "review": false
+ },
+ {
+  "title": "Surface State Quasiparticle Interference in Crystalline Topological Insulators",
+  "venue": "arXiv preprint arXiv:1212.3285, 2012",
+  "cites": 2,
+  "year": 2012,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Extended s-wave superconductivity in M-point twisted bilayer SnSe2",
+  "venue": "arXiv preprint arXiv:2607.27492, 2026",
+  "cites": 1,
+  "year": 2026,
+  "arxiv": "2607.27492",
+  "review": false
+ },
+ {
+  "title": "Organizing Principles for Moir\\'e Quantum Matter",
+  "venue": "arXiv preprint arXiv:2607.24944, 2026",
+  "cites": 1,
+  "year": 2026,
+  "arxiv": "2607.24944",
+  "review": false
+ },
+ {
+  "title": "Magnon-Mediated Superconductivity in a 2D Itinerant Ferromagnet with Weak Easy-plane Magnetic Anisotropy",
+  "venue": "arXiv preprint arXiv:2607.05754, 2026",
+  "cites": 1,
+  "year": 2026,
+  "arxiv": "2607.05754",
+  "review": false
+ },
+ {
+  "title": "Machine-learning-guided discovery of kagome superconductors  and",
+  "venue": "Physical Review Research 8 (2), 023308, 2026",
+  "cites": 1,
+  "year": 2026,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "New crystal structures hide in plain sight: A stress test for AI-guided materials discovery",
+  "venue": "arXiv preprint arXiv:2603.05613, 2026",
+  "cites": 1,
+  "year": 2026,
+  "arxiv": "2603.05613",
+  "review": false
+ },
+ {
+  "title": "Ideal Topological Flat Bands in Two-dimensional Moir\\'e Heterostructures with Type-II Band Alignment",
+  "venue": "arXiv preprint arXiv:2507.06168, 2025",
+  "cites": 1,
+  "year": 2025,
+  "arxiv": "2507.06168",
+  "review": false
+ },
+ {
+  "title": "Cascade of pressure induced competing CDWs in the kagome metal FeGe",
+  "venue": "arXiv preprint arXiv:2409.04325, 2024",
+  "cites": 1,
+  "year": 2024,
+  "arxiv": "2409.04325",
+  "review": false
+ },
+ {
+  "title": "Frustrated charge density wave and quasi-long-range bond-orientational order in the magnetic kagome FeGe",
+  "venue": "",
+  "cites": 1,
+  "year": 2024,
+  "arxiv": "2408.04452",
+  "review": false
+ },
+ {
+  "title": "Evidence of heavy fermion physics in the thermoelectric transport of magic angle twisted bilayer graphene",
+  "venue": "arXiv e-prints, arXiv: 2402.11749, 2024",
+  "cites": 1,
+  "year": 2024,
+  "arxiv": "2402.11749",
+  "review": false
+ },
+ {
+  "title": "Symmetry indicator-free unconventionality, obstructed edge states and Majorana engineering in 1T-PtSe2 family",
+  "venue": "arXiv e-prints, arXiv: 2308.12055, 2023",
+  "cites": 1,
+  "year": 2023,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Massive 1D Dirac Line, Solitons and Reversible Manipulation on the Surface of a Prototype Obstructed Atomic Insulator, Silicon",
+  "venue": "",
+  "cites": 1,
+  "year": 2023,
+  "arxiv": "2406.08114",
+  "review": false
+ },
+ {
+  "title": "Obstructed Surface States as the Descriptor for Predicting Catalytic Active Sites in Inorganic Crystalline Materials (Adv. Mater. 26/2022)",
+  "venue": "Advanced Materials 34 (26), 2270196, 2022",
+  "cites": 1,
+  "year": 2022,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Hidden quasi-symmetries stabilize non-trivial quantum oscillations in CoSi",
+  "venue": "arXiv preprint arXiv:2108.02279, 2021",
+  "cites": 1,
+  "year": 2021,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Tstg ii: Projected hartree-fock study of twisted symmetric trilayer graphene",
+  "venue": "arXiv preprint arXiv:2106.14905, 2021",
+  "cites": 1,
+  "year": 2021,
+  "arxiv": "2106.14905",
+  "review": false
+ },
+ {
+  "title": "Twisted Bilayer Graphene V: Exact Analytic Many-Body Excitations in Twisted Bilayer Graphene Coulomb Hamiltonians: Charge Gap, Goldstone Modes and Absence of Cooper Pairing",
+  "venue": "arXiv preprint arXiv:2009.14200, 2020",
+  "cites": 1,
+  "year": 2020,
+  "arxiv": "2009.14200",
+  "review": false
+ },
+ {
+  "title": "Author Correction: A complete catalogue of high-quality topological materials",
+  "venue": "Nature 582 (7812), E13-E13, 2020",
+  "cites": 1,
+  "year": 2020,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Publisher’s Note: Time-Reversal-Breaking Weyl Fermions in Magnetic Heusler Alloys [Phys. Rev. Lett. 117, 236401 (2016)]",
+  "venue": "Physical Review Letters 124 (23), 239901, 2020",
+  "cites": 1,
+  "year": 2020,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Author Correction: Axionic charge-density wave in the Weyl semimetal (TaSe4)2I",
+  "venue": "Nature 582 (7810), E1-E1, 2020",
+  "cites": 1,
+  "year": 2020,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Publisher's Note: Graph theory data for topological quantum chemistry [Phys. Rev. E 96, 023310 (2017)]",
+  "venue": "Physical Review E 101 (6), 069902, 2020",
+  "cites": 1,
+  "year": 2020,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Hofstadter topology: non-crystalline topological materials in the moiré era",
+  "venue": "arXiv e-prints, arXiv: 2006.13938, 2020",
+  "cites": 1,
+  "year": 2020,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Restricted Boltzmann Machines and Matrix Product States of 1D Translational Invariant Stabilizer Codes",
+  "venue": "Phys. Rev. B 99 (155129), 10.1103, 2019",
+  "cites": 1,
+  "year": 2019,
+  "arxiv": "1812.08171",
+  "review": false
+ },
+ {
+  "title": "Exact excited states of the 1d aklt model",
+  "venue": "APS March Meeting Abstracts 2017, L13. 014, 2017",
+  "cites": 1,
+  "year": 2017,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Spin-Orbit-Free Topological Insulators",
+  "venue": "arXiv preprint arXiv:1411.3338, 2014",
+  "cites": 1,
+  "year": 2014,
+  "arxiv": "1411.3338",
+  "review": true
+ },
+ {
+  "title": "Entanglement spectrum in spin chains",
+  "venue": "APS March Meeting Abstracts 2010, H34. 010, 2010",
+  "cites": 1,
+  "year": 2010,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Novel properties in Josephson junctions involving the cos (kx) cos (ky)-pairing state in iron-pnictides",
+  "venue": "arXiv preprint arXiv:0812.0661, 2008",
+  "cites": 1,
+  "year": 2008,
+  "arxiv": "0812.0661",
+  "review": false
+ },
+ {
+  "title": "Bernevig et al. Reply:",
+  "venue": "Physical Review Letters 96 (5), 3392, 2006",
+  "cites": 1,
+  "year": 2006,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Interaction between particles in a one-dimensional gas of  fractional statistics particles",
+  "venue": "Physical Review B 68 (11), 115321, 2003",
+  "cites": 1,
+  "year": 2003,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Interaction between particles in a 1/-statistics anyon gas",
+  "venue": "arXiv preprint cond-mat/0206498, 2002",
+  "cites": 1,
+  "year": 2002,
+  "arxiv": "cond-mat/0206498",
+  "review": false
+ },
+ {
+  "title": "Symmetric Mode Ansatz: Theory of Magnon Collective Modes in Chern Insulators",
+  "venue": "arXiv preprint arXiv:2610.10706, 2026",
+  "cites": 0,
+  "year": 2026,
+  "arxiv": "2610.10706",
+  "review": false
+ },
+ {
+  "title": "Incoherent Spectral Weight Emerging from a Van Hove Singularity in a Kagome Metal",
+  "venue": "arXiv preprint arXiv:2610.08356, 2026",
+  "cites": 0,
+  "year": 2026,
+  "arxiv": "2610.08356",
+  "review": false
+ },
+ {
+  "title": "Large scale theoretical investigation of the phase diagram of twisted bilayer MoTe at fractional fillings: agreements and contradictions with current experiments",
+  "venue": "arXiv preprint arXiv:2608.23675, 2026",
+  "cites": 0,
+  "year": 2026,
+  "arxiv": "2608.23675",
+  "review": false
+ },
+ {
+  "title": "Distinguishing Mott and strain-induced anisotropic semimetals in magic-angle twisted bilayer graphene using Landau level spectroscopy",
+  "venue": "arXiv preprint arXiv:2608.20694, 2026",
+  "cites": 0,
+  "year": 2026,
+  "arxiv": "2608.20694",
+  "review": false
+ },
+ {
+  "title": "Resonant Far-Infrared Spectroscopy of Flat-Band Fermions in Magic Angle Graphene",
+  "venue": "arXiv preprint arXiv:2608.12553, 2026",
+  "cites": 0,
+  "year": 2026,
+  "arxiv": "2608.12553",
+  "review": false
+ },
+ {
+  "title": "Momentum Structure of Superconductivity and Sublattice Effects from Quasiparticle Interference in CsVSb",
+  "venue": "arXiv preprint arXiv:2607.27148, 2026",
+  "cites": 0,
+  "year": 2026,
+  "arxiv": "2607.27148",
+  "review": false
+ },
+ {
+  "title": "Quantum geometry and critical temperature enhancement in MgB superconductivity",
+  "venue": "arXiv preprint arXiv:2607.19458, 2026",
+  "cites": 0,
+  "year": 2026,
+  "arxiv": "2607.19458",
+  "review": false
+ },
+ {
+  "title": "Transport and Temperature 1: Exact spectrum and resistivity for the one-dimensional infinite- Hubbard model",
+  "venue": "arXiv preprint arXiv:2604.02426, 2026",
+  "cites": 0,
+  "year": 2026,
+  "arxiv": "2604.02426",
+  "review": false
+ },
+ {
+  "title": "Identification of an Unreported Structure Type in GdNiSn4 and Its Implications for Materials Prediction",
+  "venue": "arXiv e-prints, arXiv: 2603.05613, 2026",
+  "cites": 0,
+  "year": 2026,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Topological protection by local support symmetry and destructive interference",
+  "venue": "Nature communications 17 (1), 2739, 2026",
+  "cites": 0,
+  "year": 2026,
+  "arxiv": "2601.17272",
+  "review": false
+ },
+ {
+  "title": "Superconductivity in YRu3B2 and LuRu3B2",
+  "venue": "arXiv e-prints, arXiv: 2512.16945, 2025",
+  "cites": 0,
+  "year": 2025,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Dilute Paramagnetism and Non-Trivial Topology in Quasicrystal Approximant Fe4Al13",
+  "venue": "Crystals 15 (5), 485, 2025",
+  "cites": 0,
+  "year": 2025,
+  "arxiv": "2505.18057",
+  "review": false
+ },
+ {
+  "title": "Heavy fermions, mass renormalization, and local moments in magic-angle twisted bilayer graphene via planar tunneling spectroscopy",
+  "venue": "",
+  "cites": 0,
+  "year": 2025,
+  "arxiv": "2503.17875",
+  "review": false
+ },
+ {
+  "title": "Probing the Quantized Berry Phases in 1H-NbSe Using Scanning Tunneling Microscopy",
+  "venue": "arXiv preprint arXiv:2501.09063, 2025",
+  "cites": 0,
+  "year": 2025,
+  "arxiv": "2501.09063",
+  "review": false
+ },
+ {
+  "title": "Dilute Paramagnetism and Non-Trivial Topology in Quasicrystal Approximant Fe4Al13",
+  "venue": "Crystals 15 (5), 485, 2025",
+  "cites": 0,
+  "year": 2025,
+  "arxiv": "2505.18057",
+  "review": false
+ },
+ {
+  "title": "Topological Quantum Chemistry",
+  "venue": "International School of Physics Enrico Fermi-Topology and Materials, 151-160, 2024",
+  "cites": 0,
+  "year": 2024,
+  "arxiv": "1703.02050",
+  "review": false
+ },
+ {
+  "title": "Cryo-Near-Field Photovoltage Microscopy of Heavy-Fermion Twisted Symmetric Trilayer Graphene",
+  "venue": "",
+  "cites": 0,
+  "year": 2024,
+  "arxiv": "2402.12296",
+  "review": false
+ },
+ {
+  "title": "The Thermoelectric Effect in Twisted Bilayer Graphene within the Heavy Fermion Picture",
+  "venue": "APS March Meeting Abstracts 2024, W09. 015, 2024",
+  "cites": 0,
+  "year": 2024,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Topological Gapped Phases of Matter: Band Theory to Fractional Chern Insulators",
+  "venue": "Encyclopedia of Mathematical Physics, Second Edition: Volumes 1-5, V1: 1-V1: 16, 2024",
+  "cites": 0,
+  "year": 2024,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Anomalous Hall Crystals or Moire Chern Insulators? Spontaneous versus explicit translational symmetry breaking in graphene pentalayers",
+  "venue": "arXiv preprint arXiv:2311.03445, 2023",
+  "cites": 0,
+  "year": 2023,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Selection of a heterogeneous catalysts with metallic surface states",
+  "venue": "US Patent App. 18/009,434, 2023",
+  "cites": 0,
+  "year": 2023,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Interacting Topological Quantum Chemistry in 2D: Many-body Real Space Invariants",
+  "venue": "",
+  "cites": 0,
+  "year": 2023,
+  "arxiv": "2212.00030",
+  "review": false
+ },
+ {
+  "title": "Reply to\" Comment on'Nontrivial Quantum Geometry and the Strength of Electron-Phonon Coupling', arXiv: 2305.02340, J. Yu, CJ Ciccarino, R. Bianco, I. Errea, P. Narang, BA Bernevig\"",
+  "venue": "arXiv preprint arXiv:2306.03814, 2023",
+  "cites": 0,
+  "year": 2023,
+  "arxiv": "2306.03814",
+  "review": false
+ },
+ {
+  "title": "Advances in quantum materials",
+  "venue": "Low Temperature Physics 49 (6), 629-630, 2023",
+  "cites": 0,
+  "year": 2023,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "-Nontrivial Moir\\'e Minibands and Interaction-Driven Quantum Anomalous Hall Insulators in Topological Insulator Based Moir\\'e Heterostructures",
+  "venue": "arXiv preprint arXiv:2304.09907, 2023",
+  "cites": 0,
+  "year": 2023,
+  "arxiv": "2304.09907",
+  "review": false
+ },
+ {
+  "title": "Topological Aspects of Electron-Phonon Coupling",
+  "venue": "APS March Meeting Abstracts 2023, W42. 010, 2023",
+  "cites": 0,
+  "year": 2023,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "TSTG I: Single-Particle and Many-Body Hamiltonians and Hidden Non-local Symmetries of Trilayer Moir\\'e Systems with and without Displacement Field",
+  "venue": "arXiv preprint arXiv:2102.06201, 2021",
+  "cites": 0,
+  "year": 2021,
+  "arxiv": "2102.06201",
+  "review": false
+ },
+ {
+  "title": "Competing zero-field Chern insulators in Superconducting Twisted Bilayer Graphene",
+  "venue": "",
+  "cites": 0,
+  "year": 2021,
+  "arxiv": "2012.15126",
+  "review": false
+ },
+ {
+  "title": "Data for Evidence for a Monolayer Excitonic Insulator",
+  "venue": "Harvard Dataverse dataset, 561, 2021",
+  "cites": 0,
+  "year": 2021,
+  "arxiv": "2010.05390",
+  "review": false
+ },
+ {
+  "title": "Topological States Protected by Magnetic Space Groups and Spin Space Groups",
+  "venue": "Nature Communications 12, 5965, 2021",
+  "cites": 0,
+  "year": 2021,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Twisted bilayer graphene. VI. An Exact Diagonalization Study of Twisted Bilayer Graphene at Non-Zero Integer Fillings",
+  "venue": "arXiv preprint arXiv:2010.00588, 2020",
+  "cites": 0,
+  "year": 2020,
+  "arxiv": "2010.00588",
+  "review": false
+ },
+ {
+  "title": "Fragile Topology in Line-Graph Lattices with 2, 3, or 4 Gapped Flat Bands",
+  "venue": "arXiv e-prints, arXiv: 2010.11953, 2020",
+  "cites": 0,
+  "year": 2020,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Twisted bilayer graphene I. Matrix elements, approximations, perturbation theory and a  2-Band model",
+  "venue": "arXiv preprint arXiv:2009.11301, 2020",
+  "cites": 0,
+  "year": 2020,
+  "arxiv": "2009.11301",
+  "review": false
+ },
+ {
+  "title": "TBG I: Matrix Elements, Approximations, Perturbation Theory and a  2-Band Model for Twisted Bilayer Graphene",
+  "venue": "arXiv e-prints, arXiv: 2009.11301, 2020",
+  "cites": 0,
+  "year": 2020,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "A complete catalogue of high-quality topological materials (vol 566, pg 480, 2019)",
+  "venue": "NATURE 582 (7812), E13-E13, 2020",
+  "cites": 0,
+  "year": 2020,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Topological quantum chemistry (vol 547, pg 298, 2017)",
+  "venue": "NATURE 582 (7812), E14-E14, 2020",
+  "cites": 0,
+  "year": 2020,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Author Correction: Topological quantum chemistry",
+  "venue": "Nature 582 (7812), E14-E14, 2020",
+  "cites": 0,
+  "year": 2020,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Publisher’s Note: : A Type-II Weyl Topological Metal [Phys. Rev. Lett. 117, 056805 (2016)]",
+  "venue": "Physical Review Letters 124 (23), 239902, 2020",
+  "cites": 0,
+  "year": 2020,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "MoTe</sub> 2<//sub>: A Type-II Weyl Topological Metal (vol 117, 056805, 2016)",
+  "venue": "Physical Review Letters 124 (23), 2020",
+  "cites": 0,
+  "year": 2020,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Graph theory data for topological quantum chemistry (vol 96, 023310, 2017)",
+  "venue": "PHYSICAL REVIEW E 101 (6), 2020",
+  "cites": 0,
+  "year": 2020,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Time-Reversal-Breaking Weyl Fermions in Magnetic Heusler Alloys (vol 117, 236401, 2016)",
+  "venue": "Physical Review Letters 124 (23), 2020",
+  "cites": 0,
+  "year": 2020,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Higher-order topology in bismuth (vol 13, pg 151, 2020)",
+  "venue": "NATURE PHYSICS 16 (6), 702-702, 2020",
+  "cites": 0,
+  "year": 2020,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Data for: Cascade of electronic transitions in magic-angle twisted bilayer graphene",
+  "venue": "(No Title), 2020",
+  "cites": 0,
+  "year": 2020,
+  "arxiv": "1912.06145",
+  "review": false
+ },
+ {
+  "title": "Fragile Topological Bands With Stable Index at Half-Filling inTwisted Bilayer Graphene",
+  "venue": "APS March Meeting Abstracts 2019, B43. 005, 2019",
+  "cites": 0,
+  "year": 2019,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Constrained Hilbert Spaces and Many-body Scars in a Landau Level",
+  "venue": "APS March Meeting Abstracts 2019, P24. 002, 2019",
+  "cites": 0,
+  "year": 2019,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Search for topological superconductivity in the proximitized, quantum-spin-Hall edge state of bismuth bilayers",
+  "venue": "APS March Meeting Abstracts 2018, V13. 005, 2018",
+  "cites": 0,
+  "year": 2018,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Temperature-Driven Topological Transition in 1T'-MoTe2",
+  "venue": "arXiv e-prints, arXiv: 1712.06712, 2017",
+  "cites": 0,
+  "year": 2017,
+  "arxiv": "1712.06712",
+  "review": false
+ },
+ {
+  "title": "Temperature-driven Topological Phase Transition in MoTe_ {\\mathrm {2}}",
+  "venue": "APS March Meeting 2017 PostDeadline, 2017",
+  "cites": 0,
+  "year": 2017,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Temperature-driven Topological Phase Transition in MoTe",
+  "venue": "Bulletin of the American Physical Society 62, 2017",
+  "cites": 0,
+  "year": 2017,
+  "arxiv": "1712.06712",
+  "review": false
+ },
+ {
+  "title": "Temperature-driven Topological Phase Transition in MoTe2",
+  "venue": "APS March Meeting Abstracts 2017, F44. 003, 2017",
+  "cites": 0,
+  "year": 2017,
+  "arxiv": "1712.06712",
+  "review": false
+ },
+ {
+  "title": "Topological Quantum Chemistry III: Topological data mining based on band connectivity",
+  "venue": "APS March Meeting Abstracts 2017, V37. 003, 2017",
+  "cites": 0,
+  "year": 2017,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Topological Quantum Chemistry II: Predicting topological materials in layered systems",
+  "venue": "APS March Meeting Abstracts 2017, V37. 002, 2017",
+  "cites": 0,
+  "year": 2017,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Topological invariants for nonsymmorphic symmetries",
+  "venue": "APS March Meeting Abstracts 2017, B44. 007, 2017",
+  "cites": 0,
+  "year": 2017,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Spin signature of Majorana zero modes in a Shiba chain",
+  "venue": "APS March Meeting Abstracts 2017, F45. 005, 2017",
+  "cites": 0,
+  "year": 2017,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Topological quantum chemistry I: Global band topology and topological phases",
+  "venue": "APS March Meeting Abstracts 2017, B44. 006, 2017",
+  "cites": 0,
+  "year": 2017,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Experimental Evidence of the First Nonsymmorphic Topological Insulator KHgSb",
+  "venue": "APS March Meeting Abstracts 2017, S8. 004, 2017",
+  "cites": 0,
+  "year": 2017,
+  "arxiv": "1605.06824",
+  "review": false
+ },
+ {
+  "title": "13. Quantum Hall Effect and Chern Insulators in Higher Dimensions",
+  "venue": "Topological Insulators and Topological Superconductors, 164-176, 2016",
+  "cites": 0,
+  "year": 2016,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Topological classification with Z2Pack (Conference Presentation)",
+  "venue": "Spintronics IX 9931, 360-360, 2016",
+  "cites": 0,
+  "year": 2016,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "EAGER: Topological Semimetals, Insulators and Supersymmetry",
+  "venue": "NSF Award Number 1643312. Directorate for Mathematical and Physical Sciences …, 2016",
+  "cites": 0,
+  "year": 2016,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Modular Anomalies in (2+ 1) and (3+ 1)-D Edge Theories",
+  "venue": "arXiv e-prints, arXiv: 1604.00407, 2016",
+  "cites": 0,
+  "year": 2016,
+  "arxiv": "1604.00407",
+  "review": false
+ },
+ {
+  "title": "Cohomological Insulators",
+  "venue": "Bulletin of the American Physical Society 61, 2016",
+  "cites": 0,
+  "year": 2016,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Strongly Correlated Topological Insulators",
+  "venue": "",
+  "cites": 0,
+  "year": 2016,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Experimental Discovery of the First Nonsymmorphic Topological Insulator KHgSb",
+  "venue": "(No Title), 2016",
+  "cites": 0,
+  "year": 2016,
+  "arxiv": "1605.06824",
+  "review": false
+ },
+ {
+  "title": "Creating chiral anomalies",
+  "venue": "APS March Meeting Abstracts 2016, A28. 008, 2016",
+  "cites": 0,
+  "year": 2016,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Tuning Weyl nodes with a magnetic field",
+  "venue": "APS March Meeting Abstracts 2016, A28. 006, 2016",
+  "cites": 0,
+  "year": 2016,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Spin Polarization Measurements of Ferromagnetic Atomic Chains on a Supercondcutor: Part II",
+  "venue": "APS March Meeting Abstracts 2016, Y11. 009, 2016",
+  "cites": 0,
+  "year": 2016,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Hourglass Fermions and Cohomological Insulators",
+  "venue": "APS March Meeting Abstracts 2016, Y28. 015, 2016",
+  "cites": 0,
+  "year": 2016,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Quantized electric quadrupole moment in Topological Crystalline Insulators",
+  "venue": "APS March Meeting Abstracts 2016, L28. 010, 2016",
+  "cites": 0,
+  "year": 2016,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Signatures of Majorana Fermions in Magnetic Atom Chains on a Superconductor",
+  "venue": "한국자기학회 학술연구발표회 논문개요집, 11-11, 2015",
+  "cites": 0,
+  "year": 2015,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Projective construction of the  Read-Rezayi fractional quantum Hall states and their excitations on the torus geometry",
+  "venue": "arXiv preprint arXiv:1504.00367, 2015",
+  "cites": 0,
+  "year": 2015,
+  "arxiv": "1504.00367",
+  "review": false
+ },
+ {
+  "title": "Observation of giant supercurrent states in a superconductor-InAs/GaSb-superconductor junction",
+  "venue": "APS March Meeting Abstracts 2015, L10. 010, 2015",
+  "cites": 0,
+  "year": 2015,
+  "arxiv": "1410.7342",
+  "review": false
+ },
+ {
+  "title": "Exotic surface Dirac fermions in Cerium-based compounds",
+  "venue": "APS March Meeting Abstracts 2015, Y12. 014, 2015",
+  "cites": 0,
+  "year": 2015,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Exploring signatures of Majorana fermions in Fe chains on Pb using a dilution refrigerator scanning tunneling microscope",
+  "venue": "APS March Meeting Abstracts 2015, B7. 013, 2015",
+  "cites": 0,
+  "year": 2015,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Topological Superconductivity in Ferromagnetic Metal Chains: Part I",
+  "venue": "APS March Meeting Abstracts 2015, A9. 009, 2015",
+  "cites": 0,
+  "year": 2015,
+  "arxiv": "1410.3453",
+  "review": false
+ },
+ {
+  "title": "Modular Anomalies in the Topological Classification of 2+ 1D and 3+ 1D Edge Theories",
+  "venue": "APS March Meeting Abstracts 2015, Z10. 005, 2015",
+  "cites": 0,
+  "year": 2015,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Entanglement and dispersion of single-mode excitations in fractional quantum Hall effect",
+  "venue": "APS March Meeting Abstracts 2015, F5. 001, 2015",
+  "cites": 0,
+  "year": 2015,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Chiral p-wave superconductivity in 2D lattices of magnetic atoms on a superconductor",
+  "venue": "APS March Meeting Abstracts 2014, W52. 005, 2014",
+  "cites": 0,
+  "year": 2014,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Matrix Product States for Non-Abelian Quasiholes",
+  "venue": "APS March Meeting Abstracts 2014, D45. 014, 2014",
+  "cites": 0,
+  "year": 2014,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Crystalline Topological Insulators and Semimetals with Cnv Symmetry",
+  "venue": "APS March Meeting Abstracts 2014, G43. 002, 2014",
+  "cites": 0,
+  "year": 2014,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Matrix Product States for Chiral Topological Phases",
+  "venue": "APS March Meeting Abstracts 2014, Q36. 001, 2014",
+  "cites": 0,
+  "year": 2014,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Quantum anomalous Hall effect and novel topological superconductivity realized in thin-film SnTe",
+  "venue": "APS March Meeting Abstracts 2014, F43. 010, 2014",
+  "cites": 0,
+  "year": 2014,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Spinless Topological Insulators without Time-Reversal Symmetry",
+  "venue": "arXiv preprint arXiv:1402.6323, 2014",
+  "cites": 0,
+  "year": 2014,
+  "arxiv": "1402.6323",
+  "review": false
+ },
+ {
+  "title": "fractional topological insulators in two dimensions",
+  "venue": "arXiv preprint arXiv:1402.2652, 2014",
+  "cites": 0,
+  "year": 2014,
+  "arxiv": "1402.2652",
+  "review": false
+ },
+ {
+  "title": "One-dimensional topological edge states of bismuth bilayers",
+  "venue": "",
+  "cites": 0,
+  "year": 2014,
+  "arxiv": "1404.2598",
+  "review": false
+ },
+ {
+  "title": "Fractional Chern Insulators beyond Laughlin states",
+  "venue": "APS March Meeting Abstracts 2013, R23. 008, 2013",
+  "cites": 0,
+  "year": 2013,
+  "arxiv": "1206.2626",
+  "review": false
+ },
+ {
+  "title": "Benchmarking MPS for fractional quantum Hall states",
+  "venue": "APS March Meeting Abstracts 2013, N23. 011, 2013",
+  "cites": 0,
+  "year": 2013,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Wilson-loop Classification of Inversion-Symmetric Topological Insulators and the Z2 Crystalline Topological Insulator",
+  "venue": "APS March Meeting Abstracts 2013, F13. 015, 2013",
+  "cites": 0,
+  "year": 2013,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Matrix Product States and Fractional Quantum Hall",
+  "venue": "APS March Meeting Abstracts 2013, N23. 010, 2013",
+  "cites": 0,
+  "year": 2013,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Theory of quasiparticle interference in mirror symmetric 2D systems and its application to surface states of topological crystalline insulators",
+  "venue": "arXiv preprint arXiv:1212.3285, 2012",
+  "cites": 0,
+  "year": 2012,
+  "arxiv": "1212.3285",
+  "review": false
+ },
+ {
+  "title": "Publisher's Note: Signature of phase transitions in the disordered quantum spin Hall state from the entanglement spectrum [Phys. Rev. B 86, 041401(R) (2012)]",
+  "venue": "Physical Review B—Condensed Matter and Materials Physics 86 (3), 039907, 2012",
+  "cites": 0,
+  "year": 2012,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Rank Saturation in finite size Entanglement Spectrum for Quantum Hall states",
+  "venue": "APS March Meeting Abstracts 2012, V24. 010, 2012",
+  "cites": 0,
+  "year": 2012,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Strong Versus Weak Coupling Pairing in Iron-Based Superconductors",
+  "venue": "APS March Meeting Abstracts 2012, X22. 001, 2012",
+  "cites": 0,
+  "year": 2012,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Entanglement Spectrum In Topological Phasess",
+  "venue": "APS March Meeting Abstracts 2012, W30. 014, 2012",
+  "cites": 0,
+  "year": 2012,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Surface physics, nanoscale physics, low-dimensional systems-Signature of phase transitions in the disordered quantum spin Hall state from the entanglement spectrum (5 pages …",
+  "venue": "Physical Review-Section B-Condensed Matter 86 (4), 2012",
+  "cites": 0,
+  "year": 2012,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Emergent many-body translational symmetries of Abelian and non-Abelian fractionally filled topological insulators (25 pages) 075128",
+  "venue": "Physical Review-Section B-Condensed Matter 85 (7), 2012",
+  "cites": 0,
+  "year": 2012,
+  "arxiv": "1110.4488",
+  "review": false
+ },
+ {
+  "title": "Double-Weyl Topological Metals Stabilized by Point Group Symmetry",
+  "venue": "arXiv preprint arXiv:1111.7309, 2011",
+  "cites": 0,
+  "year": 2011,
+  "arxiv": "1111.7309",
+  "review": false
+ },
+ {
+  "title": "Robustness of s-wave Pairing in Electron-Overdoped",
+  "venue": "arXiv preprint arXiv:1105.1135, 2011",
+  "cites": 0,
+  "year": 2011,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Entanglement Hamiltonians for quantum spin chains",
+  "venue": "APS March Meeting 2011 PostDeadline, 2011",
+  "cites": 0,
+  "year": 2011,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Spin-full quantum Hall states: squeezing techniques",
+  "venue": "Bulletin of the American Physical Society 56, 2011",
+  "cites": 0,
+  "year": 2011,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Theory of Inversion Symmetric Topological Insulators",
+  "venue": "Bulletin of the American Physical Society 56, 2011",
+  "cites": 0,
+  "year": 2011,
+  "arxiv": "1010.4508",
+  "review": false
+ },
+ {
+  "title": "Dirac cone in iron-based high Tc superconductors",
+  "venue": "arXiv preprint arXiv:1103.2946, 2011",
+  "cites": 0,
+  "year": 2011,
+  "arxiv": "1103.2946",
+  "review": false
+ },
+ {
+  "title": "Entanglement Spectrum In Condensed Matter",
+  "venue": "APS March Meeting Abstracts 2011, L29. 013, 2011",
+  "cites": 0,
+  "year": 2011,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "The entanglement gap and a new principle of adiabatic continuity",
+  "venue": "APS March Meeting Abstracts 2010, Z9. 012, 2010",
+  "cites": 0,
+  "year": 2010,
+  "arxiv": "0912.0523",
+  "review": false
+ },
+ {
+  "title": "Nodeless and Nodal Gaps in Iron-Based Superconductors",
+  "venue": "APS March Meeting Abstracts 2010, Q39. 002, 2010",
+  "cites": 0,
+  "year": 2010,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Orbitronics: the Intrinsic Orbital Hall Effect in p-Doped Silicon",
+  "venue": "Submitted to Physical Review Letters, 2010",
+  "cites": 0,
+  "year": 2010,
+  "arxiv": "cond-mat/0502345",
+  "review": false
+ },
+ {
+  "title": "Novel properties in Josephson junctions involving sx^2 y^2-pairing state in Iron-Pnictides",
+  "venue": "APS March Meeting Abstracts, H33. 009, 2009",
+  "cites": 0,
+  "year": 2009,
+  "arxiv": "0812.0661",
+  "review": false
+ },
+ {
+  "title": "Jack Polynomials, W-algebras and application to Fractional Quantum Hall Effect",
+  "venue": "APS March Meeting Abstracts, X23. 005, 2009",
+  "cites": 0,
+  "year": 2009,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Pairing Symmetry in a Two-Orbital Exchange Coupling Model of Oxypnictides",
+  "venue": "APS March Meeting Abstracts, V35. 008, 2009",
+  "cites": 0,
+  "year": 2009,
+  "arxiv": "0805.2958",
+  "review": false
+ },
+ {
+  "title": "Phase fluctuations in a magnetic exchange model of iron-based superconductors",
+  "venue": "APS March Meeting Abstracts, V35. 006, 2009",
+  "cites": 0,
+  "year": 2009,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "NMR relaxation rate in the FeAs superconductors",
+  "venue": "APS March Meeting Abstracts, Q35. 007, 2009",
+  "cites": 0,
+  "year": 2009,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Theory for the Magnetic Ordering in Fe1+yTe1-xSex",
+  "venue": "APS March Meeting Abstracts, H35. 014, 2009",
+  "cites": 0,
+  "year": 2009,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Quasiparticle scattering interference in superconducting Oxypnictides",
+  "venue": "APS March Meeting Abstracts, B34. 011, 2009",
+  "cites": 0,
+  "year": 2009,
+  "arxiv": "0903.1694",
+  "review": false
+ },
+ {
+  "title": "Global phase diagram and the spin structure in the Fe-based superconductors",
+  "venue": "APS March Meeting Abstracts, H35. 015, 2009",
+  "cites": 0,
+  "year": 2009,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Experimental Consequences of the S-wave  Superconductivity in the Iron-Pnictides",
+  "venue": "arXiv preprint arXiv:0807.4572, 2008",
+  "cites": 0,
+  "year": 2008,
+  "arxiv": "0807.4572",
+  "review": false
+ },
+ {
+  "title": "Properties of Non-Abelian Fractional Quantum Hall States at Filling",
+  "venue": "arXiv preprint arXiv:0803.2882, 2008",
+  "cites": 0,
+  "year": 2008,
+  "arxiv": "0803.2882",
+  "review": false
+ },
+ {
+  "title": "Model Wavefunctions For Non-Abelian Quasiparticles",
+  "venue": "2008 APS March Meeting PostDeadline, 2008",
+  "cites": 0,
+  "year": 2008,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Jack Polynomials, Exclusion Statistics, and non-Abelian FQHE states at ν= k/km+ r",
+  "venue": "Bulletin of the American Physical Society 53, 2008",
+  "cites": 0,
+  "year": 2008,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Model Wavefunctions For Non-Abelian Quasiparticles",
+  "venue": "APS March Meeting Abstracts, B37. 010, 2008",
+  "cites": 0,
+  "year": 2008,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Persistent Spin Helix",
+  "venue": "APS March Meeting Abstracts, A12. 002, 2007",
+  "cites": 0,
+  "year": 2007,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Search for the Persistent Spin Helix in a 2-Dimensional Electron Gas",
+  "venue": "APS March Meeting Abstracts, A12. 010, 2007",
+  "cites": 0,
+  "year": 2007,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "An Exact SU (2) Symmetry and Persistent Spin Helix ina Spin-orbit Coupled System",
+  "venue": "Physical Review Lettters, 2007",
+  "cites": 0,
+  "year": 2007,
+  "arxiv": "cond-mat/0606196",
+  "review": false
+ },
+ {
+  "title": "Topological Dirac Band Insulators in Three Dimensions and Novel Transport Laws",
+  "venue": "arXiv preprint cond-mat/0611766, 2006",
+  "cites": 0,
+  "year": 2006,
+  "arxiv": "cond-mat/0611766",
+  "review": false
+ },
+ {
+  "title": "Band Collapse as Route to Odd-Integer Quantum Hall Effect In Graphene",
+  "venue": "APS March Meeting Abstracts, G46. 004, 2006",
+  "cites": 0,
+  "year": 2006,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Spintronics, propagating mode,(quantum) spin transport, and new electron liquids",
+  "venue": "APS March Meeting Abstracts, W3. 004, 2006",
+  "cites": 0,
+  "year": 2006,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Comment on\" Spinon attraction in spin-1/2 antiferromagnetic chains\"-Reply",
+  "venue": "PHYSICAL REVIEW LETTERS 96 (5), 2006",
+  "cites": 0,
+  "year": 2006,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Transport Equations and Spin-Charge Propagating Mode in the Two Dimensional Hole Gas",
+  "venue": "arXiv preprint cond-mat/0601353, 2006",
+  "cites": 0,
+  "year": 2006,
+  "arxiv": "cond-mat/0601353",
+  "review": false
+ },
+ {
+  "title": "A Reply to the Comment by Martin Greiter and Dirk Schuricht",
+  "venue": "PHYSICAL REVIEW LETTERS 96, 059702-059702, 2006",
+  "cites": 0,
+  "year": 2006,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "A new spin on electron liquids: Phenomena in systems with spin-orbit coupling",
+  "venue": "Ph. D. Thesis, 2006",
+  "cites": 0,
+  "year": 2006,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Semiconductors II: Surfaces, interfaces, microstructures, and related topics-Transport equations and spin-charge propagating mode in a strongly confined two-dimensional hole gas (4",
+  "venue": "Physical Review-Section B-Condensed Matter 74 (19), 193316-193316, 2006",
+  "cites": 0,
+  "year": 2006,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Reply to the comment to Phy. Rev. Lett. 86, 3392 (2001)(cond-mat/0511607)",
+  "venue": "arXiv preprint cond-mat/0601003, 2005",
+  "cites": 0,
+  "year": 2005,
+  "arxiv": "cond-mat/0601003",
+  "review": false
+ },
+ {
+  "title": "On attraction between particles with fractionalized quantum numbers in one-dimensional devices",
+  "venue": "arXiv preprint cond-mat/0410147, 2004",
+  "cites": 0,
+  "year": 2004,
+  "arxiv": "cond-mat/0410147",
+  "review": false
+ },
+ {
+  "title": "On the Nature of Spin Currents",
+  "venue": "arXiv preprint cond-mat/0406153, 2004",
+  "cites": 0,
+  "year": 2004,
+  "arxiv": "cond-mat/0406153",
+  "review": false
+ },
+ {
+  "title": "Eight Dimensional Quantum Hall Effect",
+  "venue": "APS March Meeting Abstracts 2004, Y38. 002, 2004",
+  "cites": 0,
+  "year": 2004,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Spinons and Holons in One Dimension",
+  "venue": "APS March Meeting Abstracts 2004, J25. 012, 2004",
+  "cites": 0,
+  "year": 2004,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Fractionalization at a Critical Point",
+  "venue": "Bulletin of the American Physical Society 49 (1), 2004",
+  "cites": 0,
+  "year": 2004,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Topological Spin Current in Anisotropic p-Doped Semiconductors",
+  "venue": "APS March Meeting Abstracts 2004, V26. 012, 2004",
+  "cites": 0,
+  "year": 2004,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Semiconductors II: Surfaces, interfaces, microstructures, and related topics-Dissipationless spin current in anisotropic p-doped semiconductors",
+  "venue": "Physical Review-Section B-Condensed Matter 70 (11), 113301-113301, 2004",
+  "cites": 0,
+  "year": 2004,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Nearly Insulating Strongly Correlated Systems: Gossamer Superconductors and Metals",
+  "venue": "arXiv preprint cond-mat/0312573, 2003",
+  "cites": 0,
+  "year": 2003,
+  "arxiv": "cond-mat/0312573",
+  "review": false
+ },
+ {
+  "title": "Higher dimensional generalization of Fractional statistics",
+  "venue": "APS March Meeting Abstracts 2003, D14. 009, 2003",
+  "cites": 0,
+  "year": 2003,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Interaction among particles with fractionalized quantum numbers in one dimensional samples",
+  "venue": "arXiv preprint cond-mat/0301593, 2003",
+  "cites": 0,
+  "year": 2003,
+  "arxiv": "cond-mat/0301593",
+  "review": false
+ },
+ {
+  "title": "Interaction Between Particles with Fractionalized Quan-tum Numbers",
+  "venue": "Proceedings TH2002 Supplement 73, 84, 2003",
+  "cites": 0,
+  "year": 2003,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Alamoudi, SM",
+  "venue": "Annals of Physics 300, 209, 2002",
+  "cites": 0,
+  "year": 2002,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Electronic structure: Wide-band, narrow-band, and strongly correlated systems-Coordinate representation of the one-spinon one-holon wave function and spinon-holon interaction",
+  "venue": "Physical Review-Section B-Condensed Matter 65 (19), 195112-195315, 2002",
+  "cites": 0,
+  "year": 2002,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Cumulative Author–Title Index1 for Volumes 287–302 2001–2002",
+  "venue": "Annals of Physics 302, 231-236, 2002",
+  "cites": 0,
+  "year": 2002,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Spinon Interaction in Half-Integral Spin Chains",
+  "venue": "APS March Meeting Abstracts, V31. 007, 2001",
+  "cites": 0,
+  "year": 2001,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Coordinate Representation of the Two-Spinon wavefunction and Spinon Interaction",
+  "venue": "arXiv preprint cond-mat/0011270, 2000",
+  "cites": 0,
+  "year": 2000,
+  "arxiv": "cond-mat/0011270",
+  "review": false
+ },
+ {
+  "title": "Hall Transition in an Anyon Gas: Non-zero Temperature",
+  "venue": "Stanford University, 2000",
+  "cites": 0,
+  "year": 2000,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "List of Conference Participants",
+  "venue": "",
+  "cites": 0,
+  "year": 0,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Exact Eigenstates in Non-Integrable Systems: A violation of ETH",
+  "venue": "",
+  "cites": 0,
+  "year": 0,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "REVIEW COPY NOT FOR DISTRIBUTION",
+  "venue": "Phys Rev Lett 106, 187003, 0",
+  "cites": 0,
+  "year": 0,
+  "arxiv": "",
+  "review": true
+ },
+ {
+  "title": "Topological Superconductivity in Ferromagnetic Metal Chains",
+  "venue": "",
+  "cites": 0,
+  "year": 0,
+  "arxiv": "1410.3453",
+  "review": false
+ },
+ {
+  "title": "Fractional Topological Ordered Phases",
+  "venue": "",
+  "cites": 0,
+  "year": 0,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Magnetism and Pairing Symmetry in the Iron-based Superconductors",
+  "venue": "",
+  "cites": 0,
+  "year": 0,
+  "arxiv": "",
+  "review": false
+ },
+ {
+  "title": "Symmetry-Based Modeling of Topological Crystalline Devices",
+  "venue": "",
+  "cites": 0,
+  "year": 0,
+  "arxiv": "",
+  "review": false
+ }
+]

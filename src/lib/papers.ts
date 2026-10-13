@@ -1,5 +1,6 @@
 // Helpers for the arXiv-derived publication list (src/data/publications.json).
 import all from "../data/publications.json";
+import scholar from "../data/scholar.json";
 import { overrides } from "../data/overrides";
 
 export interface Paper {
@@ -9,8 +10,8 @@ export interface Paper {
   date: string;
   journal: string;
   doi: string;
-  cites?: number; // OpenAlex citation count, used only for ranking
-  review?: boolean; // review article, left out of the most-cited list
+  cites?: number; // OpenAlex citation count
+  review?: boolean; // review article, never shown among the selected publications
 }
 
 // A curated reference: an arXiv id, with optional fixes for messy arXiv metadata.
@@ -24,13 +25,14 @@ export interface PaperRef {
 export const papers = (all as Paper[]).map((p) => ({ ...p, ...overrides[p.id] }));
 const byId = new Map(papers.map((p) => [p.id, p]));
 
-// The n most cited research papers (reviews excluded) posted to arXiv in the last `years` years.
-export function mostCitedRecent(n = 10, years = 5): Paper[] {
-  const since = String(new Date().getFullYear() - years);
-  return papers
-    .filter((p) => p.date.slice(0, 4) >= since && !p.review)
-    .sort((a, b) => (b.cites ?? 0) - (a.cites ?? 0))
-    .slice(0, n);
+// Selected publications: the n research papers (no reviews) of the last `years` years that are
+// most cited on Google Scholar (src/data/scholar.json, refreshed by scripts/fetch_scholar.py).
+export function selectedPapers(n = 10, years = 5): Paper[] {
+  const since = new Date().getFullYear() - years;
+  return (scholar as { year: number; review: boolean; arxiv: string }[])
+    .filter((w) => w.year >= since && !w.review && byId.has(w.arxiv))
+    .slice(0, n)
+    .map((w) => byId.get(w.arxiv)!);
 }
 
 // "B. Andrei Bernevig" -> "B. A. Bernevig", "Zhi-Da Song" -> "Z.-D. Song"
@@ -84,14 +86,4 @@ export function resolve(ref: PaperRef): Paper & { url: string } {
     doi,
     url: doi ? `https://doi.org/${doi}` : `https://arxiv.org/abs/${p.id}`,
   };
-}
-
-export function byYear(list: Paper[]): [string, Paper[]][] {
-  const groups = new Map<string, Paper[]>();
-  for (const p of list) {
-    const y = p.date.slice(0, 4);
-    if (!groups.has(y)) groups.set(y, []);
-    groups.get(y)!.push(p);
-  }
-  return [...groups.entries()];
 }

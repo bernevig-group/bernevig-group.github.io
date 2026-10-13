@@ -1,7 +1,6 @@
 ---
 import "../styles/global.css";
 import { site, affiliations, nav } from "../data/site";
-import { papers } from "../lib/papers";
 import { u } from "../lib/url";
 
 interface Props {
@@ -12,7 +11,6 @@ const { title, description = "The Bernevig group studies topological and strongl
 const pageTitle = title ? `${title} | ${site.name}` : `${site.name} | ${site.tagline}`;
 const here = Astro.url.pathname.replace(/\/$/, "") || "/";
 const isCurrent = (href: string) => (u(href).replace(/\/$/, "") || "/") === here;
-const latest = papers[0]?.date;
 ---
 <!doctype html>
 <html lang="en">
@@ -70,9 +68,7 @@ const latest = papers[0]?.date;
             {site.phone}
           </div>
         </div>
-        <div class="small">
-          © {new Date().getFullYear()} {site.name}. The publication list is updated automatically from arXiv{latest ? ` (latest entry ${latest})` : ""}.
-        </div>
+        <div class="small">© {new Date().getFullYear()} {site.name}</div>
       </div>
     </footer>
   </body>
