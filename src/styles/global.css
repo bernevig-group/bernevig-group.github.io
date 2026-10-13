@@ -121,8 +121,15 @@ ul.refs { list-style: none; padding-left: 0; }
 .pi { display: grid; grid-template-columns: 200px 1fr; gap: 30px; align-items: start; }
 .pi.nophoto { grid-template-columns: 1fr; }
 .pi .role { color: var(--muted); margin-top: -0.4em; }
-.grid-people { display: grid; grid-template-columns: repeat(4, 1fr); gap: 24px; }
+.grid-people { display: grid; grid-template-columns: repeat(6, 1fr); gap: 22px 18px; }
+.person .n { font-size: 0.95rem; }
 .person img { aspect-ratio: 1; object-fit: cover; width: 100%; border: 1px solid var(--rule); }
+.ph {
+  aspect-ratio: 1; width: 100%; border: 1px solid var(--rule); background: var(--wash);
+  display: flex; align-items: center; justify-content: center;
+  font-family: var(--serif); font-size: 1.6rem; color: #a39d92; letter-spacing: 0.04em;
+}
+.ph-pi { aspect-ratio: 4 / 5; font-size: 2.6rem; }
 .person .n { font-weight: 600; margin-top: 0.4em; }
 .person .r { color: var(--muted); font-size: 0.9rem; }
 table.alumni { border-collapse: collapse; width: 100%; font-size: 0.95rem; }
@@ -157,7 +164,8 @@ address { font-style: normal; line-height: 1.5; }
 @media (max-width: 900px) {
   .area { grid-template-columns: 1fr; gap: 18px; }
   .area figure { max-width: 460px; }
-  .grid-people, .videos { grid-template-columns: repeat(2, 1fr); }
+  .videos { grid-template-columns: repeat(2, 1fr); }
+  .grid-people { grid-template-columns: repeat(3, 1fr); }
   .cards { grid-template-columns: repeat(2, 1fr); }
 }
 @media (max-width: 680px) {

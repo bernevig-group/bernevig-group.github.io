@@ -5,12 +5,19 @@ import { site } from "../data/site";
 import { u } from "../lib/url";
 
 const groups = Object.entries(members).filter(([, list]) => list.length > 0);
+// Until a photo is added, show a plain frame with the person's initials.
+const initials = (name: string) => {
+  const words = name.split(/\s+/).filter((w) => !/^[A-Z]\.$/.test(w)); // skip lone initials like "B."
+  return words[0][0] + (words.length > 1 ? words[words.length - 1][0] : "");
+};
 ---
 <Base title="People">
   <h1>People</h1>
 
-  <div class={pi.photo ? "pi" : "pi nophoto"}>
-    {pi.photo && <img src={u(pi.photo)} alt={pi.name} width="200" height="250" />}
+  <div class="pi">
+    {pi.photo
+      ? <img src={u(pi.photo)} alt={pi.name} width="200" height="250" />
+      : <div class="ph ph-pi" aria-hidden="true">{initials(pi.name)}</div>}
     <div>
       <h2 style="margin-top:0">{pi.name}</h2>
       <p class="role">{pi.title}</p>
@@ -27,9 +34,11 @@ const groups = Object.entries(members).filter(([, list]) => list.length > 0);
       <div class="grid-people">
         {list.map((m) => (
           <div class="person">
-            {m.photo && <img src={u(m.photo)} alt={m.name} loading="lazy" />}
+            {m.photo
+              ? <img src={u(m.photo)} alt={m.name} loading="lazy" />
+              : <div class="ph" aria-hidden="true">{initials(m.name)}</div>}
             <div class="n">{m.url ? <a href={m.url}>{m.name}</a> : m.name}</div>
-            <div class="r">{m.role}</div>
+            {m.role && <div class="r">{m.role}</div>}
             {m.note && <div class="r">{m.note}</div>}
           </div>
         ))}

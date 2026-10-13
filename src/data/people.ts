@@ -1,5 +1,6 @@
 // People page. To add someone, copy a line and edit it. Photos go in public/people/
-// (e.g. photo: "people/jane-doe.jpg"); entries without a photo show the name only.
+// (e.g. photo: "people/jane-doe.jpg", square crop); entries without a photo show their initials.
+// Add a role (e.g. "Postdoc", "Graduate student") to show it under the name.
 
 export interface Member {
   name: string;
@@ -19,11 +20,27 @@ export const pi = {
   ],
 };
 
-// Current members, grouped by the heading they appear under.
+// Current members, grouped by the heading they appear under (alphabetical by surname).
+// Roles and photos to be collected from each member.
 export const members: Record<string, Member[]> = {
-  "Postdoctoral researchers": [],
-  "Graduate students": [],
-  "Undergraduate researchers": [],
+  "Group members": [
+    { name: "Awwab A. Azam", role: "" },
+    { name: "Handong Chen", role: "" },
+    { name: "Zenan Dai", role: "" },
+    { name: "Eli Gerber", role: "" },
+    { name: "Yi Jiang", role: "" },
+    { name: "Abhishek Karna", role: "" },
+    { name: "Heqiu Li", role: "" },
+    { name: "Ming-Rui Li", role: "" },
+    { name: "Shuo Liu", role: "" },
+    { name: "Juan Felipe Mendez", role: "" },
+    { name: "Hanqi Pi", role: "" },
+    { name: "Levi Rauchwerger", role: "" },
+    { name: "Yuelin Shao", role: "" },
+    { name: "Hao Shi", role: "" },
+    { name: "Yijie Wang", role: "" },
+    { name: "Ruihan Zhang", role: "" },
+  ],
 };
 
 export const collaborators: Member[] = [

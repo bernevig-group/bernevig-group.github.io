@@ -9,6 +9,7 @@ export interface Area {
   caption: string;
   text: string[];
   papers: PaperRef[];
+  papersNote?: string; // shown instead of the paper list when there are no papers yet
 }
 
 export const areas: Area[] = [
@@ -98,8 +99,9 @@ export const areas: Area[] = [
     figure: "figures/crystal_graph.png",
     caption: "A layered crystal drawn as a graph of atoms and bonds, the input format for graph neural networks.",
     text: [
-      "We train machine-learning models on first-principles calculations and experimental databases to predict properties of crystals, such as superconducting transition temperatures and magnetic order. The goal is to narrow the search for new quantum materials before costly calculations or synthesis.",
+      "We train machine-learning models on first-principles calculations and experimental databases to predict properties of crystals. Some models predict electronic and phonon densities of states and the electron-phonon coupling, and together they estimate a superconducting transition temperature from the crystal structure alone. Others classify magnetic order and predict Curie and Néel temperatures, recognize compounds that form with chemical disorder, or estimate melting points to guide synthesis. We also build generative models that propose new crystal structures. The goal is to narrow the search for new quantum materials before costly calculations or synthesis.",
     ],
     papers: [],
+    papersNote: "Publications coming soon.",
   },
 ];
