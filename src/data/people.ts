@@ -57,7 +57,7 @@ export const members: Record<string, Member[]> = {
   ],
   "Graduate students": [
     { name: "Zenan Dai", affiliation: "Princeton", tagline: "Quantum geometry, phonons, quantum Monte Carlo methods" },
-    { name: "Abhishek Karna", affiliation: "Princeton", scholar: "https://scholar.google.com/citations?user=fF3vhcEAAAAJ",
+    { name: "Abhishek Karna", affiliation: "Princeton", photo: "people/abhishek-karna.jpg", scholar: "https://scholar.google.com/citations?user=fF3vhcEAAAAJ",
       linkedin: "https://www.linkedin.com/in/abhishekkarna/", website: "https://karna-abhishek.github.io" },
     { name: "Levi Rauchwerger", affiliation: "Princeton", tagline: "Graph neural networks, machine learning theory",
       scholar: "https://scholar.google.com/citations?user=yxCJK3sAAAAJ",
