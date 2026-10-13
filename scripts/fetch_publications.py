@@ -1,7 +1,7 @@
 """Pull every arXiv paper with Bernevig as an author into src/data/publications.json.
 
-Each paper also gets an OpenAlex citation count ("cites"), used only to pick the
-selected papers of each year. The GitHub Action runs this weekly before building,
+Each paper also gets an OpenAlex citation count ("cites") and a review flag ("review"),
+used only to pick the most cited research papers shown at the top of the page. The GitHub Action runs this weekly before building,
 so the list never goes stale. If arXiv is unreachable the committed JSON is kept.
 
 Usage: python scripts/fetch_publications.py
@@ -48,6 +48,7 @@ def fetch_all():
                 "date": text(e, "a:published")[:10],
                 "journal": text(e, "arxiv:journal_ref"),
                 "doi": text(e, "arxiv:doi"),
+                "comment": text(e, "arxiv:comment") + " " + text(e, "a:summary"),  # dropped after the review check
             })
         if len(entries) < PAGE:
             return papers
@@ -62,12 +63,20 @@ def norm(title):
     return re.sub(r"[^a-z0-9]", "", title.lower())
 
 
+REVIEW_VENUE = re.compile(r"Nat(ure|\.)\s*Rev|Rev\.?\s*Mod\.?\s*Phys|Reviews of Modern Physics|Rep\.?\s*Prog\.?\s*Phys|"
+                          r"Reports on Progress|Annu(al|\.)\s*Rev|Phys(ics)?\.?\s*Rep(orts|\.)", re.I)
+REVIEW_TITLE = re.compile(r"\breview\b|\bperspective\b|progress and prospects", re.I)
+REVIEW_TEXT = re.compile(r"\b(this|our|a|pedagogical|comprehensive|short|brief) review\b|\breview (article|paper)\b|"
+                         r"\bwe review\b|\bthis perspective\b", re.I)  # arXiv comment + abstract
+
+
 def citation_counts():
-    """Citation counts from OpenAlex, keyed by DOI, arXiv id and normalized title."""
-    by_key, cursor = {}, "*"
+    """Citation counts from OpenAlex, keyed by DOI, arXiv id and normalized title.
+    Keys of works OpenAlex classifies as reviews are collected in a second set."""
+    by_key, reviews, cursor = {}, set(), "*"
     while cursor:
         q = urllib.parse.urlencode({"filter": f"author.id:{OPENALEX_AUTHOR}", "per-page": 200, "cursor": cursor,
-                                    "select": "doi,title,cited_by_count,locations"})
+                                    "select": "doi,title,cited_by_count,locations,type"})
         req = urllib.request.Request("https://api.openalex.org/works?" + q,
                                      headers={"User-Agent": "bernevig-group-site (mailto:bernevig@princeton.edu)"})
         with urllib.request.urlopen(req, timeout=60) as r:
@@ -84,20 +93,26 @@ def citation_counts():
             for k in keys:
                 if k:
                     by_key[k] = max(by_key.get(k, 0), n)
+                    if w.get("type") == "review":
+                        reviews.add(k)
         cursor = page["meta"].get("next_cursor")
-    return by_key
+    return by_key, reviews
 
 
 def add_citations(papers):
     try:
-        counts = citation_counts()
+        counts, reviews = citation_counts()
     except Exception as exc:
         print(f"OpenAlex fetch failed ({exc}); reusing old citation counts")
         old = json.loads(OUT.read_text(encoding="utf-8")) if OUT.exists() else []
         counts = {p["id"]: p.get("cites", 0) for p in old}
+        reviews = {p["id"] for p in old if p.get("review")}
     for p in papers:
-        p["cites"] = max(counts.get(p["id"], 0), counts.get(p["doi"].lower(), 0) if p["doi"] else 0,
-                         counts.get(norm(p["title"]), 0))
+        keys = [p["id"], norm(p["title"])] + ([p["doi"].lower()] if p["doi"] else [])
+        p["cites"] = max(counts.get(k, 0) for k in keys)
+        comment = p.pop("comment", "")
+        p["review"] = (any(k in reviews for k in keys) or bool(REVIEW_VENUE.search(p["journal"]))
+                       or bool(REVIEW_TITLE.search(p["title"])) or bool(REVIEW_TEXT.search(comment)))
 
 
 def main():

@@ -13,7 +13,8 @@
   "date": "2026-10-07",
   "journal": "",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "2610.08356",
@@ -40,7 +41,8 @@
   "date": "2026-10-06",
   "journal": "",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "2608.23675",
@@ -55,7 +57,8 @@
   "date": "2026-08-24",
   "journal": "",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "2608.20694",
@@ -70,7 +73,8 @@
   "date": "2026-08-21",
   "journal": "",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "2608.12553",
@@ -93,7 +97,8 @@
   "date": "2026-08-12",
   "journal": "",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "2608.12452",
@@ -108,7 +113,8 @@
   "date": "2026-08-12",
   "journal": "",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "2607.27492",
@@ -127,7 +133,8 @@
   "date": "2026-07-29",
   "journal": "",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "2607.27148",
@@ -151,7 +158,8 @@
   "date": "2026-07-29",
   "journal": "",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "2607.24944",
@@ -180,7 +188,8 @@
   "date": "2026-07-27",
   "journal": "",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "2607.19458",
@@ -206,7 +215,8 @@
   "date": "2026-07-21",
   "journal": "",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "2607.05754",
@@ -221,7 +231,8 @@
   "date": "2026-07-07",
   "journal": "",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "2606.12508",
@@ -237,7 +248,8 @@
   "date": "2026-06-10",
   "journal": "",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "2605.13984",
@@ -258,7 +270,8 @@
   "date": "2026-05-13",
   "journal": "",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "2604.14303",
@@ -276,7 +289,8 @@
   "date": "2026-04-15",
   "journal": "",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "2604.02426",
@@ -291,7 +305,8 @@
   "date": "2026-04-02",
   "journal": "",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "2603.05613",
@@ -318,7 +333,8 @@
   "date": "2026-03-05",
   "journal": "",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "2601.17272",
@@ -334,7 +350,8 @@
   "date": "2026-01-24",
   "journal": "",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "2512.16945",
@@ -356,7 +373,8 @@
   "date": "2025-12-16",
   "journal": "",
   "doi": "",
-  "cites": 1
+  "cites": 1,
+  "review": false
  },
  {
   "id": "2510.15309",
@@ -380,7 +398,8 @@
   "date": "2025-10-17",
   "journal": "",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "2510.12127",
@@ -399,7 +418,8 @@
   "date": "2025-10-14",
   "journal": "Phys. Rev. B 113, 125116 (2026)",
   "doi": "10.1103/rc4z-qw9q",
-  "cites": 3
+  "cites": 3,
+  "review": false
  },
  {
   "id": "2509.19436",
@@ -418,7 +438,8 @@
   "date": "2025-09-23",
   "journal": "",
   "doi": "10.1103/x2mz-hm8y",
-  "cites": 1
+  "cites": 1,
+  "review": false
  },
  {
   "id": "2509.18256",
@@ -437,7 +458,8 @@
   "date": "2025-09-22",
   "journal": "",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "2509.16312",
@@ -451,7 +473,8 @@
   "date": "2025-09-19",
   "journal": "",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "2509.03575",
@@ -465,7 +488,8 @@
   "date": "2025-09-03",
   "journal": "Phys. Rev. Lett. 136, 256505 (2026)",
   "doi": "10.1103/zdyq-3m9x",
-  "cites": 5
+  "cites": 5,
+  "review": false
  },
  {
   "id": "2508.10098",
@@ -488,7 +512,8 @@
   "date": "2025-08-13",
   "journal": "",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "2507.06168",
@@ -507,7 +532,8 @@
   "date": "2025-07-08",
   "journal": "",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "2507.03189",
@@ -540,7 +566,8 @@
   "date": "2025-07-03",
   "journal": "",
   "doi": "",
-  "cites": 4
+  "cites": 4,
+  "review": false
  },
  {
   "id": "2507.02047",
@@ -561,7 +588,8 @@
   "date": "2025-07-02",
   "journal": "",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "2506.05330",
@@ -579,7 +607,8 @@
   "date": "2025-06-05",
   "journal": "",
   "doi": "10.1103/gmkp-bxf2",
-  "cites": 2
+  "cites": 2,
+  "review": false
  },
  {
   "id": "2506.01485",
@@ -603,7 +632,8 @@
   "date": "2025-06-02",
   "journal": "",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "2505.18057",
@@ -621,7 +651,8 @@
   "date": "2025-05-23",
   "journal": "Crystals 2025, 15, 485",
   "doi": "10.3390/cryst15050485",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "2505.17200",
@@ -649,7 +680,8 @@
   "date": "2025-05-22",
   "journal": "",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "2505.09697",
@@ -666,7 +698,8 @@
   "date": "2025-05-14",
   "journal": "",
   "doi": "10.1038/s41467-026-74844-w",
-  "cites": 1
+  "cites": 1,
+  "review": false
  },
  {
   "id": "2504.20140",
@@ -679,7 +712,8 @@
   "date": "2025-04-28",
   "journal": "Phys. Rev. B 112, 075130 (2025)",
   "doi": "10.1103/zlqg-sj86",
-  "cites": 4
+  "cites": 4,
+  "review": false
  },
  {
   "id": "2503.20867",
@@ -706,7 +740,8 @@
   "date": "2025-03-26",
   "journal": "",
   "doi": "",
-  "cites": 1
+  "cites": 1,
+  "review": false
  },
  {
   "id": "2503.17875",
@@ -724,7 +759,8 @@
   "date": "2025-03-22",
   "journal": "",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "2503.10989",
@@ -750,7 +786,8 @@
   "date": "2025-03-14",
   "journal": "",
   "doi": "",
-  "cites": 1
+  "cites": 1,
+  "review": false
  },
  {
   "id": "2503.09692",
@@ -762,7 +799,8 @@
   "date": "2025-03-12",
   "journal": "",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "2502.14039",
@@ -775,7 +813,8 @@
   "date": "2025-02-19",
   "journal": "",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "2502.08700",
@@ -793,7 +832,8 @@
   "date": "2025-02-12",
   "journal": "Phys. Rev. B 112, 125129, 9/15/2025",
   "doi": "",
-  "cites": 9
+  "cites": 9,
+  "review": false
  },
  {
   "id": "2502.04221",
@@ -811,7 +851,8 @@
   "date": "2025-02-06",
   "journal": "Phys. Rev. B 112, 245128 (2025)",
   "doi": "10.1103/jg8x-l6h6",
-  "cites": 3
+  "cites": 3,
+  "review": false
  },
  {
   "id": "2501.09063",
@@ -831,7 +872,8 @@
   "date": "2025-01-15",
   "journal": "",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "2501.00100",
@@ -844,7 +886,8 @@
   "date": "2024-12-30",
   "journal": "Phys. Rev. Lett. 135, 086401 (2025)",
   "doi": "10.1103/mp2c-zzkt",
-  "cites": 9
+  "cites": 9,
+  "review": false
  },
  {
   "id": "2501.00098",
@@ -860,7 +903,8 @@
   "date": "2024-12-30",
   "journal": "",
   "doi": "",
-  "cites": 80
+  "cites": 80,
+  "review": true
  },
  {
   "id": "2411.18684",
@@ -882,7 +926,8 @@
   "date": "2024-11-27",
   "journal": "Nature 643, 376-381 (2025)",
   "doi": "10.1038/s41586-025-09187-5",
-  "cites": 14
+  "cites": 14,
+  "review": false
  },
  {
   "id": "2411.13898",
@@ -929,7 +974,8 @@
   "date": "2024-11-21",
   "journal": "",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "2411.13647",
@@ -947,7 +993,8 @@
   "date": "2024-11-20",
   "journal": "Phys. Rev. B 112, 195107 (2025)",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "2411.10931",
@@ -964,7 +1011,8 @@
   "date": "2024-11-17",
   "journal": "",
   "doi": "",
-  "cites": 2
+  "cites": 2,
+  "review": false
  },
  {
   "id": "2411.09741",
@@ -1007,7 +1055,8 @@
   "date": "2024-11-14",
   "journal": "Science 393, eadu1550 (2026)",
   "doi": "10.1126/science.adu1550",
-  "cites": 2
+  "cites": 2,
+  "review": false
  },
  {
   "id": "2411.08950",
@@ -1022,7 +1071,8 @@
   "date": "2024-11-13",
   "journal": "Science 393, 1317-1321 (2026)",
   "doi": "",
-  "cites": 3
+  "cites": 3,
+  "review": false
  },
  {
   "id": "2411.08108",
@@ -1043,7 +1093,8 @@
   "date": "2024-11-12",
   "journal": "",
   "doi": "",
-  "cites": 1
+  "cites": 1,
+  "review": false
  },
  {
   "id": "2409.13078",
@@ -1062,7 +1113,8 @@
   "date": "2024-09-17",
   "journal": "",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "2409.04917",
@@ -1074,7 +1126,8 @@
   "date": "2024-09-07",
   "journal": "Phys. Rev. B 111, L020502, 2025",
   "doi": "10.1103/PhysRevB.111.L020502",
-  "cites": 6
+  "cites": 6,
+  "review": false
  },
  {
   "id": "2409.04325",
@@ -1101,7 +1154,8 @@
   "date": "2024-09-06",
   "journal": "",
   "doi": "",
-  "cites": 1
+  "cites": 1,
+  "review": false
  },
  {
   "id": "2408.16851",
@@ -1119,7 +1173,8 @@
   "date": "2024-08-29",
   "journal": "",
   "doi": "",
-  "cites": 9
+  "cites": 9,
+  "review": false
  },
  {
   "id": "2408.04452",
@@ -1150,7 +1205,8 @@
   "date": "2024-08-08",
   "journal": "",
   "doi": "10.1038/s41467-025-58725-2",
-  "cites": 15
+  "cites": 15,
+  "review": false
  },
  {
   "id": "2408.01599",
@@ -1171,7 +1227,8 @@
   "date": "2024-08-02",
   "journal": "",
   "doi": "10.1038/s41567-025-02997-4",
-  "cites": 3
+  "cites": 3,
+  "review": false
  },
  {
   "id": "2407.13770",
@@ -1186,7 +1243,8 @@
   "date": "2024-07-18",
   "journal": "Phys. Rev. B 112, 075110 (2025)",
   "doi": "",
-  "cites": 1
+  "cites": 1,
+  "review": false
  },
  {
   "id": "2407.02560",
@@ -1205,7 +1263,8 @@
   "date": "2024-07-02",
   "journal": "",
   "doi": "",
-  "cites": 2
+  "cites": 2,
+  "review": false
  },
  {
   "id": "2406.09591",
@@ -1236,7 +1295,8 @@
   "date": "2024-06-13",
   "journal": "",
   "doi": "",
-  "cites": 60
+  "cites": 60,
+  "review": false
  },
  {
   "id": "2406.08114",
@@ -1265,7 +1325,8 @@
   "date": "2024-06-12",
   "journal": "",
   "doi": "",
-  "cites": 1
+  "cites": 1,
+  "review": false
  },
  {
   "id": "2406.03529",
@@ -1280,7 +1341,8 @@
   "date": "2024-06-05",
   "journal": "",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "2405.13880",
@@ -1298,7 +1360,8 @@
   "date": "2024-05-22",
   "journal": "Phys. Rev. B 112, 125128 (2025)",
   "doi": "",
-  "cites": 1
+  "cites": 1,
+  "review": false
  },
  {
   "id": "2404.07253",
@@ -1319,7 +1382,8 @@
   "date": "2024-04-10",
   "journal": "",
   "doi": "",
-  "cites": 2
+  "cites": 2,
+  "review": false
  },
  {
   "id": "2402.14057",
@@ -1335,7 +1399,8 @@
   "date": "2024-02-21",
   "journal": "",
   "doi": "",
-  "cites": 2
+  "cites": 2,
+  "review": false
  },
  {
   "id": "2402.12296",
@@ -1355,7 +1420,8 @@
   "date": "2024-02-19",
   "journal": "",
   "doi": "",
-  "cites": 3
+  "cites": 3,
+  "review": false
  },
  {
   "id": "2402.11749",
@@ -1375,7 +1441,8 @@
   "date": "2024-02-19",
   "journal": "",
   "doi": "",
-  "cites": 2
+  "cites": 2,
+  "review": false
  },
  {
   "id": "2401.04163",
@@ -1389,7 +1456,8 @@
   "date": "2024-01-08",
   "journal": "Phys. Rev. X 14, 041004 (2024)",
   "doi": "10.1103/PhysRevX.14.041004",
-  "cites": 23
+  "cites": 23,
+  "review": false
  },
  {
   "id": "2312.11617",
@@ -1405,7 +1473,8 @@
   "date": "2023-12-18",
   "journal": "Phys. Rev. B 112, 075109 (2025)",
   "doi": "10.1103/PhysRevB.112.075109",
-  "cites": 44
+  "cites": 44,
+  "review": false
  },
  {
   "id": "2312.10659",
@@ -1420,7 +1489,8 @@
   "date": "2023-12-17",
   "journal": "Nature Reviews Materials, Published 20 February 2024",
   "doi": "10.1038/s41578-023-00644-z",
-  "cites": 144
+  "cites": 144,
+  "review": true
  },
  {
   "id": "2311.12920",
@@ -1443,7 +1513,8 @@
   "date": "2023-11-21",
   "journal": "Phys. Rev. B 109, 205122 (2024)",
   "doi": "",
-  "cites": 49
+  "cites": 49,
+  "review": false
  },
  {
   "id": "2311.09290",
@@ -1461,7 +1532,8 @@
   "date": "2023-11-15",
   "journal": "Phys. Rev. B 111, 125163, Published 31 March, 2025",
   "doi": "10.1103/PhysRevB.111.125163",
-  "cites": 17
+  "cites": 17,
+  "review": false
  },
  {
   "id": "2311.04958",
@@ -1480,7 +1552,8 @@
   "date": "2023-11-08",
   "journal": "Phys. Rev. B 109, 205121 (2024)",
   "doi": "",
-  "cites": 94
+  "cites": 94,
+  "review": false
  },
  {
   "id": "2311.03735",
@@ -1507,7 +1580,8 @@
   "date": "2023-11-07",
   "journal": "Phys. Rev. X 14, 041057 (2024)",
   "doi": "10.1103/PhysRevX.14.041057",
-  "cites": 29
+  "cites": 29,
+  "review": false
  },
  {
   "id": "2309.14429",
@@ -1523,7 +1597,8 @@
   "date": "2023-09-25",
   "journal": "Phys. Rev. B 109, 045147 (2024)",
   "doi": "",
-  "cites": 2
+  "cites": 2,
+  "review": false
  },
  {
   "id": "2309.08529",
@@ -1544,7 +1619,8 @@
   "date": "2023-09-15",
   "journal": "Phys. Rev. X 14, 031045 --- Published 11 September 2024",
   "doi": "10.1103/PhysRevX.14.031045",
-  "cites": 50
+  "cites": 50,
+  "review": false
  },
  {
   "id": "2308.12055",
@@ -1562,7 +1638,8 @@
   "date": "2023-08-23",
   "journal": "Phys. Rev. B 110, 035151 (2024)",
   "doi": "10.1103/PhysRevB.110.035151",
-  "cites": 9
+  "cites": 9,
+  "review": false
  },
  {
   "id": "2308.05143",
@@ -1587,7 +1664,8 @@
   "date": "2023-08-09",
   "journal": "",
   "doi": "",
-  "cites": 26
+  "cites": 26,
+  "review": false
  },
  {
   "id": "2306.04683",
@@ -1603,7 +1681,8 @@
   "date": "2023-06-07",
   "journal": "Nat. Commun. 15(1), 3069 (2024)",
   "doi": "10.1038/s41467-024-47467-2",
-  "cites": 9
+  "cites": 9,
+  "review": false
  },
  {
   "id": "2306.03814",
@@ -1619,7 +1698,8 @@
   "date": "2023-06-06",
   "journal": "",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "2305.15469",
@@ -1638,7 +1718,8 @@
   "date": "2023-05-24",
   "journal": "Phys. Rev. B 111, 054113, 20 February, 2025",
   "doi": "10.1103/PhysRevB.111.054113",
-  "cites": 14
+  "cites": 14,
+  "review": false
  },
  {
   "id": "2305.08171",
@@ -1653,7 +1734,8 @@
   "date": "2023-05-14",
   "journal": "Nature Communications volume 15, 5257 (2024)",
   "doi": "10.1038/s41467-024-49531-3",
-  "cites": 11
+  "cites": 11,
+  "review": false
  },
  {
   "id": "2305.02340",
@@ -1669,7 +1751,8 @@
   "date": "2023-05-03",
   "journal": "Nat. Phys. (2024)",
   "doi": "10.1038/s41567-024-02486-0",
-  "cites": 63
+  "cites": 63,
+  "review": false
  },
  {
   "id": "2304.09907",
@@ -1688,7 +1771,8 @@
   "date": "2023-04-19",
   "journal": "",
   "doi": "10.1038/s41467-024-46717-7",
-  "cites": 15
+  "cites": 15,
+  "review": false
  },
  {
   "id": "2304.09173",
@@ -1717,7 +1801,8 @@
   "date": "2023-04-18",
   "journal": "Nat. Commun. 14, 6646 (2023)",
   "doi": "10.1038/s41467-023-42186-6",
-  "cites": 80
+  "cites": 80,
+  "review": false
  },
  {
   "id": "2303.15551",
@@ -1731,7 +1816,8 @@
   "date": "2023-03-27",
   "journal": "Phys. Rev. B 110, 045133, 2024",
   "doi": "10.1103/PhysRevB.110.045133",
-  "cites": 21
+  "cites": 21,
+  "review": false
  },
  {
   "id": "2303.14903",
@@ -1775,7 +1861,8 @@
   "date": "2023-03-27",
   "journal": "Nature 636, 342 (2024)",
   "doi": "10.1038/s41586-024-08227-w",
-  "cites": 72
+  "cites": 72,
+  "review": false
  },
  {
   "id": "2303.03429",
@@ -1791,7 +1878,8 @@
   "date": "2023-03-06",
   "journal": "Fiz. Nizk. Temp. 49, 703-719 (June 2023); Low Temp. Phys. 49, 640-654 (2023);",
   "doi": "10.1063/10.0019421",
-  "cites": 35
+  "cites": 35,
+  "review": false
  },
  {
   "id": "2303.00024",
@@ -1815,7 +1903,8 @@
   "date": "2023-02-28",
   "journal": "Nature 620, 525-532 (2023)",
   "doi": "10.1038/s41586-023-06226-x",
-  "cites": 141
+  "cites": 141,
+  "review": false
  },
  {
   "id": "2301.08821",
@@ -1833,7 +1922,8 @@
   "date": "2023-01-20",
   "journal": "Proc. Natl. Acad. Sci. U.S.A. 2023, 120 (8), 2218997120",
   "doi": "10.1073/pnas.2218997120",
-  "cites": 11
+  "cites": 11,
+  "review": false
  },
  {
   "id": "2301.04673",
@@ -1853,7 +1943,8 @@
   "date": "2023-01-11",
   "journal": "",
   "doi": "10.1103/PhysRevLett.131.166501",
-  "cites": 47
+  "cites": 47,
+  "review": false
  },
  {
   "id": "2301.04669",
@@ -1866,7 +1957,8 @@
   "date": "2023-01-11",
   "journal": "",
   "doi": "10.1103/PhysRevLett.131.026502",
-  "cites": 61
+  "cites": 61,
+  "review": false
  },
  {
   "id": "2301.04171",
@@ -1880,7 +1972,8 @@
   "date": "2023-01-10",
   "journal": "Phys. Rev. B 108, 035129 (2023)",
   "doi": "10.1103/PhysRevB.108.035129",
-  "cites": 38
+  "cites": 38,
+  "review": false
  },
  {
   "id": "2212.00030",
@@ -1893,7 +1986,8 @@
   "date": "2022-11-30",
   "journal": "Interacting topological quantum chemistry in 2D with many-body real space invariants. Nat Commun 15, 1171 (2024)",
   "doi": "10.1038/s41467-024-45395-9",
-  "cites": 25
+  "cites": 25,
+  "review": false
  },
  {
   "id": "2211.11776",
@@ -1911,7 +2005,8 @@
   "date": "2022-11-21",
   "journal": "Science 384, eadf8458 (2024)",
   "doi": "10.1126/science.adf8458",
-  "cites": 65
+  "cites": 65,
+  "review": false
  },
  {
   "id": "2210.08019",
@@ -1924,7 +2019,8 @@
   "date": "2022-10-14",
   "journal": "",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "2209.14322",
@@ -1939,7 +2035,8 @@
   "date": "2022-09-28",
   "journal": "Phys. Rev. B 107, 075156 (2023)",
   "doi": "10.1103/PhysRevB.107.075156",
-  "cites": 35
+  "cites": 35,
+  "review": false
  },
  {
   "id": "2209.10559",
@@ -1953,7 +2050,8 @@
   "date": "2022-09-21",
   "journal": "",
   "doi": "10.1103/PhysRevLett.130.236601",
-  "cites": 31
+  "cites": 31,
+  "review": false
  },
  {
   "id": "2209.02745",
@@ -1971,7 +2069,8 @@
   "date": "2022-09-06",
   "journal": "",
   "doi": "10.1103/PhysRevB.107.125145",
-  "cites": 17
+  "cites": 17,
+  "review": false
  },
  {
   "id": "2209.00007",
@@ -1986,7 +2085,8 @@
   "date": "2022-08-31",
   "journal": "",
   "doi": "",
-  "cites": 9
+  "cites": 9,
+  "review": false
  },
  {
   "id": "2207.10112",
@@ -2001,7 +2101,8 @@
   "date": "2022-07-20",
   "journal": "Nat. Commun. 13, 5791 (2022)",
   "doi": "10.1038/s41467-022-33471-x",
-  "cites": 40
+  "cites": 40,
+  "review": false
  },
  {
   "id": "2206.07717",
@@ -2014,7 +2115,8 @@
   "date": "2022-06-15",
   "journal": "Phys. Rev. B 106, 085140, 29 August 2022",
   "doi": "10.1103/PhysRevB.106.085140",
-  "cites": 25
+  "cites": 25,
+  "review": false
  },
  {
   "id": "2203.11133",
@@ -2029,7 +2131,8 @@
   "date": "2022-03-21",
   "journal": "",
   "doi": "10.1103/PhysRevB.106.014518",
-  "cites": 145
+  "cites": 145,
+  "review": false
  },
  {
   "id": "2203.02890",
@@ -2042,7 +2145,8 @@
   "date": "2022-03-06",
   "journal": "Nature 603, 41-51 (2022)",
   "doi": "10.1038/s41586-021-04105-x",
-  "cites": 480
+  "cites": 480,
+  "review": true
  },
  {
   "id": "2112.12776",
@@ -2055,7 +2159,8 @@
   "date": "2021-12-23",
   "journal": "Phys. Rev. B 105, 155135 (2022)",
   "doi": "10.1103/PhysRevB.105.155135",
-  "cites": 17
+  "cites": 17,
+  "review": false
  },
  {
   "id": "2111.11434",
@@ -2069,7 +2174,8 @@
   "date": "2021-11-22",
   "journal": "Phys. Rev. Lett. 129, 076401, 9 August 2022",
   "doi": "10.1103/PhysRevLett.129.076401",
-  "cites": 43
+  "cites": 43,
+  "review": false
  },
  {
   "id": "2111.11341",
@@ -2090,7 +2196,8 @@
   "date": "2021-11-22",
   "journal": "",
   "doi": "",
-  "cites": 44
+  "cites": 44,
+  "review": false
  },
  {
   "id": "2111.05865",
@@ -2102,7 +2209,8 @@
   "date": "2021-11-10",
   "journal": "Phys. Rev. Lett. 129, 047601 (2022)",
   "doi": "10.1103/PhysRevLett.129.047601",
-  "cites": 253
+  "cites": 253,
+  "review": false
  },
  {
   "id": "2111.02435",
@@ -2123,7 +2231,8 @@
   "date": "2021-11-03",
   "journal": "Adv. Mater. 34, 2201328, 2022",
   "doi": "10.1002/adma.202201328",
-  "cites": 60
+  "cites": 60,
+  "review": false
  },
  {
   "id": "2111.02433",
@@ -2143,7 +2252,8 @@
   "date": "2021-11-03",
   "journal": "",
   "doi": "",
-  "cites": 15
+  "cites": 15,
+  "review": false
  },
  {
   "id": "2111.00807",
@@ -2156,7 +2266,8 @@
   "date": "2021-11-01",
   "journal": "Nature Reviews Physics 4, 528 (2022)",
   "doi": "10.1038/s42254-022-00466-y",
-  "cites": 319
+  "cites": 319,
+  "review": true
  },
  {
   "id": "2110.15365",
@@ -2169,7 +2280,8 @@
   "date": "2021-10-28",
   "journal": "Phys. Rev. B 105, 035146 (2022)",
   "doi": "10.1103/PhysRevB.105.035146",
-  "cites": 38
+  "cites": 38,
+  "review": false
  },
  {
   "id": "2110.15300",
@@ -2188,7 +2300,8 @@
   "date": "2021-10-28",
   "journal": "Phys. Rev. Lett. 129, 117602, 8 September 2022",
   "doi": "10.1103/PhysRevLett.129.117602",
-  "cites": 46
+  "cites": 46,
+  "review": false
  },
  {
   "id": "2110.14663",
@@ -2203,7 +2316,8 @@
   "date": "2021-10-27",
   "journal": "Phys. Rev. Lett. 128, 087002 (2022)",
   "doi": "10.1103/PhysRevLett.128.087002",
-  "cites": 115
+  "cites": 115,
+  "review": false
  },
  {
   "id": "2109.00548",
@@ -2216,7 +2330,8 @@
   "date": "2021-09-01",
   "journal": "Rep. Prog. Phys. 85 086501 (2022)",
   "doi": "10.1088/1361-6633/ac73a0",
-  "cites": 432
+  "cites": 432,
+  "review": true
  },
  {
   "id": "2108.05373",
@@ -2230,7 +2345,8 @@
   "date": "2021-08-11",
   "journal": "",
   "doi": "",
-  "cites": 23
+  "cites": 23,
+  "review": false
  },
  {
   "id": "2108.02279",
@@ -2253,7 +2369,8 @@
   "date": "2021-08-04",
   "journal": "",
   "doi": "10.1038/s41567-022-01604-0",
-  "cites": 54
+  "cites": 54,
+  "review": false
  },
  {
   "id": "2107.13556",
@@ -2265,7 +2382,8 @@
   "date": "2021-07-28",
   "journal": "Phys. Rev. B 104, L201114 (2021)",
   "doi": "10.1103/PhysRevB.104.L201114",
-  "cites": 20
+  "cites": 20,
+  "review": false
  },
  {
   "id": "2107.00647",
@@ -2280,7 +2398,8 @@
   "date": "2021-07-01",
   "journal": "",
   "doi": "10.1103/PhysRevB.105.125115",
-  "cites": 25
+  "cites": 25,
+  "review": false
  },
  {
   "id": "2106.14905",
@@ -2295,7 +2414,8 @@
   "date": "2021-06-28",
   "journal": "Phys. Rev. B 104, 115167 (2021)",
   "doi": "10.1103/PhysRevB.104.115167",
-  "cites": 32
+  "cites": 32,
+  "review": false
  },
  {
   "id": "2106.10276",
@@ -2314,7 +2434,8 @@
   "date": "2021-06-17",
   "journal": "",
   "doi": "",
-  "cites": 47
+  "cites": 47,
+  "review": false
  },
  {
   "id": "2106.05287",
@@ -2338,7 +2459,8 @@
   "date": "2021-06-09",
   "journal": "Nature 603, 824-828 (2022)",
   "doi": "10.1038/s41586-022-04519-1",
-  "cites": 10
+  "cites": 10,
+  "review": false
  },
  {
   "id": "2106.05272",
@@ -2354,7 +2476,8 @@
   "date": "2021-06-09",
   "journal": "Nature Physics (2021)",
   "doi": "10.1038/s41567-021-01445-3",
-  "cites": 132
+  "cites": 132,
+  "review": false
  },
  {
   "id": "2106.00709",
@@ -2375,7 +2498,8 @@
   "date": "2021-06-01",
   "journal": "Nature Reviews Materials 7, 196 (2022)",
   "doi": "10.1038/s41578-021-00380-2",
-  "cites": 205
+  "cites": 205,
+  "review": true
  },
  {
   "id": "2105.09954",
@@ -2392,7 +2516,8 @@
   "date": "2021-05-20",
   "journal": "Science 376, 6595 (2022)",
   "doi": "10.1126/science.abg9094",
-  "cites": 204
+  "cites": 204,
+  "review": false
  },
  {
   "id": "2104.01145",
@@ -2405,7 +2530,8 @@
   "date": "2021-04-02",
   "journal": "",
   "doi": "10.1103/PhysRevLett.127.266402",
-  "cites": 75
+  "cites": 75,
+  "review": false
  },
  {
   "id": "2102.06201",
@@ -2421,7 +2547,8 @@
   "date": "2021-02-11",
   "journal": "Phys. Rev. B 103, 195411 (2021)",
   "doi": "10.1103/PhysRevB.103.195411",
-  "cites": 39
+  "cites": 39,
+  "review": false
  },
  {
   "id": "2102.04479",
@@ -2434,7 +2561,8 @@
   "date": "2021-02-08",
   "journal": "Phys. Rev. B 103, 161405 (2021)",
   "doi": "10.1103/PhysRevB.103.L161405",
-  "cites": 12
+  "cites": 12,
+  "review": false
  },
  {
   "id": "2101.04934",
@@ -2449,7 +2577,8 @@
   "date": "2021-01-13",
   "journal": "",
   "doi": "10.1103/PhysRevB.105.125127",
-  "cites": 10
+  "cites": 10,
+  "review": false
  },
  {
   "id": "2101.03621",
@@ -2468,7 +2597,8 @@
   "date": "2021-01-10",
   "journal": "",
   "doi": "10.1038/s41567-021-01419-5",
-  "cites": 32
+  "cites": 32,
+  "review": false
  },
  {
   "id": "2012.15126",
@@ -2486,7 +2616,8 @@
   "date": "2020-12-30",
   "journal": "",
   "doi": "10.1103/PhysRevLett.127.197701",
-  "cites": 154
+  "cites": 154,
+  "review": false
  },
  {
   "id": "2010.13796",
@@ -2502,7 +2633,8 @@
   "date": "2020-10-26",
   "journal": "Phys. Rev. Lett. 127, 016602 (2021)",
   "doi": "10.1103/PhysRevLett.127.016602",
-  "cites": 30
+  "cites": 30,
+  "review": false
  },
  {
   "id": "2010.11953",
@@ -2517,7 +2649,8 @@
   "date": "2020-10-22",
   "journal": "Phys. Rev. Research 2, 043414 (2020)",
   "doi": "10.1103/PhysRevResearch.2.043414",
-  "cites": 36
+  "cites": 36,
+  "review": false
  },
  {
   "id": "2010.09728",
@@ -2532,7 +2665,8 @@
   "date": "2020-10-19",
   "journal": "Phys. Rev. B 103, 161110 (2021)",
   "doi": "10.1103/PhysRevB.103.L161110",
-  "cites": 24
+  "cites": 24,
+  "review": false
  },
  {
   "id": "2010.05390",
@@ -2564,7 +2698,8 @@
   "date": "2020-10-12",
   "journal": "",
   "doi": "10.1038/s41567-021-01422-w",
-  "cites": 172
+  "cites": 172,
+  "review": false
  },
  {
   "id": "2010.00598",
@@ -2580,7 +2715,8 @@
   "date": "2020-10-01",
   "journal": "Nat. Commun. 12, 5965 (2021)",
   "doi": "10.1038/s41467-021-26241-8",
-  "cites": 272
+  "cites": 272,
+  "review": false
  },
  {
   "id": "2010.00588",
@@ -2596,7 +2732,8 @@
   "date": "2020-10-01",
   "journal": "Phys. Rev. B 103, 205416 (2021)",
   "doi": "10.1103/PhysRevB.103.205416",
-  "cites": 116
+  "cites": 116,
+  "review": false
  },
  {
   "id": "2009.14200",
@@ -2612,7 +2749,8 @@
   "date": "2020-09-29",
   "journal": "Phys. Rev. B 103, 205415 (2021)",
   "doi": "10.1103/PhysRevB.103.205415",
-  "cites": 148
+  "cites": 148,
+  "review": false
  },
  {
   "id": "2009.13530",
@@ -2628,7 +2766,8 @@
   "date": "2020-09-28",
   "journal": "Phys. Rev. B 103, 205414 (2021)",
   "doi": "10.1103/PhysRevB.103.205414",
-  "cites": 211
+  "cites": 211,
+  "review": false
  },
  {
   "id": "2009.12376",
@@ -2642,7 +2781,8 @@
   "date": "2020-09-25",
   "journal": "Phys. Rev. B 103, 205413 (2021)",
   "doi": "10.1103/PhysRevB.103.205413",
-  "cites": 177
+  "cites": 177,
+  "review": false
  },
  {
   "id": "2009.11872",
@@ -2656,7 +2796,8 @@
   "date": "2020-09-24",
   "journal": "Phys. Rev. B 103, 205412 (2021)",
   "doi": "10.1103/PhysRevB.103.205412",
-  "cites": 147
+  "cites": 147,
+  "review": false
  },
  {
   "id": "2009.11301",
@@ -2670,7 +2811,8 @@
   "date": "2020-09-23",
   "journal": "Phys. Rev. B 103, 205411 (2021)",
   "doi": "10.1103/PhysRevB.103.205411",
-  "cites": 107
+  "cites": 107,
+  "review": false
  },
  {
   "id": "2008.08231",
@@ -2687,7 +2829,8 @@
   "date": "2020-08-19",
   "journal": "Phys. Rev. Lett. 125, 266403 (2020)",
   "doi": "10.1103/PhysRevLett.125.266403",
-  "cites": 91
+  "cites": 91,
+  "review": false
  },
  {
   "id": "2008.02288",
@@ -2701,7 +2844,8 @@
   "date": "2020-08-05",
   "journal": "Phys. Rev. Lett. 126, 027002 (2021)",
   "doi": "10.1103/PhysRevLett.126.027002",
-  "cites": 127
+  "cites": 127,
+  "review": false
  },
  {
   "id": "2007.13390",
@@ -2719,7 +2863,8 @@
   "date": "2020-07-27",
   "journal": "",
   "doi": "10.1038/s41567-021-01186-3",
-  "cites": 200
+  "cites": 200,
+  "review": false
  },
  {
   "id": "2007.12571",
@@ -2741,7 +2886,8 @@
   "date": "2020-07-24",
   "journal": "",
   "doi": "",
-  "cites": 26
+  "cites": 26,
+  "review": false
  },
  {
   "id": "2007.06556",
@@ -2768,7 +2914,8 @@
   "date": "2020-07-13",
   "journal": "",
   "doi": "",
-  "cites": 77
+  "cites": 77,
+  "review": false
  },
  {
   "id": "2007.04353",
@@ -2782,7 +2929,8 @@
   "date": "2020-07-08",
   "journal": "Proceedings of the National Academy of Sciences, 202005071 (2020)",
   "doi": "10.1073/pnas.2005071117",
-  "cites": 23
+  "cites": 23,
+  "review": false
  },
  {
   "id": "2007.03810",
@@ -2800,7 +2948,8 @@
   "date": "2020-07-07",
   "journal": "Nature 588, 610-615 (2020)",
   "doi": "10.1038/s41586-020-3028-8",
-  "cites": 449
+  "cites": 449,
+  "review": false
  },
  {
   "id": "2006.14000",
@@ -2817,7 +2966,8 @@
   "date": "2020-06-24",
   "journal": "Phys. Rev. Lett. 133, 246401 (2024)",
   "doi": "10.1103/PhysRevLett.133.246401",
-  "cites": 10
+  "cites": 10,
+  "review": false
  },
  {
   "id": "2006.13963",
@@ -2838,7 +2988,8 @@
   "date": "2020-06-24",
   "journal": "",
   "doi": "10.1073/pnas.2100006118",
-  "cites": 74
+  "cites": 74,
+  "review": false
  },
  {
   "id": "2006.13938",
@@ -2852,7 +3003,8 @@
   "date": "2020-06-24",
   "journal": "Phys. Rev. Lett. 125, 236804 (2020)",
   "doi": "10.1103/PhysRevLett.125.236804",
-  "cites": 85
+  "cites": 85,
+  "review": false
  },
  {
   "id": "2006.12502",
@@ -2865,7 +3017,8 @@
   "date": "2020-06-22",
   "journal": "Phys. Rev. Research 3, 012028 (2021)",
   "doi": "10.1103/PhysRevResearch.3.L012028",
-  "cites": 53
+  "cites": 53,
+  "review": false
  },
  {
   "id": "2004.13727",
@@ -2878,7 +3031,8 @@
   "date": "2020-04-28",
   "journal": "Phys. Rev. B 102, 085140 (2020)",
   "doi": "10.1103/PhysRevB.102.085140",
-  "cites": 173
+  "cites": 173,
+  "review": false
  },
  {
   "id": "2003.00994",
@@ -2898,7 +3052,8 @@
   "date": "2020-03-02",
   "journal": "",
   "doi": "10.1002/adma.202204113",
-  "cites": 35
+  "cites": 35,
+  "review": false
  },
  {
   "id": "2003.00012",
@@ -2917,7 +3072,8 @@
   "date": "2020-02-28",
   "journal": "Nature 586 (2020) 702-707",
   "doi": "10.1038/s41586-020-2837-0",
-  "cites": 419
+  "cites": 419,
+  "review": false
  },
  {
   "id": "2002.11725",
@@ -2932,7 +3088,8 @@
   "date": "2020-02-26",
   "journal": "Phys. Rev. B 102, 085120 (2020)",
   "doi": "10.1103/PhysRevB.102.085120",
-  "cites": 109
+  "cites": 109,
+  "review": false
  },
  {
   "id": "2002.03836",
@@ -2945,7 +3102,8 @@
   "date": "2020-02-07",
   "journal": "Phys. Rev. B 102, 035110 (2020)",
   "doi": "10.1103/PhysRevB.102.035110",
-  "cites": 31
+  "cites": 31,
+  "review": false
  },
  {
   "id": "1912.08219",
@@ -2959,7 +3117,8 @@
   "date": "2019-12-17",
   "journal": "Phys. Rev. B 101, 115134 (2020)",
   "doi": "10.1103/PhysRevB.101.115134",
-  "cites": 6
+  "cites": 6,
+  "review": false
  },
  {
   "id": "1912.06145",
@@ -2979,7 +3138,8 @@
   "date": "2019-12-12",
   "journal": "Nature 582, 198-202 (2020)",
   "doi": "10.1038/s41586-020-2339-0",
-  "cites": 435
+  "cites": 435,
+  "review": false
  },
  {
   "id": "1910.14048",
@@ -2994,7 +3154,8 @@
   "date": "2019-10-30",
   "journal": "Memorial Volume for Shoucheng Zhang. September 2021, 147-209",
   "doi": "10.1142/9789811231711_0009",
-  "cites": 90
+  "cites": 90,
+  "review": false
  },
  {
   "id": "1910.13454",
@@ -3008,7 +3169,8 @@
   "date": "2019-10-29",
   "journal": "",
   "doi": "",
-  "cites": 2
+  "cites": 2,
+  "review": false
  },
  {
   "id": "1910.10161",
@@ -3021,7 +3183,8 @@
   "date": "2019-10-22",
   "journal": "Phys. Rev. B 101, 245117 (2020)",
   "doi": "10.1103/PhysRevB.101.245117",
-  "cites": 59
+  "cites": 59,
+  "review": false
  },
  {
   "id": "1910.06869",
@@ -3034,7 +3197,8 @@
   "date": "2019-10-15",
   "journal": "",
   "doi": "10.1126/science.aaz7650",
-  "cites": 157
+  "cites": 157,
+  "review": false
  },
  {
   "id": "1910.06868",
@@ -3054,7 +3218,8 @@
   "date": "2019-10-15",
   "journal": "Science 367, 797 (2020)",
   "doi": "10.1126/science.aaz7654",
-  "cites": 142
+  "cites": 142,
+  "review": false
  },
  {
   "id": "1909.04037",
@@ -3081,7 +3246,8 @@
   "date": "2019-09-09",
   "journal": "Nat. Phys. 17, 381-387 (2021)",
   "doi": "10.1038/s41567-020-01104-z",
-  "cites": 125
+  "cites": 125,
+  "review": false
  },
  {
   "id": "1908.01155",
@@ -3103,7 +3269,8 @@
   "date": "2019-08-03",
   "journal": "Nature Communications 10, 3478 (2019). Link: https://www.nature.com/articles/s41467-019-11491-4",
   "doi": "10.1038/s41467-019-11491-4",
-  "cites": 64
+  "cites": 64,
+  "review": false
  },
  {
   "id": "1908.00016",
@@ -3120,7 +3287,8 @@
   "date": "2019-07-31",
   "journal": "Nat. Commun. 11, 627 (2020)",
   "doi": "10.1038/s41467-020-14443-5",
-  "cites": 222
+  "cites": 222,
+  "review": false
  },
  {
   "id": "1906.10133",
@@ -3136,7 +3304,8 @@
   "date": "2019-06-24",
   "journal": "Science, 13 Jun 2019, (10.1126/science.aax1444)",
   "doi": "10.1126/science.aax1444",
-  "cites": 176
+  "cites": 176,
+  "review": false
  },
  {
   "id": "1906.09274",
@@ -3155,7 +3324,8 @@
   "date": "2019-06-21",
   "journal": "Nature 572, 101 (2019)",
   "doi": "10.1038/s41586-019-1422-x",
-  "cites": 633
+  "cites": 633,
+  "review": false
  },
  {
   "id": "1906.05292",
@@ -3168,7 +3338,8 @@
   "date": "2019-06-12",
   "journal": "Phys. Rev. B 102, 195150 (2020)",
   "doi": "10.1103/PhysRevB.102.195150",
-  "cites": 88
+  "cites": 88,
+  "review": false
  },
  {
   "id": "1906.04510",
@@ -3190,7 +3361,8 @@
   "date": "2019-06-11",
   "journal": "Nature 575, 315--319 (2019)",
   "doi": "10.1038/s41586-019-1630-4",
-  "cites": 242
+  "cites": 242,
+  "review": false
  },
  {
   "id": "1906.02213",
@@ -3204,7 +3376,8 @@
   "date": "2019-06-05",
   "journal": "Phys. Rev. Lett. 124, 167002 (2020)",
   "doi": "10.1103/PhysRevLett.124.167002",
-  "cites": 271
+  "cites": 271,
+  "review": false
  },
  {
   "id": "1905.11421",
@@ -3219,7 +3392,8 @@
   "date": "2019-05-27",
   "journal": "Phys. Rev. Lett. 124, 046801 (2020)",
   "doi": "10.1103/PhysRevLett.124.046801",
-  "cites": 45
+  "cites": 45,
+  "review": false
  },
  {
   "id": "1905.03262",
@@ -3233,7 +3407,8 @@
   "date": "2019-05-08",
   "journal": "Phys. Rev. X 10, 031001 (2020)",
   "doi": "10.1103/PhysRevX.10.031001",
-  "cites": 70
+  "cites": 70,
+  "review": false
  },
  {
   "id": "1902.10722",
@@ -3247,7 +3422,8 @@
   "date": "2019-02-27",
   "journal": "Phys. Rev. B 101, 235166 (2020)",
   "doi": "10.1103/PhysRevB.101.235166",
-  "cites": 5
+  "cites": 5,
+  "review": false
  },
  {
   "id": "1901.05469",
@@ -3260,7 +3436,8 @@
   "date": "2019-01-16",
   "journal": "Phys. Rev. Lett. 123, 026402 (2019)",
   "doi": "10.1103/PhysRevLett.123.026402",
-  "cites": 110
+  "cites": 110,
+  "review": false
  },
  {
   "id": "1812.11912",
@@ -3281,7 +3458,8 @@
   "date": "2018-12-31",
   "journal": "Nature Materials (2019)",
   "doi": "10.1038/s41563-019-0303-x",
-  "cites": 18
+  "cites": 18,
+  "review": false
  },
  {
   "id": "1812.08171",
@@ -3295,7 +3473,8 @@
   "date": "2018-12-19",
   "journal": "Phys. Rev. B 99, 155129 (2019)",
   "doi": "10.1103/PhysRevB.99.155129",
-  "cites": 21
+  "cites": 21,
+  "review": false
  },
  {
   "id": "1811.11786",
@@ -3308,7 +3487,8 @@
   "date": "2018-11-28",
   "journal": "Phys. Rev. B 102, 041402 (2020)",
   "doi": "10.1103/PhysRevB.102.041402",
-  "cites": 93
+  "cites": 93,
+  "review": false
  },
  {
   "id": "1810.12963",
@@ -3321,7 +3501,8 @@
   "date": "2018-10-30",
   "journal": "Phys. Rev. B 99, 125149 (2019)",
   "doi": "10.1103/PhysRevB.99.125149",
-  "cites": 58
+  "cites": 58,
+  "review": false
  },
  {
   "id": "1810.02373",
@@ -3333,7 +3514,8 @@
   "date": "2018-10-04",
   "journal": "",
   "doi": "",
-  "cites": 65
+  "cites": 65,
+  "review": false
  },
  {
   "id": "1807.10676",
@@ -3349,7 +3531,8 @@
   "date": "2018-07-27",
   "journal": "Phys. Rev. Lett. 123, 036401 (2019)",
   "doi": "10.1103/PhysRevLett.123.036401",
-  "cites": 489
+  "cites": 489,
+  "review": false
  },
  {
   "id": "1807.10271",
@@ -3365,7 +3548,8 @@
   "date": "2018-07-26",
   "journal": "Nature 566, 480-485 (2019)",
   "doi": "10.1038/s41586-019-0954-4",
-  "cites": 1089
+  "cites": 1089,
+  "review": false
  },
  {
   "id": "1807.09729",
@@ -3379,7 +3563,8 @@
   "date": "2018-07-25",
   "journal": "Phys. Rev. B 99, 045140 (2019)",
   "doi": "10.1103/PhysRevB.99.045140",
-  "cites": 141
+  "cites": 141,
+  "review": false
  },
  {
   "id": "1807.04382",
@@ -3392,7 +3577,8 @@
   "date": "2018-07-12",
   "journal": "Phys. Rev. Lett. 122, 257002 (2019)",
   "doi": "10.1103/PhysRevLett.122.257002",
-  "cites": 376
+  "cites": 376,
+  "review": false
  },
  {
   "id": "1806.11116",
@@ -3407,7 +3593,8 @@
   "date": "2018-06-28",
   "journal": "Phys. Rev. Lett. 123, 186401 (2019)",
   "doi": "10.1103/PhysRevLett.123.186401",
-  "cites": 342
+  "cites": 342,
+  "review": false
  },
  {
   "id": "1806.09624",
@@ -3420,7 +3607,8 @@
   "date": "2018-06-25",
   "journal": "Phys. Rev. B 98, 235156 (2018)",
   "doi": "10.1103/PhysRevB.98.235156",
-  "cites": 357
+  "cites": 357,
+  "review": false
  },
  {
   "id": "1802.05278",
@@ -3435,7 +3623,8 @@
   "date": "2018-02-14",
   "journal": "Phys. Rev. B 97, 165136 (2018)",
   "doi": "10.1103/PhysRevB.97.165136",
-  "cites": 22
+  "cites": 22,
+  "review": false
  },
  {
   "id": "1802.02585",
@@ -3460,7 +3649,8 @@
   "date": "2018-02-07",
   "journal": "Nature Physics 14, 918-924 (2018)",
   "doi": "10.1038/s41567-018-0224-7",
-  "cites": 835
+  "cites": 835,
+  "review": false
  },
  {
   "id": "1712.06712",
@@ -3485,7 +3675,8 @@
   "date": "2017-12-18",
   "journal": "",
   "doi": "",
-  "cites": 49
+  "cites": 49,
+  "review": false
  },
  {
   "id": "1711.11045",
@@ -3503,7 +3694,8 @@
   "date": "2017-11-29",
   "journal": "Phys. Rev. Lett. 120, 266401 (2018)",
   "doi": "10.1103/PhysRevLett.120.266401",
-  "cites": 144
+  "cites": 144,
+  "review": false
  },
  {
   "id": "1710.04662",
@@ -3519,7 +3711,8 @@
   "date": "2017-10-12",
   "journal": "Science, 12 October 2017 (10.1126/science.aan3670)",
   "doi": "10.1126/science.aan3670",
-  "cites": 275
+  "cites": 275,
+  "review": false
  },
  {
   "id": "1710.04220",
@@ -3533,7 +3726,8 @@
   "date": "2017-10-11",
   "journal": "Phys. Rev. B 97, 125102 (2018)",
   "doi": "10.1103/PhysRevB.97.125102",
-  "cites": 79
+  "cites": 79,
+  "review": false
  },
  {
   "id": "1710.01747",
@@ -3549,7 +3743,8 @@
   "date": "2017-10-04",
   "journal": "Phys. Rev. B 97, 195118 (2018)",
   "doi": "10.1103/PhysRevB.97.195118",
-  "cites": 8
+  "cites": 8,
+  "review": false
  },
  {
   "id": "1709.05967",
@@ -3564,7 +3759,8 @@
   "date": "2017-09-18",
   "journal": "Phys. Rev. B 97, 125119 (2018)",
   "doi": "10.1103/PhysRevB.97.125119",
-  "cites": 50
+  "cites": 50,
+  "review": false
  },
  {
   "id": "1709.01937",
@@ -3582,7 +3778,8 @@
   "date": "2017-09-06",
   "journal": "Phys. Rev. B 97, 035138 (2018)",
   "doi": "10.1103/PhysRevB.97.035138",
-  "cites": 75
+  "cites": 75,
+  "review": false
  },
  {
   "id": "1709.01935",
@@ -3600,7 +3797,8 @@
   "date": "2017-09-06",
   "journal": "Phys. Rev. B 97, 035139 (2018)",
   "doi": "10.1103/PhysRevB.97.035139",
-  "cites": 270
+  "cites": 270,
+  "review": false
  },
  {
   "id": "1708.05021",
@@ -3614,7 +3812,8 @@
   "date": "2017-08-16",
   "journal": "Phys. Rev. B 98, 235155 (2018)",
   "doi": "10.1103/PhysRevB.98.235155",
-  "cites": 296
+  "cites": 296,
+  "review": false
  },
  {
   "id": "1708.04230",
@@ -3627,7 +3826,8 @@
   "date": "2017-08-14",
   "journal": "Phys. Rev. B 96, 245115 (2017)",
   "doi": "10.1103/PhysRevB.96.245115",
-  "cites": 1377
+  "cites": 1377,
+  "review": false
  },
  {
   "id": "1708.03636",
@@ -3644,7 +3844,8 @@
   "date": "2017-08-11",
   "journal": "Science Advances 01 Jun 2018: Vol. 4, no. 6, eaat0346",
   "doi": "10.1126/sciadv.aat0346",
-  "cites": 1617
+  "cites": 1617,
+  "review": false
  },
  {
   "id": "1706.08529",
@@ -3662,7 +3863,8 @@
   "date": "2017-06-26",
   "journal": "Phys. Rev. E 96, 023310 (2017)",
   "doi": "10.1103/PhysRevE.96.023310",
-  "cites": 125
+  "cites": 125,
+  "review": false
  },
  {
   "id": "1706.09272",
@@ -3682,7 +3884,8 @@
   "date": "2017-06-26",
   "journal": "J. Appl. Cryst. (2017). 50, 1457-1477",
   "doi": "10.1107/S1600576717011712",
-  "cites": 295
+  "cites": 295,
+  "review": false
  },
  {
   "id": "1705.01617",
@@ -3701,7 +3904,8 @@
   "date": "2017-05-03",
   "journal": "Science, Vol. 361, Issue 6399, pp. 246-251 (2018)",
   "doi": "10.1126/science.aan2802",
-  "cites": 163
+  "cites": 163,
+  "review": false
  },
  {
   "id": "1703.02050",
@@ -3719,7 +3923,8 @@
   "date": "2017-03-06",
   "journal": "Nature 547, 298--305 (2017)",
   "doi": "10.1038/nature23268",
-  "cites": 1607
+  "cites": 1607,
+  "review": false
  },
  {
   "id": "1701.01944",
@@ -3732,7 +3937,8 @@
   "date": "2017-01-08",
   "journal": "",
   "doi": "",
-  "cites": 12
+  "cites": 12,
+  "review": false
  },
  {
   "id": "1611.07987",
@@ -3745,7 +3951,8 @@
   "date": "2016-11-23",
   "journal": "Science, vol 357, no. 6346, pp 61-66, 2017",
   "doi": "10.1126/science.aah6442",
-  "cites": 1963
+  "cites": 1963,
+  "review": false
  },
  {
   "id": "1611.02707",
@@ -3764,7 +3971,8 @@
   "date": "2016-11-08",
   "journal": "",
   "doi": "10.1038/nphys3947",
-  "cites": 233
+  "cites": 233,
+  "review": false
  },
  {
   "id": "1610.08983",
@@ -3781,7 +3989,8 @@
   "date": "2016-10-27",
   "journal": "Phys. Rev. B 95, 075146 (2017)",
   "doi": "10.1103/PhysRevB.95.075146",
-  "cites": 438
+  "cites": 438,
+  "review": false
  },
  {
   "id": "1610.07197",
@@ -3806,7 +4015,8 @@
   "date": "2016-10-23",
   "journal": "New J. Phys. 18, 105003 (2016)",
   "doi": "10.1088/1367-2630/18/10/105003",
-  "cites": 28
+  "cites": 28,
+  "review": false
  },
  {
   "id": "1608.06639",
@@ -3819,7 +4029,8 @@
   "date": "2016-08-23",
   "journal": "SciPost Phys. 3, 043 (2017)",
   "doi": "10.21468/SciPostPhys.3.6.043",
-  "cites": 94
+  "cites": 94,
+  "review": false
  },
  {
   "id": "1607.06457",
@@ -3834,7 +4045,8 @@
   "date": "2016-07-21",
   "journal": "",
   "doi": "10.1088/1367-2630/18/12/123009",
-  "cites": 15
+  "cites": 15,
+  "review": false
  },
  {
   "id": "1605.06824",
@@ -3858,7 +4070,8 @@
   "date": "2016-05-22",
   "journal": "Science Advances 3, e1602415 (2017)",
   "doi": "10.1126/sciadv.1602415",
-  "cites": 161
+  "cites": 161,
+  "review": false
  },
  {
   "id": "1604.08601",
@@ -3874,7 +4087,8 @@
   "date": "2016-04-28",
   "journal": "Phys. Rev. B 95, 161306 (2017)",
   "doi": "10.1103/PhysRevB.95.161306",
-  "cites": 134
+  "cites": 134,
+  "review": false
  },
  {
   "id": "1604.03952",
@@ -3887,7 +4101,8 @@
   "date": "2016-04-13",
   "journal": "Phys. Rev. X 6, 021008 (2016)",
   "doi": "10.1103/PhysRevX.6.021008",
-  "cites": 132
+  "cites": 132,
+  "review": false
  },
  {
   "id": "1604.00407",
@@ -3901,7 +4116,8 @@
   "date": "2016-04-01",
   "journal": "Phys. Rev. B 95, 235130 (2017)",
   "doi": "10.1103/PhysRevB.95.235130",
-  "cites": 1
+  "cites": 1,
+  "review": false
  },
  {
   "id": "1603.03093",
@@ -3918,7 +4134,8 @@
   "date": "2016-03-09",
   "journal": "Science 10.1126/science.aaf5037 (2016)",
   "doi": "10.1126/science.aaf5037",
-  "cites": 1249
+  "cites": 1249,
+  "review": false
  },
  {
   "id": "1603.03045",
@@ -3937,7 +4154,8 @@
   "date": "2016-03-09",
   "journal": "Science Vol. 351, Issue 6278, pp. 1184 (2016)",
   "doi": "10.1126/science.aad8766",
-  "cites": 192
+  "cites": 192,
+  "review": false
  },
  {
   "id": "1603.00479",
@@ -3956,7 +4174,8 @@
   "date": "2016-03-01",
   "journal": "Phys. Rev. Lett. 117, 236401 (2016)",
   "doi": "10.1103/PhysRevLett.117.236401",
-  "cites": 374
+  "cites": 374,
+  "review": false
  },
  {
   "id": "1602.07219",
@@ -3974,7 +4193,8 @@
   "date": "2016-02-23",
   "journal": "Nat. Mat. 15, 1161 (2016)",
   "doi": "10.1038/nmat4684",
-  "cites": 574
+  "cites": 574,
+  "review": false
  },
  {
   "id": "1602.05585",
@@ -3988,7 +4208,8 @@
   "date": "2016-02-17",
   "journal": "Nature 532, 189-194 (14 April 2016)",
   "doi": "10.1038/nature17410",
-  "cites": 427
+  "cites": 427,
+  "review": false
  },
  {
   "id": "1601.01320",
@@ -4003,7 +4224,8 @@
   "date": "2016-01-06",
   "journal": "Phys. Rev. B 93, 115103 (2016)",
   "doi": "10.1103/PhysRevB.93.115103",
-  "cites": 104
+  "cites": 104,
+  "review": false
  },
  {
   "id": "1512.09143",
@@ -4016,7 +4238,8 @@
   "date": "2015-12-30",
   "journal": "Phys. Rev. B 93, 094508 (2016)",
   "doi": "10.1103/PhysRevB.93.094508",
-  "cites": 25
+  "cites": 25,
+  "review": false
  },
  {
   "id": "1512.02646",
@@ -4031,7 +4254,8 @@
   "date": "2015-12-08",
   "journal": "Phys. Rev. B 93, 041109 (2016)",
   "doi": "10.1103/PhysRevB.93.041109",
-  "cites": 64
+  "cites": 64,
+  "review": false
  },
  {
   "id": "1511.07440",
@@ -4050,7 +4274,8 @@
   "date": "2015-11-23",
   "journal": "Phys. Rev. Lett. 117, 056805 (2016)",
   "doi": "10.1103/PhysRevLett.117.056805",
-  "cites": 428
+  "cites": 428,
+  "review": false
  },
  {
   "id": "1511.00703",
@@ -4064,7 +4289,8 @@
   "date": "2015-11-02",
   "journal": "Phys. Rev. Lett. 117, 046804 (2016)",
   "doi": "10.1103/PhysRevLett.117.046804",
-  "cites": 45
+  "cites": 45,
+  "review": false
  },
  {
   "id": "1508.04170",
@@ -4075,7 +4301,8 @@
   "date": "2015-08-17",
   "journal": "",
   "doi": "10.1038/nphys3454",
-  "cites": 61
+  "cites": 61,
+  "review": false
  },
  {
   "id": "1507.01603",
@@ -4092,7 +4319,8 @@
   "date": "2015-07-06",
   "journal": "Nature 527, 495-498 (2015)",
   "doi": "10.1038/nature15768",
-  "cites": 2520
+  "cites": 2520,
+  "review": false
  },
  {
   "id": "1506.05805",
@@ -4104,7 +4332,8 @@
   "date": "2015-06-18",
   "journal": "",
   "doi": "",
-  "cites": 28
+  "cites": 28,
+  "review": true
  },
  {
   "id": "1506.03455",
@@ -4119,7 +4348,8 @@
   "date": "2015-06-10",
   "journal": "Phys. Rev. B 94, 125103 (2016)",
   "doi": "10.1103/PhysRevB.94.125103",
-  "cites": 44
+  "cites": 44,
+  "review": false
  },
  {
   "id": "1504.06620",
@@ -4133,7 +4363,8 @@
   "date": "2015-04-24",
   "journal": "Phys. Rev. B 92, 045109 (2015)",
   "doi": "10.1103/PhysRevB.92.045109",
-  "cites": 21
+  "cites": 21,
+  "review": false
  },
  {
   "id": "1504.00367",
@@ -4147,7 +4378,8 @@
   "date": "2015-04-01",
   "journal": "Phys. Rev. B 92, 115128 (2015)",
   "doi": "10.1103/PhysRevB.92.115128",
-  "cites": 20
+  "cites": 20,
+  "review": false
  },
  {
   "id": "1502.06386",
@@ -4161,7 +4393,8 @@
   "date": "2015-02-23",
   "journal": "Journal Stat. Mech.: Theory and Experiment, P07017 (2015)",
   "doi": "10.1088/1742-5468/2015/07/P07017",
-  "cites": 14
+  "cites": 14,
+  "review": false
  },
  {
   "id": "1501.00999",
@@ -4177,7 +4410,8 @@
   "date": "2015-01-05",
   "journal": "Nature Communications 7, 12297 (2016)",
   "doi": "10.1038/ncomms12297",
-  "cites": 161
+  "cites": 161,
+  "review": false
  },
  {
   "id": "1501.00060",
@@ -4192,7 +4426,8 @@
   "date": "2014-12-31",
   "journal": "Phys. Rev. X 5, 011029 (2015)",
   "doi": "10.1103/PhysRevX.5.011029",
-  "cites": 1452
+  "cites": 1452,
+  "review": false
  },
  {
   "id": "1411.3338",
@@ -4204,7 +4439,8 @@
   "date": "2014-11-12",
   "journal": "",
   "doi": "",
-  "cites": 3
+  "cites": 3,
+  "review": true
  },
  {
   "id": "1410.7342",
@@ -4221,7 +4457,8 @@
   "date": "2014-10-27",
   "journal": "",
   "doi": "10.1063/1.4932644",
-  "cites": 17
+  "cites": 17,
+  "review": false
  },
  {
   "id": "1410.3453",
@@ -4237,7 +4474,8 @@
   "date": "2014-10-13",
   "journal": "Phys. Rev. B 90, 235433 (2014)",
   "doi": "10.1103/PhysRevB.90.235433",
-  "cites": 167
+  "cites": 167,
+  "review": false
  },
  {
   "id": "1410.0682",
@@ -4256,7 +4494,8 @@
   "date": "2014-10-02",
   "journal": "",
   "doi": "10.1126/science.1259327",
-  "cites": 2022
+  "cites": 2022,
+  "review": false
  },
  {
   "id": "1410.0357",
@@ -4270,7 +4509,8 @@
   "date": "2014-10-01",
   "journal": "Phys. Rev. B 91, 035115 (2015)",
   "doi": "10.1103/PhysRevB.91.035115",
-  "cites": 25
+  "cites": 25,
+  "review": false
  },
  {
   "id": "1409.3236",
@@ -4282,7 +4522,8 @@
   "date": "2014-09-10",
   "journal": "Phys. Rev. B 93, 205104 (2016)",
   "doi": "10.1103/PhysRevB.93.205104",
-  "cites": 90
+  "cites": 90,
+  "review": false
  },
  {
   "id": "1406.6262",
@@ -4295,7 +4536,8 @@
   "date": "2014-06-24",
   "journal": "Phys. Rev. Lett. 114, 186801 (2015)",
   "doi": "10.1103/PhysRevLett.114.186801",
-  "cites": 83
+  "cites": 83,
+  "review": false
  },
  {
   "id": "1405.1720",
@@ -4309,7 +4551,8 @@
   "date": "2014-05-07",
   "journal": "Phys. Rev. Lett. 113, 116801 (2014)",
   "doi": "10.1103/PhysRevLett.113.116801",
-  "cites": 56
+  "cites": 56,
+  "review": false
  },
  {
   "id": "1404.4058",
@@ -4323,7 +4566,8 @@
   "date": "2014-04-15",
   "journal": "Nature Communications 7, 10395 (2016)",
   "doi": "10.1038/ncomms10395",
-  "cites": 89
+  "cites": 89,
+  "review": false
  },
  {
   "id": "1404.2598",
@@ -4341,7 +4585,8 @@
   "date": "2014-04-09",
   "journal": "Nature Physics 10, 664-669 (2014)",
   "doi": "10.1038/nphys3048",
-  "cites": 411
+  "cites": 411,
+  "review": false
  },
  {
   "id": "1402.6323",
@@ -4355,7 +4600,8 @@
   "date": "2014-02-25",
   "journal": "Phys. Rev. Lett. 113, 116403 (2014)",
   "doi": "10.1103/PhysRevLett.113.116403",
-  "cites": 134
+  "cites": 134,
+  "review": false
  },
  {
   "id": "1402.2652",
@@ -4368,7 +4614,8 @@
   "date": "2014-02-11",
   "journal": "Phys. Rev. B 90, 245401 (2014)",
   "doi": "10.1103/PhysRevB.90.245401",
-  "cites": 46
+  "cites": 46,
+  "review": false
  },
  {
   "id": "1401.1823",
@@ -4381,7 +4628,8 @@
   "date": "2014-01-08",
   "journal": "Phys. Rev. B 91, 165421 (2015)",
   "doi": "10.1103/PhysRevB.91.165421",
-  "cites": 22
+  "cites": 22,
+  "review": false
  },
  {
   "id": "1311.2936",
@@ -4394,7 +4642,8 @@
   "date": "2013-11-12",
   "journal": "",
   "doi": "",
-  "cites": 9
+  "cites": 9,
+  "review": false
  },
  {
   "id": "1310.6354",
@@ -4407,7 +4656,8 @@
   "date": "2013-10-23",
   "journal": "Phys. Rev. B 89, 155113 (2014)",
   "doi": "10.1103/PhysRevB.89.155113",
-  "cites": 45
+  "cites": 45,
+  "review": false
  },
  {
   "id": "1308.4248",
@@ -4419,7 +4669,8 @@
   "date": "2013-08-20",
   "journal": "Phys. Rev. B 89, 161307(R), 2014",
   "doi": "10.1103/PhysRevB.89.161307",
-  "cites": 15
+  "cites": 15,
+  "review": false
  },
  {
   "id": "1308.2424",
@@ -4432,7 +4683,8 @@
   "date": "2013-08-11",
   "journal": "Phys. Rev. Lett. 112, 106401 (2014)",
   "doi": "10.1103/PhysRevLett.112.106401",
-  "cites": 80
+  "cites": 80,
+  "review": false
  },
  {
   "id": "1306.0888",
@@ -4445,7 +4697,8 @@
   "date": "2013-06-04",
   "journal": "Phys. Rev. Lett. 112, 046801 (2014)",
   "doi": "10.1103/PhysRevLett.112.046801",
-  "cites": 220
+  "cites": 220,
+  "review": false
  },
  {
   "id": "1304.6081",
@@ -4458,7 +4711,8 @@
   "date": "2013-04-22",
   "journal": "Phys. Rev. B 88, 085406 (2013)",
   "doi": "10.1103/PhysRevB.88.085406",
-  "cites": 104
+  "cites": 104,
+  "review": false
  },
  {
   "id": "1303.6363",
@@ -4472,7 +4726,8 @@
   "date": "2013-03-26",
   "journal": "Phys. Rev. B 88, 020407(R) (2013)",
   "doi": "10.1103/PhysRevB.88.020407",
-  "cites": 752
+  "cites": 752,
+  "review": false
  },
  {
   "id": "1212.3285",
@@ -4487,7 +4742,8 @@
   "date": "2012-12-13",
   "journal": "Phys. Rev. B 88, 125141 (2013)",
   "doi": "10.1103/PhysRevB.88.125141",
-  "cites": 37
+  "cites": 37,
+  "review": false
  },
  {
   "id": "1211.3353",
@@ -4501,7 +4757,8 @@
   "date": "2012-11-14",
   "journal": "Phys. Rev. B 87, 161112(R) (2013)",
   "doi": "10.1103/PhysRevB.87.161112",
-  "cites": 77
+  "cites": 77,
+  "review": false
  },
  {
   "id": "1210.6356",
@@ -4514,7 +4771,8 @@
   "date": "2012-10-23",
   "journal": "Phys. Rev. Lett. 110, 106802 (2013)",
   "doi": "10.1103/PhysRevLett.110.106802",
-  "cites": 135
+  "cites": 135,
+  "review": false
  },
  {
   "id": "1208.4603",
@@ -4527,7 +4785,8 @@
   "date": "2012-08-22",
   "journal": "Physical Review B 87, 035119 (2013) Editors' Suggestions",
   "doi": "10.1103/PhysRevB.87.035119",
-  "cites": 77
+  "cites": 77,
+  "review": false
  },
  {
   "id": "1208.4234",
@@ -4540,7 +4799,8 @@
   "date": "2012-08-21",
   "journal": "Phys. Rev. B 89, 155114 (2014)",
   "doi": "",
-  "cites": 388
+  "cites": 388,
+  "review": false
  },
  {
   "id": "1207.6385",
@@ -4554,7 +4814,8 @@
   "date": "2012-07-26",
   "journal": "Phys. Rev. B 87, 205137 (2013)",
   "doi": "10.1103/PhysRevB.87.205137",
-  "cites": 116
+  "cites": 116,
+  "review": false
  },
  {
   "id": "1207.5767",
@@ -4567,7 +4828,8 @@
   "date": "2012-07-24",
   "journal": "Phys. Rev. B 86, 115112 (2012)",
   "doi": "10.1103/PhysRevB.86.115112",
-  "cites": 495
+  "cites": 495,
+  "review": false
  },
  {
   "id": "1207.3305",
@@ -4580,7 +4842,8 @@
   "date": "2012-07-13",
   "journal": "",
   "doi": "",
-  "cites": 5
+  "cites": 5,
+  "review": false
  },
  {
   "id": "1206.5773",
@@ -4593,7 +4856,8 @@
   "date": "2012-06-25",
   "journal": "Phys. Rev. B 86, 085129 (2012)",
   "doi": "10.1103/PhysRevB.86.085129",
-  "cites": 93
+  "cites": 93,
+  "review": false
  },
  {
   "id": "1206.2626",
@@ -4607,7 +4871,8 @@
   "date": "2012-06-12",
   "journal": "Phys. Rev. B 87, 205136 (2013)",
   "doi": "10.1103/PhysRevB.87.205136",
-  "cites": 67
+  "cites": 67,
+  "review": false
  },
  {
   "id": "1205.5071",
@@ -4620,7 +4885,8 @@
   "date": "2012-05-22",
   "journal": "",
   "doi": "10.1103/PhysRevB.86.041401",
-  "cites": 13
+  "cites": 13,
+  "review": false
  },
  {
   "id": "1204.5682",
@@ -4632,7 +4898,8 @@
   "date": "2012-04-25",
   "journal": "",
   "doi": "",
-  "cites": 7
+  "cites": 7,
+  "review": false
  },
  {
   "id": "1202.5543",
@@ -4645,7 +4912,8 @@
   "date": "2012-02-24",
   "journal": "Phys. Rev. B 86, 241104(R) (2012)",
   "doi": "10.1103/PhysRevB.86.241104",
-  "cites": 31
+  "cites": 31,
+  "review": false
  },
  {
   "id": "1111.7309",
@@ -4659,7 +4927,8 @@
   "date": "2011-11-30",
   "journal": "PRL 108, 266802 (2012)",
   "doi": "10.1103/PhysRevLett.108.266802",
-  "cites": 697
+  "cites": 697,
+  "review": false
  },
  {
   "id": "1111.2810",
@@ -4674,7 +4943,8 @@
   "date": "2011-11-11",
   "journal": "Phys. Rev. B 85, 125308 (2012)",
   "doi": "10.1103/PhysRevB.85.125308",
-  "cites": 113
+  "cites": 113,
+  "review": false
  },
  {
   "id": "1111.1172",
@@ -4687,7 +4957,8 @@
   "date": "2011-11-04",
   "journal": "Phys. Rev. B 85, 075116 (2012)",
   "doi": "10.1103/PhysRevB.85.075116",
-  "cites": 199
+  "cites": 199,
+  "review": false
  },
  {
   "id": "1110.4488",
@@ -4699,7 +4970,8 @@
   "date": "2011-10-20",
   "journal": "Phys. Rev. B 85, 075128 (2012)",
   "doi": "10.1103/PhysRevB.85.075128",
-  "cites": 180
+  "cites": 180,
+  "review": false
  },
  {
   "id": "1108.2907",
@@ -4712,7 +4984,8 @@
   "date": "2011-08-14",
   "journal": "Phys. Rev. B 84, 195103 (2011) (Editor's suggestion)",
   "doi": "10.1103/PhysRevB.84.195103",
-  "cites": 100
+  "cites": 100,
+  "review": false
  },
  {
   "id": "1107.2534",
@@ -4724,7 +4997,8 @@
   "date": "2011-07-13",
   "journal": "",
   "doi": "10.1016/j.nuclphysb.2011.12.007",
-  "cites": 27
+  "cites": 27,
+  "review": false
  },
  {
   "id": "1105.5907",
@@ -4738,7 +5012,8 @@
   "date": "2011-05-30",
   "journal": "",
   "doi": "10.1088/1367-2630/13/10/105001",
-  "cites": 35
+  "cites": 35,
+  "review": false
  },
  {
   "id": "1105.4867",
@@ -4750,7 +5025,8 @@
   "date": "2011-05-24",
   "journal": "Phys. Rev. X 1, 021014 (2011)",
   "doi": "10.1103/PhysRevX.1.021014",
-  "cites": 608
+  "cites": 608,
+  "review": false
  },
  {
   "id": "1105.1135",
@@ -4765,7 +5041,8 @@
   "date": "2011-05-05",
   "journal": "Physical Review X 1, 011009 (2011)",
   "doi": "10.1103/PhysRevX.1.011009",
-  "cites": 70
+  "cites": 70,
+  "review": false
  },
  {
   "id": "1103.2946",
@@ -4777,7 +5054,8 @@
   "date": "2011-03-15",
   "journal": "PHYSICS 3, 27 (2010)",
   "doi": "10.1103/Physics.3.27",
-  "cites": 14
+  "cites": 14,
+  "review": false
  },
  {
   "id": "1102.2218",
@@ -4791,7 +5069,8 @@
   "date": "2011-02-10",
   "journal": "Phys. Rev. B 84, 205136 (2011)",
   "doi": "10.1103/PhysRevB.84.205136",
-  "cites": 170
+  "cites": 170,
+  "review": false
  },
  {
   "id": "1101.4978",
@@ -4805,7 +5084,8 @@
   "date": "2011-01-26",
   "journal": "Phys. Rev. B 83, 241302 (2011)",
   "doi": "10.1103/PhysRevB.83.241302",
-  "cites": 28
+  "cites": 28,
+  "review": false
  },
  {
   "id": "1101.3593",
@@ -4820,7 +5100,8 @@
   "date": "2011-01-19",
   "journal": "Phys. Rev. Lett. 107, 117001 (2011)",
   "doi": "10.1103/PhysRevLett.107.117001",
-  "cites": 154
+  "cites": 154,
+  "review": false
  },
  {
   "id": "1101.2011",
@@ -4835,7 +5116,8 @@
   "date": "2011-01-11",
   "journal": "Phys. Rev. B 84, 075119 (2011)",
   "doi": "10.1103/PhysRevB.84.075119",
-  "cites": 884
+  "cites": 884,
+  "review": false
  },
  {
   "id": "1010.4837",
@@ -4849,7 +5131,8 @@
   "date": "2010-10-23",
   "journal": "Phys. Rev. B 84, 045127 (2011)",
   "doi": "10.1103/PhysRevB.84.045127",
-  "cites": 61
+  "cites": 61,
+  "review": false
  },
  {
   "id": "1010.4508",
@@ -4862,7 +5145,8 @@
   "date": "2010-10-21",
   "journal": "",
   "doi": "10.1103/PhysRevB.83.245132",
-  "cites": 551
+  "cites": 551,
+  "review": false
  },
  {
   "id": "1009.4199",
@@ -4876,7 +5160,8 @@
   "date": "2010-09-21",
   "journal": "Phys. Rev. B 84, 121309(R) (2011)",
   "doi": "10.1103/PhysRevB.84.121309",
-  "cites": 42
+  "cites": 42,
+  "review": false
  },
  {
   "id": "1008.5087",
@@ -4889,7 +5174,8 @@
   "date": "2010-08-30",
   "journal": "Phys. Rev. Lett. 106, 056801 (2011)",
   "doi": "10.1103/PhysRevLett.106.056801",
-  "cites": 50
+  "cites": 50,
+  "review": false
  },
  {
   "id": "1006.5435",
@@ -4902,7 +5188,8 @@
   "date": "2010-06-28",
   "journal": "",
   "doi": "10.1103/PhysRevLett.106.100405",
-  "cites": 148
+  "cites": 148,
+  "review": false
  },
  {
   "id": "1005.5148",
@@ -4915,7 +5202,8 @@
   "date": "2010-05-27",
   "journal": "Phys. Rev. Lett 105, 115501 (2010)",
   "doi": "10.1103/PhysRevLett.105.115501",
-  "cites": 276
+  "cites": 276,
+  "review": false
  },
  {
   "id": "1005.3475",
@@ -4928,7 +5216,8 @@
   "date": "2010-05-19",
   "journal": "",
   "doi": "10.1103/PhysRevB.82.205307",
-  "cites": 18
+  "cites": 18,
+  "review": false
  },
  {
   "id": "1004.3576",
@@ -4942,7 +5231,8 @@
   "date": "2010-04-20",
   "journal": "Phys. Rev. B 82, 144506, 2010",
   "doi": "10.1103/PhysRevB.82.144506",
-  "cites": 26
+  "cites": 26,
+  "review": false
  },
  {
   "id": "1002.3599",
@@ -4956,7 +5246,8 @@
   "date": "2010-02-18",
   "journal": "Phys. Rev. Lett. 106, 187003 (2011)",
   "doi": "",
-  "cites": 5
+  "cites": 5,
+  "review": false
  },
  {
   "id": "0912.0523",
@@ -4970,7 +5261,8 @@
   "date": "2009-12-02",
   "journal": "Phys. Rev. Lett. 104, 180502 (2010)",
   "doi": "10.1103/PhysRevLett.104.180502",
-  "cites": 188
+  "cites": 188,
+  "review": false
  },
  {
   "id": "0912.0028",
@@ -4983,7 +5275,8 @@
   "date": "2009-12-01",
   "journal": "Phys. Rev. Lett. 105, 116805 (2010)",
   "doi": "10.1103/PhysRevLett.105.116805",
-  "cites": 153
+  "cites": 153,
+  "review": false
  },
  {
   "id": "0906.4475",
@@ -4998,7 +5291,8 @@
   "date": "2009-06-24",
   "journal": "Phys. Rev. B 80, 180505(R) (2009).",
   "doi": "",
-  "cites": 1
+  "cites": 1,
+  "review": false
  },
  {
   "id": "0903.4709",
@@ -5015,7 +5309,8 @@
   "date": "2009-03-26",
   "journal": "Nature 458, 610-613 (2009)",
   "doi": "10.1038/nature07871",
-  "cites": 579
+  "cites": 579,
+  "review": false
  },
  {
   "id": "0903.2025",
@@ -5029,7 +5324,8 @@
   "date": "2009-03-11",
   "journal": "PhysRevB.79.235207 2009",
   "doi": "10.1103/PhysRevB.79.235207",
-  "cites": 30
+  "cites": 30,
+  "review": false
  },
  {
   "id": "0903.1694",
@@ -5046,7 +5342,8 @@
   "date": "2009-03-10",
   "journal": "Phys. Rev. B 80 094528 (2009)",
   "doi": "10.1103/PhysRevB.80.094528",
-  "cites": 54
+  "cites": 54,
+  "review": false
  },
  {
   "id": "0903.0635",
@@ -5059,7 +5356,8 @@
   "date": "2009-03-03",
   "journal": "J. Phys. A: Math. Theor. 42, 245206 (2009)",
   "doi": "10.1088/1751-8113/42/24/245206",
-  "cites": 30
+  "cites": 30,
+  "review": false
  },
  {
   "id": "0902.4320",
@@ -5071,7 +5369,8 @@
   "date": "2009-02-25",
   "journal": "",
   "doi": "10.1103/PhysRevLett.103.206801",
-  "cites": 84
+  "cites": 84,
+  "review": false
  },
  {
   "id": "0901.2121",
@@ -5084,7 +5383,8 @@
   "date": "2009-01-14",
   "journal": "",
   "doi": "10.1103/PhysRevLett.103.016801",
-  "cites": 125
+  "cites": 125,
+  "review": false
  },
  {
   "id": "0812.0661",
@@ -5098,7 +5398,8 @@
   "date": "2008-12-03",
   "journal": "Phys. Rev. B 80, 012511 (2009)",
   "doi": "10.1103/PhysRevB.80.012511",
-  "cites": 45
+  "cites": 45,
+  "review": false
  },
  {
   "id": "0811.1294",
@@ -5111,7 +5412,8 @@
   "date": "2008-11-08",
   "journal": "EPL 86 (2009) 67005",
   "doi": "10.1209/0295-5075/86/67005",
-  "cites": 73
+  "cites": 73,
+  "review": false
  },
  {
   "id": "0810.2366",
@@ -5123,7 +5425,8 @@
   "date": "2008-10-14",
   "journal": "Phys. Rev. Lett. 102, 066802 (2009)",
   "doi": "10.1103/PhysRevLett.102.066802",
-  "cites": 85
+  "cites": 85,
+  "review": false
  },
  {
   "id": "0810.1996",
@@ -5139,7 +5442,8 @@
   "date": "2008-10-11",
   "journal": "Phys. Rev. Lett 102, 106401 (2009)",
   "doi": "10.1103/PhysRevLett.102.106401",
-  "cites": 181
+  "cites": 181,
+  "review": false
  },
  {
   "id": "0810.1757",
@@ -5152,7 +5456,8 @@
   "date": "2008-10-10",
   "journal": "Phys. Rev. B 79, 155310 (2009)",
   "doi": "10.1103/PhysRevB.79.155310",
-  "cites": 15
+  "cites": 15,
+  "review": false
  },
  {
   "id": "0807.4572",
@@ -5165,7 +5470,8 @@
   "date": "2008-07-29",
   "journal": "Phys. Rev. B 78, 144514 (2008)",
   "doi": "10.1103/PhysRevB.78.144514",
-  "cites": 105
+  "cites": 105,
+  "review": false
  },
  {
   "id": "0805.2958",
@@ -5178,7 +5484,8 @@
   "date": "2008-05-19",
   "journal": "Physical Review Letters 101, 206404 (2008)",
   "doi": "10.1103/PhysRevLett.101.206404",
-  "cites": 386
+  "cites": 386,
+  "review": false
  },
  {
   "id": "0803.2882",
@@ -5190,7 +5497,8 @@
   "date": "2008-03-19",
   "journal": "Phys. Rev. Lett. 101, 246806 (2008)",
   "doi": "10.1103/PhysRevLett.101.246806",
-  "cites": 104
+  "cites": 104,
+  "review": false
  },
  {
   "id": "0711.3062",
@@ -5202,7 +5510,8 @@
   "date": "2007-11-20",
   "journal": "Phys. Rev. B 77, 184502 (2008)",
   "doi": "10.1103/PhysRevB.77.184502",
-  "cites": 110
+  "cites": 110,
+  "review": false
  },
  {
   "id": "0711.2918",
@@ -5218,7 +5527,8 @@
   "date": "2007-11-19",
   "journal": "Phys. Rev. B 78, 155413 (2008)",
   "doi": "10.1103/PhysRevB.78.155413",
-  "cites": 67
+  "cites": 67,
+  "review": false
  },
  {
   "id": "0708.3618",
@@ -5230,7 +5540,8 @@
   "date": "2007-08-27",
   "journal": "",
   "doi": "10.1103/PhysRevB.78.245123",
-  "cites": 12
+  "cites": 12,
+  "review": false
  },
  {
   "id": "0707.3637",
@@ -5242,7 +5553,8 @@
   "date": "2007-07-24",
   "journal": "Phys. Rev. Lett. 100, 246802 (2008)",
   "doi": "10.1103/PhysRevLett.100.246802",
-  "cites": 336
+  "cites": 336,
+  "review": false
  },
  {
   "id": "cond-mat/0701436",
@@ -5256,7 +5568,8 @@
   "date": "2007-01-18",
   "journal": "Phys. Rev. Lett. 99 146804 (2007)",
   "doi": "10.1103/PhysRevLett.99.146804",
-  "cites": 99
+  "cites": 99,
+  "review": false
  },
  {
   "id": "cond-mat/0611766",
@@ -5268,7 +5581,8 @@
   "date": "2006-11-30",
   "journal": "",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "cond-mat/0611399",
@@ -5281,7 +5595,8 @@
   "date": "2006-11-15",
   "journal": "Science, 314, 1757 (2006)",
   "doi": "10.1126/science.1133734",
-  "cites": 7081
+  "cites": 7081,
+  "review": false
  },
  {
   "id": "cond-mat/0610054",
@@ -5297,7 +5612,8 @@
   "date": "2006-10-03",
   "journal": "Phys. Rev. Lett. 98, 076604 (2007)",
   "doi": "10.1103/PhysRevLett.98.076604",
-  "cites": 94
+  "cites": 94,
+  "review": false
  },
  {
   "id": "cond-mat/0607774",
@@ -5312,7 +5628,8 @@
   "date": "2006-07-28",
   "journal": "International Journal of Modern Physics B Vol. 20, No. 22 (2006) 3257-3278",
   "doi": "10.1142/S0217979206035448",
-  "cites": 26
+  "cites": 26,
+  "review": false
  },
  {
   "id": "cond-mat/0606196",
@@ -5325,7 +5642,8 @@
   "date": "2006-06-07",
   "journal": "Phys. Rev. Lett. 97, 236601 (2006)",
   "doi": "10.1103/PhysRevLett.97.236601",
-  "cites": 588
+  "cites": 588,
+  "review": false
  },
  {
   "id": "cond-mat/0601353",
@@ -5338,7 +5656,8 @@
   "date": "2006-01-16",
   "journal": "",
   "doi": "10.1103/PhysRevB.74.193316",
-  "cites": 8
+  "cites": 8,
+  "review": false
  },
  {
   "id": "cond-mat/0601003",
@@ -5351,7 +5670,8 @@
   "date": "2005-12-31",
   "journal": "",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "cond-mat/0508273",
@@ -5364,7 +5684,8 @@
   "date": "2005-08-10",
   "journal": "Phys. Rev. Lett. 96, 106401 (2006)",
   "doi": "10.1103/PhysRevLett.96.106401",
-  "cites": 759
+  "cites": 759,
+  "review": false
  },
  {
   "id": "cond-mat/0504147",
@@ -5376,7 +5697,8 @@
   "date": "2005-04-07",
   "journal": "Phys. Rev. Lett. 96, 106802 (2006)",
   "doi": "10.1103/PhysRevLett.96.106802",
-  "cites": 2153
+  "cites": 2153,
+  "review": false
  },
  {
   "id": "cond-mat/0502345",
@@ -5389,7 +5711,8 @@
   "date": "2005-02-14",
   "journal": "Phys. Rev. Lett. 95, 066601 (2005)",
   "doi": "10.1103/PhysRevLett.95.066601",
-  "cites": 275
+  "cites": 275,
+  "review": false
  },
  {
   "id": "cond-mat/0412550",
@@ -5401,7 +5724,8 @@
   "date": "2004-12-20",
   "journal": "",
   "doi": "",
-  "cites": 5
+  "cites": 5,
+  "review": false
  },
  {
   "id": "cond-mat/0411457",
@@ -5413,7 +5737,8 @@
   "date": "2004-11-18",
   "journal": "Phys. Rev. Lett. 95, 016801 (2005)",
   "doi": "10.1103/PhysRevLett.95.016801",
-  "cites": 162
+  "cites": 162,
+  "review": false
  },
  {
   "id": "cond-mat/0411276",
@@ -5426,7 +5751,8 @@
   "date": "2004-11-10",
   "journal": "Phys. Rev. Lett. 95, 076602 (2005)",
   "doi": "10.1103/PhysRevLett.95.076602",
-  "cites": 26
+  "cites": 26,
+  "review": false
  },
  {
   "id": "cond-mat/0410147",
@@ -5439,7 +5765,8 @@
   "date": "2004-10-06",
   "journal": "",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "cond-mat/0408476",
@@ -5451,7 +5778,8 @@
   "date": "2004-08-22",
   "journal": "Phys. Rev. B 72, 033203 (2005)",
   "doi": "10.1103/PhysRevB.72.033203",
-  "cites": 59
+  "cites": 59,
+  "review": false
  },
  {
   "id": "cond-mat/0408442",
@@ -5463,7 +5791,8 @@
   "date": "2004-08-20",
   "journal": "Phys. Rev. B 72, 115204 (2005)",
   "doi": "10.1103/PhysRevB.72.115204",
-  "cites": 70
+  "cites": 70,
+  "review": false
  },
  {
   "id": "cond-mat/0406153",
@@ -5474,7 +5803,8 @@
   "date": "2004-06-07",
   "journal": "Phys. Rev. B 71, 073201 (2005)",
   "doi": "10.1103/PhysRevB.71.073201",
-  "cites": 14
+  "cites": 14,
+  "review": false
  },
  {
   "id": "quant-ph/0402165",
@@ -5486,7 +5816,8 @@
   "date": "2004-02-23",
   "journal": "Phys. Rev. B 71, 035303 (2005)",
   "doi": "10.1103/PhysRevB.71.035303",
-  "cites": 23
+  "cites": 23,
+  "review": false
  },
  {
   "id": "cond-mat/0312573",
@@ -5501,7 +5832,8 @@
   "date": "2003-12-22",
   "journal": "",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "cond-mat/0311024",
@@ -5515,7 +5847,8 @@
   "date": "2003-11-03",
   "journal": "Phys. Rev. B 70, 113301 (2004)",
   "doi": "10.1103/PhysRevB.70.113301",
-  "cites": 22
+  "cites": 22,
+  "review": false
  },
  {
   "id": "cond-mat/0310093",
@@ -5528,7 +5861,8 @@
   "date": "2003-10-06",
   "journal": "Int. J. Mod. Phys. B 17, 5991 (2003)",
   "doi": "10.1142/S0217979203023537",
-  "cites": 31
+  "cites": 31,
+  "review": false
  },
  {
   "id": "cond-mat/0306045",
@@ -5542,7 +5876,8 @@
   "date": "2003-06-02",
   "journal": "Phys.Rev.Lett. 91 (2003) 236803",
   "doi": "10.1103/PhysRevLett.91.236803",
-  "cites": 138
+  "cites": 138,
+  "review": false
  },
  {
   "id": "cond-mat/0304419",
@@ -5555,7 +5890,8 @@
   "date": "2003-04-17",
   "journal": "",
   "doi": "",
-  "cites": 5
+  "cites": 5,
+  "review": false
  },
  {
   "id": "cond-mat/0303045",
@@ -5568,7 +5904,8 @@
   "date": "2003-03-03",
   "journal": "",
   "doi": "10.1103/PhysRevLett.91.147003",
-  "cites": 34
+  "cites": 34,
+  "review": false
  },
  {
   "id": "quant-ph/0302081",
@@ -5580,7 +5917,8 @@
   "date": "2003-02-11",
   "journal": "J. Phys. A: Math. Gen., 36, 8325 (2003)",
   "doi": "10.1088/0305-4470/36/30/309",
-  "cites": 53
+  "cites": 53,
+  "review": false
  },
  {
   "id": "cond-mat/0301593",
@@ -5593,7 +5931,8 @@
   "date": "2003-01-30",
   "journal": "",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "cond-mat/0206498",
@@ -5606,7 +5945,8 @@
   "date": "2002-06-26",
   "journal": "",
   "doi": "",
-  "cites": 0
+  "cites": 0,
+  "review": false
  },
  {
   "id": "cond-mat/0206164",
@@ -5621,7 +5961,8 @@
   "date": "2002-06-11",
   "journal": "Ann. Phys. 300, 185 (2002)",
   "doi": "10.1006/aphy.2002.6292",
-  "cites": 99
+  "cites": 99,
+  "review": false
  },
  {
   "id": "cond-mat/0110233",
@@ -5634,7 +5975,8 @@
   "date": "2001-10-11",
   "journal": "",
   "doi": "10.1103/PhysRevB.65.195112",
-  "cites": 9
+  "cites": 9,
+  "review": false
  },
  {
   "id": "cond-mat/0105523",
@@ -5647,7 +5989,8 @@
   "date": "2001-05-28",
   "journal": "",
   "doi": "10.1103/PhysRevLett.87.177206",
-  "cites": 15
+  "cites": 15,
+  "review": false
  },
  {
   "id": "cond-mat/0011270",
@@ -5660,7 +6003,8 @@
   "date": "2000-11-16",
   "journal": "",
   "doi": "10.1103/PhysRevB.64.024425",
-  "cites": 25
+  "cites": 25,
+  "review": false
  },
  {
   "id": "cond-mat/0011069",
@@ -5673,7 +6017,8 @@
   "date": "2000-11-03",
   "journal": "",
   "doi": "10.1103/PhysRevLett.86.3392",
-  "cites": 26
+  "cites": 26,
+  "review": false
  },
  {
   "id": "hep-th/0010105",
@@ -5687,7 +6032,8 @@
   "date": "2000-10-12",
   "journal": "JHEP 0102:003,2001",
   "doi": "10.1088/1126-6708/2001/02/003",
-  "cites": 77
+  "cites": 77,
+  "review": false
  },
  {
   "id": "cond-mat/0004291",
@@ -5700,6 +6046,7 @@
   "date": "2000-04-18",
   "journal": "",
   "doi": "",
-  "cites": 18
+  "cites": 18,
+  "review": false
  }
 ]

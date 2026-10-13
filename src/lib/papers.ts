@@ -10,6 +10,7 @@ export interface Paper {
   journal: string;
   doi: string;
   cites?: number; // OpenAlex citation count, used only for ranking
+  review?: boolean; // review article, left out of the most-cited list
 }
 
 // A curated reference: an arXiv id, with optional fixes for messy arXiv metadata.
@@ -23,11 +24,11 @@ export interface PaperRef {
 export const papers = (all as Paper[]).map((p) => ({ ...p, ...overrides[p.id] }));
 const byId = new Map(papers.map((p) => [p.id, p]));
 
-// The n most cited papers posted to arXiv in the last `years` years.
+// The n most cited research papers (reviews excluded) posted to arXiv in the last `years` years.
 export function mostCitedRecent(n = 10, years = 5): Paper[] {
   const since = String(new Date().getFullYear() - years);
   return papers
-    .filter((p) => p.date.slice(0, 4) >= since)
+    .filter((p) => p.date.slice(0, 4) >= since && !p.review)
     .sort((a, b) => (b.cites ?? 0) - (a.cites ?? 0))
     .slice(0, n);
 }
