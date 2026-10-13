@@ -38,14 +38,15 @@ export interface Alum {
 }
 
 export const alumni: Alum[] = [
-  // Listed as current members on the old site (circa 2021); years and later positions not recorded there.
+  // Listed as current members on the old site (circa 2021). Later positions checked online 2026-10-13
+  // (MIT Pappalardo page, Hertford College Oxford profile, PKU profile, Imperial, OpenAlex).
+  { name: "Jonah Herzog-Arbeitman", role: "Graduate student", years: "–2026", later: "MIT (Pappalardo Fellow)" },
+  { name: "Dumitru Călugăru", role: "Graduate student", years: "2019–2024", later: "University of Oxford (Leverhulme–Peierls Fellow)" },
   { name: "Aaron Chew", role: "Postdoc", years: "", later: "" },
-  { name: "Frank Schindler", role: "PCTS fellow", years: "", later: "" },
-  { name: "Zhida Song", role: "Postdoc", years: "", later: "Peking University (faculty)" },
-  { name: "Yuanfeng Xu", role: "Postdoc", years: "", later: "" },
-  { name: "Dumitru Călugăru", role: "Graduate student", years: "", later: "" },
-  { name: "Jonah Herzog-Arbeitman", role: "Graduate student", years: "", later: "" },
-  { name: "Fang Xie", role: "Graduate student", years: "", later: "" },
+  { name: "Yuanfeng Xu", role: "Postdoc", years: "", later: "Zhejiang University" },
+  { name: "Fang Xie", role: "Graduate student", years: "", later: "Rice University" },
+  { name: "Frank Schindler", role: "PCTS fellow", years: "", later: "Imperial College London (faculty)" },
+  { name: "Zhida Song", role: "Postdoc", years: "2018–2021", later: "Peking University (faculty)" },
   { name: "Benjamin Wieder", role: "Postdoc", years: "2017–2020", later: "MIT" },
   { name: "Sanjay Moudgalya", role: "Graduate student", years: "2017–2020", later: "Caltech" },
   { name: "Biao Lian", role: "PCTS fellow", years: "2017–2020", later: "Princeton University (faculty)" },
