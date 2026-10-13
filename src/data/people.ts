@@ -40,7 +40,7 @@ export interface Alum {
 export const alumni: Alum[] = [
   // Listed as current members on the old site (circa 2021). Later positions checked online 2026-10-13
   // (MIT Pappalardo page, Hertford College Oxford profile, PKU profile, Imperial, OpenAlex).
-  { name: "Jonah Herzog-Arbeitman", role: "Graduate student", years: "–2026", later: "MIT (Pappalardo Fellow)" },
+  { name: "Jonah Herzog-Arbeitman", role: "Graduate student", years: "2021–2026", later: "MIT (Pappalardo Fellow)" },
   { name: "Dumitru Călugăru", role: "Graduate student", years: "2019–2024", later: "University of Oxford (Leverhulme–Peierls Fellow)" },
   { name: "Aaron Chew", role: "Postdoc", years: "", later: "" },
   { name: "Yuanfeng Xu", role: "Postdoc", years: "", later: "Zhejiang University" },

@@ -6,7 +6,7 @@ export const site = {
   pi: "B. Andrei Bernevig",
   email: "bernevig@princeton.edu",
   phone: "+1 609-258-1594",
-  scholar: "https://scholar.google.com/citations?view_op=search_authors&mauthors=Andrei+Bernevig",
+  scholar: "https://scholar.google.com/citations?user=tT6u7M8AAAAJ",
   arxivSearch: "https://arxiv.org/search/?searchtype=author&query=Bernevig%2C+B+A",
 };
 

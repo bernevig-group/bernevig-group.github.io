@@ -135,8 +135,13 @@ table.alumni th { font-weight: 600; color: var(--muted); font-size: 0.85rem; }
 .video img { aspect-ratio: 16 / 9; object-fit: cover; width: 100%; border: 1px solid var(--rule); }
 .video span { display: block; margin-top: 0.4em; }
 .video:hover span { text-decoration: underline; color: var(--link-hover); }
-.series li { margin-bottom: 0.9em; }
+.video small { display: block; color: var(--muted); font-size: 0.82rem; line-height: 1.35; margin-top: 0.2em; }
+.series .row { display: grid; grid-template-columns: 200px 1fr; gap: 20px; padding: 14px 0; border-bottom: 1px solid var(--rule); }
+.series .row:last-child { border-bottom: 0; }
+.series .row img { aspect-ratio: 16 / 9; object-fit: cover; width: 100%; border: 1px solid var(--rule); }
 .series .meta { color: var(--muted); font-size: 0.9rem; }
+.series ul { margin: 0.4em 0 0; padding-left: 1.1em; font-size: 0.95rem; }
+.series li { margin-bottom: 0.15em; }
 
 /* ---------- simple two-column info blocks ---------- */
 .two { display: grid; grid-template-columns: 1fr 1fr; gap: 34px; }
@@ -165,4 +170,5 @@ address { font-style: normal; line-height: 1.5; }
   .cards { grid-template-columns: 1fr; }
   footer.site .cols { grid-template-columns: 1fr; }
   table.alumni td:nth-child(2), table.alumni th:nth-child(2) { display: none; }
+  .series .row { grid-template-columns: 120px 1fr; gap: 14px; }
 }

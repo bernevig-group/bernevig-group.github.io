@@ -13,35 +13,19 @@ export interface Area {
 
 export const areas: Area[] = [
   {
-    id: "topology",
-    title: "Topological phases and topological quantum chemistry",
-    figure: "figures/edge_states.png",
-    caption:
-      "Bands of a Kane–Mele ribbon. Edge states (orange and blue, on opposite edges) cross the bulk gap.",
-    text: [
-      "A topological insulator has an insulating interior and conducting states on its surface that cannot be removed without closing the bulk gap. The group predicted the quantum spin Hall effect in HgTe quantum wells, which was observed in experiment the following year. Later work introduced type-II Weyl semimetals, unconventional fermions in crystals and higher-order topological insulators.",
-      "Topological quantum chemistry connects the band topology of a crystal to the orbitals of its atoms and the symmetry of its lattice. With collaborators in Donostia and Bilbao we applied the theory to tens of thousands of known compounds. The results are public in the Topological Materials Database.",
-    ],
-    papers: [
-      { id: "cond-mat/0611399", journal: "Science 314, 1757 (2006)" },
-      { id: "1703.02050", journal: "Nature 547, 298 (2017)" },
-      { id: "1807.10271", title: "A complete catalogue of high-quality topological materials", journal: "Nature 566, 480 (2019)" },
-      { id: "2105.09954", journal: "Science 376, eabg9094 (2022)" },
-    ],
-  },
-  {
     id: "moire",
     title: "Moiré materials",
     figure: "figures/moire.png",
     caption: "Moiré pattern formed by two triangular lattices twisted by 4°.",
     text: [
       "Two sheets of graphene stacked with a small twist form a moiré pattern whose period is many nanometers. Near the magic angle of about 1.1° the electronic bands become nearly flat, and interactions between electrons produce correlated insulators, superconductivity and magnetism.",
-      "We derived the single-particle and interacting Hamiltonians of twisted bilayer and trilayer graphene and showed that magic-angle graphene maps onto a topological heavy-fermion problem. We also study fractional Chern insulators in twisted transition-metal dichalcogenides.",
+      "We derived the single-particle and interacting Hamiltonians of twisted bilayer and trilayer graphene and showed that magic-angle graphene maps onto a topological heavy-fermion problem. We also study fractional Chern insulators in twisted transition-metal dichalcogenides and in rhombohedral graphene, and we built a database of two-dimensional materials that can be twisted into new moiré systems.",
     ],
     papers: [
       { id: "2009.11301", title: "Twisted bilayer graphene I. Matrix elements, approximations, perturbation theory, and a k·p two-band model" },
       { id: "2102.06201" },
       { id: "2111.05865", title: "Magic-angle twisted bilayer graphene as a topological heavy fermion problem" },
+      { id: "2411.09741", journal: "Science 393, eadu1550 (2026)" },
     ],
   },
   {
@@ -89,6 +73,23 @@ export const areas: Area[] = [
       { id: "1708.05021" },
       { id: "0707.3637", title: "Model fractional quantum Hall states and Jack polynomials" },
       { id: "1105.4867" },
+    ],
+  },
+  {
+    id: "topology",
+    title: "Topological phases of matter",
+    figure: "figures/edge_states.png",
+    caption:
+      "Bands of a Kane–Mele ribbon. Edge states (orange and blue, on opposite edges) cross the bulk gap.",
+    text: [
+      "A topological insulator has an insulating interior and conducting states on its surface that cannot be removed without closing the bulk gap. The group predicted the quantum spin Hall effect in HgTe quantum wells, which was observed in experiment the following year. Later work introduced type-II Weyl semimetals, unconventional fermions in crystals and higher-order topological insulators.",
+      "Topological quantum chemistry connects the band topology of a crystal to the orbitals of its atoms and the symmetry of its lattice. With collaborators in Donostia and Bilbao we applied the theory to tens of thousands of known compounds. The results are public in the group's materials databases.",
+    ],
+    papers: [
+      { id: "cond-mat/0611399", journal: "Science 314, 1757 (2006)" },
+      { id: "1703.02050", journal: "Nature 547, 298 (2017)" },
+      { id: "1807.10271", title: "A complete catalogue of high-quality topological materials", journal: "Nature 566, 480 (2019)" },
+      { id: "2105.09954", journal: "Science 376, eabg9094 (2022)" },
     ],
   },
   {

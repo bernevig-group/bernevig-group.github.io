@@ -1,17 +1,68 @@
 ---
 import Base from "../layouts/Base.astro";
+import { resolve, type PaperRef } from "../lib/papers";
+
+// Open databases built by the group and collaborators, newest first. `ref` is the paper describing each one.
+const databases: { name: string; url: string; text: string; ref: PaperRef }[] = [
+  {
+    name: "2D Theoretically Twistable Material Database",
+    url: "https://topologicalquantumchemistry.com/topo2d/index.html",
+    text: "Two-dimensional materials whose twisted bilayers can be described by simple continuum models, sorted by lattice, valley position and spin splitting. A starting point for moiré platforms beyond graphene.",
+    ref: { id: "2411.09741", journal: "Science 393, eadu1550 (2026)" },
+  },
+  {
+    name: "Topological 2D Materials Database",
+    url: "https://topologicalquantumchemistry.com/topo2d/index.html",
+    text: "Band topology of two-dimensional materials, computed with two-dimensional topological quantum chemistry.",
+    ref: { id: "2411.08950", journal: "Science 393, 1317 (2026)" },
+  },
+  {
+    name: "Topological Phonon Database",
+    url: "https://www.topologicalquantumchemistry.fr/topophonons/",
+    text: "Topological phonon bands of three-dimensional crystals, with a list of the most promising candidates for experiment.",
+    ref: { id: "2211.11776", journal: "Science 384, eadf8458 (2024)" },
+  },
+  {
+    name: "Materials Flatband Database",
+    url: "https://www.topologicalquantumchemistry.fr/flatbands/",
+    text: "Stoichiometric materials with flat electronic bands, with a curated list of the most promising candidates.",
+    ref: { id: "2106.05287", journal: "Nature 603, 824 (2022)" },
+  },
+  {
+    name: "Topological Magnetic Materials Database",
+    url: "https://www.topologicalquantumchemistry.fr/magnetic/",
+    text: "Band topology of magnetic materials with experimentally known magnetic structures, computed with magnetic topological quantum chemistry.",
+    ref: { id: "2003.00012", journal: "Nature 586, 702 (2020)" },
+  },
+  {
+    name: "Topological Materials Database",
+    url: "https://topologicalquantumchemistry.com/",
+    text: "Band topology of the nonmagnetic stoichiometric materials in the Inorganic Crystal Structure Database.",
+    ref: { id: "2105.09954", journal: "Science 376, eabg9094 (2022)" },
+  },
+];
 ---
 <Base title="Resources">
   <h1>Resources</h1>
 
-  <div class="resource">
-    <h3><a href="https://topologicalquantumchemistry.com/">Topological Materials Database</a></h3>
-    <p>
-      A searchable database of the band topology of known crystalline materials, computed with topological quantum
-      chemistry. It was developed by the group together with collaborators in Donostia, Bilbao and Dresden.
-    </p>
-  </div>
+  <h2>Databases</h2>
+  <p class="note">
+    These databases were built by the group with collaborators in Donostia, Bilbao, Dresden and Paris. All are free to use.
+  </p>
+  {databases.map((d) => {
+    const p = resolve(d.ref);
+    return (
+      <div class="resource">
+        <h3><a href={d.url}>{d.name}</a></h3>
+        <p>
+          {d.text}<br />
+          <span class="note">Described in <a href={p.url}>{p.title}</a>, <em>{p.journal}</em>.</span>
+        </p>
+      </div>
+    );
+  })}
 
+  <h2>Tools</h2>
   <div class="resource">
     <h3><a href="https://www.cryst.ehu.es/#TQCtop">Bilbao Crystallographic Server: topological quantum chemistry</a></h3>
     <p>
@@ -20,10 +71,9 @@ import Base from "../layouts/Base.astro";
     </p>
   </div>
 
+  <h2>Book</h2>
   <div class="resource">
     <h3><a href="https://doi.org/10.1515/9781400846733">Topological Insulators and Topological Superconductors</a></h3>
-    <p>
-      A graduate textbook by B. A. Bernevig with T. L. Hughes (Princeton University Press, 2013).
-    </p>
+    <p>A graduate textbook by B. A. Bernevig with T. L. Hughes (Princeton University Press, 2013).</p>
   </div>
 </Base>

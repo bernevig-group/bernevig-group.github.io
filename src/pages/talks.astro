@@ -4,6 +4,7 @@ import { talks, series } from "../data/talks";
 
 const yt = (v: string) => `https://www.youtube.com/watch?v=${v}`;
 const thumb = (v: string) => `https://i.ytimg.com/vi/${v}/mqdefault.jpg`;
+const meta = (venue?: string, year?: string) => [venue, year].filter(Boolean).join(", ");
 ---
 <Base title="Talks & Lectures">
   <h1>Talks &amp; Lectures</h1>
@@ -15,21 +16,27 @@ const thumb = (v: string) => `https://i.ytimg.com/vi/${v}/mqdefault.jpg`;
         {g.items.map((t) => (
           <a class="video" href={yt(t.v)}>
             <img src={thumb(t.v)} alt="" loading="lazy" width="320" height="180" />
-            <span>{t.title}{t.year && ` (${t.year})`}</span>
+            <span>{t.title}</span>
+            <small>{meta(t.venue, t.year)}</small>
           </a>
         ))}
       </div>
     </section>
   ))}
 
-  <h2>Lecture series</h2>
-  <ul class="refs series">
+  <h2>Lecture series and schools</h2>
+  <div class="series">
     {series.map((s) => (
-      <li>
-        <strong>{s.title}</strong><br />
-        <span class="meta">{s.venue}, {s.year}</span><br />
-        {s.parts.map((p, i) => <>{i > 0 && " · "}<a href={yt(p.v)}>{p.label}</a></>)}
-      </li>
+      <div class="row">
+        <a href={yt(s.parts[0].v)}><img src={thumb(s.parts[0].v)} alt="" loading="lazy" width="320" height="180" /></a>
+        <div>
+          <strong>{s.title}</strong><br />
+          <span class="meta">{meta(s.venue, s.year)}</span>
+          <ul>
+            {s.parts.map((p) => <li><a href={yt(p.v)}>{p.label}</a></li>)}
+          </ul>
+        </div>
+      </div>
     ))}
-  </ul>
+  </div>
 </Base>
