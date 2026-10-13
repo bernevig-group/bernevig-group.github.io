@@ -53,7 +53,7 @@ export const members: Member[] = [
     scholar: "https://scholar.google.com/citations?user=u138FgQAAAAJ",
     linkedin: "https://www.linkedin.com/in/juan-felipe-m%C3%A9ndez-valderrama-299817134/",
     website: "https://pccm.princeton.edu/people/juan-felipe-mendez-valderrama" },
-  { name: "Zenan Dai", group: "Princeton", role: "Graduate student", tagline: "Quantum geometry, phonons, quantum Monte Carlo methods" },
+  { name: "Zenan Dai", group: "Princeton", role: "Graduate student", since: "2025-09" }, // form
   { name: "Abhishek Karna", group: "Princeton", role: "Graduate student", photo: "people/abhishek-karna.jpg",
     scholar: "https://scholar.google.com/citations?user=fF3vhcEAAAAJ",
     linkedin: "https://www.linkedin.com/in/abhishekkarna/", website: "https://karna-abhishek.github.io" },
@@ -62,24 +62,26 @@ export const members: Member[] = [
     linkedin: "https://www.linkedin.com/in/levi-rauchwerger/" },
 
   // DIPC
-  { name: "Yi Jiang", group: "DIPC", role: "Postdoc", since: "2023-07", affiliation: "Princeton and DIPC",
-    tagline: "Flat-band materials, electron-phonon superconductivity, quantum geometry",
-    website: "https://phy.princeton.edu/people/yi-jiang" },
+  { name: "Yi Jiang", group: "DIPC", role: "Postdoc", since: "2023-07", // form
+    tagline: "Flat-band materials, superconductivity, and machine learning",
+    scholar: "https://scholar.google.com/citations?user=IwnEyZ8AAAAJ" },
   { name: "Heqiu Li", group: "DIPC", role: "Postdoc", since: "2024-09",
     tagline: "Fractional Chern insulators, moiré materials, exact diagonalization",
     website: "https://dipc.ehu.eus/en/dipc/people/post-doctoral-researchers/heqiu-li" },
-  { name: "Hanqi Pi", group: "DIPC", role: "Postdoc", tagline: "Moiré materials, first-principles calculations, topological flat bands",
-    scholar: "https://scholar.google.com/citations?user=Udl5W14AAAAJ",
-    website: "https://dipc.ehu.eus/en/dipc/people/post-doctoral-researchers/hanqi-pi" },
+  { name: "Hanqi Pi", group: "DIPC", role: "Postdoc", since: "2024-07", // form
+    tagline: "Moiré materials, machine learning, first-principles calculations",
+    scholar: "https://scholar.google.com/citations?user=Udl5W14AAAAJ" },
   { name: "Yuelin Shao", group: "DIPC", role: "Postdoc", tagline: "Excitonic insulators, moiré graphene, nonlinear transport",
     scholar: "https://scholar.google.com/citations?user=ZKORHmcAAAAJ",
     website: "https://dipc.ehu.eus/en/dipc/people/post-doctoral-researchers/yuelin-shao" },
   { name: "Hao Shi", group: "DIPC", role: "Postdoc" },
 
   // Other institutions, or location not yet confirmed
-  { name: "Awwab A. Azam", group: "Other", role: "Undergraduate researcher", affiliation: "University of Florida",
-    tagline: "Quantum geometry, ideal bands, machine learning methods" },
-  { name: "Eli Gerber", group: "Other", role: "Postdoc" },
+  { name: "Awwab A. Azam", group: "Other", role: "Undergraduate researcher", affiliation: "University of Florida", since: "2026-04", // form
+    scholar: "https://scholar.google.com/citations?user=Ryyb8UYAAAAJ",
+    linkedin: "https://www.linkedin.com/in/awwab-ali-azam", website: "https://kaddu341.github.io/" },
+  { name: "Eli Gerber", group: "Other", role: "Postdoc", affiliation: "Aalto University", since: "2026-10", // form
+    scholar: "https://scholar.google.com/citations?user=cKqjWtEAAAAJ" },
   { name: "Yijie Wang", group: "Other", role: "Postdoc", tagline: "Twisted bilayer graphene, heavy fermions, Kondo physics, superconductivity" },
   { name: "Ruihan Zhang", group: "Other", role: "Postdoc" },
 ];
