@@ -84,10 +84,9 @@ def link_to_arxiv(works):
         w["arxiv"] = p["id"] if p else ""
         w["review"] = bool(REVIEW_VENUE.search(w["venue"]) or REVIEW_TITLE.search(w["title"])
                            or (p and p.get("review")))
-    recent = [w for w in works if w["year"] >= time.localtime().tm_year - 5 and not w["review"]][:15]
-    for w in recent:
+    for w in [w for w in works if not w["review"]][:15]:
         if not w["arxiv"]:
-            print(f"  no arXiv match (skipped on the site): {w['cites']} {w['title'][:70]}")
+            print(f"  no arXiv match, so not selected (books land here): {w['title'][:70]}")
 
 
 if __name__ == "__main__":

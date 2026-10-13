@@ -4,12 +4,12 @@ import Ref from "../components/Ref.astro";
 import { selectedPapers } from "../lib/papers";
 import { site } from "../data/site";
 
-const selected = selectedPapers(10, 5);
+const selected = selectedPapers(10);
 ---
 <Base title="Publications">
   <h1>Publications</h1>
   <p class="note">
-    The full list of papers by B. A. Bernevig is on <a href={site.arxivSearch}>arXiv</a> and <a href={site.scholar}>Google Scholar</a>.
+    The full list of publications from the group is on <a href={site.arxivSearch}>arXiv</a> and <a href={site.scholar}>Google Scholar</a>.
   </p>
 
   <h2>Selected publications</h2>

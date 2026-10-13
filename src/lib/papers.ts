@@ -25,12 +25,12 @@ export interface PaperRef {
 export const papers = (all as Paper[]).map((p) => ({ ...p, ...overrides[p.id] }));
 const byId = new Map(papers.map((p) => [p.id, p]));
 
-// Selected publications: the n research papers (no reviews) of the last `years` years that are
-// most cited on Google Scholar (src/data/scholar.json, refreshed by scripts/fetch_scholar.py).
-export function selectedPapers(n = 10, years = 5): Paper[] {
-  const since = new Date().getFullYear() - years;
-  return (scholar as { year: number; review: boolean; arxiv: string }[])
-    .filter((w) => w.year >= since && !w.review && byId.has(w.arxiv))
+// Selected publications: the n research papers most cited on Google Scholar, in Scholar's order
+// (src/data/scholar.json, refreshed by scripts/fetch_scholar.py). Reviews are excluded, and so is
+// anything without an arXiv match, such as books.
+export function selectedPapers(n = 10): Paper[] {
+  return (scholar as { review: boolean; arxiv: string }[])
+    .filter((w) => !w.review && byId.has(w.arxiv))
     .slice(0, n)
     .map((w) => byId.get(w.arxiv)!);
 }
