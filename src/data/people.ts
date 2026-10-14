@@ -57,7 +57,7 @@ export const members: Member[] = [
     linkedin: "https://www.linkedin.com/in/juan-felipe-m%C3%A9ndez-valderrama-299817134/",
     website: "https://pccm.princeton.edu/people/juan-felipe-mendez-valderrama" },
   { name: "Zenan Dai", group: "Princeton", role: "Graduate student", since: "2025-09" }, // form
-  { name: "Abhishek Karna", group: "Princeton", role: "Graduate student", photo: "people/abhishek-karna.jpg",
+  { name: "Abhishek Karna", group: "Princeton", role: "Graduate student", since: "2026-04", photo: "people/abhishek-karna.jpg",
     scholar: "https://scholar.google.com/citations?user=fF3vhcEAAAAJ",
     linkedin: "https://www.linkedin.com/in/abhishekkarna/", website: "https://karna-abhishek.github.io" },
   { name: "Levi Rauchwerger", group: "Princeton", role: "Graduate student", tagline: "Graph neural networks, machine learning theory",
