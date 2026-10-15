@@ -28,6 +28,7 @@ export const nav = [
   { href: "/research", label: "Research" },
   { href: "/publications", label: "Publications" },
   { href: "/people", label: "People" },
+  { href: "/news", label: "News" },
   { href: "/talks", label: "Talks & Lectures" },
   { href: "/resources", label: "Resources" },
   { href: "/contact", label: "Contact" },

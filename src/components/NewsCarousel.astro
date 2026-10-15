@@ -1,0 +1,58 @@
+---
+// Home-page slideshow of recent news. Rotates every 7 s, pauses on hover or keyboard focus,
+// and does not move at all for visitors who prefer reduced motion.
+import type { NewsItem } from "../data/news";
+import { u } from "../lib/url";
+
+interface Props {
+  items: NewsItem[];
+}
+const { items } = Astro.props;
+const fmt = (d: string) =>
+  new Date((d.length === 7 ? d + "-01" : d) + "T12:00:00Z").toLocaleDateString("en-US", {
+    year: "numeric", month: "long", ...(d.length > 7 ? { day: "numeric" } : {}), timeZone: "UTC",
+  });
+---
+<section class="carousel" aria-roledescription="carousel" aria-label="Recent news">
+  {items.map((n, i) => (
+    <div class="slide" role="group" aria-roledescription="slide" aria-label={`${i + 1} of ${items.length}`} hidden={i > 0}>
+      <a href={n.url} class={n.fit === "contain" ? "slide-img contain" : "slide-img"}><img src={u(n.image!)} alt="" loading={i === 0 ? "eager" : "lazy"} /></a>
+      <div class="slide-text">
+        <div class="slide-meta">{fmt(n.date)} · {n.source}</div>
+        <a href={n.url} class="slide-title">{n.title}</a>
+        {n.imageCredit && <div class="slide-credit">Image: {n.imageCredit}</div>}
+      </div>
+    </div>
+  ))}
+  {items.length > 1 && (
+    <div class="carousel-nav">
+      <button type="button" class="prev" aria-label="Previous news item">‹</button>
+      {items.map((_, i) => <button type="button" class="dot" aria-label={`Show news item ${i + 1}`} aria-current={i === 0 ? "true" : undefined}></button>)}
+      <button type="button" class="next" aria-label="Next news item">›</button>
+      <a href={u("/news")} class="all-news">All news</a>
+    </div>
+  )}
+</section>
+
+<script>
+  for (const root of document.querySelectorAll<HTMLElement>(".carousel")) {
+    const slides = [...root.querySelectorAll<HTMLElement>(".slide")];
+    const dots = [...root.querySelectorAll<HTMLButtonElement>(".dot")];
+    if (slides.length < 2) continue;
+    let i = 0;
+    const show = (k: number) => {
+      i = (k + slides.length) % slides.length;
+      slides.forEach((s, j) => (s.hidden = j !== i));
+      dots.forEach((d, j) => (j === i ? d.setAttribute("aria-current", "true") : d.removeAttribute("aria-current")));
+    };
+    root.querySelector(".prev")!.addEventListener("click", () => show(i - 1));
+    root.querySelector(".next")!.addEventListener("click", () => show(i + 1));
+    dots.forEach((d, j) => d.addEventListener("click", () => show(j)));
+    if (!matchMedia("(prefers-reduced-motion: reduce)").matches) {
+      let paused = false;
+      for (const ev of ["mouseenter", "focusin"]) root.addEventListener(ev, () => (paused = true));
+      for (const ev of ["mouseleave", "focusout"]) root.addEventListener(ev, () => (paused = false));
+      setInterval(() => !paused && !document.hidden && show(i + 1), 7000);
+    }
+  }
+</script>

@@ -1,0 +1,27 @@
+---
+import Base from "../layouts/Base.astro";
+import { news } from "../data/news";
+
+const fmt = (d: string) =>
+  new Date((d.length === 7 ? d + "-01" : d) + "T12:00:00Z").toLocaleDateString("en-US", {
+    year: "numeric", month: "long", ...(d.length > 7 ? { day: "numeric" } : {}), timeZone: "UTC",
+  });
+const years = [...new Set(news.map((n) => n.date.slice(0, 4)))];
+---
+<Base title="News">
+  <h1>News</h1>
+  {years.map((y) => (
+    <section>
+      <h2>{y}</h2>
+      <ul class="refs news-list">
+        {news.filter((n) => n.date.startsWith(y)).map((n) => (
+          <li>
+            <span class="j">{fmt(n.date)} · {n.source}</span><br />
+            <a class="t" href={n.url}>{n.title}</a><br />
+            <span class="au">{n.summary}</span>
+          </li>
+        ))}
+      </ul>
+    </section>
+  ))}
+</Base>

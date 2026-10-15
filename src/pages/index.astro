@@ -3,16 +3,21 @@ import Base from "../layouts/Base.astro";
 import { areas } from "../data/research";
 import { papers, authorLine, titleHtml } from "../lib/papers";
 import { u } from "../lib/url";
+import NewsCarousel from "../components/NewsCarousel.astro";
+import { news } from "../data/news";
 
 const recent = papers.slice(0, 5);
+const slides = news.filter((n) => n.featured && n.image);
 const fmt = (d: string) =>
   new Date(d + "T12:00:00Z").toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric", timeZone: "UTC" });
 ---
 <Base>
-  <figure class="banner">
-    <img src={u("figures/moire_banner.png")} alt="Moiré interference pattern of two twisted triangular lattices" width="1800" height="440" />
-    <figcaption>Moiré pattern of two triangular lattices twisted by 3°, the geometry behind magic-angle graphene.</figcaption>
-  </figure>
+  {slides.length > 0 ? <NewsCarousel items={slides} /> : (
+    <figure class="banner">
+      <img src={u("figures/moire_banner.png")} alt="Moiré interference pattern of two twisted triangular lattices" width="1800" height="440" />
+      <figcaption>Moiré pattern of two triangular lattices twisted by 3°, the geometry behind magic-angle graphene.</figcaption>
+    </figure>
+  )}
 
   <div class="intro">
     <div>
