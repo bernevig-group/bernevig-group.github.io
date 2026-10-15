@@ -1,5 +1,5 @@
 ---
-// Home-page slideshow of recent news. Rotates every 7 s, pauses on hover or keyboard focus,
+// Home-page slideshow of recent news. Rotates every 4 s, pauses on hover or keyboard focus,
 // and does not move at all for visitors who prefer reduced motion.
 import type { NewsItem } from "../data/news";
 import { u } from "../lib/url";
@@ -52,7 +52,7 @@ const fmt = (d: string) =>
       let paused = false;
       for (const ev of ["mouseenter", "focusin"]) root.addEventListener(ev, () => (paused = true));
       for (const ev of ["mouseleave", "focusout"]) root.addEventListener(ev, () => (paused = false));
-      setInterval(() => !paused && !document.hidden && show(i + 1), 7000);
+      setInterval(() => !paused && !document.hidden && show(i + 1), 4000);
     }
   }
 </script>
