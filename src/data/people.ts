@@ -81,7 +81,6 @@ export const members: Member[] = [
   { name: "Eli Gerber", group: "Other", role: "Postdoc", affiliation: "Aalto University", since: "2026-10", // form
     scholar: "https://scholar.google.com/citations?user=cKqjWtEAAAAJ" },
   { name: "Hao Shi", group: "Other", role: "Postdoc", affiliation: "LMU Munich", since: "2026-01" }, // form
-  { name: "Ruihan Zhang", group: "Other", role: "Postdoc" },
 ];
 
 // Sort key: join date first (undated last), then surname.
