@@ -75,6 +75,7 @@ export const members: Member[] = [
   { name: "Eli Gerber", group: "Other", role: "Postdoc", photo: "people/eli-gerber.jpg", affiliation: "Aalto University", since: "2026-10", // form
     scholar: "https://scholar.google.com/citations?user=cKqjWtEAAAAJ" },
   { name: "Hao Shi", group: "Other", role: "Postdoc", photo: "people/hao-shi.jpg", affiliation: "LMU Munich", since: "2026-01" }, // form
+  { name: "Ruihan Zhang", group: "Other", role: "Postdoc" }, // kept for now, pending Andrei's review
 ];
 
 // Sort key: join date first (undated last), then surname.
@@ -94,7 +95,7 @@ export interface Collaborator {
 export const collaborators: Collaborator[] = [
   { name: "Handong Chen", institution: "Princeton University", note: "Collaborator on machine learning for materials science." },
   { name: "Oskar Vafek", institution: "Florida State University and National High Magnetic Field Laboratory", note: "Long-term collaborator on twisted bilayer graphene and moiré materials." },
-  { name: "Nicolas Regnault", institution: "École Normale Supérieure, Paris", note: "Long-term collaborator on numerical methods for many-body systems." },
+  { name: "Nicolas Regnault", institution: "Flatiron Institute and École Normale Supérieure, Paris", note: "Long-term collaborator on numerical methods for many-body systems." },
 ];
 
 export interface Alum {
@@ -114,7 +115,7 @@ export const alumni: Alum[] = [
   { name: "Fang Xie", role: "Graduate student", years: "", later: "Rice University" },
   { name: "Frank Schindler", role: "PCTS fellow", years: "", later: "Imperial College London (faculty)" },
   { name: "Zhida Song", role: "Postdoc", years: "2018–2021", later: "Peking University (faculty)" },
-  { name: "Benjamin Wieder", role: "Postdoc", years: "2017–2020", later: "MIT" },
+  { name: "Benjamin Wieder", role: "Postdoc", years: "2017–2020", later: "Université Paris-Saclay" },
   { name: "Sanjay Moudgalya", role: "Graduate student", years: "2017–2020", later: "Caltech" },
   { name: "Biao Lian", role: "PCTS fellow", years: "2017–2020", later: "Princeton University (faculty)" },
   { name: "Huan He", role: "Graduate student", years: "2016–2020", later: "Finance" },
@@ -123,7 +124,7 @@ export const alumni: Alum[] = [
   { name: "Barry Bradlyn", role: "PCTS fellow", years: "2015–2018", later: "University of Illinois Urbana-Champaign (faculty)" },
   { name: "Zhijun Wang", role: "Postdoc", years: "2015–2017", later: "Institute of Physics, Beijing (faculty)" },
   { name: "Jian Li", role: "Postdoc", years: "2013–2015", later: "Westlake University (faculty)" },
-  { name: "Aris Alexandradinata", role: "Graduate student", years: "2010–2015", later: "Yale University" },
+  { name: "Aris Alexandradinata", role: "Graduate student", years: "2010–2015", later: "University of California, Santa Cruz (faculty)" },
   { name: "Chen Fang", role: "Postdoc", years: "2012–2014", later: "Institute of Physics, Beijing (faculty)" },
   { name: "Yangle Wu", role: "Graduate student", years: "", later: "Finance" },
   { name: "Benoit Estienne", role: "Postdoc", years: "2011–2012", later: "Sorbonne Université, Paris (faculty)" },
