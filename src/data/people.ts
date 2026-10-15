@@ -67,6 +67,7 @@ export const members: Member[] = [
     tagline: "Moiré materials, machine learning, first-principles calculations",
     scholar: "https://scholar.google.com/citations?user=Udl5W14AAAAJ" },
   { name: "Yuelin Shao", group: "DIPC", role: "Postdoc", photo: "people/yuelin-shao.jpg", since: "2025-09" }, // form
+  { name: "Ruihan Zhang", group: "DIPC", role: "Postdoc" }, // pending Andrei's review
 
   // Other institutions, or location not yet confirmed
   { name: "Awwab A. Azam", group: "Other", role: "Undergraduate researcher", photo: "people/awwab-azam.jpg", affiliation: "University of Florida", since: "2026-04", // form
@@ -75,7 +76,6 @@ export const members: Member[] = [
   { name: "Eli Gerber", group: "Other", role: "Postdoc", photo: "people/eli-gerber.jpg", affiliation: "Aalto University", since: "2026-10", // form
     scholar: "https://scholar.google.com/citations?user=cKqjWtEAAAAJ" },
   { name: "Hao Shi", group: "Other", role: "Postdoc", photo: "people/hao-shi.jpg", affiliation: "LMU Munich", since: "2026-01" }, // form
-  { name: "Ruihan Zhang", group: "Other", role: "Postdoc" }, // kept for now, pending Andrei's review
 ];
 
 // Sort key: join date first (undated last), then surname.
