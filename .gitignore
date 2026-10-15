@@ -5,3 +5,4 @@ reference/
 tools/
 incoming-photos/
 Photos/
+__pycache__/
