@@ -33,10 +33,10 @@ export const sections: { group: Group; heading: string }[] = [
 
 export const pi = {
   name: "B. Andrei Bernevig",
-  title: "Professor of Physics, Princeton University. Ikerbasque Professor, Donostia International Physics Center.",
+  title: "Professor of Physics, Princeton University. Visiting Professor, Donostia International Physics Center.",
   photo: "people/bernevig.jpg", // from DIPC's 2023 Europhysics Prize news item
   bio: [
-    "B. Andrei Bernevig is a professor of physics at Princeton University and holds an Ikerbasque professorship at the Donostia International Physics Center in San Sebastián, Spain. He received his PhD from Stanford University and was a postdoctoral fellow at the Princeton Center for Theoretical Physics.",
+    "B. Andrei Bernevig is a professor of physics at Princeton University and a visiting professor at the Donostia International Physics Center in San Sebastián, Spain. He received his PhD from Stanford University and was a postdoctoral fellow at the Princeton Center for Theoretical Physics.",
     "His awards include the Sackler Prize (2014), the New Horizons in Physics Prize (2016), a Guggenheim Fellowship (2017), the James C. McGroddy Prize for New Materials (2019) and the EPS Europhysics Prize (2023).",
   ],
 };
@@ -116,7 +116,7 @@ export const alumni: Alum[] = [
   { name: "Frank Schindler", role: "PCTS fellow", years: "", later: "Imperial College London (faculty)" },
   { name: "Zhida Song", role: "Postdoc", years: "2018–2021", later: "Peking University (faculty)" },
   { name: "Benjamin Wieder", role: "Postdoc", years: "2017–2020", later: "Université Paris-Saclay (faculty)" },
-  { name: "Sanjay Moudgalya", role: "Graduate student", years: "2017–2020", later: "Technical University of Munich" },
+  { name: "Sanjay Moudgalya", role: "Graduate student", years: "2017–2020", later: "Tata Institute of Fundamental Research (faculty)" },
   { name: "Biao Lian", role: "PCTS fellow", years: "2017–2020", later: "Princeton University (faculty)" },
   { name: "Huan He", role: "Graduate student", years: "2016–2020", later: "Finance" },
   { name: "Yunqin Zheng", role: "Graduate student", years: "2016–2020", later: "University of Chinese Academy of Sciences (faculty)" },
