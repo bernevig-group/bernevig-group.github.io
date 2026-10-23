@@ -51,12 +51,17 @@ export const members: Member[] = [
     tagline: "Quantum dynamics, quantum information and computation, strongly correlated systems, AI for physics" },
   { name: "Yi-Jie Wang", group: "Princeton", role: "Postdoc", photo: "people/yi-jie-wang.jpg", since: "2026-09", // form
     scholar: "https://scholar.google.com/citations?user=nHTAtJkAAAAJ" },
-  { name: "Juan Felipe Mendez", group: "Princeton", role: "Postdoc" },
+  { name: "Juan Felipe Mendez-Valderrama", group: "Princeton", role: "Postdoc", photo: "people/juan-felipe-mendez-valderrama.jpg", since: "2024-09", // form
+    scholar: "https://scholar.google.com/citations?user=u138FgQAAAAJ", website: "https://felipemendezvalderrama.com/" },
   { name: "Zenan Dai", group: "Princeton", role: "Graduate student", photo: "people/zenan-dai.jpg", since: "2025-09" }, // form
   { name: "Abhishek Karna", group: "Princeton", role: "Graduate student", since: "2026-04", photo: "people/abhishek-karna.jpg",
     scholar: "https://scholar.google.com/citations?user=fF3vhcEAAAAJ",
     linkedin: "https://www.linkedin.com/in/abhishekkarna/", website: "https://karna-abhishek.github.io" },
-  { name: "Levi Rauchwerger", group: "Princeton", role: "Graduate student" },
+  { name: "Levi Rauchwerger", group: "Princeton", role: "Graduate student", photo: "people/levi-rauchwerger.jpg", since: "2026-07", // form
+    tagline: "Machine learning methods with practical impact, grounded in strong theoretical understanding",
+    scholar: "https://scholar.google.com/citations?user=BbuD-fUAAAAJ",
+    linkedin: "https://www.linkedin.com/in/levi-rauchwerger", website: "https://levi-rauchwerger.github.io/" },
+  { name: "Ram Narayanan", group: "Princeton", role: "Undergraduate researcher", photo: "people/ram-narayanan.jpg", since: "2025-05" }, // form
 
   // DIPC
   { name: "Yi Jiang", group: "DIPC", role: "Postdoc", photo: "people/yi-jiang.jpg", since: "2023-07", // form
@@ -67,7 +72,7 @@ export const members: Member[] = [
     tagline: "Moiré materials, machine learning, first-principles calculations",
     scholar: "https://scholar.google.com/citations?user=Udl5W14AAAAJ" },
   { name: "Yuelin Shao", group: "DIPC", role: "Postdoc", photo: "people/yuelin-shao.jpg", since: "2025-09" }, // form
-  { name: "Ruihan Zhang", group: "DIPC", role: "Postdoc" }, // pending Andrei's review
+  { name: "Ruihan Zhang", group: "DIPC", role: "Postdoc", photo: "people/ruihan-zhang.jpg", since: "2026-09" }, // form
 
   // Other institutions, or location not yet confirmed
   { name: "Awwab A. Azam", group: "Other", role: "Undergraduate researcher", photo: "people/awwab-azam.jpg", affiliation: "University of Florida", since: "2026-04", // form
