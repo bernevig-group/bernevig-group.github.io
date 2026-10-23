@@ -15,7 +15,7 @@ export type Group = "Princeton" | "DIPC" | "Other";
 export interface Member {
   name: string;
   group: Group;
-  role: "Postdoc" | "Graduate student" | "Undergraduate researcher" | "Visiting researcher";
+  role: "Postdoc" | "Graduate student" | "Undergraduate student" | "Visiting researcher";
   since?: string; // month joined, "YYYY-MM"
   affiliation?: string; // shown when it adds to the section, e.g. "Princeton and DIPC" or another university
   tagline?: string; // research interests, one short line
@@ -61,7 +61,7 @@ export const members: Member[] = [
     tagline: "Machine learning methods with practical impact, grounded in strong theoretical understanding",
     scholar: "https://scholar.google.com/citations?user=BbuD-fUAAAAJ",
     linkedin: "https://www.linkedin.com/in/levi-rauchwerger", website: "https://levi-rauchwerger.github.io/" },
-  { name: "Ram Narayanan", group: "Princeton", role: "Undergraduate researcher", photo: "people/ram-narayanan.jpg", since: "2025-05" }, // form
+  { name: "Ram Narayanan", group: "Princeton", role: "Undergraduate student", photo: "people/ram-narayanan.jpg", since: "2025-05" }, // form
 
   // DIPC
   { name: "Yi Jiang", group: "DIPC", role: "Postdoc", photo: "people/yi-jiang.jpg", since: "2023-07", // form
@@ -75,7 +75,7 @@ export const members: Member[] = [
   { name: "Ruihan Zhang", group: "DIPC", role: "Postdoc", photo: "people/ruihan-zhang.jpg", since: "2026-09" }, // form
 
   // Other institutions, or location not yet confirmed
-  { name: "Awwab A. Azam", group: "Other", role: "Undergraduate researcher", photo: "people/awwab-azam.jpg", affiliation: "University of Florida", since: "2026-04", // form
+  { name: "Awwab A. Azam", group: "Other", role: "Undergraduate student", photo: "people/awwab-azam.jpg", affiliation: "University of Florida", since: "2026-04", // form
     scholar: "https://scholar.google.com/citations?user=Ryyb8UYAAAAJ",
     linkedin: "https://www.linkedin.com/in/awwab-ali-azam", website: "https://kaddu341.github.io/" },
   { name: "Eli Gerber", group: "Other", role: "Postdoc", photo: "people/eli-gerber.jpg", affiliation: "Aalto University", since: "2026-10", // form
