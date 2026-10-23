@@ -48,7 +48,7 @@ export const members: Member[] = [
   { name: "Ming-Rui Li", group: "Princeton", role: "Postdoc", photo: "people/ming-rui-li.jpg", since: "2026-09", // form
     scholar: "https://scholar.google.com/citations?user=gnHfGTQAAAAJ" },
   { name: "Shuo Liu", group: "Princeton", role: "Postdoc", photo: "people/shuo-liu.jpg", since: "2025-09", // form
-    tagline: "Quantum dynamics, quantum information and computation, strongly correlated systems, AI for physics" },
+    tagline: "Quantum dynamics, quantum information, and AI for physics" },
   { name: "Yi-Jie Wang", group: "Princeton", role: "Postdoc", photo: "people/yi-jie-wang.jpg", since: "2026-09", // form
     scholar: "https://scholar.google.com/citations?user=nHTAtJkAAAAJ" },
   { name: "Juan Felipe Mendez-Valderrama", group: "Princeton", role: "Postdoc", photo: "people/juan-felipe-mendez-valderrama.jpg", since: "2024-09", // form
@@ -58,7 +58,7 @@ export const members: Member[] = [
     scholar: "https://scholar.google.com/citations?user=fF3vhcEAAAAJ",
     linkedin: "https://www.linkedin.com/in/abhishekkarna/", website: "https://karna-abhishek.github.io" },
   { name: "Levi Rauchwerger", group: "Princeton", role: "Graduate student", photo: "people/levi-rauchwerger.jpg", since: "2026-07", // form
-    tagline: "Machine learning methods with practical impact, grounded in strong theoretical understanding",
+    tagline: "Practical machine learning grounded in theory",
     scholar: "https://scholar.google.com/citations?user=BbuD-fUAAAAJ",
     linkedin: "https://www.linkedin.com/in/levi-rauchwerger", website: "https://levi-rauchwerger.github.io/" },
   { name: "Ram Narayanan", group: "Princeton", role: "Undergraduate student", photo: "people/ram-narayanan.jpg", since: "2025-05" }, // form
