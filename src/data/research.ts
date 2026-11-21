@@ -99,7 +99,7 @@ export const areas: Area[] = [
     figure: "figures/crystal_graph.png",
     caption: "A layered crystal drawn as a graph of atoms and bonds, the input format for graph neural networks.",
     text: [
-      "We are building our own generative foundation models for crystals, along with models that predict many kinds of material properties, such as magnetic and superconducting ones.",
+      "We train machine-learning models on first-principles calculations and experimental databases to predict properties of crystals. We are building our own generative foundation models for crystals, along with models for many kinds of properties, such as magnetic and superconducting ones. The goal is to narrow the search for new quantum materials before costly calculations or synthesis.",
     ],
     papers: [],
     papersNote: "Publications coming soon.",
