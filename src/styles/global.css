@@ -22,7 +22,7 @@ body {
   line-height: 1.55;
   -webkit-text-size-adjust: 100%;
 }
-.wrap { max-width: 1080px; margin: 0 auto; padding: 0 20px; }
+.wrap { max-width: 1360px; margin: 0 auto; padding: 0 32px; }
 img { max-width: 100%; height: auto; display: block; }
 
 a { color: var(--link); text-underline-offset: 2px; }
