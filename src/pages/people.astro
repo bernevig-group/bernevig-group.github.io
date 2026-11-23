@@ -25,6 +25,7 @@ const initials = (name: string) => {
       {pi.bio.map((b) => <p>{b}</p>)}
       <p>
         <a href={`mailto:${site.email}`}>{site.email}</a> · <a href={site.scholar}>Google Scholar</a>
+        · <a href={u(pi.photoHires)} download>High-resolution photo</a>
       </p>
     </div>
   </div>
